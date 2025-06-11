@@ -1,0 +1,1395 @@
+{
+  "id": "monster",
+  "labelKor": "아이템화된 몬스터",
+  "labelEng": "Itemised Monsters",
+  "entries": [
+    {
+      "korType": "거대한 백색 야수",
+      "engType": "The Great White Beast"
+    },
+    {
+      "korType": "거대한 백색 뼈",
+      "engType": "The Great White Bones"
+    },
+    {
+      "korType": "동굴 야수",
+      "engType": "Cave Beast"
+    },
+    {
+      "korType": "털북숭이 괴수",
+      "engType": "Shaggy Monstrosity"
+    },
+    {
+      "korType": "뼈 깨물이",
+      "engType": "Bone Cruncher"
+    },
+    {
+      "korType": "털투성이 뼈깨물이",
+      "engType": "Hairy Bonecruncher"
+    },
+    {
+      "korType": "잡목림 거대 곰",
+      "engType": "Thicket Hulk"
+    },
+    {
+      "korType": "도취된 야수",
+      "engType": "Enraptured Beast"
+    },
+    {
+      "korType": "해골 야수",
+      "engType": "Skeletal Beast"
+    },
+    {
+      "korType": "타락한 야수",
+      "engType": "Corrupted Beast"
+    },
+    {
+      "korType": "폭군 막시무스",
+      "engType": "Tyrannursus Maximus"
+    },
+    {
+      "korType": "숲 야수",
+      "engType": "Forest Beast"
+    },
+    {
+      "korType": "원시 야수",
+      "engType": "Primal Beast"
+    },
+    {
+      "korType": "방어구 깨물이",
+      "engType": "Armour Cruncher"
+    },
+    {
+      "korType": "감염된 야수",
+      "engType": "Infected Beast"
+    },
+    {
+      "korType": "일어난 감염된 야수",
+      "engType": "Risen Infested Beast"
+    },
+    {
+      "korType": "정글몽",
+      "engType": "Junglemare"
+    },
+    {
+      "korType": "변종 부족장",
+      "engType": "Mutated Chieftain"
+    },
+    {
+      "korType": "미쳐버린 부족장",
+      "engType": "Crazed Chieftain"
+    },
+    {
+      "korType": "피의 부족장",
+      "engType": "Blood Chieftain"
+    },
+    {
+      "korType": "학살의 부족장",
+      "engType": "Carnage Chieftain"
+    },
+    {
+      "korType": "명계의 수컷고릴라",
+      "engType": "Stygian Silverback"
+    },
+    {
+      "korType": "토착 부족장",
+      "engType": "Aboriginal Chieftain"
+    },
+    {
+      "korType": "숙주 부족장",
+      "engType": "Host Chieftain"
+    },
+    {
+      "korType": "자발적 숙주 텅빈해골",
+      "engType": "Hollowskull, the Willing Host"
+    },
+    {
+      "korType": "자연의 손길 시미",
+      "engType": "Simi, the Nature Touched"
+    },
+    {
+      "korType": "유황유충",
+      "engType": "Sulphurspawn"
+    },
+    {
+      "korType": "싸움소",
+      "engType": "Fighting Bull"
+    },
+    {
+      "korType": "바위등",
+      "engType": "Boulderback"
+    },
+    {
+      "korType": "사태 기수",
+      "engType": "Avalanche Rider"
+    },
+    {
+      "korType": "식사하는 황소자리",
+      "engType": "Grazing Taurus"
+    },
+    {
+      "korType": "수탉 마귀",
+      "engType": "Rooster Fiend"
+    },
+    {
+      "korType": "수탉 악마",
+      "engType": "Rooster Demon"
+    },
+    {
+      "korType": "눈부리",
+      "engType": "Eyepecker"
+    },
+    {
+      "korType": "발톱 궁수",
+      "engType": "Talon Archer"
+    },
+    {
+      "korType": "야생닭",
+      "engType": "Feral Fowl"
+    },
+    {
+      "korType": "백색 파행 벌레",
+      "engType": "Bleached Crawler"
+    },
+    {
+      "korType": "사나운 게",
+      "engType": "Savage Crab"
+    },
+    {
+      "korType": "도취된 게",
+      "engType": "Enraptured Crab"
+    },
+    {
+      "korType": "감염된 게",
+      "engType": "Infested Crab"
+    },
+    {
+      "korType": "감염된 파행 벌레",
+      "engType": "Infested Crawler"
+    },
+    {
+      "korType": "변종 곰",
+      "engType": "Mutated Ursa"
+    },
+    {
+      "korType": "곤두박질 곰",
+      "engType": "Plummeting Ursa"
+    },
+    {
+      "korType": "터널마귀",
+      "engType": "Tunnelfiend"
+    },
+    {
+      "korType": "감염된 터널마귀",
+      "engType": "Infested Tunnelfiend"
+    },
+    {
+      "korType": "숲속 곰",
+      "engType": "Woods Ursa"
+    },
+    {
+      "korType": "감염된 곰",
+      "engType": "Infested Ursa"
+    },
+    {
+      "korType": "쿠루",
+      "engType": "Q'uru"
+    },
+    {
+      "korType": "광포한 큰턱개구리",
+      "engType": "Rabid Maw"
+    },
+    {
+      "korType": "변종 큰턱개구리",
+      "engType": "Mutated Maw"
+    },
+    {
+      "korType": "악취 나는 큰턱개구리",
+      "engType": "Fetid Maw"
+    },
+    {
+      "korType": "오물 큰턱개구리",
+      "engType": "Filth Maw"
+    },
+    {
+      "korType": "척추우두둑",
+      "engType": "Spinesnap"
+    },
+    {
+      "korType": "감염된 큰턱개구리",
+      "engType": "Infested Maw"
+    },
+    {
+      "korType": "파란 개구리",
+      "engType": "Blue Frog"
+    },
+    {
+      "korType": "일반 개구리",
+      "engType": "Common Frog"
+    },
+    {
+      "korType": "변종 물렁이",
+      "engType": "Mutated Croaker"
+    },
+    {
+      "korType": "구역질 나는 키메랄",
+      "engType": "Putrid Chimeral"
+    },
+    {
+      "korType": "뒤틀린 키메랄",
+      "engType": "Twisted Chimeral"
+    },
+    {
+      "korType": "키메라 물렁이",
+      "engType": "Chimeric Croaker"
+    },
+    {
+      "korType": "뜀틀 물렁이",
+      "engType": "Vaulting Croaker"
+    },
+    {
+      "korType": "시조 극락조",
+      "engType": "Genesis Paradisae"
+    },
+    {
+      "korType": "크롬 주입 물렁이",
+      "engType": "Chrome-infused Croaker"
+    },
+    {
+      "korType": "크롬 도금 물렁이",
+      "engType": "Chrome-touched Croaker"
+    },
+    {
+      "korType": "깃털 키메랄",
+      "engType": "Plumed Chimeral"
+    },
+    {
+      "korType": "야생 키메랄",
+      "engType": "Feral Chimeral"
+    },
+    {
+      "korType": "극락조의 독",
+      "engType": "Paradisae Venenum"
+    },
+    {
+      "korType": "대장 극락조",
+      "engType": "Alpha Paradisae"
+    },
+    {
+      "korType": "바실리스크",
+      "engType": "The Basilisk"
+    },
+    {
+      "korType": "크롬 주입 키메랄",
+      "engType": "Chrome-infused Chimeral"
+    },
+    {
+      "korType": "크롬 도금 키메랄",
+      "engType": "Chrome-touched Chimeral"
+    },
+    {
+      "korType": "황야 키메랄",
+      "engType": "Wild Chimeral"
+    },
+    {
+      "korType": "바람 제작자 코누",
+      "engType": "Konu, Maker of Wind"
+    },
+    {
+      "korType": "염소인간",
+      "engType": "Goatman"
+    },
+    {
+      "korType": "염소인간 반항자",
+      "engType": "Goatman Stomper"
+    },
+    {
+      "korType": "판",
+      "engType": "The Faun"
+    },
+    {
+      "korType": "엘더에게 축복받은 염소인간",
+      "engType": "Elder-Blessed Goatman"
+    },
+    {
+      "korType": "염소인간 악마",
+      "engType": "Bearded Devil"
+    },
+    {
+      "korType": "언덕의 수호자",
+      "engType": "Guardian of the Mound"
+    },
+    {
+      "korType": "운굴라스",
+      "engType": "Ungulath"
+    },
+    {
+      "korType": "홍수 제작자 쉐크",
+      "engType": "Sheaq, Maker of Floods"
+    },
+    {
+      "korType": "염소인간 주술사",
+      "engType": "Goatman Shaman"
+    },
+    {
+      "korType": "염소인간 방화범",
+      "engType": "Goatman Fire-raiser"
+    },
+    {
+      "korType": "염소인간 하늘소환사",
+      "engType": "Bearded Shaman"
+    },
+    {
+      "korType": "초대형 타쇄자",
+      "engType": "Bearded Skycaller"
+    },
+    {
+      "korType": "고산 악마",
+      "engType": "Colossus Crusher"
+    },
+    {
+      "korType": "언덕 악마",
+      "engType": "Alpine Devil"
+    },
+    {
+      "korType": "고산 주술사",
+      "engType": "Hill Devil"
+    },
+    {
+      "korType": "화염 헬리온",
+      "engType": "Alpine Shaman"
+    },
+    {
+      "korType": "유적 헬리온",
+      "engType": "Flame Hellion"
+    },
+    {
+      "korType": "불타는 존재",
+      "engType": "Ruins Hellion"
+    },
+    {
+      "korType": "족쇄 찬 헬리온",
+      "engType": "The Burning Menace"
+    },
+    {
+      "korType": "산맥 헬리온",
+      "engType": "Shackled Hellion"
+    },
+    {
+      "korType": "산맥 헬리온 우두머리",
+      "engType": "Mountain Hellion"
+    },
+    {
+      "korType": "노예 헬리온",
+      "engType": "Mountain Hellion Alpha"
+    },
+    {
+      "korType": "사구 헬리온",
+      "engType": "Enslaved Hellion"
+    },
+    {
+      "korType": "엘더에게 축복받은 헬리온",
+      "engType": "Dune Hellion"
+    },
+    {
+      "korType": "칼날이빨",
+      "engType": "Elder-Blessed Hellion"
+    },
+    {
+      "korType": "광분한 사냥개",
+      "engType": "Bladetooth"
+    },
+    {
+      "korType": "전쟁 사냥개",
+      "engType": "Fury Hound"
+    },
+    {
+      "korType": "투코하마의 충견 라이하라",
+      "engType": "War Hound"
+    },
+    {
+      "korType": "부패하는 소환수",
+      "engType": "Raihara, Tukohama's Loyal"
+    },
+    {
+      "korType": "부패하는 무리",
+      "engType": "Carrion Minion"
+    },
+    {
+      "korType": "부패하는 굴착자",
+      "engType": "Carrion Swarmer"
+    },
+    {
+      "korType": "쓰레기 파행 벌레",
+      "engType": "Carrion Burrower"
+    },
+    {
+      "korType": "무리의 어머니",
+      "engType": "Scum Crawler"
+    },
+    {
+      "korType": "햇살 여왕",
+      "engType": "Mother of the Swarm"
+    },
+    {
+      "korType": "변종 영충여왕",
+      "engType": "The Sunburst Queen"
+    },
+    {
+      "korType": "광포한 소환수",
+      "engType": "Mutated Broodqueen"
+    },
+    {
+      "korType": "부패하는 여왕",
+      "engType": "Rabid Minion"
+    },
+    {
+      "korType": "악몽같은 부패",
+      "engType": "Carrion Queen"
+    },
+    {
+      "korType": "구역질나는 새",
+      "engType": "Nightmarish Carrion"
+    },
+    {
+      "korType": "혈월의 인티",
+      "engType": "Avian Retch"
+    },
+    {
+      "korType": "걸신들린 갈매기",
+      "engType": "Inti of the Blood Moon"
+    },
+    {
+      "korType": "엘더에게 축복받은 레치",
+      "engType": "Gluttonous Gull"
+    },
+    {
+      "korType": "검은 모리건",
+      "engType": "Elder-Blessed Retch"
+    },
+    {
+      "korType": "사카왈 렉스",
+      "engType": "Black Mórrigan"
+    },
+    {
+      "korType": "페룰 가르강튀아",
+      "engType": "Saqawine Rhex"
+    },
+    {
+      "korType": "페룰 황소자리",
+      "engType": "Farric Gargantuan"
+    },
+    {
+      "korType": "페룰 부족장",
+      "engType": "Farric Taurus"
+    },
+    {
+      "korType": "페룰의 골리앗",
+      "engType": "Farric Chieftain"
+    },
+    {
+      "korType": "페누무스 전갈",
+      "engType": "Farric Goliath"
+    },
+    {
+      "korType": "크라칸의 사나운 게",
+      "engType": "Fenumal Scorpion"
+    },
+    {
+      "korType": "크라칸의 거미게",
+      "engType": "Craicic Savage Crab"
+    },
+    {
+      "korType": "페룰 곰",
+      "engType": "Craicic Spider Crab"
+    },
+    {
+      "korType": "크라칸의 큰턱개구리",
+      "engType": "Farric Ursa"
+    },
+    {
+      "korType": "크라칸의 키메랄",
+      "engType": "Craicic Maw"
+    },
+    {
+      "korType": "페룰 염소인간",
+      "engType": "Craicic Chimeral"
+    },
+    {
+      "korType": "페룰 화염 헬리온 우두머리",
+      "engType": "Farric Goatman"
+    },
+    {
+      "korType": "페룰 서리 헬리온 우두머리",
+      "engType": "Farric Flame Hellion Alpha"
+    },
+    {
+      "korType": "페룰 마그마 사냥개",
+      "engType": "Farric Frost Hellion Alpha"
+    },
+    {
+      "korType": "사카왈 키메랄",
+      "engType": "Farric Magma Hound"
+    },
+    {
+      "korType": "페누무스 여왕",
+      "engType": "Saqawine Chimeral"
+    },
+    {
+      "korType": "사카왈 레치",
+      "engType": "Fenumal Queen"
+    },
+    {
+      "korType": "페룰 스라소니 우두머리",
+      "engType": "Saqawine Retch"
+    },
+    {
+      "korType": "하늘의 최초, 사카왈",
+      "engType": "Farric Lynx Alpha"
+    },
+    {
+      "korType": "페룰 유인원",
+      "engType": "Saqawal, First of the Sky"
+    },
+    {
+      "korType": "심해의 최초, 크라칸",
+      "engType": "Farric Ape"
+    },
+    {
+      "korType": "크라칸의 봉신",
+      "engType": "Craiceann, First of the Deep"
+    },
+    {
+      "korType": "페룰 구덩이 사냥개",
+      "engType": "Craicic Vassal"
+    },
+    {
+      "korType": "사카왈 로아",
+      "engType": "Farric Pit Hound"
+    },
+    {
+      "korType": "페누무스 포식자",
+      "engType": "Saqawine Rhoa"
+    },
+    {
+      "korType": "페누무스 넝마주이",
+      "engType": "Fenumal Devourer"
+    },
+    {
+      "korType": "크라칸의 모래 전갈",
+      "engType": "Fenumal Scrabbler"
+    },
+    {
+      "korType": "크라칸의 오징어",
+      "engType": "Craicic Sand Spitter"
+    },
+    {
+      "korType": "크라칸의 방패게",
+      "engType": "Craicic Squid"
+    },
+    {
+      "korType": "사카왈 코브라",
+      "engType": "Craicic Shield Crab"
+    },
+    {
+      "korType": "사카왈 피 독사",
+      "engType": "Saqawine Cobra"
+    },
+    {
+      "korType": "페누무스 과부 거미",
+      "engType": "Saqawine Blood Viper"
+    },
+    {
+      "korType": "페누무스 역병 걸린 거미류",
+      "engType": "Fenumal Widow"
+    },
+    {
+      "korType": "페누무스 잡종 거미류",
+      "engType": "Fenumal Plagued Arachnid"
+    },
+    {
+      "korType": "밤의 최초, 페누무스",
+      "engType": "Fenumal Hybrid Arachnid"
+    },
+    {
+      "korType": "크라칸의 감시자",
+      "engType": "Fenumus, First of the Night"
+    },
+    {
+      "korType": "페룰 호랑이 우두머리",
+      "engType": "Craicic Watcher"
+    },
+    {
+      "korType": "평야의 최초, 페룰",
+      "engType": "Farric Tiger Alpha"
+    },
+    {
+      "korType": "사카왈 시체매",
+      "engType": "Farrul, First of the Plains"
+    },
+    {
+      "korType": "페룰의 늑대 우두머리",
+      "engType": "Saqawine Vulture"
+    },
+    {
+      "korType": "원시 낭종소환사",
+      "engType": "Farric Wolf Alpha"
+    },
+    {
+      "korType": "원시 박살발톱",
+      "engType": "Primal Cystcaller"
+    },
+    {
+      "korType": "원시 렉스 어미",
+      "engType": "Primal Crushclaw"
+    },
+    {
+      "korType": "혈기 애버라라크",
+      "engType": "Primal Rhex Matriarch"
+    },
+    {
+      "korType": "혈기 감시자",
+      "engType": "Vivid Abberarach"
+    },
+    {
+      "korType": "혈기 시체매",
+      "engType": "Vivid Watcher"
+    },
+    {
+      "korType": "야생 털짐승 어미",
+      "engType": "Vivid Vulture"
+    },
+    {
+      "korType": "야생 가시나무등",
+      "engType": "Wild Bristle Matron"
+    },
+    {
+      "korType": "야생 헬리온 우두머리",
+      "engType": "Wild Brambleback"
+    },
+    {
+      "korType": "변종 화염야수",
+      "engType": "Wild Hellion Alpha"
+    },
+    {
+      "korType": "지독한 늑대",
+      "engType": "Mutated Flamebeast"
+    },
+    {
+      "korType": "한기의 늑대",
+      "engType": "Dire Wolf"
+    },
+    {
+      "korType": "눈 늑대",
+      "engType": "Arctic Wolf"
+    },
+    {
+      "korType": "동결 늑대",
+      "engType": "Snow Wolf"
+    },
+    {
+      "korType": "산맥 스라소니",
+      "engType": "Freezing Wolf"
+    },
+    {
+      "korType": "탈출한 렉스",
+      "engType": "Mountain Lynx"
+    },
+    {
+      "korType": "황야 렉스",
+      "engType": "Escaped Rhex"
+    },
+    {
+      "korType": "미숙한 렉스",
+      "engType": "Wild Rhex"
+    },
+    {
+      "korType": "어미 렉스",
+      "engType": "Adolescent Rhex"
+    },
+    {
+      "korType": "에이단의 혼백",
+      "engType": "Maternal Rhex"
+    },
+    {
+      "korType": "나디아의 혼백",
+      "engType": "Spirit of Aidan"
+    },
+    {
+      "korType": "피의 유인원",
+      "engType": "Spirit of Nadia"
+    },
+    {
+      "korType": "공포의 영장류",
+      "engType": "Blood Ape"
+    },
+    {
+      "korType": "감염된 유인원",
+      "engType": "Dread Primate"
+    },
+    {
+      "korType": "명계의 유인원",
+      "engType": "Infested Ape"
+    },
+    {
+      "korType": "격분한 에이단",
+      "engType": "Stygian Ape"
+    },
+    {
+      "korType": "피의 정체꾼",
+      "engType": "Aidan the Frenzied"
+    },
+    {
+      "korType": "피의 변화꾼",
+      "engType": "Blood Stasis "
+    },
+    {
+      "korType": "위로하는 나디아",
+      "engType": "Blood Morpher"
+    },
+    {
+      "korType": "학살의 유인원",
+      "engType": "Nadia the Soothing"
+    },
+    {
+      "korType": "무덤의 유인원",
+      "engType": "Carnage Ape"
+    },
+    {
+      "korType": "태고의 유인원",
+      "engType": "Barrow Ape"
+    },
+    {
+      "korType": "신록의 메아리",
+      "engType": "Primitive Ape"
+    },
+    {
+      "korType": "염수균열",
+      "engType": "Echo of the Verdant"
+    },
+    {
+      "korType": "황무지 러처",
+      "engType": "Brinecrack"
+    },
+    {
+      "korType": "기생충",
+      "engType": "Waste Lurcher"
+    },
+    {
+      "korType": "굶주린 기생충",
+      "engType": "Parasite"
+    },
+    {
+      "korType": "포악한 기생충",
+      "engType": "Ravenous Parasite"
+    },
+    {
+      "korType": "뇌감염균",
+      "engType": "Vicious Parasite"
+    },
+    {
+      "korType": "판금 기생충",
+      "engType": "The Encephalophage"
+    },
+    {
+      "korType": "뱉는 기생충",
+      "engType": "Plated Parasite"
+    },
+    {
+      "korType": "중독성 기생충",
+      "engType": "Spitting Parasite"
+    },
+    {
+      "korType": "염수의 봉신",
+      "engType": "Poisonous Parasite"
+    },
+    {
+      "korType": "거뭇한 연체류",
+      "engType": "Brine Vassal"
+    },
+    {
+      "korType": "투견 악마",
+      "engType": "Swarthy Mollusc"
+    },
+    {
+      "korType": "포악한 사냥개",
+      "engType": "Pitbull Demon"
+    },
+    {
+      "korType": "강철우걱",
+      "engType": "Vicious Hound"
+    },
+    {
+      "korType": "숙청 사냥개",
+      "engType": "Steelchaw"
+    },
+    {
+      "korType": "흉악한 롤라",
+      "engType": "Purge Hound"
+    },
+    {
+      "korType": "광포한 로아",
+      "engType": "Lola, the Fierce"
+    },
+    {
+      "korType": "변종 로아",
+      "engType": "Rabid Rhoa"
+    },
+    {
+      "korType": "벤타루스",
+      "engType": "Mutated Rhoa"
+    },
+    {
+      "korType": "암컷 로아",
+      "engType": "Ventarus"
+    },
+    {
+      "korType": "흰 로아",
+      "engType": "Rhoa Mare"
+    },
+    {
+      "korType": "수컷 로아",
+      "engType": "Albino Rhoa"
+    },
+    {
+      "korType": "암흑 질주자",
+      "engType": "Tercel Rhoa"
+    },
+    {
+      "korType": "등진물 무쇠부리",
+      "engType": "Murk Runner"
+    },
+    {
+      "korType": "사체 황소",
+      "engType": "Oozeback Bloom"
+    },
+    {
+      "korType": "감염된 로아",
+      "engType": "The Cadaver Bull"
+    },
+    {
+      "korType": "뼈 로아",
+      "engType": "Infested Rhoa"
+    },
+    {
+      "korType": "타락한 로아",
+      "engType": "Bone Rhoa"
+    },
+    {
+      "korType": "엘더에게 축복받은 로아",
+      "engType": "Corrupted Rhoa"
+    },
+    {
+      "korType": "태고의 로아",
+      "engType": "Elder-Blessed Rhoa"
+    },
+    {
+      "korType": "신비한 포식자",
+      "engType": "Primordial Rhoa"
+    },
+    {
+      "korType": "포식자",
+      "engType": "Mystic Devourer"
+    },
+    {
+      "korType": "터널벌레",
+      "engType": "Devourer"
+    },
+    {
+      "korType": "흙 제작자 카마크",
+      "engType": "Tunnelworm"
+    },
+    {
+      "korType": "정복자 웜",
+      "engType": "Kamaq, Soilmaker"
+    },
+    {
+      "korType": "고대 포식자",
+      "engType": "The Conqueror Wurm"
+    },
+    {
+      "korType": "먼지 넝마주이",
+      "engType": "Ancient Devourer"
+    },
+    {
+      "korType": "흙 넝마주이",
+      "engType": "Dust Scrabbler"
+    },
+    {
+      "korType": "감염된 잽싼거미",
+      "engType": "Dirt Scrabbler"
+    },
+    {
+      "korType": "저지대 깡총이",
+      "engType": "Infested Skitterer"
+    },
+    {
+      "korType": "모래 잽싼거미",
+      "engType": "Lowlands Hopper"
+    },
+    {
+      "korType": "모래 뜀박이",
+      "engType": "Sand Skitterer"
+    },
+    {
+      "korType": "퀘체르시",
+      "engType": "Sand Leaper"
+    },
+    {
+      "korType": "벌레집의 어머니",
+      "engType": "Quetzerxi"
+    },
+    {
+      "korType": "자갈 포식자",
+      "engType": "Mother of the Hive"
+    },
+    {
+      "korType": "긁어대는 전갈",
+      "engType": "Gravel Eater"
+    },
+    {
+      "korType": "바위 전갈",
+      "engType": "Scrabbling Spitter"
+    },
+    {
+      "korType": "갑각류 저격충",
+      "engType": "Rock Spitter"
+    },
+    {
+      "korType": "심연의 주인",
+      "engType": "Crustacean Sniper"
+    },
+    {
+      "korType": "화강암 포식자",
+      "engType": "The Dweller of the Deep"
+    },
+    {
+      "korType": "흑요석 포식자",
+      "engType": "Granite Eater"
+    },
+    {
+      "korType": "감염된 저격충",
+      "engType": "Obsidian Eater"
+    },
+    {
+      "korType": "맹독성 파행 벌레",
+      "engType": "Infested Sniper"
+    },
+    {
+      "korType": "오염된 파행 벌레",
+      "engType": "Toxic Crawler"
+    },
+    {
+      "korType": "화석 포식자",
+      "engType": "Sewage Crawler"
+    },
+    {
+      "korType": "검은 전갈",
+      "engType": "Fossil Eater"
+    },
+    {
+      "korType": "육식 전갈",
+      "engType": "Black Scorpion"
+    },
+    {
+      "korType": "타미핀",
+      "engType": "Predatory Scorpion"
+    },
+    {
+      "korType": "유황 전갈",
+      "engType": "Tamipin"
+    },
+    {
+      "korType": "모래 전갈",
+      "engType": "Sulphuric Scorpion"
+    },
+    {
+      "korType": "타뮬러스",
+      "engType": "Sand Scorpion"
+    },
+    {
+      "korType": "예견된 사이렌",
+      "engType": "Tamulus"
+    },
+    {
+      "korType": "머베일의 총애자",
+      "engType": "Fated Siren"
+    },
+    {
+      "korType": "머베일의 딸 암브로시아",
+      "engType": "Merveil's Favoured"
+    },
+    {
+      "korType": "공작부인",
+      "engType": "Ambrosia, Daughter of Merveil"
+    },
+    {
+      "korType": "농밀한 요녀 리마",
+      "engType": "The Duchess"
+    },
+    {
+      "korType": "머베일의 딸 아마릿사",
+      "engType": "Rima, Deep Temptress"
+    },
+    {
+      "korType": "영충 공주",
+      "engType": "Amarissa, Daughter of Merveil"
+    },
+    {
+      "korType": "머베일에 축복받은 자",
+      "engType": "Brood Princess"
+    },
+    {
+      "korType": "노래하는 사이렌",
+      "engType": "Merveil's Blessed"
+    },
+    {
+      "korType": "머베일의 딸",
+      "engType": "Singing Siren"
+    },
+    {
+      "korType": "머베일의 수행원",
+      "engType": "Merveil's Daughter"
+    },
+    {
+      "korType": "머베일에 선택받은 자",
+      "engType": "Merveil's Attendant"
+    },
+    {
+      "korType": "머베일의 신하",
+      "engType": "Merveil's Chosen"
+    },
+    {
+      "korType": "융해된 파행 벌레",
+      "engType": "Merveil's Retainer"
+    },
+    {
+      "korType": "변종 겨울발톱",
+      "engType": "Fused Crawler"
+    },
+    {
+      "korType": "긁어대는 위협",
+      "engType": "Mutated Winterclaw"
+    },
+    {
+      "korType": "동굴 갑각류",
+      "engType": "Scrabbling Menace"
+    },
+    {
+      "korType": "침략하는 갑각류",
+      "engType": "Cave Crustacean"
+    },
+    {
+      "korType": "은조가비",
+      "engType": "Invading Crustacean"
+    },
+    {
+      "korType": "심층 갑각류",
+      "engType": "Shivershell"
+    },
+    {
+      "korType": "감염된 갑각류",
+      "engType": "Deep Crustacean"
+    },
+    {
+      "korType": "변종 살무사",
+      "engType": "Infested Crustacean"
+    },
+    {
+      "korType": "산성 미끄럼뱀",
+      "engType": "Mutated Adder"
+    },
+    {
+      "korType": "밤 살무사",
+      "engType": "Acid Slitherer"
+    },
+    {
+      "korType": "숙주 살무사",
+      "engType": "Night Adder"
+    },
+    {
+      "korType": "가시나무 코브라",
+      "engType": "Host Adder"
+    },
+    {
+      "korType": "숙주 코브라",
+      "engType": "Bramble Cobra"
+    },
+    {
+      "korType": "엘더에게 축복받은 코브라",
+      "engType": "Host Cobra"
+    },
+    {
+      "korType": "척추 독사",
+      "engType": "Elder-Blessed Cobra"
+    },
+    {
+      "korType": "감염된 독사",
+      "engType": "Spine Serpent"
+    },
+    {
+      "korType": "가시주자",
+      "engType": "Infested Serpent"
+    },
+    {
+      "korType": "미로 미끄럼뱀",
+      "engType": "Thornrunner"
+    },
+    {
+      "korType": "가시 독사",
+      "engType": "Maze Slitherer"
+    },
+    {
+      "korType": "모래 독사",
+      "engType": "Barb Serpent"
+    },
+    {
+      "korType": "풀숲 큰독사",
+      "engType": "Sand Serpent"
+    },
+    {
+      "korType": "내다보는 유충",
+      "engType": "Glade Mamba"
+    },
+    {
+      "korType": "저주받은 유충",
+      "engType": "Foreseen Spawn"
+    },
+    {
+      "korType": "깊은 곳 비명자",
+      "engType": "Cursed Spawn"
+    },
+    {
+      "korType": "물컹한 거머리",
+      "engType": "Fathom Screamer"
+    },
+    {
+      "korType": "물컹한 천벌",
+      "engType": "Slimy Bloodsucker"
+    },
+    {
+      "korType": "독성 유충",
+      "engType": "Slimy Nemesis"
+    },
+    {
+      "korType": "역병 걸린 거미류",
+      "engType": "Venomous Spawn"
+    },
+    {
+      "korType": "질병 걸린 거미류",
+      "engType": "Plagued Arachnid"
+    },
+    {
+      "korType": "말리가로의 시인",
+      "engType": "Diseased Arachnid"
+    },
+    {
+      "korType": "잡종 거미류",
+      "engType": "Maligaro's Muse"
+    },
+    {
+      "korType": "뜨거운 거미류",
+      "engType": "Hybrid Arachnid"
+    },
+    {
+      "korType": "변종 거미류",
+      "engType": "Scalding Arachnid"
+    },
+    {
+      "korType": "구역질 나는 직공",
+      "engType": "Mutated Arachnid"
+    },
+    {
+      "korType": "병약한 방적꾼",
+      "engType": "Putrid Weaver"
+    },
+    {
+      "korType": "백랍송곳니",
+      "engType": "Sickly Spinner"
+    },
+    {
+      "korType": "탈출할 수 없는 신티크",
+      "engType": "Pewterfang"
+    },
+    {
+      "korType": "어둠의 사신",
+      "engType": "Cintiq, the Inescapable"
+    },
+    {
+      "korType": "직공",
+      "engType": "Black Death"
+    },
+    {
+      "korType": "공작 발라",
+      "engType": "The Weaver"
+    },
+    {
+      "korType": "도사리는 독액",
+      "engType": "Balah, Duke"
+    },
+    {
+      "korType": "음울한 타란툴라",
+      "engType": "Lurking Venom"
+    },
+    {
+      "korType": "매장된 타란툴라",
+      "engType": "Brooding Tarantula"
+    },
+    {
+      "korType": "도취된 거미류",
+      "engType": "Buried Tarantula"
+    },
+    {
+      "korType": "병독성 거미",
+      "engType": "Enraptured Arachnid"
+    },
+    {
+      "korType": "잉크 거미",
+      "engType": "Virulent Spider"
+    },
+    {
+      "korType": "미로 거미줄방적꾼",
+      "engType": "Ink Spinner"
+    },
+    {
+      "korType": "미로 새끼거미",
+      "engType": "Maze Webspinner"
+    },
+    {
+      "korType": "타락한 전갈",
+      "engType": "Maze Hatchling"
+    },
+    {
+      "korType": "타락한 거미",
+      "engType": "Corrupted Spitter"
+    },
+    {
+      "korType": "지하실 직공",
+      "engType": "Corrupted Arach"
+    },
+    {
+      "korType": "변종 거미",
+      "engType": "Crypt Weaver"
+    },
+    {
+      "korType": "지하실 매복자",
+      "engType": "Mutant Arach"
+    },
+    {
+      "korType": "동굴 잽싼거미",
+      "engType": "Crypt Ambusher"
+    },
+    {
+      "korType": "물레 거미",
+      "engType": "Cave Skitterer"
+    },
+    {
+      "korType": "새끼거미",
+      "engType": "Spindle Spider"
+    },
+    {
+      "korType": "바알 은자",
+      "engType": "Hatchling"
+    },
+    {
+      "korType": "아라칼리의 딸",
+      "engType": "Vaal Recluse"
+    },
+    {
+      "korType": "도약 거미",
+      "engType": "Arakaali's Daughter"
+    },
+    {
+      "korType": "유독성 타란툴라",
+      "engType": "Leaping Spider"
+    },
+    {
+      "korType": "거미줄 덮인 거미",
+      "engType": "Noxious Tarantula"
+    },
+    {
+      "korType": "감염된 가시등",
+      "engType": "Webbed Spider"
+    },
+    {
+      "korType": "호저 골리앗",
+      "engType": "Infected Spiker"
+    },
+    {
+      "korType": "엉겅퀴세이지",
+      "engType": "Porcupine Goliath"
+    },
+    {
+      "korType": "크롬 주입 골리앗",
+      "engType": "Thistlesage"
+    },
+    {
+      "korType": "크롬 도금 골리앗",
+      "engType": "Chrome-infused Goliath"
+    },
+    {
+      "korType": "미로 바늘등",
+      "engType": "Chrome-touched Goliath"
+    },
+    {
+      "korType": "칼날등 수호자",
+      "engType": "Maze Needleback"
+    },
+    {
+      "korType": "감염된 감시자",
+      "engType": "Bladeback Guardian"
+    },
+    {
+      "korType": "변종 감시자",
+      "engType": "Infected Watcher"
+    },
+    {
+      "korType": "영혼 없는 감시자",
+      "engType": "Mutated Watcher"
+    },
+    {
+      "korType": "떠도는 눈",
+      "engType": "Soulless Watcher"
+    },
+    {
+      "korType": "암굴 떠돌이",
+      "engType": "Drifting Eye"
+    },
+    {
+      "korType": "하수도 떠돌이",
+      "engType": "Cavern Drifter"
+    },
+    {
+      "korType": "빠른교살",
+      "engType": "Sewer Drifter"
+    },
+    {
+      "korType": "전시안",
+      "engType": "Strangledrift"
+    },
+    {
+      "korType": "무심한 청소부",
+      "engType": "The All-seeing Eye"
+    },
+    {
+      "korType": "청소하는 시체매",
+      "engType": "Mindless Scavenger"
+    },
+    {
+      "korType": "썩어가는 시체매",
+      "engType": "Scavenging Vulture"
+    },
+    {
+      "korType": "감염된 시체매",
+      "engType": "Rotting Vulture"
+    },
+    {
+      "korType": "백 걸음의 그림자",
+      "engType": "Infested Vulture"
+    },
+    {
+      "korType": "고요한 바람단 스라소니",
+      "engType": "The Hundred Foot Shadow"
+    }
+  ]
+}

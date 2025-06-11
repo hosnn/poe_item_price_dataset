@@ -1,0 +1,165 @@
+{
+  "id": "sanctum",
+  "labelKor": "성역 연구",
+  "labelEng": "Sanctum Research",
+  "entries": [
+    {
+      "korType": "향로 유물",
+      "engType": "Censer Relic"
+    },
+    {
+      "korType": "행렬 유물",
+      "engType": "Processional Relic"
+    },
+    {
+      "korType": "촛대 유물",
+      "engType": "Candlestick Relic"
+    },
+    {
+      "korType": "단지 유물",
+      "engType": "Urn Relic"
+    },
+    {
+      "korType": "궤짝 유물",
+      "engType": "Coffer Relic"
+    },
+    {
+      "korType": "책 유물",
+      "engType": "Tome Relic"
+    },
+    {
+      "korType": "파피루스 유물",
+      "engType": "Papyrus Relic"
+    },
+    {
+      "korType": "성역 서고 연구",
+      "engType": "Sanctum Archives Research"
+    },
+    {
+      "korType": "성역 금고 연구",
+      "engType": "Sanctum Vaults Research"
+    },
+    {
+      "korType": "성역 대성당 연구",
+      "engType": "Sanctum Cathedral Research"
+    },
+    {
+      "korType": "성역 매장지 연구",
+      "engType": "Sanctum Necropolis Research"
+    },
+    {
+      "korType": "금지된 책",
+      "engType": "Forbidden Tome"
+    },
+    {
+      "korType": "향로 유물",
+      "engType": "Censer Relic",
+      "engText": "The Blood of Innocence Censer Relic",
+      "korText": "이노센스의 피 향로 유물",
+      "engName": "The Blood of Innocence",
+      "korName": "이노센스의 피",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "책 유물",
+      "engType": "Tome Relic",
+      "engText": "The Broken Censer Tome Relic",
+      "korText": "부서진 향로 책 유물",
+      "engName": "The Broken Censer",
+      "korName": "부서진 향로",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "행렬 유물",
+      "engType": "Processional Relic",
+      "engText": "The Chains of Castigation Processional Relic",
+      "korText": "징계의 사슬 행렬 유물",
+      "engName": "The Chains of Castigation",
+      "korName": "징계의 사슬",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "궤짝 유물",
+      "engType": "Coffer Relic",
+      "engText": "The First Crest Coffer Relic",
+      "korText": "최초의 문양 궤짝 유물",
+      "engName": "The First Crest",
+      "korName": "최초의 문양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "행렬 유물",
+      "engType": "Processional Relic",
+      "engText": "The Gilded Chalice Processional Relic",
+      "korText": "도금된 성배 행렬 유물",
+      "engName": "The Gilded Chalice",
+      "korName": "도금된 성배",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "향로 유물",
+      "engType": "Censer Relic",
+      "engText": "The Hour of Divinity Censer Relic",
+      "korText": "신성의 시간 향로 유물",
+      "engName": "The Hour of Divinity",
+      "korName": "신성의 시간",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단지 유물",
+      "engType": "Urn Relic",
+      "engText": "The Night Lamp Urn Relic",
+      "korText": "밤의 등화 단지 유물",
+      "engName": "The Night Lamp",
+      "korName": "밤의 등화",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "파피루스 유물",
+      "engType": "Papyrus Relic",
+      "engText": "The Original Scripture Papyrus Relic",
+      "korText": "원형의 성서 파피루스 유물",
+      "engName": "The Original Scripture",
+      "korName": "원형의 성서",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "책 유물",
+      "engType": "Tome Relic",
+      "engText": "The Power and the Promise Tome Relic",
+      "korText": "힘과 약속 책 유물",
+      "engName": "The Power and the Promise",
+      "korName": "힘과 약속",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "촛대 유물",
+      "engType": "Candlestick Relic",
+      "engText": "The Second Sacrament Candlestick Relic",
+      "korText": "두 번째 성체 촛대 유물",
+      "engName": "The Second Sacrament",
+      "korName": "두 번째 성체",
+      "flags": {
+        "unique": true
+      }
+    }
+  ]
+}

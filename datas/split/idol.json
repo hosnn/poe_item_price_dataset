@@ -1,0 +1,449 @@
+{
+  "id": "idol",
+  "labelKor": "우상",
+  "labelEng": "Idol",
+  "entries": [
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol"
+    },
+    {
+      "korType": "카마사의 우상",
+      "engType": "Kamasan Idol"
+    },
+    {
+      "korType": "토템의 우상",
+      "engType": "Totemic Idol"
+    },
+    {
+      "korType": "귀족의 우상",
+      "engType": "Noble Idol"
+    },
+    {
+      "korType": "정복자 우상",
+      "engType": "Conqueror Idol"
+    },
+    {
+      "korType": "매장의 우상",
+      "engType": "Burial Idol"
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Arbitrary Tenets Minor Idol",
+      "korText": "독단적인 교의 약신 우상",
+      "engName": "Arbitrary Tenets",
+      "korName": "독단적인 교의",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Black Thumb Minor Idol",
+      "korText": "검은 엄지 약신 우상",
+      "engName": "Black Thumb",
+      "korName": "검은 엄지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Bold Undertakings Minor Idol",
+      "korText": "대담한 과업 약신 우상",
+      "engName": "Bold Undertakings",
+      "korName": "대담한 과업",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Cassia's Pride Minor Idol",
+      "korText": "카시아의 긍지 약신 우상",
+      "engName": "Cassia's Pride",
+      "korName": "카시아의 긍지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Crop Rotation Minor Idol",
+      "korText": "윤작 약신 우상",
+      "engName": "Crop Rotation",
+      "korName": "윤작",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Crystallised Power Minor Idol",
+      "korText": "힘의 결정체 약신 우상",
+      "engName": "Crystallised Power",
+      "korName": "힘의 결정체",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Dance of Destruction Minor Idol",
+      "korText": "파괴의 춤 약신 우상",
+      "engName": "Dance of Destruction",
+      "korName": "파괴의 춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Destructive Play Minor Idol",
+      "korText": "파괴적인 놀이 약신 우상",
+      "engName": "Destructive Play",
+      "korName": "파괴적인 놀이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Dimensional Barrier Minor Idol",
+      "korText": "차원 장벽 약신 우상",
+      "engName": "Dimensional Barrier",
+      "korName": "차원 장벽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Eldritch Gaze Minor Idol",
+      "korText": "섬뜩한 응시 약신 우상",
+      "engName": "Eldritch Gaze",
+      "korName": "섬뜩한 응시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Endless Tide Minor Idol",
+      "korText": "끝없는 파도 약신 우상",
+      "engName": "Endless Tide",
+      "korName": "끝없는 파도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Extreme Archaeology Minor Idol",
+      "korText": "극단적인 고고학 약신 우상",
+      "engName": "Extreme Archaeology",
+      "korName": "극단적인 고고학",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Fungal Remission Minor Idol",
+      "korText": "곰팡이 감소 약신 우상",
+      "engName": "Fungal Remission",
+      "korName": "곰팡이 감소",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Gruelling Gauntlet Minor Idol",
+      "korText": "가혹한 시련 약신 우상",
+      "engName": "Gruelling Gauntlet",
+      "korName": "가혹한 시련",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Immutable Dogma Minor Idol",
+      "korText": "불변의 교리 약신 우상",
+      "engName": "Immutable Dogma",
+      "korName": "불변의 교리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Loved by the Sun Minor Idol",
+      "korText": "태양의 총애 약신 우상",
+      "engName": "Loved by the Sun",
+      "korName": "태양의 총애",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Lucid Dreams Minor Idol",
+      "korText": "깨끗한 꿈 약신 우상",
+      "engName": "Lucid Dreams",
+      "korName": "깨끗한 꿈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Meticulous Appraiser Minor Idol",
+      "korText": "세심한 감정인 약신 우상",
+      "engName": "Meticulous Appraiser",
+      "korName": "세심한 감정인",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Ominous Silence Minor Idol",
+      "korText": "불길한 침묵 약신 우상",
+      "engName": "Ominous Silence",
+      "korName": "불길한 침묵",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Perceived Greatness Minor Idol",
+      "korText": "위대함의 허상 약신 우상",
+      "engName": "Perceived Greatness",
+      "korName": "위대함의 허상",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Ruinous Wager Minor Idol",
+      "korText": "파탄의 내기 약신 우상",
+      "engName": "Ruinous Wager",
+      "korName": "파탄의 내기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Sealed Domain Minor Idol",
+      "korText": "봉인된 영토 약신 우상",
+      "engName": "Sealed Domain",
+      "korName": "봉인된 영토",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Secular Focus Minor Idol",
+      "korText": "세속적 집중 약신 우상",
+      "engName": "Secular Focus",
+      "korName": "세속적 집중",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Servant of Order Minor Idol",
+      "korText": "질서의 종복 약신 우상",
+      "engName": "Servant of Order",
+      "korName": "질서의 종복",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Shadow Shaping Minor Idol",
+      "korText": "그림자 형성 약신 우상",
+      "engName": "Shadow Shaping",
+      "korName": "그림자 형성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Singular Focus Minor Idol",
+      "korText": "비범한 집중 약신 우상",
+      "engName": "Singular Focus",
+      "korName": "비범한 집중",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Smash and Grab Minor Idol",
+      "korText": "부수고 챙겨라 약신 우상",
+      "engName": "Smash and Grab",
+      "korName": "부수고 챙겨라",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Speaker of the Dead Minor Idol",
+      "korText": "망자의 대변인 약신 우상",
+      "engName": "Speaker of the Dead",
+      "korName": "망자의 대변인",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Straight and Narrow Minor Idol",
+      "korText": "정도 약신 우상",
+      "engName": "Straight and Narrow",
+      "korName": "정도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Thorough Exploration Minor Idol",
+      "korText": "철저한 원정 약신 우상",
+      "engName": "Thorough Exploration",
+      "korName": "철저한 원정",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Timeless Conflict Minor Idol",
+      "korText": "끝없는 분쟁 약신 우상",
+      "engName": "Timeless Conflict",
+      "korName": "끝없는 분쟁",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Trade Embargo Minor Idol",
+      "korText": "통상 금지 약신 우상",
+      "engName": "Trade Embargo",
+      "korName": "통상 금지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Twisted Wish Minor Idol",
+      "korText": "뒤틀린 소망 약신 우상",
+      "engName": "Twisted Wish",
+      "korName": "뒤틀린 소망",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Twist of Fate Minor Idol",
+      "korText": "운명의 뒤틀림 약신 우상",
+      "engName": "Twist of Fate",
+      "korName": "운명의 뒤틀림",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Unending Nightmare Minor Idol",
+      "korText": "끊임없는 악몽 약신 우상",
+      "engName": "Unending Nightmare",
+      "korName": "끊임없는 악몽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Wellspring of Creation Minor Idol",
+      "korText": "창조의 원천 약신 우상",
+      "engName": "Wellspring of Creation",
+      "korName": "창조의 원천",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Well Supplied Minor Idol",
+      "korText": "넉넉한 물자 약신 우상",
+      "engName": "Well Supplied",
+      "korName": "넉넉한 물자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "약신 우상",
+      "engType": "Minor Idol",
+      "engText": "Wrath of the Cosmos Minor Idol",
+      "korText": "우주의 진노 약신 우상",
+      "engName": "Wrath of the Cosmos",
+      "korName": "우주의 진노",
+      "flags": {
+        "unique": true
+      }
+    }
+  ]
+}

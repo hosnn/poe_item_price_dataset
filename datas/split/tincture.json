@@ -1,0 +1,102 @@
+{
+  "id": "tincture",
+  "labelKor": "팅크",
+  "labelEng": "Tincture",
+  "entries": [
+    {
+      "korType": "분광 팅크",
+      "engType": "Prismatic Tincture"
+    },
+    {
+      "korType": "포자꽃 팅크",
+      "engType": "Sporebloom Tincture"
+    },
+    {
+      "korType": "장미가시 팅크",
+      "engType": "Rosethorn Tincture"
+    },
+    {
+      "korType": "철목 팅크",
+      "engType": "Ironwood Tincture"
+    },
+    {
+      "korType": "재껍질 팅크",
+      "engType": "Ashbark Tincture"
+    },
+    {
+      "korType": "북풍목 팅크",
+      "engType": "Borealwood Tincture"
+    },
+    {
+      "korType": "섬전암 팅크",
+      "engType": "Fulgurite Tincture"
+    },
+    {
+      "korType": "독딸기 팅크",
+      "engType": "Poisonberry Tincture"
+    },
+    {
+      "korType": "피 진액 팅크",
+      "engType": "Blood Sap Tincture"
+    },
+    {
+      "korType": "참나무가지 팅크",
+      "engType": "Oakbranch Tincture"
+    },
+    {
+      "korType": "포자꽃 팅크",
+      "engType": "Sporebloom Tincture",
+      "engText": "Grasping Nightshade Sporebloom Tincture",
+      "korText": "탐욕스러운 까마중 포자꽃 팅크",
+      "engName": "Grasping Nightshade",
+      "korName": "탐욕스러운 까마중",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철목 팅크",
+      "engType": "Ironwood Tincture",
+      "engText": "Mightblood Ire Ironwood Tincture",
+      "korText": "힘의 피 진노 철목 팅크",
+      "engName": "Mightblood Ire",
+      "korName": "힘의 피 진노",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "분광 팅크",
+      "engType": "Prismatic Tincture",
+      "engText": "Sap of the Seasons Prismatic Tincture",
+      "korText": "계절의 진액 분광 팅크",
+      "engName": "Sap of the Seasons",
+      "korName": "계절의 진액",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "참나무가지 팅크",
+      "engType": "Oakbranch Tincture",
+      "engText": "The Battle Within Oakbranch Tincture",
+      "korText": "내면의 싸움 참나무가지 팅크",
+      "engName": "The Battle Within",
+      "korName": "내면의 싸움",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "재껍질 팅크",
+      "engType": "Ashbark Tincture",
+      "engText": "Wildfire Phloem Ashbark Tincture",
+      "korText": "들불 체관  재껍질 팅크",
+      "engName": "Wildfire Phloem",
+      "korName": "들불 체관 ",
+      "flags": {
+        "unique": true
+      }
+    }
+  ]
+}

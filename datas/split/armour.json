@@ -1,0 +1,7633 @@
+{
+  "id": "armour",
+  "labelKor": "방어구",
+  "labelEng": "Armour",
+  "entries": [
+    {
+      "korType": "황금 외투",
+      "engType": "Golden Mantle"
+    },
+    {
+      "korType": "허름한 조끼",
+      "engType": "Shabby Jerkin"
+    },
+    {
+      "korType": "영광의 가죽 갑옷",
+      "engType": "Glorious Leather"
+    },
+    {
+      "korType": "광환의 가죽 갑옷",
+      "engType": "Coronal Leather"
+    },
+    {
+      "korType": "살인자의 의복",
+      "engType": "Cutthroat's Garb"
+    },
+    {
+      "korType": "상어가죽 튜닉",
+      "engType": "Sharkskin Tunic"
+    },
+    {
+      "korType": "운명의 가죽 갑옷",
+      "engType": "Destiny Leather"
+    },
+    {
+      "korType": "정교한 가죽 갑옷",
+      "engType": "Exquisite Leather"
+    },
+    {
+      "korType": "성좌의 가죽 갑옷",
+      "engType": "Zodiac Leather"
+    },
+    {
+      "korType": "암살자의 의복",
+      "engType": "Assassin's Garb"
+    },
+    {
+      "korType": "최고급 가죽 갑옷",
+      "engType": "Supreme Leather"
+    },
+    {
+      "korType": "우주의 가죽 갑옷",
+      "engType": "Astral Leather"
+    },
+    {
+      "korType": "끈을 멘 가죽 갑옷",
+      "engType": "Strapped Leather"
+    },
+    {
+      "korType": "연합의 의복",
+      "engType": "Syndicate's Garb"
+    },
+    {
+      "korType": "사슴가죽 튜닉",
+      "engType": "Buckskin Tunic"
+    },
+    {
+      "korType": "거친 가죽 갑옷",
+      "engType": "Wild Leather"
+    },
+    {
+      "korType": "전신 가죽 갑옷",
+      "engType": "Full Leather"
+    },
+    {
+      "korType": "태양의 가죽 갑옷",
+      "engType": "Sun Leather"
+    },
+    {
+      "korType": "도둑의 의복",
+      "engType": "Thief's Garb"
+    },
+    {
+      "korType": "장어가죽 튜닉",
+      "engType": "Eelskin Tunic"
+    },
+    {
+      "korType": "개척자 가죽 갑옷",
+      "engType": "Frontier Leather"
+    },
+    {
+      "korType": "패드 조끼",
+      "engType": "Padded Vest"
+    },
+    {
+      "korType": "진홍색 의복",
+      "engType": "Crimson Raiment"
+    },
+    {
+      "korType": "옻칠한 의복",
+      "engType": "Lacquered Garb"
+    },
+    {
+      "korType": "지하실 갑옷",
+      "engType": "Crypt Armour"
+    },
+    {
+      "korType": "파수꾼 재킷",
+      "engType": "Sentinel Jacket"
+    },
+    {
+      "korType": "광택 나는 외투",
+      "engType": "Varnished Coat"
+    },
+    {
+      "korType": "피의 의복",
+      "engType": "Blood Raiment"
+    },
+    {
+      "korType": "가학자 의복",
+      "engType": "Sadist Garb"
+    },
+    {
+      "korType": "육욕의 갑옷",
+      "engType": "Carnal Armour"
+    },
+    {
+      "korType": "핏빛 의상",
+      "engType": "Sanguine Raiment"
+    },
+    {
+      "korType": "고문자의 의복",
+      "engType": "Torturer Garb"
+    },
+    {
+      "korType": "기름칠된 조끼",
+      "engType": "Oiled Vest"
+    },
+    {
+      "korType": "괴사의 방어구",
+      "engType": "Necrotic Armour"
+    },
+    {
+      "korType": "패드 재킷",
+      "engType": "Padded Jacket"
+    },
+    {
+      "korType": "기름칠된 외투",
+      "engType": "Oiled Coat"
+    },
+    {
+      "korType": "다홍색 의복",
+      "engType": "Scarlet Raiment"
+    },
+    {
+      "korType": "밀랍재질 의복",
+      "engType": "Waxed Garb"
+    },
+    {
+      "korType": "뼈 갑옷",
+      "engType": "Bone Armour"
+    },
+    {
+      "korType": "누비 재킷",
+      "engType": "Quilted Jacket"
+    },
+    {
+      "korType": "매끈한 외투",
+      "engType": "Sleek Coat"
+    },
+    {
+      "korType": "단순한 로브",
+      "engType": "Simple Robe"
+    },
+    {
+      "korType": "요술사의 법의",
+      "engType": "Conjurer's Vestment"
+    },
+    {
+      "korType": "거미줄 실크 로브",
+      "engType": "Spidersilk Robe"
+    },
+    {
+      "korType": "파괴자 예복",
+      "engType": "Destroyer Regalia"
+    },
+    {
+      "korType": "석학의 로브",
+      "engType": "Savant's Robe"
+    },
+    {
+      "korType": "네크로맨서 실크 갑옷",
+      "engType": "Necromancer Silks"
+    },
+    {
+      "korType": "오컬티스트의 법의",
+      "engType": "Occultist's Vestment"
+    },
+    {
+      "korType": "과부거미줄 실크 로브",
+      "engType": "Widowsilk Robe"
+    },
+    {
+      "korType": "바알 예복",
+      "engType": "Vaal Regalia"
+    },
+    {
+      "korType": "비전의 법의",
+      "engType": "Arcane Vestment"
+    },
+    {
+      "korType": "밤의 직물 로브",
+      "engType": "Nightweave Robe"
+    },
+    {
+      "korType": "실크 조끼",
+      "engType": "Silken Vest"
+    },
+    {
+      "korType": "황혼의 예복",
+      "engType": "Twilight Regalia"
+    },
+    {
+      "korType": "학자의 로브",
+      "engType": "Scholar's Robe"
+    },
+    {
+      "korType": "실크 의복",
+      "engType": "Silken Garb"
+    },
+    {
+      "korType": "마법사의 법의",
+      "engType": "Mage's Vestment"
+    },
+    {
+      "korType": "실크 로브",
+      "engType": "Silk Robe"
+    },
+    {
+      "korType": "비법가 예복",
+      "engType": "Cabalist Regalia"
+    },
+    {
+      "korType": "현자의 로브",
+      "engType": "Sage's Robe"
+    },
+    {
+      "korType": "실크 외투",
+      "engType": "Silken Wrap"
+    },
+    {
+      "korType": "판금 조끼",
+      "engType": "Plate Vest"
+    },
+    {
+      "korType": "태양의 판금 갑옷",
+      "engType": "Sun Plate"
+    },
+    {
+      "korType": "원형 경기장 판금 갑옷",
+      "engType": "Colosseum Plate"
+    },
+    {
+      "korType": "압도적인 판금 갑옷",
+      "engType": "Majestic Plate"
+    },
+    {
+      "korType": "황금 판금 갑옷",
+      "engType": "Golden Plate"
+    },
+    {
+      "korType": "십자군 판금 갑옷",
+      "engType": "Crusader Plate"
+    },
+    {
+      "korType": "우주의 판금 갑옷",
+      "engType": "Astral Plate"
+    },
+    {
+      "korType": "검투사 판금 갑옷",
+      "engType": "Gladiator Plate"
+    },
+    {
+      "korType": "영광의 판금 갑옷",
+      "engType": "Glorious Plate"
+    },
+    {
+      "korType": "거신 판금 갑옷",
+      "engType": "Titan Plate"
+    },
+    {
+      "korType": "군단 판금 갑옷",
+      "engType": "Legion Plate"
+    },
+    {
+      "korType": "가슴 보호 갑옷",
+      "engType": "Chestplate"
+    },
+    {
+      "korType": "왕실 판금 갑옷",
+      "engType": "Royal Plate"
+    },
+    {
+      "korType": "구리 판금 갑옷",
+      "engType": "Copper Plate"
+    },
+    {
+      "korType": "전쟁용 판금 갑옷",
+      "engType": "War Plate"
+    },
+    {
+      "korType": "전신 판금 갑옷",
+      "engType": "Full Plate"
+    },
+    {
+      "korType": "투기장 판금 갑옷",
+      "engType": "Arena Plate"
+    },
+    {
+      "korType": "위풍당당한 판금 갑옷",
+      "engType": "Lordly Plate"
+    },
+    {
+      "korType": "청동 판금 갑옷",
+      "engType": "Bronze Plate"
+    },
+    {
+      "korType": "전투용 판금 갑옷",
+      "engType": "Battle Plate"
+    },
+    {
+      "korType": "미늘 조끼",
+      "engType": "Scale Vest"
+    },
+    {
+      "korType": "전신 아룡 비늘 갑옷",
+      "engType": "Full Wyrmscale"
+    },
+    {
+      "korType": "지휘관의 브리간딘",
+      "engType": "Commander's Brigandine"
+    },
+    {
+      "korType": "전투용 라멜라",
+      "engType": "Battle Lamellar"
+    },
+    {
+      "korType": "용 비늘 더블릿",
+      "engType": "Dragonscale Doublet"
+    },
+    {
+      "korType": "사막 브리간딘",
+      "engType": "Desert Brigandine"
+    },
+    {
+      "korType": "전신 용 비늘 갑옷",
+      "engType": "Full Dragonscale"
+    },
+    {
+      "korType": "장군의 브리간딘",
+      "engType": "General's Brigandine"
+    },
+    {
+      "korType": "승리의 라멜라",
+      "engType": "Triumphant Lamellar"
+    },
+    {
+      "korType": "전체 비룡비늘 갑옷",
+      "engType": "Full Wyvernscale"
+    },
+    {
+      "korType": "원수의 브리간딘",
+      "engType": "Marshall's Brigandine"
+    },
+    {
+      "korType": "가벼운 브리간딘",
+      "engType": "Light Brigandine"
+    },
+    {
+      "korType": "정복 라멜라",
+      "engType": "Conquest Lamellar"
+    },
+    {
+      "korType": "비늘 더블릿",
+      "engType": "Scale Doublet"
+    },
+    {
+      "korType": "보병 브리간딘",
+      "engType": "Infantry Brigandine"
+    },
+    {
+      "korType": "전신 미늘 갑옷",
+      "engType": "Full Scale Armour"
+    },
+    {
+      "korType": "병사용 브리간딘",
+      "engType": "Soldier's Brigandine"
+    },
+    {
+      "korType": "야전 라멜라",
+      "engType": "Field Lamellar"
+    },
+    {
+      "korType": "아룡 비늘 더블릿",
+      "engType": "Wyrmscale Doublet"
+    },
+    {
+      "korType": "경기병 브리간딘",
+      "engType": "Hussar Brigandine"
+    },
+    {
+      "korType": "희생의 의복",
+      "engType": "Sacrificial Garb"
+    },
+    {
+      "korType": "탐욕스러운 사슬옷",
+      "engType": "Grasping Mail"
+    },
+    {
+      "korType": "사슬 조끼",
+      "engType": "Chainmail Vest"
+    },
+    {
+      "korType": "화려한 고리 갑옷",
+      "engType": "Ornate Ringmail"
+    },
+    {
+      "korType": "쇠사슬 갑옷",
+      "engType": "Chain Hauberk"
+    },
+    {
+      "korType": "신도 사슬 갑옷",
+      "engType": "Devout Chainmail"
+    },
+    {
+      "korType": "단단한 고리 갑옷",
+      "engType": "Loricated Ringmail"
+    },
+    {
+      "korType": "점령자의 사슬 갑옷",
+      "engType": "Conquest Chainmail"
+    },
+    {
+      "korType": "고상한 고리 갑옷",
+      "engType": "Elegant Ringmail"
+    },
+    {
+      "korType": "성인의 쇠사슬 갑옷",
+      "engType": "Saint's Hauberk"
+    },
+    {
+      "korType": "성인의 사슬 갑옷",
+      "engType": "Saintly Chainmail"
+    },
+    {
+      "korType": "우수한 고리 갑옷",
+      "engType": "Grand Ringmail"
+    },
+    {
+      "korType": "성기사의 호버크",
+      "engType": "Paladin's Hauberk"
+    },
+    {
+      "korType": "사슬 튜닉",
+      "engType": "Chainmail Tunic"
+    },
+    {
+      "korType": "성스러운 사슬 갑옷",
+      "engType": "Sacred Chainmail"
+    },
+    {
+      "korType": "외투 고리 갑옷",
+      "engType": "Ringmail Coat"
+    },
+    {
+      "korType": "사슬 더블릿",
+      "engType": "Chainmail Doublet"
+    },
+    {
+      "korType": "전신 고리 갑옷",
+      "engType": "Full Ringmail"
+    },
+    {
+      "korType": "전신 사슬 갑옷",
+      "engType": "Full Chainmail"
+    },
+    {
+      "korType": "격자형 고리 갑옷",
+      "engType": "Holy Chainmail"
+    },
+    {
+      "korType": "십자군 사슬 갑옷",
+      "engType": "Latticed Ringmail"
+    },
+    {
+      "korType": "두 가지 색 장화",
+      "engType": "Crusader Chainmail"
+    },
+    {
+      "korType": "도망자 장화",
+      "engType": "Two-Toned Boots"
+    },
+    {
+      "korType": "황금 칼리가",
+      "engType": "Fugitive Boots"
+    },
+    {
+      "korType": "생가죽 장화",
+      "engType": "Golden Caligae"
+    },
+    {
+      "korType": "하피가죽 장화",
+      "engType": "Rawhide Boots"
+    },
+    {
+      "korType": "벨루어 장화",
+      "engType": "Harpyskin Boots"
+    },
+    {
+      "korType": "염소가죽 장화",
+      "engType": "Velour Boots"
+    },
+    {
+      "korType": "사슴가죽 장화",
+      "engType": "Goathide Boots"
+    },
+    {
+      "korType": "소가죽 장화",
+      "engType": "Deerskin Boots"
+    },
+    {
+      "korType": "장어가죽 장화",
+      "engType": "Nubuck Boots"
+    },
+    {
+      "korType": "상어가죽 장화",
+      "engType": "Eelskin Boots"
+    },
+    {
+      "korType": "거친 생가죽 장화",
+      "engType": "Sharkskin Boots"
+    },
+    {
+      "korType": "은신 장화",
+      "engType": "Shagreen Boots"
+    },
+    {
+      "korType": "송아지 가죽 장화",
+      "engType": "Stealth Boots"
+    },
+    {
+      "korType": "스트랩형 장화",
+      "engType": "Slink Boots"
+    },
+    {
+      "korType": "잠입자 장화",
+      "engType": "Wrapped Boots"
+    },
+    {
+      "korType": "혼령 장화",
+      "engType": "Infiltrator Boots"
+    },
+    {
+      "korType": "끈 장화",
+      "engType": "Phantom Boots"
+    },
+    {
+      "korType": "버클 장화",
+      "engType": "Strapped Boots"
+    },
+    {
+      "korType": "섀클 장화",
+      "engType": "Clasped Boots"
+    },
+    {
+      "korType": "덫사냥꾼 장화",
+      "engType": "Shackled Boots"
+    },
+    {
+      "korType": "매복 장화",
+      "engType": "Trapper Boots"
+    },
+    {
+      "korType": "육욕의 장화",
+      "engType": "Ambush Boots"
+    },
+    {
+      "korType": "암살자의 장화",
+      "engType": "Carnal Boots"
+    },
+    {
+      "korType": "살인자의 장화",
+      "engType": "Assassin's Boots"
+    },
+    {
+      "korType": "구름속삭임 장화",
+      "engType": "Murder Boots"
+    },
+    {
+      "korType": "바람가름 장화",
+      "engType": "Cloudwhisper Boots"
+    },
+    {
+      "korType": "태풍의 기수 장화",
+      "engType": "Windbreak Boots"
+    },
+    {
+      "korType": "룬 각반",
+      "engType": "Stormrider Boots"
+    },
+    {
+      "korType": "룬 쇠구두",
+      "engType": "Runic Greaves"
+    },
+    {
+      "korType": "룬 발 덮개",
+      "engType": "Runic Sollerets"
+    },
+    {
+      "korType": "양모 신발",
+      "engType": "Runic Sabatons"
+    },
+    {
+      "korType": "현자 슬리퍼",
+      "engType": "Wool Shoes"
+    },
+    {
+      "korType": "마법사 장화",
+      "engType": "Sage Slippers"
+    },
+    {
+      "korType": "벨벳 슬리퍼",
+      "engType": "Warlock Boots"
+    },
+    {
+      "korType": "실크 슬리퍼",
+      "engType": "Velvet Slippers"
+    },
+    {
+      "korType": "학자 장화",
+      "engType": "Silk Slippers"
+    },
+    {
+      "korType": "새틴 슬리퍼",
+      "engType": "Scholar Boots"
+    },
+    {
+      "korType": "금실 슬리퍼",
+      "engType": "Satin Slippers"
+    },
+    {
+      "korType": "요술사 장화",
+      "engType": "Samite Slippers"
+    },
+    {
+      "korType": "신비학자의 슬리퍼",
+      "engType": "Conjurer Boots"
+    },
+    {
+      "korType": "악령술사 장화",
+      "engType": "Arcanist Slippers"
+    },
+    {
+      "korType": "황혼걸음 슬리퍼",
+      "engType": "Sorcerer Boots"
+    },
+    {
+      "korType": "밤바람 슬리퍼",
+      "engType": "Duskwalk Slippers"
+    },
+    {
+      "korType": "꿈의 정벌 슬리퍼",
+      "engType": "Nightwind Slippers"
+    },
+    {
+      "korType": "철제 각반",
+      "engType": "Dreamquest Slippers"
+    },
+    {
+      "korType": "선도자 각반",
+      "engType": "Iron Greaves"
+    },
+    {
+      "korType": "레비아탄 각반",
+      "engType": "Precursor Greaves"
+    },
+    {
+      "korType": "강철 각반",
+      "engType": "Leviathan Greaves"
+    },
+    {
+      "korType": "판금 각반",
+      "engType": "Steel Greaves"
+    },
+    {
+      "korType": "강화 각반",
+      "engType": "Plated Greaves"
+    },
+    {
+      "korType": "앤티크 각반",
+      "engType": "Reinforced Greaves"
+    },
+    {
+      "korType": "고대 각반",
+      "engType": "Antique Greaves"
+    },
+    {
+      "korType": "거인 각반",
+      "engType": "Ancient Greaves"
+    },
+    {
+      "korType": "바알 각반",
+      "engType": "Goliath Greaves"
+    },
+    {
+      "korType": "거신 각반",
+      "engType": "Vaal Greaves"
+    },
+    {
+      "korType": "가죽 비늘 장화",
+      "engType": "Titan Greaves"
+    },
+    {
+      "korType": "비룡비늘 장화",
+      "engType": "Leatherscale Boots"
+    },
+    {
+      "korType": "철제 비늘 장화",
+      "engType": "Wyvernscale Boots"
+    },
+    {
+      "korType": "청동 비늘 장화",
+      "engType": "Ironscale Boots"
+    },
+    {
+      "korType": "강철 비늘 장화",
+      "engType": "Bronzescale Boots"
+    },
+    {
+      "korType": "뱀 비늘 장화",
+      "engType": "Steelscale Boots"
+    },
+    {
+      "korType": "아룡 비늘 장화",
+      "engType": "Serpentscale Boots"
+    },
+    {
+      "korType": "히드라 비늘 장화",
+      "engType": "Wyrmscale Boots"
+    },
+    {
+      "korType": "용 비늘 장화",
+      "engType": "Hydrascale Boots"
+    },
+    {
+      "korType": "키메라비늘 장화",
+      "engType": "Dragonscale Boots"
+    },
+    {
+      "korType": "사슬 장화",
+      "engType": "Chimerascale Boots"
+    },
+    {
+      "korType": "성기사 장화",
+      "engType": "Chain Boots"
+    },
+    {
+      "korType": "고리 장화",
+      "engType": "Paladin Boots"
+    },
+    {
+      "korType": "망사 장화",
+      "engType": "Ringmail Boots"
+    },
+    {
+      "korType": "고정못 장화",
+      "engType": "Mesh Boots"
+    },
+    {
+      "korType": "맹신자 장화",
+      "engType": "Riveted Boots"
+    },
+    {
+      "korType": "병사 장화",
+      "engType": "Zealot Boots"
+    },
+    {
+      "korType": "군단 장화",
+      "engType": "Soldier Boots"
+    },
+    {
+      "korType": "십자군 장화",
+      "engType": "Legion Boots"
+    },
+    {
+      "korType": "순교자 장화",
+      "engType": "Crusader Boots"
+    },
+    {
+      "korType": "일반 금속 발 보호대",
+      "engType": "Martyr Boots"
+    },
+    {
+      "korType": "검은 강철 발 보호대",
+      "engType": "Basemetal Treads"
+    },
+    {
+      "korType": "유황 발 보호대",
+      "engType": "Darksteel Treads"
+    },
+    {
+      "korType": "움켜쥔 장갑",
+      "engType": "Brimstone Treads"
+    },
+    {
+      "korType": "손가락 없는 실크 장갑",
+      "engType": "Gripped Gloves"
+    },
+    {
+      "korType": "가시 장갑",
+      "engType": "Fingerless Silk Gloves"
+    },
+    {
+      "korType": "약제상의 장갑",
+      "engType": "Spiked Gloves"
+    },
+    {
+      "korType": "황금 팔보호구",
+      "engType": "Apothecary's Gloves"
+    },
+    {
+      "korType": "생가죽 장갑",
+      "engType": "Golden Bracers"
+    },
+    {
+      "korType": "하피가죽 장갑",
+      "engType": "Rawhide Gloves"
+    },
+    {
+      "korType": "벨루어 장갑",
+      "engType": "Harpyskin Gloves"
+    },
+    {
+      "korType": "염소가죽 장갑",
+      "engType": "Velour Gloves"
+    },
+    {
+      "korType": "사슴가죽 장갑",
+      "engType": "Goathide Gloves"
+    },
+    {
+      "korType": "소가죽 장갑",
+      "engType": "Deerskin Gloves"
+    },
+    {
+      "korType": "장어가죽 장갑",
+      "engType": "Nubuck Gloves"
+    },
+    {
+      "korType": "상어가죽 장갑",
+      "engType": "Eelskin Gloves"
+    },
+    {
+      "korType": "거친 생가죽 장갑",
+      "engType": "Sharkskin Gloves"
+    },
+    {
+      "korType": "은신 장갑",
+      "engType": "Shagreen Gloves"
+    },
+    {
+      "korType": "송아지 가죽 장갑",
+      "engType": "Stealth Gloves"
+    },
+    {
+      "korType": "스트랩형 미트",
+      "engType": "Slink Gloves"
+    },
+    {
+      "korType": "혼령 미트",
+      "engType": "Wrapped Mitts"
+    },
+    {
+      "korType": "끈 미트",
+      "engType": "Phantom Mitts"
+    },
+    {
+      "korType": "버클 미트",
+      "engType": "Strapped Mitts"
+    },
+    {
+      "korType": "덫사냥꾼 미트",
+      "engType": "Clasped Mitts"
+    },
+    {
+      "korType": "매복 미트",
+      "engType": "Trapper Mitts"
+    },
+    {
+      "korType": "육욕의 미트",
+      "engType": "Ambush Mitts"
+    },
+    {
+      "korType": "암살자의 미트",
+      "engType": "Carnal Mitts"
+    },
+    {
+      "korType": "살인자의 미트",
+      "engType": "Assassin's Mitts"
+    },
+    {
+      "korType": "잠입자 미트",
+      "engType": "Murder Mitts"
+    },
+    {
+      "korType": "땜장이 장갑",
+      "engType": "Infiltrator Mitts"
+    },
+    {
+      "korType": "수습생 장갑",
+      "engType": "Tinker Gloves"
+    },
+    {
+      "korType": "덫꾼 장갑",
+      "engType": "Apprentice Gloves"
+    },
+    {
+      "korType": "룬 장갑",
+      "engType": "Trapsetter Gloves"
+    },
+    {
+      "korType": "룬 손 보호대",
+      "engType": "Runic Gloves"
+    },
+    {
+      "korType": "룬 건틀릿",
+      "engType": "Runic Gages"
+    },
+    {
+      "korType": "양모 장갑",
+      "engType": "Runic Gauntlets"
+    },
+    {
+      "korType": "현자 장갑",
+      "engType": "Wool Gloves"
+    },
+    {
+      "korType": "마법사 장갑",
+      "engType": "Sage Gloves"
+    },
+    {
+      "korType": "벨벳 장갑",
+      "engType": "Warlock Gloves"
+    },
+    {
+      "korType": "실크 장갑",
+      "engType": "Velvet Gloves"
+    },
+    {
+      "korType": "수놓은 장갑",
+      "engType": "Silk Gloves"
+    },
+    {
+      "korType": "새틴 장갑",
+      "engType": "Embroidered Gloves"
+    },
+    {
+      "korType": "금실 장갑",
+      "engType": "Satin Gloves"
+    },
+    {
+      "korType": "요술사 장갑",
+      "engType": "Samite Gloves"
+    },
+    {
+      "korType": "신비학자의 장갑",
+      "engType": "Conjurer Gloves"
+    },
+    {
+      "korType": "악령술사 장갑",
+      "engType": "Arcanist Gloves"
+    },
+    {
+      "korType": "지맥 장갑",
+      "engType": "Sorcerer Gloves"
+    },
+    {
+      "korType": "에테르 바람 장갑",
+      "engType": "Leyline Gloves"
+    },
+    {
+      "korType": "연결부 장갑",
+      "engType": "Aetherwind Gloves"
+    },
+    {
+      "korType": "철제 건틀릿",
+      "engType": "Nexus Gloves"
+    },
+    {
+      "korType": "선도자 건틀릿",
+      "engType": "Iron Gauntlets"
+    },
+    {
+      "korType": "레비아탄 건틀릿",
+      "engType": "Precursor Gauntlets"
+    },
+    {
+      "korType": "판금 건틀릿",
+      "engType": "Leviathan Gauntlets"
+    },
+    {
+      "korType": "청동 건틀릿",
+      "engType": "Plated Gauntlets"
+    },
+    {
+      "korType": "강철 건틀릿",
+      "engType": "Bronze Gauntlets"
+    },
+    {
+      "korType": "앤티크 건틀릿",
+      "engType": "Steel Gauntlets"
+    },
+    {
+      "korType": "고대의 건틀릿",
+      "engType": "Antique Gauntlets"
+    },
+    {
+      "korType": "거인 건틀릿",
+      "engType": "Ancient Gauntlets"
+    },
+    {
+      "korType": "바알 건틀릿",
+      "engType": "Goliath Gauntlets"
+    },
+    {
+      "korType": "거신 건틀릿",
+      "engType": "Vaal Gauntlets"
+    },
+    {
+      "korType": "생선 비늘 건틀릿",
+      "engType": "Titan Gauntlets"
+    },
+    {
+      "korType": "비룡비늘 건틀릿",
+      "engType": "Fishscale Gauntlets"
+    },
+    {
+      "korType": "철제 비늘 건틀릿",
+      "engType": "Wyvernscale Gauntlets"
+    },
+    {
+      "korType": "청동 비늘 건틀릿",
+      "engType": "Ironscale Gauntlets"
+    },
+    {
+      "korType": "강철 비늘 건틀릿",
+      "engType": "Bronzescale Gauntlets"
+    },
+    {
+      "korType": "뱀 비늘 건틀릿",
+      "engType": "Steelscale Gauntlets"
+    },
+    {
+      "korType": "아룡 비늘 건틀릿",
+      "engType": "Serpentscale Gauntlets"
+    },
+    {
+      "korType": "히드라 비늘 건틀릿",
+      "engType": "Wyrmscale Gauntlets"
+    },
+    {
+      "korType": "용 비늘 건틀릿",
+      "engType": "Hydrascale Gauntlets"
+    },
+    {
+      "korType": "키메라비늘 건틀릿",
+      "engType": "Dragonscale Gauntlets"
+    },
+    {
+      "korType": "사슬 장갑",
+      "engType": "Chimerascale Gauntlets"
+    },
+    {
+      "korType": "성기사 장갑",
+      "engType": "Chain Gloves"
+    },
+    {
+      "korType": "고리 장갑",
+      "engType": "Paladin Gloves"
+    },
+    {
+      "korType": "망사 장갑",
+      "engType": "Ringmail Gloves"
+    },
+    {
+      "korType": "고정못 장갑",
+      "engType": "Mesh Gloves"
+    },
+    {
+      "korType": "맹신자 장갑",
+      "engType": "Riveted Gloves"
+    },
+    {
+      "korType": "병사 장갑",
+      "engType": "Zealot Gloves"
+    },
+    {
+      "korType": "군단 장갑",
+      "engType": "Soldier Gloves"
+    },
+    {
+      "korType": "십자군 장갑",
+      "engType": "Legion Gloves"
+    },
+    {
+      "korType": "순교자 장갑",
+      "engType": "Crusader Gloves"
+    },
+    {
+      "korType": "보전의 건틀릿",
+      "engType": "Martyr Gloves"
+    },
+    {
+      "korType": "수호의 건틀릿",
+      "engType": "Preserving Gauntlets"
+    },
+    {
+      "korType": "좌절의 건틀릿",
+      "engType": "Guarding Gauntlets"
+    },
+    {
+      "korType": "뼈 투구",
+      "engType": "Thwarting Gauntlets"
+    },
+    {
+      "korType": "황금 얼굴",
+      "engType": "Bone Helmet"
+    },
+    {
+      "korType": "가죽 모자",
+      "engType": "Golden Visage"
+    },
+    {
+      "korType": "사자 가죽모",
+      "engType": "Leather Cap"
+    },
+    {
+      "korType": "지독한 가죽모",
+      "engType": "Lion Pelt"
+    },
+    {
+      "korType": "반백의 가죽모",
+      "engType": "Dire Pelt"
+    },
+    {
+      "korType": "압도적인 가죽모",
+      "engType": "Grizzly Pelt"
+    },
+    {
+      "korType": "삼각모",
+      "engType": "Majestic Pelt"
+    },
+    {
+      "korType": "가죽 두건",
+      "engType": "Tricorne"
+    },
+    {
+      "korType": "늑대 가죽모",
+      "engType": "Leather Hood"
+    },
+    {
+      "korType": "사냥꾼 두건",
+      "engType": "Wolf Pelt"
+    },
+    {
+      "korType": "귀족 삼각모",
+      "engType": "Hunter Hood"
+    },
+    {
+      "korType": "곰 가죽모",
+      "engType": "Noble Tricorne"
+    },
+    {
+      "korType": "실크 두건",
+      "engType": "Ursine Pelt"
+    },
+    {
+      "korType": "죄인 삼각모",
+      "engType": "Silken Hood"
+    },
+    {
+      "korType": "허수아비 가면",
+      "engType": "Sinner Tricorne"
+    },
+    {
+      "korType": "바알 가면",
+      "engType": "Scare Mask"
+    },
+    {
+      "korType": "신살자 가면",
+      "engType": "Vaal Mask"
+    },
+    {
+      "korType": "어릿광대 가면",
+      "engType": "Deicide Mask"
+    },
+    {
+      "korType": "고대 가면",
+      "engType": "Jester Mask"
+    },
+    {
+      "korType": "고문자의 가면",
+      "engType": "Ancient Mask"
+    },
+    {
+      "korType": "역병 가면",
+      "engType": "Torturer's Mask"
+    },
+    {
+      "korType": "철 가면",
+      "engType": "Plague Mask"
+    },
+    {
+      "korType": "축제용 가면",
+      "engType": "Iron Mask"
+    },
+    {
+      "korType": "황금 가면",
+      "engType": "Festival Mask"
+    },
+    {
+      "korType": "큰까마귀 가면",
+      "engType": "Golden Mask"
+    },
+    {
+      "korType": "냉담한 가면",
+      "engType": "Raven Mask"
+    },
+    {
+      "korType": "왕 시해자 가면",
+      "engType": "Callous Mask"
+    },
+    {
+      "korType": "할리퀸 가면",
+      "engType": "Regicide Mask"
+    },
+    {
+      "korType": "강풍 왕관",
+      "engType": "Harlequin Mask"
+    },
+    {
+      "korType": "겨울 왕관",
+      "engType": "Gale Crown"
+    },
+    {
+      "korType": "눈보라 왕관",
+      "engType": "Winter Crown"
+    },
+    {
+      "korType": "룬 투구",
+      "engType": "Blizzard Crown"
+    },
+    {
+      "korType": "룬 관모",
+      "engType": "Runic Helm"
+    },
+    {
+      "korType": "룬 왕관",
+      "engType": "Runic Crest"
+    },
+    {
+      "korType": "덩굴 관",
+      "engType": "Runic Crown"
+    },
+    {
+      "korType": "정신의 창살",
+      "engType": "Vine Circlet"
+    },
+    {
+      "korType": "자만의 관",
+      "engType": "Mind Cage"
+    },
+    {
+      "korType": "달빛 관",
+      "engType": "Hubris Circlet"
+    },
+    {
+      "korType": "태양불 관",
+      "engType": "Moonlit Circlet"
+    },
+    {
+      "korType": "리치의 관",
+      "engType": "Sunfire Circlet"
+    },
+    {
+      "korType": "철제 관",
+      "engType": "Lich's Circlet"
+    },
+    {
+      "korType": "고문용 창살",
+      "engType": "Iron Circlet"
+    },
+    {
+      "korType": "부족 관",
+      "engType": "Torture Cage"
+    },
+    {
+      "korType": "뼈의 관",
+      "engType": "Tribal Circlet"
+    },
+    {
+      "korType": "달의 관",
+      "engType": "Bone Circlet"
+    },
+    {
+      "korType": "강철 관",
+      "engType": "Lunaris Circlet"
+    },
+    {
+      "korType": "네크로맨서 관",
+      "engType": "Steel Circlet"
+    },
+    {
+      "korType": "태양의 관",
+      "engType": "Necromancer Circlet"
+    },
+    {
+      "korType": "철제 투구",
+      "engType": "Solaris Circlet"
+    },
+    {
+      "korType": "왕실 기병 투구",
+      "engType": "Iron Hat"
+    },
+    {
+      "korType": "영원의 기병 투구",
+      "engType": "Royal Burgonet"
+    },
+    {
+      "korType": "장군의 투구",
+      "engType": "Eternal Burgonet"
+    },
+    {
+      "korType": "정복자의 투구",
+      "engType": "General's Helmet"
+    },
+    {
+      "korType": "거인 처형자 투구",
+      "engType": "Conqueror's Helmet"
+    },
+    {
+      "korType": "원뿔 투구",
+      "engType": "Giantslayer Helmet"
+    },
+    {
+      "korType": "철갑 투구",
+      "engType": "Cone Helmet"
+    },
+    {
+      "korType": "폐쇄형 투구",
+      "engType": "Barbute Helmet"
+    },
+    {
+      "korType": "검투사 투구",
+      "engType": "Close Helmet"
+    },
+    {
+      "korType": "강탈자 투구",
+      "engType": "Gladiator Helmet"
+    },
+    {
+      "korType": "공성 투구",
+      "engType": "Reaver Helmet"
+    },
+    {
+      "korType": "삼니움 투구",
+      "engType": "Siege Helmet"
+    },
+    {
+      "korType": "에조미어 기병 투구",
+      "engType": "Samnite Helmet"
+    },
+    {
+      "korType": "닳은 헬름",
+      "engType": "Ezomyte Burgonet"
+    },
+    {
+      "korType": "악몽의 배서닛",
+      "engType": "Battered Helm"
+    },
+    {
+      "korType": "기사 투구",
+      "engType": "Nightmare Bascinet"
+    },
+    {
+      "korType": "정복 투구",
+      "engType": "Knight Helm"
+    },
+    {
+      "korType": "으스스한 배서닛",
+      "engType": "Conquest Helmet"
+    },
+    {
+      "korType": "샐릿",
+      "engType": "Haunted Bascinet"
+    },
+    {
+      "korType": "차양 단 샐릿",
+      "engType": "Sallet"
+    },
+    {
+      "korType": "도금 샐릿",
+      "engType": "Visored Sallet"
+    },
+    {
+      "korType": "호위병 샐릿",
+      "engType": "Gilded Sallet"
+    },
+    {
+      "korType": "검사 샐릿",
+      "engType": "Secutor Helm"
+    },
+    {
+      "korType": "옻칠한 투구",
+      "engType": "Fencer Helm"
+    },
+    {
+      "korType": "홈이 긴 배서닛",
+      "engType": "Lacquered Helmet"
+    },
+    {
+      "korType": "돼지 머리 배서닛",
+      "engType": "Fluted Bascinet"
+    },
+    {
+      "korType": "슬픔 가면",
+      "engType": "Pig-Faced Bascinet"
+    },
+    {
+      "korType": "속죄 가면",
+      "engType": "Sorrow Mask"
+    },
+    {
+      "korType": "참회 가면",
+      "engType": "Atonement Mask"
+    },
+    {
+      "korType": "녹슨 코이프",
+      "engType": "Penitent Mask"
+    },
+    {
+      "korType": "집정관 왕관",
+      "engType": "Rusted Coif"
+    },
+    {
+      "korType": "충실한 투구",
+      "engType": "Praetor Crown"
+    },
+    {
+      "korType": "성기사 왕관",
+      "engType": "Faithful Helmet"
+    },
+    {
+      "korType": "신성한 왕관",
+      "engType": "Paladin Crown"
+    },
+    {
+      "korType": "병사 투구",
+      "engType": "Divine Crown"
+    },
+    {
+      "korType": "대형 투구",
+      "engType": "Soldier Helmet"
+    },
+    {
+      "korType": "십자군 투구",
+      "engType": "Great Helmet"
+    },
+    {
+      "korType": "쇠사슬 투구",
+      "engType": "Crusader Helmet"
+    },
+    {
+      "korType": "맹신자 투구",
+      "engType": "Aventail Helmet"
+    },
+    {
+      "korType": "대형 왕관",
+      "engType": "Zealot Helmet"
+    },
+    {
+      "korType": "재판관 왕관",
+      "engType": "Great Crown"
+    },
+    {
+      "korType": "예언자 왕관",
+      "engType": "Magistrate Crown"
+    },
+    {
+      "korType": "임프 왕관",
+      "engType": "Prophet Crown"
+    },
+    {
+      "korType": "악마 왕관",
+      "engType": "Imp Crown"
+    },
+    {
+      "korType": "대악마 왕관",
+      "engType": "Demon Crown"
+    },
+    {
+      "korType": "황금 화관",
+      "engType": "Archdemon Crown"
+    },
+    {
+      "korType": "황금 불꽃",
+      "engType": "Golden Wreath"
+    },
+    {
+      "korType": "염소 가죽 버클러",
+      "engType": "Golden Flame"
+    },
+    {
+      "korType": "전투용 버클러",
+      "engType": "Goathide Buckler"
+    },
+    {
+      "korType": "금색 버클러",
+      "engType": "Battle Buckler"
+    },
+    {
+      "korType": "철목 버클러",
+      "engType": "Golden Buckler"
+    },
+    {
+      "korType": "옻칠한 버클러",
+      "engType": "Ironwood Buckler"
+    },
+    {
+      "korType": "바알 버클러",
+      "engType": "Lacquered Buckler"
+    },
+    {
+      "korType": "십자군 버클러",
+      "engType": "Vaal Buckler"
+    },
+    {
+      "korType": "제국 버클러",
+      "engType": "Crusader Buckler"
+    },
+    {
+      "korType": "소나무 버클러",
+      "engType": "Imperial Buckler"
+    },
+    {
+      "korType": "도색된 버클러",
+      "engType": "Pine Buckler"
+    },
+    {
+      "korType": "단련한 버클러",
+      "engType": "Painted Buckler"
+    },
+    {
+      "korType": "전쟁용 버클러",
+      "engType": "Hammered Buckler"
+    },
+    {
+      "korType": "도금 버클러",
+      "engType": "War Buckler"
+    },
+    {
+      "korType": "참나무 버클러",
+      "engType": "Gilded Buckler"
+    },
+    {
+      "korType": "유약 도색 버클러",
+      "engType": "Oak Buckler"
+    },
+    {
+      "korType": "주름진 버클러",
+      "engType": "Enameled Buckler"
+    },
+    {
+      "korType": "흡열성 버클러",
+      "engType": "Corrugated Buckler"
+    },
+    {
+      "korType": "극지의 버클러",
+      "engType": "Endothermic Buckler"
+    },
+    {
+      "korType": "조율된 냉기 버클러",
+      "engType": "Polar Buckler"
+    },
+    {
+      "korType": "가시 박힌 꾸러미",
+      "engType": "Cold-attuned Buckler"
+    },
+    {
+      "korType": "오리나무 가시 방패",
+      "engType": "Spiked Bundle"
+    },
+    {
+      "korType": "에조미어 가시 방패",
+      "engType": "Alder Spiked Shield"
+    },
+    {
+      "korType": "거울 같은 가시 방패",
+      "engType": "Ezomyte Spiked Shield"
+    },
+    {
+      "korType": "최상급 가시 방패",
+      "engType": "Mirrored Spiked Shield"
+    },
+    {
+      "korType": "유목 가시 방패",
+      "engType": "Supreme Spiked Shield"
+    },
+    {
+      "korType": "합금 가시 방패",
+      "engType": "Driftwood Spiked Shield"
+    },
+    {
+      "korType": "윤이 나는 가시 방패",
+      "engType": "Alloyed Spiked Shield"
+    },
+    {
+      "korType": "화려한 가시 방패",
+      "engType": "Burnished Spiked Shield"
+    },
+    {
+      "korType": "삼나무 가시 방패",
+      "engType": "Ornate Spiked Shield"
+    },
+    {
+      "korType": "합성 가시 방패",
+      "engType": "Redwood Spiked Shield"
+    },
+    {
+      "korType": "광택을 낸 가시 방패",
+      "engType": "Compound Spiked Shield"
+    },
+    {
+      "korType": "주권자 가시 방패",
+      "engType": "Polished Spiked Shield"
+    },
+    {
+      "korType": "잔가지 영혼 방패",
+      "engType": "Sovereign Spiked Shield"
+    },
+    {
+      "korType": "차임벨 영혼 방패",
+      "engType": "Twig Spirit Shield"
+    },
+    {
+      "korType": "토륨 영혼 방패",
+      "engType": "Chiming Spirit Shield"
+    },
+    {
+      "korType": "쥐방울나무 영혼 방패",
+      "engType": "Thorium Spirit Shield"
+    },
+    {
+      "korType": "화석 영혼 방패",
+      "engType": "Lacewood Spirit Shield"
+    },
+    {
+      "korType": "바알 영혼 방패",
+      "engType": "Fossilised Spirit Shield"
+    },
+    {
+      "korType": "화음 영혼 방패",
+      "engType": "Vaal Spirit Shield"
+    },
+    {
+      "korType": "티타늄 영혼 방패",
+      "engType": "Harmonic Spirit Shield"
+    },
+    {
+      "korType": "주목 영혼 방패",
+      "engType": "Titanium Spirit Shield"
+    },
+    {
+      "korType": "뼈 영혼 방패",
+      "engType": "Yew Spirit Shield"
+    },
+    {
+      "korType": "변색된 영혼 방패",
+      "engType": "Bone Spirit Shield"
+    },
+    {
+      "korType": "방울 영혼 방패",
+      "engType": "Tarnished Spirit Shield"
+    },
+    {
+      "korType": "황동 영혼 방패",
+      "engType": "Jingling Spirit Shield"
+    },
+    {
+      "korType": "호두나무 영혼 방패",
+      "engType": "Brass Spirit Shield"
+    },
+    {
+      "korType": "상아 영혼 방패",
+      "engType": "Walnut Spirit Shield"
+    },
+    {
+      "korType": "고대의 영혼 방패",
+      "engType": "Ivory Spirit Shield"
+    },
+    {
+      "korType": "기진맥진한 영혼 방패",
+      "engType": "Ancient Spirit Shield"
+    },
+    {
+      "korType": "아우르는 영혼 방패",
+      "engType": "Exhausting Spirit Shield"
+    },
+    {
+      "korType": "조율된 전이 영혼 방패",
+      "engType": "Subsuming Spirit Shield"
+    },
+    {
+      "korType": "쪼개진 거대 방패",
+      "engType": "Transfer-attuned Spirit Shield"
+    },
+    {
+      "korType": "청동 거대 방패",
+      "engType": "Splintered Tower Shield"
+    },
+    {
+      "korType": "둘러싼 거대 방패",
+      "engType": "Bronze Tower Shield"
+    },
+    {
+      "korType": "문장 거대 방패",
+      "engType": "Girded Tower Shield"
+    },
+    {
+      "korType": "거친 생가죽 거대 방패",
+      "engType": "Crested Tower Shield"
+    },
+    {
+      "korType": "칠흑의 거대 방패",
+      "engType": "Shagreen Tower Shield"
+    },
+    {
+      "korType": "에조미어 거대 방패",
+      "engType": "Ebony Tower Shield"
+    },
+    {
+      "korType": "초대형 거대 방패",
+      "engType": "Ezomyte Tower Shield"
+    },
+    {
+      "korType": "최고의 거대 방패",
+      "engType": "Colossal Tower Shield"
+    },
+    {
+      "korType": "부식된 거대 방패",
+      "engType": "Pinnacle Tower Shield"
+    },
+    {
+      "korType": "생가죽 거대 방패",
+      "engType": "Corroded Tower Shield"
+    },
+    {
+      "korType": "삼나무 거대 방패",
+      "engType": "Rawhide Tower Shield"
+    },
+    {
+      "korType": "구리 거대 방패",
+      "engType": "Cedar Tower Shield"
+    },
+    {
+      "korType": "강화 거대 방패",
+      "engType": "Copper Tower Shield"
+    },
+    {
+      "korType": "도색된 거대 방패",
+      "engType": "Reinforced Tower Shield"
+    },
+    {
+      "korType": "사슴가죽 거대 방패",
+      "engType": "Painted Tower Shield"
+    },
+    {
+      "korType": "마호가니 거대 방패",
+      "engType": "Buckskin Tower Shield"
+    },
+    {
+      "korType": "썩은 원형 방패",
+      "engType": "Mahogany Tower Shield"
+    },
+    {
+      "korType": "티크목 원형 방패",
+      "engType": "Rotted Round Shield"
+    },
+    {
+      "korType": "가시투성이 원형 방패",
+      "engType": "Teak Round Shield"
+    },
+    {
+      "korType": "선홍색 원형 방패",
+      "engType": "Spiny Round Shield"
+    },
+    {
+      "korType": "고상한 원형 방패",
+      "engType": "Cardinal Round Shield"
+    },
+    {
+      "korType": "전나무 원형 방패",
+      "engType": "Elegant Round Shield"
+    },
+    {
+      "korType": "징 박힌 원형 방패",
+      "engType": "Fir Round Shield"
+    },
+    {
+      "korType": "다홍색 원형 방패",
+      "engType": "Studded Round Shield"
+    },
+    {
+      "korType": "화려한 원형 방패",
+      "engType": "Scarlet Round Shield"
+    },
+    {
+      "korType": "단풍나무 원형 방패",
+      "engType": "Splendid Round Shield"
+    },
+    {
+      "korType": "가시 박힌 원형 방패",
+      "engType": "Maple Round Shield"
+    },
+    {
+      "korType": "진홍색 원형 방패",
+      "engType": "Spiked Round Shield"
+    },
+    {
+      "korType": "바로크 원형 방패",
+      "engType": "Crimson Round Shield"
+    },
+    {
+      "korType": "발열성 거대 방패",
+      "engType": "Baroque Round Shield"
+    },
+    {
+      "korType": "마그마 거대 방패",
+      "engType": "Exothermic Tower Shield"
+    },
+    {
+      "korType": "조율된 열기 거대 방패",
+      "engType": "Magmatic Tower Shield"
+    },
+    {
+      "korType": "널빤지 연모양 방패",
+      "engType": "Heat-attuned Tower Shield"
+    },
+    {
+      "korType": "각인한 연모양 방패",
+      "engType": "Plank Kite Shield"
+    },
+    {
+      "korType": "용사의 연모양 방패",
+      "engType": "Branded Kite Shield"
+    },
+    {
+      "korType": "조각무늬 연모양 방패",
+      "engType": "Champion Kite Shield"
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Mosaic Kite Shield"
+    },
+    {
+      "korType": "린덴목 연모양 방패",
+      "engType": "Archon Kite Shield"
+    },
+    {
+      "korType": "강화 연모양 방패",
+      "engType": "Linden Kite Shield"
+    },
+    {
+      "korType": "겹재질 연모양 방패",
+      "engType": "Reinforced Kite Shield"
+    },
+    {
+      "korType": "제사장의 연모양 방패",
+      "engType": "Layered Kite Shield"
+    },
+    {
+      "korType": "조각된 연모양 방패",
+      "engType": "Ceremonial Kite Shield"
+    },
+    {
+      "korType": "강철 연모양 방패",
+      "engType": "Etched Kite Shield"
+    },
+    {
+      "korType": "합판 연모양 방패",
+      "engType": "Steel Kite Shield"
+    },
+    {
+      "korType": "천사의 연모양 방패",
+      "engType": "Laminated Kite Shield"
+    },
+    {
+      "korType": "보존된 화살통",
+      "engType": "Angelic Kite Shield"
+    },
+    {
+      "korType": "불화살통",
+      "engType": "Cured Quiver"
+    },
+    {
+      "korType": "넓은 촉 화살통",
+      "engType": "Fire Arrow Quiver"
+    },
+    {
+      "korType": "관통 화살통",
+      "engType": "Broadhead Arrow Quiver"
+    },
+    {
+      "korType": "가시촉 화살통",
+      "engType": "Penetrating Arrow Quiver"
+    },
+    {
+      "korType": "화려한 화살통",
+      "engType": "Spike-Point Arrow Quiver"
+    },
+    {
+      "korType": "투박한 화살통",
+      "engType": "Ornate Quiver"
+    },
+    {
+      "korType": "전도성 화살통",
+      "engType": "Rugged Quiver"
+    },
+    {
+      "korType": "무거운 화살통",
+      "engType": "Conductive Quiver"
+    },
+    {
+      "korType": "가벼운 화살통",
+      "engType": "Heavy Quiver"
+    },
+    {
+      "korType": "톱니 화살통",
+      "engType": "Light Quiver"
+    },
+    {
+      "korType": "쌍촉 화살통",
+      "engType": "Serrated Arrow Quiver"
+    },
+    {
+      "korType": "상어이빨 화살통",
+      "engType": "Two-Point Arrow Quiver"
+    },
+    {
+      "korType": "뭉툭한 화살통",
+      "engType": "Sharktooth Arrow Quiver"
+    },
+    {
+      "korType": "포대 화살통",
+      "engType": "Blunt Arrow Quiver"
+    },
+    {
+      "korType": "끔찍한 화살통",
+      "engType": "Artillery Quiver"
+    },
+    {
+      "korType": "원시 화살통",
+      "engType": "Vile Arrow Quiver"
+    },
+    {
+      "korType": "깃 화살통",
+      "engType": "Heavy Arrow Quiver"
+    },
+    {
+      "korType": "맹렬한 화살통",
+      "engType": "Primal Arrow Quiver"
+    },
+    {
+      "korType": "염소가죽 장화",
+      "engType": "Feathered Arrow Quiver",
+      "korText": "아버라스의 발굽 염소가죽 장화",
+      "korName": "아버라스의 발굽",
+      "kor_flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "매복 미트",
+      "engType": "Blazing Arrow Quiver",
+      "korText": "혐오스러운 취조 매복 미트",
+      "korName": "혐오스러운 취조",
+      "kor_flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 기병 투구",
+      "engType": "Goathide Boots",
+      "engText": "Abberath's Hooves Goathide Boots",
+      "korText": "깊은 심연 에조미어 기병 투구",
+      "engName": "Abberath's Hooves",
+      "korName": "깊은 심연",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "앤티크 건틀릿",
+      "engType": "Ambush Mitts",
+      "engText": "Abhorrent Interrogation Ambush Mitts",
+      "korText": "제독의 오만 앤티크 건틀릿",
+      "engName": "Abhorrent Interrogation",
+      "korName": "제독의 오만",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "용사의 연모양 방패",
+      "engType": "Ezomyte Burgonet",
+      "engText": "Abyssus Ezomyte Burgonet",
+      "korText": "비호의 오로라 용사의 연모양 방패",
+      "engName": "Abyssus",
+      "korName": "비호의 오로라",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관 왕관",
+      "engType": "Antique Gauntlets",
+      "engText": "Admiral's Arrogance Antique Gauntlets",
+      "korText": "안의 경멸 집정관 왕관",
+      "engName": "Admiral's Arrogance",
+      "korName": "안의 경멸",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "초대형 거대 방패",
+      "engType": "Champion Kite Shield",
+      "engText": "Aegis Aurora Champion Kite Shield",
+      "korText": "안의 유산 초대형 거대 방패",
+      "engName": "Aegis Aurora",
+      "korName": "안의 유산",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상어이빨 화살통",
+      "engType": "Praetor Crown",
+      "engText": "Ahn's Contempt Praetor Crown",
+      "korText": "아후아나의 이빨 상어이빨 화살통",
+      "engName": "Ahn's Contempt",
+      "korName": "아후아나의 이빨",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕 시해자 가면",
+      "engType": "Colossal Tower Shield",
+      "engText": "Ahn's Heritage Colossal Tower Shield",
+      "korText": "아코야의 응시 왕 시해자 가면",
+      "engName": "Ahn's Heritage",
+      "korName": "아코야의 응시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "병사 장화",
+      "engType": "Sharktooth Arrow Quiver",
+      "engText": "Ahuana's Bite Sharktooth Arrow Quiver",
+      "korText": "알베른의 적대 병사 장화",
+      "engName": "Ahuana's Bite",
+      "korName": "알베른의 적대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 미트",
+      "engType": "Regicide Mask",
+      "engText": "Akoya's Gaze Regicide Mask",
+      "korText": "사후 냉각 육욕의 미트",
+      "engName": "Akoya's Gaze",
+      "korName": "사후 냉각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악령술사 장갑",
+      "engType": "Soldier Boots",
+      "engText": "Alberon's Warpath Soldier Boots",
+      "korText": "생존 경쟁 악령술사 장갑",
+      "engName": "Alberon's Warpath",
+      "korName": "생존 경쟁",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "새틴 장갑",
+      "engType": "Carnal Mitts",
+      "engText": "Algor Mortis Carnal Mitts",
+      "korText": "생존 경쟁 새틴 장갑",
+      "engName": "Algor Mortis",
+      "korName": "생존 경쟁",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "죄인 삼각모",
+      "engType": "Sorcerer Gloves",
+      "engText": "Allelopathy Sorcerer Gloves",
+      "korText": "우두머리의 울부짖음 죄인 삼각모",
+      "engName": "Allelopathy",
+      "korName": "우두머리의 울부짖음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 사슬 갑옷",
+      "engType": "Satin Gloves",
+      "engText": "Allelopathy Satin Gloves",
+      "korText": "앰부의 돌진 십자군 사슬 갑옷",
+      "engName": "Allelopathy",
+      "korName": "앰부의 돌진",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뼈 투구",
+      "engType": "Sinner Tricorne",
+      "engText": "Alpha's Howl Sinner Tricorne",
+      "korText": "고대 해골 뼈 투구",
+      "engName": "Alpha's Howl",
+      "korName": "고대 해골",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "용 비늘 장화",
+      "engType": "Crusader Chainmail",
+      "engText": "Ambu's Charge Crusader Chainmail",
+      "korText": "전멸의 접근 용 비늘 장화",
+      "engName": "Ambu's Charge",
+      "korName": "전멸의 접근",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고대의 영혼 방패",
+      "engType": "Bone Helmet",
+      "engText": "Ancient Skull Bone Helmet",
+      "korText": "아펩의 수면 고대의 영혼 방패",
+      "engName": "Ancient Skull",
+      "korName": "아펩의 수면",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 영혼 방패",
+      "engType": "Dragonscale Boots",
+      "engText": "Annihilation's Approach Dragonscale Boots",
+      "korText": "아펩의 수면 바알 영혼 방패",
+      "engName": "Annihilation's Approach",
+      "korName": "아펩의 수면",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 영혼 방패",
+      "engType": "Ancient Spirit Shield",
+      "engText": "Apep's Slumber Ancient Spirit Shield",
+      "korText": "아펩의 패권 바알 영혼 방패",
+      "engName": "Apep's Slumber",
+      "korName": "아펩의 패권",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끈 미트",
+      "engType": "Vaal Spirit Shield",
+      "engText": "Apep's Slumber Vaal Spirit Shield",
+      "korText": "건축가의 손길 끈 미트",
+      "engName": "Apep's Slumber",
+      "korName": "건축가의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "매복 미트",
+      "engType": "Vaal Spirit Shield",
+      "engText": "Apep's Supremacy Vaal Spirit Shield",
+      "korText": "건축가의 손길 매복 미트",
+      "engName": "Apep's Supremacy",
+      "korName": "건축가의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 관",
+      "engType": "Strapped Mitts",
+      "engText": "Architect's Hand Strapped Mitts",
+      "korText": "아세나스의 노래 철제 관",
+      "engName": "Architect's Hand",
+      "korName": "아세나스의 노래",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실크 장갑",
+      "engType": "Ambush Mitts",
+      "engText": "Architect's Hand Ambush Mitts",
+      "korText": "아세나스의 부드러운 손길 실크 장갑",
+      "engName": "Architect's Hand",
+      "korName": "아세나스의 부드러운 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 관",
+      "engType": "Iron Circlet",
+      "engText": "Asenath's Chant Iron Circlet",
+      "korText": "아세나스의 징표 철제 관",
+      "engName": "Asenath's Chant",
+      "korName": "아세나스의 징표",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사슴가죽 튜닉",
+      "engType": "Silk Gloves",
+      "engText": "Asenath's Gentle Touch Silk Gloves",
+      "korText": "부서진 잿더미 사슴가죽 튜닉",
+      "engName": "Asenath's Gentle Touch",
+      "korName": "부서진 잿더미",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "쌍촉 화살통",
+      "engType": "Iron Circlet",
+      "engText": "Asenath's Mark Iron Circlet",
+      "korText": "질식의 진노 쌍촉 화살통",
+      "engName": "Asenath's Mark",
+      "korName": "질식의 진노",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "깃 화살통",
+      "engType": "Buckskin Tunic",
+      "engText": "Ashrend Buckskin Tunic",
+      "korText": "질식의 진노 깃 화살통",
+      "engName": "Ashrend",
+      "korName": "질식의 진노",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "죄인 삼각모",
+      "engType": "Two-Point Arrow Quiver",
+      "engText": "Asphyxia's Wrath Two-Point Arrow Quiver",
+      "korText": "공격병동 죄인 삼각모",
+      "engName": "Asphyxia's Wrath",
+      "korName": "공격병동",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 건틀릿",
+      "engType": "Feathered Arrow Quiver",
+      "engText": "Asphyxia's Wrath Feathered Arrow Quiver",
+      "korText": "앗지리의 예리함 바알 건틀릿",
+      "engName": "Asphyxia's Wrath",
+      "korName": "앗지리의 예리함",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "금색 버클러",
+      "engType": "Sinner Tricorne",
+      "engText": "Assailum Sinner Tricorne",
+      "korText": "앗지리의 거울 금색 버클러",
+      "engName": "Assailum",
+      "korName": "앗지리의 거울",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "금색 버클러",
+      "engType": "Vaal Gauntlets",
+      "engText": "Atziri's Acuity Vaal Gauntlets",
+      "korText": "앗지리의 성찰 금색 버클러",
+      "engName": "Atziri's Acuity",
+      "korName": "앗지리의 성찰",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "희생의 의복",
+      "engType": "Golden Buckler",
+      "engText": "Atziri's Mirror Golden Buckler",
+      "korText": "앗지리의 위풍 희생의 의복",
+      "engName": "Atziri's Mirror",
+      "korName": "앗지리의 위풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "송아지 가죽 장화",
+      "engType": "Golden Buckler",
+      "engText": "Atziri's Reflection Golden Buckler",
+      "korText": "앗지리의 걸음 송아지 가죽 장화",
+      "engName": "Atziri's Reflection",
+      "korName": "앗지리의 걸음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "버클 미트",
+      "engType": "Sacrificial Garb",
+      "engText": "Atziri's Splendour Sacrificial Garb",
+      "korText": "아우카나의 의지 버클 미트",
+      "engName": "Atziri's Splendour",
+      "korName": "아우카나의 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 비늘 건틀릿",
+      "engType": "Slink Boots",
+      "engText": "Atziri's Step Slink Boots",
+      "korText": "아우르시즈 강철 비늘 건틀릿",
+      "engName": "Atziri's Step",
+      "korName": "아우르시즈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "두 가지 색 장화",
+      "engType": "Clasped Mitts",
+      "engText": "Aukuna's Will Clasped Mitts",
+      "korText": "광기의 신호 두 가지 색 장화",
+      "engName": "Aukuna's Will",
+      "korName": "광기의 신호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전신 아룡 비늘 갑옷",
+      "engType": "Steelscale Gauntlets",
+      "engText": "Aurseize Steelscale Gauntlets",
+      "korText": "짐승의 소굴 전신 아룡 비늘 갑옷",
+      "engName": "Aurseize",
+      "korName": "짐승의 소굴",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "티타늄 영혼 방패",
+      "engType": "Two-Toned Boots",
+      "engText": "Beacon of Madness Two-Toned Boots",
+      "korText": "쓰라린 속박의 끝 티타늄 영혼 방패",
+      "engName": "Beacon of Madness",
+      "korName": "쓰라린 속박의 끝",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "불화살통",
+      "engType": "Full Wyrmscale",
+      "engText": "Belly of the Beast Full Wyrmscale",
+      "korText": "검은 섬광 불화살통",
+      "engName": "Belly of the Beast",
+      "korName": "검은 섬광",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹렬한 화살통",
+      "engType": "Titanium Spirit Shield",
+      "engText": "Bitterbind Point Titanium Spirit Shield",
+      "korText": "검은 섬광 맹렬한 화살통",
+      "engName": "Bitterbind Point",
+      "korName": "검은 섬광",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "보존된 화살통",
+      "engType": "Fire Arrow Quiver",
+      "engText": "Blackgleam Fire Arrow Quiver",
+      "korText": "검은 섬광 보존된 화살통",
+      "engName": "Blackgleam",
+      "korName": "검은 섬광",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "옻칠한 투구",
+      "engType": "Blazing Arrow Quiver",
+      "engText": "Blackgleam Blazing Arrow Quiver",
+      "korText": "검은 태양 문양 옻칠한 투구",
+      "engName": "Blackgleam",
+      "korName": "검은 태양 문양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "손가락 없는 실크 장갑",
+      "engType": "Cured Quiver",
+      "engText": "Blackgleam Cured Quiver",
+      "korText": "검은 북극성 손가락 없는 실크 장갑",
+      "engName": "Blackgleam",
+      "korName": "검은 북극성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 미트",
+      "engType": "Lacquered Helmet",
+      "engText": "Black Sun Crest Lacquered Helmet",
+      "korText": "신성 모독자의 장악 암살자의 미트",
+      "engName": "Black Sun Crest",
+      "korName": "신성 모독자의 장악",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뼈 갑옷",
+      "engType": "Fingerless Silk Gloves",
+      "engText": "Black Zenith Fingerless Silk Gloves",
+      "korText": "피붙이 뼈 갑옷",
+      "engName": "Black Zenith",
+      "korName": "피붙이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강탈자 투구",
+      "engType": "Assassin's Mitts",
+      "engText": "Blasphemer's Grasp Assassin's Mitts",
+      "korText": "피의 대가 강탈자 투구",
+      "engName": "Blasphemer's Grasp",
+      "korName": "피의 대가",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "우주의 판금 갑옷",
+      "engType": "Bone Armour",
+      "engText": "Bloodbond Bone Armour",
+      "korText": "블런더보어 우주의 판금 갑옷",
+      "engName": "Bloodbond",
+      "korName": "블런더보어",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실크 슬리퍼",
+      "engType": "Reaver Helmet",
+      "engText": "Blood Price Reaver Helmet",
+      "korText": "울러의 뼈 실크 슬리퍼",
+      "engName": "Blood Price",
+      "korName": "울러의 뼈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "판금 조끼",
+      "engType": "Astral Plate",
+      "engText": "Blunderbore Astral Plate",
+      "korText": "가시나무 갑옷 판금 조끼",
+      "engName": "Blunderbore",
+      "korName": "가시나무 갑옷",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "히드라 비늘 건틀릿",
+      "engType": "Silk Slippers",
+      "engText": "Bones of Ullr Silk Slippers",
+      "korText": "숨결강탈자 히드라 비늘 건틀릿",
+      "engName": "Bones of Ullr",
+      "korName": "숨결강탈자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "변색된 영혼 방패",
+      "engType": "Plate Vest",
+      "engText": "Bramblejack Plate Vest",
+      "korText": "부패한 염수단 깃발 변색된 영혼 방패",
+      "engName": "Bramblejack",
+      "korName": "부패한 염수단 깃발",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "덫사냥꾼 장화",
+      "engType": "Hydrascale Gauntlets",
+      "engText": "Breathstealer Hydrascale Gauntlets",
+      "korText": "부패한 염수단 고래잡이 신발 덫사냥꾼 장화",
+      "engName": "Breathstealer",
+      "korName": "부패한 염수단 고래잡이 신발",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끈을 멘 가죽 갑옷",
+      "engType": "Tarnished Spirit Shield",
+      "engText": "Brinerot Flag Tarnished Spirit Shield",
+      "korText": "활력의 겉옷 끈을 멘 가죽 갑옷",
+      "engName": "Brinerot Flag",
+      "korName": "활력의 겉옷",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태양의 가죽 갑옷",
+      "engType": "Trapper Boots",
+      "engText": "Brinerot Whalers Trapper Boots",
+      "korText": "활력의 겉옷 태양의 가죽 갑옷",
+      "engName": "Brinerot Whalers",
+      "korName": "활력의 겉옷",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무거운 화살통",
+      "engType": "Strapped Leather",
+      "engText": "Briskwrap Strapped Leather",
+      "korText": "파괴의 살 무거운 화살통",
+      "engName": "Briskwrap",
+      "korName": "파괴의 살",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Sun Leather",
+      "engText": "Briskwrap Sun Leather",
+      "korText": "부서진 믿음 집정관의 연모양 방패",
+      "engName": "Briskwrap",
+      "korName": "부서진 믿음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 의복",
+      "engType": "Heavy Quiver",
+      "engText": "Broadstroke Heavy Quiver",
+      "korText": "브론의 융통성 살인자의 의복",
+      "engName": "Broadstroke",
+      "korName": "브론의 융통성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 장화",
+      "engType": "Archon Kite Shield",
+      "engText": "Broken Faith Archon Kite Shield",
+      "korText": "죽음의 자취 살인자의 장화",
+      "engName": "Broken Faith",
+      "korName": "죽음의 자취",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "룬 왕관",
+      "engType": "Cutthroat's Garb",
+      "engText": "Bronn's Lithe Cutthroat's Garb",
+      "korText": "캐디건의 왕관 룬 왕관",
+      "engName": "Bronn's Lithe",
+      "korName": "캐디건의 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "광택 나는 외투",
+      "engType": "Murder Boots",
+      "engText": "Bubonic Trail Murder Boots",
+      "korText": "시체 상인 광택 나는 외투",
+      "engName": "Bubonic Trail",
+      "korName": "시체 상인",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가시 장갑",
+      "engType": "Runic Crown",
+      "engText": "Cadigan's Crown Runic Crown",
+      "korText": "끊임없는 연회 가시 장갑",
+      "engName": "Cadigan's Crown",
+      "korName": "끊임없는 연회",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성인의 사슬 갑옷",
+      "engType": "Varnished Coat",
+      "engText": "Carcass Jack Varnished Coat",
+      "korText": "지휘관의 사슬 성인의 사슬 갑옷",
+      "engName": "Carcass Jack",
+      "korName": "지휘관의 사슬",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전쟁용 버클러",
+      "engType": "Spiked Gloves",
+      "engText": "Ceaseless Feast Spiked Gloves",
+      "korText": "공포의 성배 전쟁용 버클러",
+      "engName": "Ceaseless Feast",
+      "korName": "공포의 성배",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "칠흑의 거대 방패",
+      "engType": "Saintly Chainmail",
+      "engText": "Chains of Command Saintly Chainmail",
+      "korText": "체르노보그의 기둥 칠흑의 거대 방패",
+      "engName": "Chains of Command",
+      "korName": "체르노보그의 기둥",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "승리의 라멜라",
+      "engType": "War Buckler",
+      "engText": "Chalice of Horrors War Buckler",
+      "korText": "체루빔의 악행 승리의 라멜라",
+      "engName": "Chalice of Horrors",
+      "korName": "체루빔의 악행",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "네크로맨서 관",
+      "engType": "Ebony Tower Shield",
+      "engText": "Chernobog's Pillar Ebony Tower Shield",
+      "korText": "치투스의 정점 네크로맨서 관",
+      "engName": "Chernobog's Pillar",
+      "korName": "치투스의 정점",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "옻칠한 의복",
+      "engType": "Triumphant Lamellar",
+      "engText": "Cherrubim's Maleficence Triumphant Lamellar",
+      "korText": "저항의 망토 옻칠한 의복",
+      "engName": "Cherrubim's Maleficence",
+      "korName": "저항의 망토",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "학자의 로브",
+      "engType": "Necromancer Circlet",
+      "engText": "Chitus' Apex Necromancer Circlet",
+      "korText": "화염의 망토 학자의 로브",
+      "engName": "Chitus' Apex",
+      "korName": "화염의 망토",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "석학의 로브",
+      "engType": "Lacquered Garb",
+      "engText": "Cloak of Defiance Lacquered Garb",
+      "korText": "탐위르 이슬리의 망토 석학의 로브",
+      "engName": "Cloak of Defiance",
+      "korName": "탐위르 이슬리의 망토",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고정못 장갑",
+      "engType": "Scholar's Robe",
+      "engText": "Cloak of Flame Scholar's Robe",
+      "korText": "구덩이의 지배자 고정못 장갑",
+      "engName": "Cloak of Flame",
+      "korName": "구덩이의 지배자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 장화",
+      "engType": "Savant's Robe",
+      "engText": "Cloak of Tawm'r Isley Savant's Robe",
+      "korText": "시체 보행자 육욕의 장화",
+      "engName": "Cloak of Tawm'r Isley",
+      "korName": "시체 보행자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 의복",
+      "engType": "Riveted Gloves",
+      "engText": "Command of the Pit Riveted Gloves",
+      "korText": "코스프리의 의지 암살자의 의복",
+      "engName": "Command of the Pit",
+      "korName": "코스프리의 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태양의 관",
+      "engType": "Carnal Boots",
+      "engText": "Corpsewalker Carnal Boots",
+      "korText": "번개애호가의 고깔 태양의 관",
+      "engName": "Corpsewalker",
+      "korName": "번개애호가의 고깔",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실크 두건",
+      "engType": "Assassin's Garb",
+      "engText": "Cospri's Will Assassin's Garb",
+      "korText": "냉동애호가의 고깔 실크 두건",
+      "engName": "Cospri's Will",
+      "korName": "냉동애호가의 고깔",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 기병 투구",
+      "engType": "Solaris Circlet",
+      "engText": "Cowl of the Ceraunophile Solaris Circlet",
+      "korText": "고열애호가의 고깔 에조미어 기병 투구",
+      "engName": "Cowl of the Ceraunophile",
+      "korName": "고열애호가의 고깔",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "톱니 화살통",
+      "engType": "Silken Hood",
+      "engText": "Cowl of the Cryophile Silken Hood",
+      "korText": "바위 폭포 톱니 화살통",
+      "engName": "Cowl of the Cryophile",
+      "korName": "바위 폭포",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "톱니 화살통",
+      "engType": "Ezomyte Burgonet",
+      "engText": "Cowl of the Thermophile Ezomyte Burgonet",
+      "korText": "바위 화살촉 톱니 화살통",
+      "engName": "Cowl of the Thermophile",
+      "korName": "바위 화살촉",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 판금 갑옷",
+      "engType": "Serrated Arrow Quiver",
+      "engText": "Cragfall Serrated Arrow Quiver",
+      "korText": "크라칸의 등딱지 황금 판금 갑옷",
+      "engName": "Cragfall",
+      "korName": "크라칸의 등딱지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "재판관 왕관",
+      "engType": "Serrated Arrow Quiver",
+      "engText": "Craghead Serrated Arrow Quiver",
+      "korText": "크라칸의 키틴질 재판관 왕관",
+      "engName": "Craghead",
+      "korName": "크라칸의 키틴질",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 건틀릿",
+      "engType": "Golden Plate",
+      "engText": "Craiceann's Carapace Golden Plate",
+      "korText": "크라칸의 집게 거신 건틀릿",
+      "engName": "Craiceann's Carapace",
+      "korName": "크라칸의 집게",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거인 각반",
+      "engType": "Magistrate Crown",
+      "engText": "Craiceann's Chitin Magistrate Crown",
+      "korText": "크라칸의 발자국 거인 각반",
+      "engName": "Craiceann's Chitin",
+      "korName": "크라칸의 발자국",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "홈이 긴 배서닛",
+      "engType": "Titan Gauntlets",
+      "engText": "Craiceann's Pincers Titan Gauntlets",
+      "korText": "갈망의 문양 홈이 긴 배서닛",
+      "engName": "Craiceann's Pincers",
+      "korName": "갈망의 문양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소나무 버클러",
+      "engType": "Goliath Greaves",
+      "engText": "Craiceann's Tracks Goliath Greaves",
+      "korText": "페란두스의 문양 소나무 버클러",
+      "engName": "Craiceann's Tracks",
+      "korName": "페란두스의 문양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "자만의 관",
+      "engType": "Fluted Bascinet",
+      "engText": "Crest of Desire Fluted Bascinet",
+      "korText": "눈알 왕관 자만의 관",
+      "engName": "Crest of Desire",
+      "korName": "눈알 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "예언자 왕관",
+      "engType": "Pine Buckler",
+      "engText": "Crest of Perandus Pine Buckler",
+      "korText": "심안의 왕관 예언자 왕관",
+      "engName": "Crest of Perandus",
+      "korName": "심안의 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕 시해자 가면",
+      "engType": "Hubris Circlet",
+      "engText": "Crown of Eyes Hubris Circlet",
+      "korText": "창백한 왕의 왕관 왕 시해자 가면",
+      "engName": "Crown of Eyes",
+      "korName": "창백한 왕의 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "재판관 왕관",
+      "engType": "Prophet Crown",
+      "engText": "Crown of the Inward Eye Prophet Crown",
+      "korText": "폭군의 왕관 재판관 왕관",
+      "engName": "Crown of the Inward Eye",
+      "korName": "폭군의 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "덩굴 관",
+      "engType": "Regicide Mask",
+      "engText": "Crown of the Pale King Regicide Mask",
+      "korText": "가시 왕관 덩굴 관",
+      "engName": "Crown of the Pale King",
+      "korName": "가시 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "격자형 고리 갑옷",
+      "engType": "Magistrate Crown",
+      "engText": "Crown of the Tyrant Magistrate Crown",
+      "korText": "수정 금고 격자형 고리 갑옷",
+      "engName": "Crown of the Tyrant",
+      "korName": "수정 금고",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "역병 가면",
+      "engType": "Vine Circlet",
+      "engText": "Crown of Thorns Vine Circlet",
+      "korText": "커튼콜 역병 가면",
+      "engName": "Crown of Thorns",
+      "korName": "커튼콜",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 장화",
+      "engType": "Latticed Ringmail",
+      "engText": "Crystal Vault Latticed Ringmail",
+      "korText": "제물의 춤 육욕의 장화",
+      "engName": "Crystal Vault",
+      "korName": "제물의 춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "섀클 장화",
+      "engType": "Plague Mask",
+      "engText": "Curtain Call Plague Mask",
+      "korText": "제물의 춤 섀클 장화",
+      "engName": "Curtain Call",
+      "korName": "제물의 춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바로크 원형 방패",
+      "engType": "Carnal Boots",
+      "engText": "Dance of the Offered Carnal Boots",
+      "korText": "다레소의 용기 바로크 원형 방패",
+      "engName": "Dance of the Offered",
+      "korName": "다레소의 용기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전신 용 비늘 갑옷",
+      "engType": "Shackled Boots",
+      "engText": "Dance of the Offered Shackled Boots",
+      "korText": "다레소의 저항 전신 용 비늘 갑옷",
+      "engName": "Dance of the Offered",
+      "korName": "다레소의 저항",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "용 비늘 장화",
+      "engType": "Baroque Round Shield",
+      "engText": "Daresso's Courage Baroque Round Shield",
+      "korText": "어두운 빛의 궤적 용 비늘 장화",
+      "engName": "Daresso's Courage",
+      "korName": "어두운 빛의 궤적",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "초대형 거대 방패",
+      "engType": "Full Dragonscale",
+      "engText": "Daresso's Defiance Full Dragonscale",
+      "korText": "여명 분쇄기 초대형 거대 방패",
+      "engName": "Daresso's Defiance",
+      "korName": "여명 분쇄기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 각반",
+      "engType": "Dragonscale Boots",
+      "engText": "Darkray Vectors Dragonscale Boots",
+      "korText": "여명 질주자 바알 각반",
+      "engName": "Darkray Vectors",
+      "korName": "여명 질주자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 장화",
+      "engType": "Colossal Tower Shield",
+      "engText": "Dawnbreaker Colossal Tower Shield",
+      "korText": "죽음의 문턱 십자군 장화",
+      "engName": "Dawnbreaker",
+      "korName": "죽음의 문턱",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "우주의 판금 갑옷",
+      "engType": "Vaal Greaves",
+      "engText": "Dawnstrider Vaal Greaves",
+      "korText": "죽음의 서약 우주의 판금 갑옷",
+      "engName": "Dawnstrider",
+      "korName": "죽음의 서약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사슴가죽 장화",
+      "engType": "Crusader Boots",
+      "engText": "Death's Door Crusader Boots",
+      "korText": "사슴 추적자 사슴가죽 장화",
+      "engName": "Death's Door",
+      "korName": "사슴 추적자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도금 샐릿",
+      "engType": "Astral Plate",
+      "engText": "Death's Oath Astral Plate",
+      "korText": "죽음의 종 도금 샐릿",
+      "engName": "Death's Oath",
+      "korName": "죽음의 종",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도금 샐릿",
+      "engType": "Deerskin Boots",
+      "engText": "Deerstalker Deerskin Boots",
+      "korText": "죽음의 괘종 도금 샐릿",
+      "engName": "Deerstalker",
+      "korName": "죽음의 괘종",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 불꽃",
+      "engType": "Gilded Sallet",
+      "engText": "Deidbell Gilded Sallet",
+      "korText": "반신의 횃불 황금 불꽃",
+      "engName": "Deidbell",
+      "korName": "반신의 횃불",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 외투",
+      "engType": "Gilded Sallet",
+      "engText": "Deidbellow Gilded Sallet",
+      "korText": "반신의 지배 황금 외투",
+      "engName": "Deidbellow",
+      "korName": "반신의 지배",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 얼굴",
+      "engType": "Golden Flame",
+      "engText": "Demigod's Beacon Golden Flame",
+      "korText": "반신의 불멸 황금 얼굴",
+      "engName": "Demigod's Beacon",
+      "korName": "반신의 불멸",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 칼리가",
+      "engType": "Golden Mantle",
+      "engText": "Demigod's Dominance Golden Mantle",
+      "korText": "반신의 질주 황금 칼리가",
+      "engName": "Demigod's Dominance",
+      "korName": "반신의 질주",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 팔보호구",
+      "engType": "Golden Visage",
+      "engText": "Demigod's Immortality Golden Visage",
+      "korText": "반신의 손길 황금 팔보호구",
+      "engName": "Demigod's Immortality",
+      "korName": "반신의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 화관",
+      "engType": "Golden Caligae",
+      "engText": "Demigod's Stride Golden Caligae",
+      "korText": "반신의 성공 황금 화관",
+      "engName": "Demigod's Stride",
+      "korName": "반신의 성공",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "새틴 장갑",
+      "engType": "Golden Bracers",
+      "engText": "Demigod's Touch Golden Bracers",
+      "korText": "악마 봉합자 새틴 장갑",
+      "engName": "Demigod's Touch",
+      "korName": "악마 봉합자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "파수꾼 재킷",
+      "engType": "Golden Wreath",
+      "engText": "Demigod's Triumph Golden Wreath",
+      "korText": "화살독 갑옷 파수꾼 재킷",
+      "engName": "Demigod's Triumph",
+      "korName": "화살독 갑옷",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 건틀릿",
+      "engType": "Satin Gloves",
+      "engText": "Demon Stitcher Satin Gloves",
+      "korText": "데쉬렛의 조임쇠 강철 건틀릿",
+      "engName": "Demon Stitcher",
+      "korName": "데쉬렛의 조임쇠",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악몽의 배서닛",
+      "engType": "Sentinel Jacket",
+      "engText": "Dendrobate Sentinel Jacket",
+      "korText": "드보토의 헌신 악몽의 배서닛",
+      "engName": "Dendrobate",
+      "korName": "드보토의 헌신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "현자의 로브",
+      "engType": "Steel Gauntlets",
+      "engText": "Deshret's Vise Steel Gauntlets",
+      "korText": "디알라의 악행 현자의 로브",
+      "engName": "Deshret's Vise",
+      "korName": "디알라의 악행",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벨벳 장갑",
+      "engType": "Nightmare Bascinet",
+      "engText": "Devoto's Devotion Nightmare Bascinet",
+      "korText": "도이드리의 악의 벨벳 장갑",
+      "engName": "Devoto's Devotion",
+      "korName": "도이드리의 악의",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "달의 관",
+      "engType": "Sage's Robe",
+      "engText": "Dialla's Malefaction Sage's Robe",
+      "korText": "도이드리의 멸시 달의 관",
+      "engName": "Dialla's Malefaction",
+      "korName": "도이드리의 멸시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "과부거미줄 실크 로브",
+      "engType": "Velvet Gloves",
+      "engText": "Doedre's Malevolence Velvet Gloves",
+      "korText": "도이드리의 가죽 과부거미줄 실크 로브",
+      "engName": "Doedre's Malevolence",
+      "korName": "도이드리의 가죽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벨벳 장갑",
+      "engType": "Lunaris Circlet",
+      "engText": "Doedre's Scorn Lunaris Circlet",
+      "korText": "도이드리의 임기 벨벳 장갑",
+      "engName": "Doedre's Scorn",
+      "korName": "도이드리의 임기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가학자 의복",
+      "engType": "Widowsilk Robe",
+      "engText": "Doedre's Skin Widowsilk Robe",
+      "korText": "도플갱어 위장 가학자 의복",
+      "engName": "Doedre's Skin",
+      "korName": "도플갱어 위장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악령술사 장화",
+      "engType": "Velvet Gloves",
+      "engText": "Doedre's Tenure Velvet Gloves",
+      "korText": "도리아니의 기만 악령술사 장화",
+      "engName": "Doedre's Tenure",
+      "korName": "도리아니의 기만",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 각반",
+      "engType": "Sadist Garb",
+      "engText": "Doppelgänger Guise Sadist Garb",
+      "korText": "도리아니의 기만 거신 각반",
+      "engName": "Doppelgänger Guise",
+      "korName": "도리아니의 기만",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "송아지 가죽 장화",
+      "engType": "Sorcerer Boots",
+      "engText": "Doryani's Delusion Sorcerer Boots",
+      "korText": "도리아니의 기만 송아지 가죽 장화",
+      "engName": "Doryani's Delusion",
+      "korName": "도리아니의 기만",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 건틀릿",
+      "engType": "Titan Greaves",
+      "engText": "Doryani's Delusion Titan Greaves",
+      "korText": "도리아니의 주먹 바알 건틀릿",
+      "engName": "Doryani's Delusion",
+      "korName": "도리아니의 주먹",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성인의 쇠사슬 갑옷",
+      "engType": "Slink Boots",
+      "engText": "Doryani's Delusion Slink Boots",
+      "korText": "도리아니의 프로토타입 성인의 쇠사슬 갑옷",
+      "engName": "Doryani's Delusion",
+      "korName": "도리아니의 프로토타입",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "관통 화살통",
+      "engType": "Vaal Gauntlets",
+      "engText": "Doryani's Fist Vaal Gauntlets",
+      "korText": "치명적 송곳 관통 화살통",
+      "engName": "Doryani's Fist",
+      "korName": "치명적 송곳",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 비늘 장화",
+      "engType": "Saint's Hauberk",
+      "engText": "Doryani's Prototype Saint's Hauberk",
+      "korText": "황혼의 황폐 철제 비늘 장화",
+      "engName": "Doryani's Prototype",
+      "korName": "황혼의 황폐",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가죽 비늘 장화",
+      "engType": "Penetrating Arrow Quiver",
+      "engText": "Drillneck Penetrating Arrow Quiver",
+      "korText": "황혼의 황폐 가죽 비늘 장화",
+      "engName": "Drillneck",
+      "korName": "황혼의 황폐",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 비늘 장화",
+      "engType": "Ironscale Boots",
+      "engText": "Duskblight Ironscale Boots",
+      "korText": "황혼의 끝자락 철제 비늘 장화",
+      "engName": "Duskblight",
+      "korName": "황혼의 끝자락",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가죽 비늘 장화",
+      "engType": "Leatherscale Boots",
+      "engText": "Duskblight Leatherscale Boots",
+      "korText": "황혼의 끝자락 가죽 비늘 장화",
+      "engName": "Duskblight",
+      "korName": "황혼의 끝자락",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "자만의 관",
+      "engType": "Ironscale Boots",
+      "engText": "Dusktoe Ironscale Boots",
+      "korText": "이버의 통합 자만의 관",
+      "engName": "Dusktoe",
+      "korName": "이버의 통합",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 기병 투구",
+      "engType": "Leatherscale Boots",
+      "engText": "Dusktoe Leatherscale Boots",
+      "korText": "창조의 메아리 왕실 기병 투구",
+      "engName": "Dusktoe",
+      "korName": "창조의 메아리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "검사 샐릿",
+      "engType": "Hubris Circlet",
+      "engText": "Eber's Unification Hubris Circlet",
+      "korText": "엘라빈의 얼굴 검사 샐릿",
+      "engName": "Eber's Unification",
+      "korName": "엘라빈의 얼굴",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "늑대 가죽모",
+      "engType": "Royal Burgonet",
+      "engText": "Echoes of Creation Royal Burgonet",
+      "korText": "원소포식 늑대 가죽모",
+      "engName": "Echoes of Creation",
+      "korName": "원소포식",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 연모양 방패",
+      "engType": "Fencer Helm",
+      "engText": "El'Abin's Visage Fencer Helm",
+      "korText": "황제의 철야 강철 연모양 방패",
+      "engName": "El'Abin's Visage",
+      "korName": "황제의 철야",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거인 건틀릿",
+      "engType": "Wolf Pelt",
+      "engText": "Elevore Wolf Pelt",
+      "korText": "제국의 손아귀 거인 건틀릿",
+      "engName": "Elevore",
+      "korName": "제국의 손아귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 미트",
+      "engType": "Steel Kite Shield",
+      "engText": "Emperor's Vigilance Steel Kite Shield",
+      "korText": "엔트로피의 유린 암살자의 미트",
+      "engName": "Emperor's Vigilance",
+      "korName": "엔트로피의 유린",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "토륨 영혼 방패",
+      "engType": "Goliath Gauntlets",
+      "engText": "Empire's Grasp Goliath Gauntlets",
+      "korText": "에쉬의 거울 토륨 영혼 방패",
+      "engName": "Empire's Grasp",
+      "korName": "에쉬의 거울",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 영혼 방패",
+      "engType": "Assassin's Mitts",
+      "engText": "Entropic Devastation Assassin's Mitts",
+      "korText": "에쉬의 거울 바알 영혼 방패",
+      "engName": "Entropic Devastation",
+      "korName": "에쉬의 거울",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 영혼 방패",
+      "engType": "Thorium Spirit Shield",
+      "engText": "Esh's Mirror Thorium Spirit Shield",
+      "korText": "에쉬의 얼굴 바알 영혼 방패",
+      "engName": "Esh's Mirror",
+      "korName": "에쉬의 얼굴",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "파수꾼 재킷",
+      "engType": "Vaal Spirit Shield",
+      "engText": "Esh's Mirror Vaal Spirit Shield",
+      "korText": "탐험의 끝 파수꾼 재킷",
+      "engName": "Esh's Mirror",
+      "korName": "탐험의 끝",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "냉담한 가면",
+      "engType": "Vaal Spirit Shield",
+      "engText": "Esh's Visage Vaal Spirit Shield",
+      "korText": "적의의 눈 냉담한 가면",
+      "engName": "Esh's Visage",
+      "korName": "적의의 눈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 투구",
+      "engType": "Sentinel Jacket",
+      "engText": "Expedition's End Sentinel Jacket",
+      "korText": "에조미어의 방호 철제 투구",
+      "engName": "Expedition's End",
+      "korName": "에조미어의 방호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 투구",
+      "engType": "Callous Mask",
+      "engText": "Eye of Malice Callous Mask",
+      "korText": "에조미어의 면갑 철제 투구",
+      "engName": "Eye of Malice",
+      "korName": "에조미어의 면갑",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끈 미트",
+      "engType": "Iron Hat",
+      "engText": "Ezomyte Hold Iron Hat",
+      "korText": "페이스브레이커 끈 미트",
+      "engName": "Ezomyte Hold",
+      "korName": "페이스브레이커",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "삼각모",
+      "engType": "Iron Hat",
+      "engText": "Ezomyte Peak Iron Hat",
+      "korText": "페어그레이브즈의 삼각모 삼각모",
+      "engName": "Ezomyte Peak",
+      "korName": "페어그레이브즈의 삼각모",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "룬 투구",
+      "engType": "Strapped Mitts",
+      "engText": "Facebreaker Strapped Mitts",
+      "korText": "신념의 수호 룬 투구",
+      "engName": "Facebreaker",
+      "korName": "신념의 수호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "할리퀸 가면",
+      "engType": "Tricorne",
+      "engText": "Fairgraves' Tricorne Tricorne",
+      "korText": "페룰의 이빨 할리퀸 가면",
+      "engName": "Fairgraves' Tricorne",
+      "korName": "페룰의 이빨",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "송아지 가죽 장화",
+      "engType": "Runic Helm",
+      "engText": "Faithguard Runic Helm",
+      "korText": "페룰의 추적 송아지 가죽 장화",
+      "engName": "Faithguard",
+      "korName": "페룰의 추적",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "승리의 라멜라",
+      "engType": "Harlequin Mask",
+      "engText": "Farrul's Bite Harlequin Mask",
+      "korText": "페룰의 모피 승리의 라멜라",
+      "engName": "Farrul's Bite",
+      "korName": "페룰의 모피",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "히드라 비늘 건틀릿",
+      "engType": "Slink Boots",
+      "engText": "Farrul's Chase Slink Boots",
+      "korText": "페룰의 급습 히드라 비늘 건틀릿",
+      "engName": "Farrul's Chase",
+      "korName": "페룰의 급습",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "과부거미줄 실크 로브",
+      "engType": "Triumphant Lamellar",
+      "engText": "Farrul's Fur Triumphant Lamellar",
+      "korText": "페누무스의 연막 과부거미줄 실크 로브",
+      "engName": "Farrul's Fur",
+      "korName": "페누무스의 연막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 장화",
+      "engType": "Hydrascale Gauntlets",
+      "engText": "Farrul's Pounce Hydrascale Gauntlets",
+      "korText": "페누무스의 방사 돌기 암살자의 장화",
+      "engName": "Farrul's Pounce",
+      "korName": "페누무스의 방사 돌기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "네크로맨서 관",
+      "engType": "Widowsilk Robe",
+      "engText": "Fenumus' Shroud Widowsilk Robe",
+      "korText": "페누무스의 독소 네크로맨서 관",
+      "engName": "Fenumus' Shroud",
+      "korName": "페누무스의 독소",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 미트",
+      "engType": "Assassin's Boots",
+      "engText": "Fenumus' Spinnerets Assassin's Boots",
+      "korText": "페누무스의 매듭 육욕의 미트",
+      "engName": "Fenumus' Spinnerets",
+      "korName": "페누무스의 매듭",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태양의 관",
+      "engType": "Necromancer Circlet",
+      "engText": "Fenumus' Toxins Necromancer Circlet",
+      "korText": "불꽃 시야 태양의 관",
+      "engName": "Fenumus' Toxins",
+      "korName": "불꽃 시야",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 비늘 건틀릿",
+      "engType": "Carnal Mitts",
+      "engText": "Fenumus' Weave Carnal Mitts",
+      "korText": "육체와 영혼 철제 비늘 건틀릿",
+      "engName": "Fenumus' Weave",
+      "korName": "육체와 영혼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "네크로맨서 실크 갑옷",
+      "engType": "Solaris Circlet",
+      "engText": "Flamesight Solaris Circlet",
+      "korText": "살점조각사 네크로맨서 실크 갑옷",
+      "engName": "Flamesight",
+      "korName": "살점조각사",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거울 같은 가시 방패",
+      "engType": "Ironscale Gauntlets",
+      "engText": "Flesh and Spirit Ironscale Gauntlets",
+      "korText": "천둥의 샘 거울 같은 가시 방패",
+      "engName": "Flesh and Spirit",
+      "korName": "천둥의 샘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 왕관",
+      "engType": "Necromancer Silks",
+      "engText": "Fleshcrafter Necromancer Silks",
+      "korText": "금단의 샤코 대형 왕관",
+      "engName": "Fleshcrafter",
+      "korName": "금단의 샤코",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거친 가죽 갑옷",
+      "engType": "Mirrored Spiked Shield",
+      "engText": "Font of Thunder Mirrored Spiked Shield",
+      "korText": "여우의 행운 거친 가죽 갑옷",
+      "engName": "Font of Thunder",
+      "korName": "여우의 행운",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거친 가죽 갑옷",
+      "engType": "Great Crown",
+      "engText": "Forbidden Shako Great Crown",
+      "korText": "여우 그림자 거친 가죽 갑옷",
+      "engName": "Forbidden Shako",
+      "korName": "여우 그림자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 가면",
+      "engType": "Wild Leather",
+      "engText": "Fox's Fortune Wild Leather",
+      "korText": "프랙털 사상 바알 가면",
+      "engName": "Fox's Fortune",
+      "korName": "프랙털 사상",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가죽 두건",
+      "engType": "Wild Leather",
+      "engText": "Foxshade Wild Leather",
+      "korText": "서리와 화염 가죽 두건",
+      "engName": "Foxshade",
+      "korName": "서리와 화염",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태양의 관",
+      "engType": "Vaal Mask",
+      "engText": "Fractal Thoughts Vaal Mask",
+      "korText": "강풍 시야 태양의 관",
+      "engName": "Fractal Thoughts",
+      "korName": "강풍 시야",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "히드라 비늘 장화",
+      "engType": "Leather Hood",
+      "engText": "Frostferno Leather Hood",
+      "korText": "도박질주 히드라 비늘 장화",
+      "engName": "Frostferno",
+      "korName": "도박질주",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 장화",
+      "engType": "Solaris Circlet",
+      "engText": "Galesight Solaris Circlet",
+      "korText": "무리의 추진력 군단 장화",
+      "engName": "Galesight",
+      "korName": "무리의 추진력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "석학의 로브",
+      "engType": "Hydrascale Boots",
+      "engText": "Gamblesprint Hydrascale Boots",
+      "korText": "덧없는 자의 의복 석학의 로브",
+      "engName": "Gamblesprint",
+      "korName": "덧없는 자의 의복",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "은신 장화",
+      "engType": "Legion Boots",
+      "engText": "Gang's Momentum Legion Boots",
+      "korText": "가루칸의 비행 은신 장화",
+      "engName": "Gang's Momentum",
+      "korName": "가루칸의 비행",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 왕관",
+      "engType": "Savant's Robe",
+      "engText": "Garb of the Ephemeral Savant's Robe",
+      "korText": "조프리의 문양 대형 왕관",
+      "engName": "Garb of the Ephemeral",
+      "korName": "조프리의 문양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 왕관",
+      "engType": "Stealth Boots",
+      "engText": "Garukhan's Flight Stealth Boots",
+      "korText": "조프리의 유산 대형 왕관",
+      "engName": "Garukhan's Flight",
+      "korName": "조프리의 유산",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 고리 갑옷",
+      "engType": "Great Crown",
+      "engText": "Geofri's Crest Great Crown",
+      "korText": "조프리의 성역 고상한 고리 갑옷",
+      "engName": "Geofri's Crest",
+      "korName": "조프리의 성역",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실크 조끼",
+      "engType": "Great Crown",
+      "engText": "Geofri's Legacy Great Crown",
+      "korText": "유령의 몸서리 실크 조끼",
+      "engName": "Geofri's Legacy",
+      "korName": "유령의 몸서리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "청동 건틀릿",
+      "engType": "Elegant Ringmail",
+      "engText": "Geofri's Sanctuary Elegant Ringmail",
+      "korText": "거대한 파멸 청동 건틀릿",
+      "engName": "Geofri's Sanctuary",
+      "korName": "거대한 파멸",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 가면",
+      "engType": "Silken Vest",
+      "engText": "Ghostwrithe Silken Vest",
+      "korText": "혼돈의 섬광 바알 가면",
+      "engName": "Ghostwrithe",
+      "korName": "혼돈의 섬광",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "윤이 나는 가시 방패",
+      "engType": "Bronze Gauntlets",
+      "engText": "Giantsbane Bronze Gauntlets",
+      "korText": "빛나는 원반 윤이 나는 가시 방패",
+      "engName": "Giantsbane",
+      "korName": "빛나는 원반",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가죽 모자",
+      "engType": "Vaal Mask",
+      "engText": "Glimpse of Chaos Vaal Mask",
+      "korText": "금테 가죽 모자",
+      "engName": "Glimpse of Chaos",
+      "korName": "금테",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소가죽 장화",
+      "engType": "Burnished Spiked Shield",
+      "engText": "Glitterdisc Burnished Spiked Shield",
+      "korText": "황금 아룡 소가죽 장화",
+      "engName": "Glitterdisc",
+      "korName": "황금 아룡",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕 시해자 가면",
+      "engType": "Leather Cap",
+      "engText": "Goldrim Leather Cap",
+      "korText": "고르곤의 응시 왕 시해자 가면",
+      "engName": "Goldrim",
+      "korName": "고르곤의 응시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "히드라 비늘 건틀릿",
+      "engType": "Nubuck Boots",
+      "engText": "Goldwyrm Nubuck Boots",
+      "korText": "무덤의 속박 히드라 비늘 건틀릿",
+      "engName": "Goldwyrm",
+      "korName": "무덤의 속박",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "장어가죽 장갑",
+      "engType": "Regicide Mask",
+      "engText": "Gorgon's Gaze Regicide Mask",
+      "korText": "위대한 고대 신의 촉수 장어가죽 장갑",
+      "engName": "Gorgon's Gaze",
+      "korName": "위대한 고대 신의 촉수",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "주름진 버클러",
+      "engType": "Hydrascale Gauntlets",
+      "engText": "Gravebind Hydrascale Gauntlets",
+      "korText": "위대한 고대 신의 수호 주름진 버클러",
+      "engName": "Gravebind",
+      "korName": "위대한 고대 신의 수호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 판금 갑옷",
+      "engType": "Eelskin Gloves",
+      "engText": "Great Old One's Tentacles Eelskin Gloves",
+      "korText": "탐욕의 포옹 황금 판금 갑옷",
+      "engName": "Great Old One's Tentacles",
+      "korName": "탐욕의 포옹",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벨벳 슬리퍼",
+      "engType": "Corrugated Buckler",
+      "engText": "Great Old One's Ward Corrugated Buckler",
+      "korText": "탐욕의 발판 벨벳 슬리퍼",
+      "engName": "Great Old One's Ward",
+      "korName": "탐욕의 발판",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "신비학자의 장갑",
+      "engType": "Golden Plate",
+      "engText": "Greed's Embrace Golden Plate",
+      "korText": "의회의 장악 신비학자의 장갑",
+      "engName": "Greed's Embrace",
+      "korName": "의회의 장악",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아룡 비늘 더블릿",
+      "engType": "Velvet Slippers",
+      "engText": "Greedtrap Velvet Slippers",
+      "korText": "그루스컬의 가죽 아룡 비늘 더블릿",
+      "engName": "Greedtrap",
+      "korName": "그루스컬의 가죽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뱀 비늘 건틀릿",
+      "engType": "Arcanist Gloves",
+      "engText": "Grip of the Council Arcanist Gloves",
+      "korText": "혈우병 뱀 비늘 건틀릿",
+      "engName": "Grip of the Council",
+      "korName": "혈우병",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "정신의 창살",
+      "engType": "Wyrmscale Doublet",
+      "engText": "Gruthkul's Pelt Wyrmscale Doublet",
+      "korText": "건장한 부정자 정신의 창살",
+      "engName": "Gruthkul's Pelt",
+      "korName": "건장한 부정자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹신자 장갑",
+      "engType": "Serpentscale Gauntlets",
+      "engText": "Haemophilia Serpentscale Gauntlets",
+      "korText": "열렬한 자의 손 맹신자 장갑",
+      "engName": "Haemophilia",
+      "korName": "열렬한 자의 손",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 장갑",
+      "engType": "Mind Cage",
+      "engText": "Hale Negator Mind Cage",
+      "korText": "고위 템플러의 손 십자군 장갑",
+      "engName": "Hale Negator",
+      "korName": "고위 템플러의 손",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고대의 건틀릿",
+      "engType": "Zealot Gloves",
+      "engText": "Hand of the Fervent Zealot Gloves",
+      "korText": "증오의 탄생 고대의 건틀릿",
+      "engName": "Hand of the Fervent",
+      "korName": "증오의 탄생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가죽 두건",
+      "engType": "Crusader Gloves",
+      "engText": "Hands of the High Templar Crusader Gloves",
+      "korText": "열기와 오한 가죽 두건",
+      "engName": "Hands of the High Templar",
+      "korName": "열기와 오한",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "요술사 장갑",
+      "engType": "Ancient Gauntlets",
+      "engText": "Hateforge Ancient Gauntlets",
+      "korText": "지옥 인도자 요술사 장갑",
+      "engName": "Hateforge",
+      "korName": "지옥 인도자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "신살자 가면",
+      "engType": "Leather Hood",
+      "engText": "Heatshiver Leather Hood",
+      "korText": "이단자의 면사포 신살자 가면",
+      "engName": "Heatshiver",
+      "korName": "이단자의 면사포",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "병사 투구",
+      "engType": "Conjurer Gloves",
+      "engText": "Hellbringer Conjurer Gloves",
+      "korText": "명예의 총본산 병사 투구",
+      "engName": "Hellbringer",
+      "korName": "명예의 총본산",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "염소가죽 장갑",
+      "engType": "Deicide Mask",
+      "engText": "Heretic's Veil Deicide Mask",
+      "korText": "흐림번 염소가죽 장갑",
+      "engName": "Heretic's Veil",
+      "korName": "흐림번",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "삼니움 투구",
+      "engType": "Soldier Helmet",
+      "engText": "Honourhome Soldier Helmet",
+      "korText": "흐림노르의 결의 삼니움 투구",
+      "engName": "Honourhome",
+      "korName": "흐림노르의 결의",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "염소가죽 장갑",
+      "engType": "Goathide Gloves",
+      "engText": "Hrimburn Goathide Gloves",
+      "korText": "흐림소로우 염소가죽 장갑",
+      "engName": "Hrimburn",
+      "korName": "흐림소로우",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상어이빨 화살통",
+      "engType": "Samnite Helmet",
+      "engText": "Hrimnor's Resolve Samnite Helmet",
+      "korText": "하이리의 이빨 상어이빨 화살통",
+      "engName": "Hrimnor's Resolve",
+      "korName": "하이리의 이빨",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상어이빨 화살통",
+      "engType": "Goathide Gloves",
+      "engText": "Hrimsorrow Goathide Gloves",
+      "korText": "하이리의 소멸 상어이빨 화살통",
+      "engName": "Hrimsorrow",
+      "korName": "하이리의 소멸",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성좌의 가죽 갑옷",
+      "engType": "Sharktooth Arrow Quiver",
+      "engText": "Hyrri's Bite Sharktooth Arrow Quiver",
+      "korText": "하이리의 노여움 성좌의 가죽 갑옷",
+      "engName": "Hyrri's Bite",
+      "korName": "하이리의 노여움",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "격자형 고리 갑옷",
+      "engType": "Sharktooth Arrow Quiver",
+      "engText": "Hyrri's Demise Sharktooth Arrow Quiver",
+      "korText": "얼음 묘지 격자형 고리 갑옷",
+      "engName": "Hyrri's Demise",
+      "korName": "얼음 묘지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성인의 사슬 갑옷",
+      "engType": "Zodiac Leather",
+      "engText": "Hyrri's Ire Zodiac Leather",
+      "korText": "백열하는 심장 성인의 사슬 갑옷",
+      "engName": "Hyrri's Ire",
+      "korName": "백열하는 심장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "자만의 관",
+      "engType": "Latticed Ringmail",
+      "engText": "Icetomb Latticed Ringmail",
+      "korText": "인디곤 자만의 관",
+      "engName": "Icetomb",
+      "korName": "인디곤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도망자 장화",
+      "engType": "Saintly Chainmail",
+      "engText": "Incandescent Heart Saintly Chainmail",
+      "korText": "불가분한 운명 도망자 장화",
+      "engName": "Incandescent Heart",
+      "korName": "불가분한 운명",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "과부거미줄 실크 로브",
+      "engType": "Hubris Circlet",
+      "engText": "Indigon Hubris Circlet",
+      "korText": "지옥불 외투 과부거미줄 실크 로브",
+      "engName": "Indigon",
+      "korName": "지옥불 외투",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오컬티스트의 법의",
+      "engType": "Fugitive Boots",
+      "engText": "Inextricable Fate Fugitive Boots",
+      "korText": "지옥불 외투 오컬티스트의 법의",
+      "engName": "Inextricable Fate",
+      "korName": "지옥불 외투",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가학자 의복",
+      "engType": "Widowsilk Robe",
+      "engText": "Infernal Mantle Widowsilk Robe",
+      "korText": "인펄사의 상심 가학자 의복",
+      "engName": "Infernal Mantle",
+      "korName": "인펄사의 상심",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Occultist's Vestment",
+      "engText": "Infernal Mantle Occultist's Vestment",
+      "korText": "지지 않는 태양 집정관의 연모양 방패",
+      "engName": "Infernal Mantle",
+      "korName": "지지 않는 태양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "신비학자의 슬리퍼",
+      "engType": "Sadist Garb",
+      "engText": "Inpulsa's Broken Heart Sadist Garb",
+      "korText": "이냐의 통찰 신비학자의 슬리퍼",
+      "engName": "Inpulsa's Broken Heart",
+      "korName": "이냐의 통찰",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 판금 갑옷",
+      "engType": "Archon Kite Shield",
+      "engText": "Invictus Solaris Archon Kite Shield",
+      "korText": "철 심장 십자군 판금 갑옷",
+      "engName": "Invictus Solaris",
+      "korName": "철 심장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "최상급 가시 방패",
+      "engType": "Arcanist Slippers",
+      "engText": "Inya's Epiphany Arcanist Slippers",
+      "korText": "고통의 턱 최상급 가시 방패",
+      "engName": "Inya's Epiphany",
+      "korName": "고통의 턱",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고대 각반",
+      "engType": "Crusader Plate",
+      "engText": "Iron Heart Crusader Plate",
+      "korText": "카후투로아의 확신 고대 각반",
+      "engName": "Iron Heart",
+      "korName": "카후투로아의 확신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "금실 장갑",
+      "engType": "Supreme Spiked Shield",
+      "engText": "Jaws of Agony Supreme Spiked Shield",
+      "korText": "칼리사의 은총 금실 장갑",
+      "engName": "Jaws of Agony",
+      "korName": "칼리사의 은총",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도색된 버클러",
+      "engType": "Ancient Greaves",
+      "engText": "Kahuturoa's Certainty Ancient Greaves",
+      "korText": "붙잡은 냉기 도색된 버클러",
+      "engName": "Kahuturoa's Certainty",
+      "korName": "붙잡은 냉기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도색된 버클러",
+      "engType": "Samite Gloves",
+      "engText": "Kalisa's Grace Samite Gloves",
+      "korText": "붙잡은 영혼 도색된 버클러",
+      "engName": "Kalisa's Grace",
+      "korName": "붙잡은 영혼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공성 투구",
+      "engType": "Painted Buckler",
+      "engText": "Kaltenhalt Painted Buckler",
+      "korText": "카옴의 명령 공성 투구",
+      "engName": "Kaltenhalt",
+      "korName": "카옴의 명령",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영광의 판금 갑옷",
+      "engType": "Painted Buckler",
+      "engText": "Kaltensoul Painted Buckler",
+      "korText": "카옴의 심장 영광의 판금 갑옷",
+      "engName": "Kaltensoul",
+      "korName": "카옴의 심장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 각반",
+      "engType": "Siege Helmet",
+      "engText": "Kaom's Command Siege Helmet",
+      "korText": "카옴의 근본 거신 각반",
+      "engName": "Kaom's Command",
+      "korName": "카옴의 근본",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 건틀릿",
+      "engType": "Glorious Plate",
+      "engText": "Kaom's Heart Glorious Plate",
+      "korText": "카옴의 혼백 거신 건틀릿",
+      "engName": "Kaom's Heart",
+      "korName": "카옴의 혼백",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철목 버클러",
+      "engType": "Titan Greaves",
+      "engText": "Kaom's Roots Titan Greaves",
+      "korText": "킬로아바의 엄포 철목 버클러",
+      "engName": "Kaom's Roots",
+      "korName": "킬로아바의 엄포",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "점령자의 사슬 갑옷",
+      "engType": "Titan Gauntlets",
+      "engText": "Kaom's Spirit Titan Gauntlets",
+      "korText": "왕의 보호구 점령자의 사슬 갑옷",
+      "engName": "Kaom's Spirit",
+      "korName": "왕의 보호구",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "정교한 가죽 갑옷",
+      "engType": "Ironwood Buckler",
+      "engText": "Kiloava's Bluster Ironwood Buckler",
+      "korText": "킨츠키 정교한 가죽 갑옷",
+      "engName": "Kiloava's Bluster",
+      "korName": "킨츠키",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "압도적인 판금 갑옷",
+      "engType": "Conquest Chainmail",
+      "engText": "Kingsguard Conquest Chainmail",
+      "korText": "우툴라의 굶주림 압도적인 판금 갑옷",
+      "engName": "Kingsguard",
+      "korName": "우툴라의 굶주림",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹신자 투구",
+      "engType": "Exquisite Leather",
+      "engText": "Kintsugi Exquisite Leather",
+      "korText": "키타바의 갈증 맹신자 투구",
+      "engName": "Kintsugi",
+      "korName": "키타바의 갈증",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상아 영혼 방패",
+      "engType": "Majestic Plate",
+      "engText": "Utula's Hunger Majestic Plate",
+      "korText": "공명의 계략 상아 영혼 방패",
+      "engName": "Utula's Hunger",
+      "korName": "공명의 계략",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고대의 영혼 방패",
+      "engType": "Zealot Helmet",
+      "engText": "Kitava's Thirst Zealot Helmet",
+      "korText": "공명의 계략 고대의 영혼 방패",
+      "engName": "Kitava's Thirst",
+      "korName": "공명의 계략",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "축제용 가면",
+      "engType": "Ivory Spirit Shield",
+      "engText": "Kongming's Stratagem Ivory Spirit Shield",
+      "korText": "음흉한 시선 축제용 가면",
+      "engName": "Kongming's Stratagem",
+      "korName": "음흉한 시선",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아룡 비늘 장화",
+      "engType": "Ancient Spirit Shield",
+      "engText": "Kongming's Stratagem Ancient Spirit Shield",
+      "korText": "광분의 유산 아룡 비늘 장화",
+      "engName": "Kongming's Stratagem",
+      "korName": "광분의 유산",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거울 같은 가시 방패",
+      "engType": "Festival Mask",
+      "engText": "Leer Cast Festival Mask",
+      "korText": "나병 환자의 자선 거울 같은 가시 방패",
+      "engName": "Leer Cast",
+      "korName": "나병 환자의 자선",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화려한 고리 갑옷",
+      "engType": "Wyrmscale Boots",
+      "engText": "Legacy of Fury Wyrmscale Boots",
+      "korText": "사그라든 빛의 의복 화려한 고리 갑옷",
+      "engName": "Legacy of Fury",
+      "korName": "사그라든 빛의 의복",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사막 브리간딘",
+      "engType": "Mirrored Spiked Shield",
+      "engText": "Leper's Alms Mirrored Spiked Shield",
+      "korText": "번개 도선 사막 브리간딘",
+      "engName": "Leper's Alms",
+      "korName": "번개 도선",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "방울 영혼 방패",
+      "engType": "Ornate Ringmail",
+      "engText": "Lightbane Raiment Ornate Ringmail",
+      "korText": "루나리스의 빛 방울 영혼 방패",
+      "engName": "Lightbane Raiment",
+      "korName": "루나리스의 빛",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 왕관",
+      "engType": "Desert Brigandine",
+      "engText": "Lightning Coil Desert Brigandine",
+      "korText": "빛의 밀렵꾼 대형 왕관",
+      "engName": "Lightning Coil",
+      "korName": "빛의 밀렵꾼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "청동 비늘 장화",
+      "engType": "Jingling Spirit Shield",
+      "engText": "Light of Lunaris Jingling Spirit Shield",
+      "korText": "라이온아이의 발 청동 비늘 장화",
+      "engName": "Light of Lunaris",
+      "korName": "라이온아이의 발",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "최고의 거대 방패",
+      "engType": "Great Crown",
+      "engText": "Lightpoacher Great Crown",
+      "korText": "라이온아이의 후회 최고의 거대 방패",
+      "engName": "Lightpoacher",
+      "korName": "라이온아이의 후회",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 판금 갑옷",
+      "engType": "Bronzescale Boots",
+      "engText": "Lioneye's Paws Bronzescale Boots",
+      "korText": "라이온아이의 시각 십자군 판금 갑옷",
+      "engName": "Lioneye's Paws",
+      "korName": "라이온아이의 시각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 건틀릿",
+      "engType": "Pinnacle Tower Shield",
+      "engText": "Lioneye's Remorse Pinnacle Tower Shield",
+      "korText": "록토니얼의 손길 철제 건틀릿",
+      "engName": "Lioneye's Remorse",
+      "korName": "록토니얼의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 고리 갑옷",
+      "engType": "Crusader Plate",
+      "engText": "Lioneye's Vision Crusader Plate",
+      "korText": "지식의 매듭 고상한 고리 갑옷",
+      "engName": "Lioneye's Vision",
+      "korName": "지식의 매듭",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "생가죽 거대 방패",
+      "engType": "Iron Gauntlets",
+      "engText": "Lochtonial Caress Iron Gauntlets",
+      "korText": "늑대 거미 생가죽 거대 방패",
+      "engName": "Lochtonial Caress",
+      "korName": "늑대 거미",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 미트",
+      "engType": "Elegant Ringmail",
+      "engText": "Loreweave Elegant Ringmail",
+      "korText": "마키나 미트 살인자의 미트",
+      "engName": "Loreweave",
+      "korName": "마키나 미트",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "최고의 거대 방패",
+      "engType": "Rawhide Tower Shield",
+      "engText": "Lycosidae Rawhide Tower Shield",
+      "korText": "커다란 일식 최고의 거대 방패",
+      "engName": "Lycosidae",
+      "korName": "커다란 일식",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 연모양 방패",
+      "engType": "Murder Mitts",
+      "engText": "Machina Mitts Murder Mitts",
+      "korText": "마훅소틀의 계책 강철 연모양 방패",
+      "engName": "Machina Mitts",
+      "korName": "마훅소틀의 계책",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철 가면",
+      "engType": "Pinnacle Tower Shield",
+      "engText": "Magna Eclipsis Pinnacle Tower Shield",
+      "korText": "말라카이의 각성 철 가면",
+      "engName": "Magna Eclipsis",
+      "korName": "말라카이의 각성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화음 영혼 방패",
+      "engType": "Steel Kite Shield",
+      "engText": "Mahuxotl's Machination Steel Kite Shield",
+      "korText": "말라카이의 고리 화음 영혼 방패",
+      "engName": "Mahuxotl's Machination",
+      "korName": "말라카이의 고리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 미트",
+      "engType": "Iron Mask",
+      "engText": "Malachai's Awakening Iron Mask",
+      "korText": "말라카이의 징표 살인자의 미트",
+      "engName": "Malachai's Awakening",
+      "korName": "말라카이의 징표",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철 가면",
+      "engType": "Harmonic Spirit Shield",
+      "engText": "Malachai's Loop Harmonic Spirit Shield",
+      "korText": "말라카이의 위장막 철 가면",
+      "engName": "Malachai's Loop",
+      "korName": "말라카이의 위장막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관 왕관",
+      "engType": "Murder Mitts",
+      "engText": "Malachai's Mark Murder Mitts",
+      "korText": "말라카이의 시각 집정관 왕관",
+      "engName": "Malachai's Mark",
+      "korName": "말라카이의 시각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "합성 가시 방패",
+      "engType": "Iron Mask",
+      "engText": "Malachai's Simula Iron Mask",
+      "korText": "말리가로의 렌즈 합성 가시 방패",
+      "engName": "Malachai's Simula",
+      "korName": "말리가로의 렌즈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사슴가죽 장갑",
+      "engType": "Praetor Crown",
+      "engText": "Malachai's Vision Praetor Crown",
+      "korText": "말리가로의 기교 사슴가죽 장갑",
+      "engName": "Malachai's Vision",
+      "korName": "말리가로의 기교",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화려한 화살통",
+      "engType": "Compound Spiked Shield",
+      "engText": "Maligaro's Lens Compound Spiked Shield",
+      "korText": "말로니의 기계 장치 화려한 화살통",
+      "engName": "Maligaro's Lens",
+      "korName": "말로니의 기계 장치",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끔찍한 화살통",
+      "engType": "Deerskin Gloves",
+      "engText": "Maligaro's Virtuosity Deerskin Gloves",
+      "korText": "말로니의 해질녘 끔찍한 화살통",
+      "engName": "Maligaro's Virtuosity",
+      "korName": "말로니의 해질녘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뭉툭한 화살통",
+      "engType": "Ornate Quiver",
+      "engText": "Maloney's Mechanism Ornate Quiver",
+      "korText": "말로니의 해질녘 뭉툭한 화살통",
+      "engName": "Maloney's Mechanism",
+      "korName": "말로니의 해질녘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화석 영혼 방패",
+      "engType": "Vile Arrow Quiver",
+      "engText": "Maloney's Nightfall Vile Arrow Quiver",
+      "korText": "마나폭풍 화석 영혼 방패",
+      "engName": "Maloney's Nightfall",
+      "korName": "마나폭풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "쥐방울나무 영혼 방패",
+      "engType": "Blunt Arrow Quiver",
+      "engText": "Maloney's Nightfall Blunt Arrow Quiver",
+      "korText": "마나폭풍 쥐방울나무 영혼 방패",
+      "engName": "Maloney's Nightfall",
+      "korName": "마나폭풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 장화",
+      "engType": "Fossilised Spirit Shield",
+      "engText": "Manastorm Fossilised Spirit Shield",
+      "korText": "군단의 행진 군단 장화",
+      "engName": "Manastorm",
+      "korName": "군단의 행진",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "부족 관",
+      "engType": "Lacewood Spirit Shield",
+      "engText": "Manastorm Lacewood Spirit Shield",
+      "korText": "붉은 계약의 징표 부족 관",
+      "engName": "Manastorm",
+      "korName": "붉은 계약의 징표",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "덩굴 관",
+      "engType": "Legion Boots",
+      "engText": "March of the Legion Legion Boots",
+      "korText": "순교자의 왕관 덩굴 관",
+      "engName": "March of the Legion",
+      "korName": "순교자의 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "재판관 왕관",
+      "engType": "Tribal Circlet",
+      "engText": "Mark of the Red Covenant Tribal Circlet",
+      "korText": "영혼 흡수자의 가면 재판관 왕관",
+      "engName": "Mark of the Red Covenant",
+      "korName": "영혼 흡수자의 가면",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 투구",
+      "engType": "Vine Circlet",
+      "engText": "Martyr's Crown Vine Circlet",
+      "korText": "영혼 흡수자의 가면 십자군 투구",
+      "engName": "Martyr's Crown",
+      "korName": "영혼 흡수자의 가면",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "재판관 왕관",
+      "engType": "Magistrate Crown",
+      "engText": "Mask of the Spirit Drinker Magistrate Crown",
+      "korText": "꿰맨 악마의 가면 재판관 왕관",
+      "engName": "Mask of the Spirit Drinker",
+      "korName": "꿰맨 악마의 가면",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "재판관 왕관",
+      "engType": "Crusader Helmet",
+      "engText": "Mask of the Spirit Drinker Crusader Helmet",
+      "korText": "재판소의 가면 재판관 왕관",
+      "engName": "Mask of the Spirit Drinker",
+      "korName": "재판소의 가면",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "변색된 영혼 방패",
+      "engType": "Magistrate Crown",
+      "engText": "Mask of the Stitched Demon Magistrate Crown",
+      "korText": "마투아 투푸나 변색된 영혼 방패",
+      "engName": "Mask of the Stitched Demon",
+      "korName": "마투아 투푸나",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 관",
+      "engType": "Magistrate Crown",
+      "engText": "Mask of the Tribunal Magistrate Crown",
+      "korText": "정복지의 구렁텅이 강철 관",
+      "engName": "Mask of the Tribunal",
+      "korName": "정복지의 구렁텅이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뼈 투구",
+      "engType": "Tarnished Spirit Shield",
+      "engText": "Matua Tupuna Tarnished Spirit Shield",
+      "korText": "말썽의 나락 뼈 투구",
+      "engName": "Matua Tupuna",
+      "korName": "말썽의 나락",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "룬 건틀릿",
+      "engType": "Steel Circlet",
+      "engText": "Maw of Conquest Steel Circlet",
+      "korText": "메드베드의 도전 룬 건틀릿",
+      "engName": "Maw of Conquest",
+      "korName": "메드베드의 도전",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 건틀릿",
+      "engType": "Bone Helmet",
+      "engText": "Maw of Mischief Bone Helmet",
+      "korText": "메기노드의 조임쇠 강철 건틀릿",
+      "engName": "Maw of Mischief",
+      "korName": "메기노드의 조임쇠",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관 왕관",
+      "engType": "Runic Gauntlets",
+      "engText": "Medved's Challenge Runic Gauntlets",
+      "korText": "기억의 금고 집정관 왕관",
+      "engName": "Medved's Challenge",
+      "korName": "기억의 금고",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "송아지 가죽 장갑",
+      "engType": "Steel Gauntlets",
+      "engText": "Meginord's Vise Steel Gauntlets",
+      "korText": "용병의 운명 송아지 가죽 장갑",
+      "engName": "Meginord's Vise",
+      "korName": "용병의 운명",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "할리퀸 가면",
+      "engType": "Praetor Crown",
+      "engText": "Memory Vault Praetor Crown",
+      "korText": "의회의 정신 할리퀸 가면",
+      "engName": "Memory Vault",
+      "korName": "의회의 정신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "쇠사슬 투구",
+      "engType": "Slink Gloves",
+      "engText": "Mercenary's Lot Slink Gloves",
+      "korText": "정신의 소용돌이 쇠사슬 투구",
+      "engName": "Mercenary's Lot",
+      "korName": "정신의 소용돌이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "옻칠한 버클러",
+      "engType": "Harlequin Mask",
+      "engText": "Mind of the Council Harlequin Mask",
+      "korText": "안개 벽 옻칠한 버클러",
+      "engName": "Mind of the Council",
+      "korName": "안개 벽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "유약 도색 버클러",
+      "engType": "Aventail Helmet",
+      "engText": "Mindspiral Aventail Helmet",
+      "korText": "고요한 바람단 페넌트 유약 도색 버클러",
+      "engName": "Mindspiral",
+      "korName": "고요한 바람단 페넌트",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뱀 비늘 장화",
+      "engType": "Lacquered Buckler",
+      "engText": "Mistwall Lacquered Buckler",
+      "korText": "고요한 바람단의 속삭임 신발 뱀 비늘 장화",
+      "engName": "Mistwall",
+      "korName": "고요한 바람단의 속삭임 신발",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "룬 손 보호대",
+      "engType": "Enameled Buckler",
+      "engText": "Mutewind Pennant Enameled Buckler",
+      "korText": "밤손아귀 룬 손 보호대",
+      "engName": "Mutewind Pennant",
+      "korName": "밤손아귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끈 장화",
+      "engType": "Serpentscale Boots",
+      "engText": "Mutewind Whispersteps Serpentscale Boots",
+      "korText": "노믹의 태풍 끈 장화",
+      "engName": "Mutewind Whispersteps",
+      "korName": "노믹의 태풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 장갑",
+      "engType": "Runic Gages",
+      "engText": "Nightgrip Runic Gages",
+      "korText": "무효와 공허 군단 장갑",
+      "engName": "Nightgrip",
+      "korName": "무효와 공허",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사자 가죽모",
+      "engType": "Strapped Boots",
+      "engText": "Nomic's Storm Strapped Boots",
+      "korText": "몽매주의 사자 가죽모",
+      "engName": "Nomic's Storm",
+      "korName": "몽매주의",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 장갑",
+      "engType": "Legion Gloves",
+      "engText": "Null and Void Legion Gloves",
+      "korText": "독사에게 바치는 공물 군단 장갑",
+      "engName": "Null and Void",
+      "korName": "독사에게 바치는 공물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "룬 쇠구두",
+      "engType": "Lion Pelt",
+      "engText": "Obscurantis Lion Pelt",
+      "korText": "올로스의 돌진 룬 쇠구두",
+      "engName": "Obscurantis",
+      "korName": "올로스의 돌진",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 장화",
+      "engType": "Legion Gloves",
+      "engText": "Offering to the Serpent Legion Gloves",
+      "korText": "오메이오칸 육욕의 장화",
+      "engName": "Offering to the Serpent",
+      "korName": "오메이오칸",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "스트랩형 미트",
+      "engType": "Runic Sollerets",
+      "engText": "Olroth's Charge Runic Sollerets",
+      "korText": "온다르의 걸쇠 스트랩형 미트",
+      "engName": "Olroth's Charge",
+      "korName": "온다르의 걸쇠",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "염소가죽 장화",
+      "engType": "Carnal Boots",
+      "engText": "Omeyocan Carnal Boots",
+      "korText": "빅타리오의 비상 염소가죽 장화",
+      "engName": "Omeyocan",
+      "korName": "빅타리오의 비상",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "장어가죽 장화",
+      "engType": "Wrapped Mitts",
+      "engText": "Ondar's Clasp Wrapped Mitts",
+      "korText": "오발라의 항전 장어가죽 장화",
+      "engName": "Ondar's Clasp",
+      "korName": "오발라의 항전",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소가죽 장갑",
+      "engType": "Goathide Boots",
+      "engText": "Victario's Flight Goathide Boots",
+      "korText": "오스캄 소가죽 장갑",
+      "engName": "Victario's Flight",
+      "korName": "오스캄",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거친 생가죽 장갑",
+      "engType": "Eelskin Boots",
+      "engText": "Orbala's Stand Eelskin Boots",
+      "korText": "고통 탐구자 거친 생가죽 장갑",
+      "engName": "Orbala's Stand",
+      "korName": "고통 탐구자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 가시 방패",
+      "engType": "Nubuck Gloves",
+      "engText": "Oskarm Nubuck Gloves",
+      "korText": "영구장치 에조미어 가시 방패",
+      "engName": "Oskarm",
+      "korName": "영구장치",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영광의 판금 갑옷",
+      "engType": "Shagreen Gloves",
+      "engText": "Painseeker Shagreen Gloves",
+      "korText": "배반 영광의 판금 갑옷",
+      "engName": "Painseeker",
+      "korName": "배반",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뼈의 관",
+      "engType": "Ezomyte Spiked Shield",
+      "engText": "Perepiteia Ezomyte Spiked Shield",
+      "korText": "추적의 깃털 뼈의 관",
+      "engName": "Perepiteia",
+      "korName": "추적의 깃털",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "원형 경기장 판금 갑옷",
+      "engType": "Glorious Plate",
+      "engText": "Perfidy Glorious Plate",
+      "korText": "실용주의 원형 경기장 판금 갑옷",
+      "engName": "Perfidy",
+      "korName": "실용주의",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Bone Circlet",
+      "engText": "Plume of Pursuit Bone Circlet",
+      "korText": "분광의 수호자 집정관의 연모양 방패",
+      "engName": "Plume of Pursuit",
+      "korName": "분광의 수호자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "주권자 가시 방패",
+      "engType": "Colosseum Plate",
+      "engText": "Pragmatism Colosseum Plate",
+      "korText": "쿼트라의 제어기 주권자 가시 방패",
+      "engName": "Pragmatism",
+      "korName": "쿼트라의 제어기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "운명의 가죽 갑옷",
+      "engType": "Archon Kite Shield",
+      "engText": "Prism Guardian Archon Kite Shield",
+      "korText": "숲의 여왕 운명의 가죽 갑옷",
+      "engName": "Prism Guardian",
+      "korName": "숲의 여왕",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "요술사 장화",
+      "engType": "Sovereign Spiked Shield",
+      "engText": "Qotra's Regulator Sovereign Spiked Shield",
+      "korText": "무지갯빛 발걸음 요술사 장화",
+      "engName": "Qotra's Regulator",
+      "korName": "무지갯빛 발걸음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고정못 장화",
+      "engType": "Destiny Leather",
+      "engText": "Queen of the Forest Destiny Leather",
+      "korText": "랄라케쉬의 조바심 고정못 장화",
+      "engName": "Queen of the Forest",
+      "korName": "랄라케쉬의 조바심",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "티타늄 영혼 방패",
+      "engType": "Conjurer Boots",
+      "engText": "Rainbowstride Conjurer Boots",
+      "korText": "래스피스 구체 티타늄 영혼 방패",
+      "engName": "Rainbowstride",
+      "korName": "래스피스 구체",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "곰 가죽모",
+      "engType": "Riveted Boots",
+      "engText": "Ralakesh's Impatience Riveted Boots",
+      "korText": "쥐의 둥지 곰 가죽모",
+      "engName": "Ralakesh's Impatience",
+      "korName": "쥐의 둥지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹신자 투구",
+      "engType": "Titanium Spirit Shield",
+      "engText": "Rathpith Globe Titanium Spirit Shield",
+      "korText": "굶주린 열정 맹신자 투구",
+      "engName": "Rathpith Globe",
+      "korName": "굶주린 열정",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뭉툭한 화살통",
+      "engType": "Ursine Pelt",
+      "engText": "Rat's Nest Ursine Pelt",
+      "korText": "후위 경계 뭉툭한 화살통",
+      "engName": "Rat's Nest",
+      "korName": "후위 경계",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "넓은 촉 화살통",
+      "engType": "Zealot Helmet",
+      "engText": "Ravenous Passion Zealot Helmet",
+      "korText": "후위 경계 넓은 촉 화살통",
+      "engName": "Ravenous Passion",
+      "korName": "후위 경계",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도색된 거대 방패",
+      "engType": "Blunt Arrow Quiver",
+      "engText": "Rearguard Blunt Arrow Quiver",
+      "korText": "적검단 깃발 도색된 거대 방패",
+      "engName": "Rearguard",
+      "korName": "적검단 깃발",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고대 각반",
+      "engType": "Broadhead Arrow Quiver",
+      "engText": "Rearguard Broadhead Arrow Quiver",
+      "korText": "적검단 유린자 고대 각반",
+      "engName": "Rearguard",
+      "korName": "적검단 유린자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "염소 가죽 버클러",
+      "engType": "Painted Tower Shield",
+      "engText": "Redblade Banner Painted Tower Shield",
+      "korText": "제국의 유물 염소 가죽 버클러",
+      "engName": "Redblade Banner",
+      "korName": "제국의 유물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 장갑",
+      "engType": "Ancient Greaves",
+      "engText": "Redblade Tramplers Ancient Greaves",
+      "korText": "참회 십자군 장갑",
+      "engName": "Redblade Tramplers",
+      "korName": "참회",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 기병 투구",
+      "engType": "Goathide Buckler",
+      "engText": "Remnant of Empires Goathide Buckler",
+      "korText": "깊은 심연 모조품 에조미어 기병 투구",
+      "engName": "Remnant of Empires",
+      "korName": "깊은 심연 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "병사 장화",
+      "engType": "Crusader Gloves",
+      "engText": "Repentance Crusader Gloves",
+      "korText": "알베른의 적대 모조품 병사 장화",
+      "engName": "Repentance",
+      "korName": "알베른의 적대 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "새틴 장갑",
+      "engType": "Ezomyte Burgonet",
+      "engText": "Replica Abyssus Ezomyte Burgonet",
+      "korText": "생존 경쟁 모조품 새틴 장갑",
+      "engName": "Replica Abyssus",
+      "korName": "생존 경쟁 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악령술사 장갑",
+      "engType": "Soldier Boots",
+      "engText": "Replica Alberon's Warpath Soldier Boots",
+      "korText": "생존 경쟁 모조품 악령술사 장갑",
+      "engName": "Replica Alberon's Warpath",
+      "korName": "생존 경쟁 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "죄인 삼각모",
+      "engType": "Satin Gloves",
+      "engText": "Replica Allelopathy Satin Gloves",
+      "korText": "우두머리의 울부짖음 모조품 죄인 삼각모",
+      "engName": "Replica Allelopathy",
+      "korName": "우두머리의 울부짖음 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 사슬 갑옷",
+      "engType": "Sorcerer Gloves",
+      "engText": "Replica Allelopathy Sorcerer Gloves",
+      "korText": "앰부의 돌진 모조품 십자군 사슬 갑옷",
+      "engName": "Replica Allelopathy",
+      "korName": "앰부의 돌진 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 건틀릿",
+      "engType": "Sinner Tricorne",
+      "engText": "Replica Alpha's Howl Sinner Tricorne",
+      "korText": "앗지리의 예리함 모조품 바알 건틀릿",
+      "engName": "Replica Alpha's Howl",
+      "korName": "앗지리의 예리함 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실크 슬리퍼",
+      "engType": "Crusader Chainmail",
+      "engText": "Replica Ambu's Charge Crusader Chainmail",
+      "korText": "울러의 뼈 모조품 실크 슬리퍼",
+      "engName": "Replica Ambu's Charge",
+      "korName": "울러의 뼈 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거미줄 실크 로브",
+      "engType": "Vaal Gauntlets",
+      "engText": "Replica Atziri's Acuity Vaal Gauntlets",
+      "korText": "계약 모조품 거미줄 실크 로브",
+      "engName": "Replica Atziri's Acuity",
+      "korName": "계약 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "피의 의복",
+      "engType": "Silk Slippers",
+      "engText": "Replica Bones of Ullr Silk Slippers",
+      "korText": "영원의 연막 모조품 피의 의복",
+      "engName": "Replica Bones of Ullr",
+      "korName": "영원의 연막 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "승리의 라멜라",
+      "engType": "Spidersilk Robe",
+      "engText": "Replica Covenant Spidersilk Robe",
+      "korText": "페룰의 모피 모조품 승리의 라멜라",
+      "engName": "Replica Covenant",
+      "korName": "페룰의 모피 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 왕관",
+      "engType": "Blood Raiment",
+      "engText": "Replica Eternity Shroud Blood Raiment",
+      "korText": "금단의 샤코 모조품 대형 왕관",
+      "engName": "Replica Eternity Shroud",
+      "korName": "금단의 샤코 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "신비학자의 장갑",
+      "engType": "Triumphant Lamellar",
+      "engText": "Replica Farrul's Fur Triumphant Lamellar",
+      "korText": "의회의 장악 모조품 신비학자의 장갑",
+      "engName": "Replica Farrul's Fur",
+      "korName": "의회의 장악 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가죽 두건",
+      "engType": "Great Crown",
+      "engText": "Replica Forbidden Shako Great Crown",
+      "korText": "열기와 오한 모조품 가죽 두건",
+      "engName": "Replica Forbidden Shako",
+      "korName": "열기와 오한 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성좌의 가죽 갑옷",
+      "engType": "Arcanist Gloves",
+      "engText": "Replica Grip of the Council Arcanist Gloves",
+      "korText": "하이리의 노여움 모조품 성좌의 가죽 갑옷",
+      "engName": "Replica Grip of the Council",
+      "korName": "하이리의 노여움 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "신비학자의 슬리퍼",
+      "engType": "Leather Hood",
+      "engText": "Replica Heatshiver Leather Hood",
+      "korText": "이냐의 통찰 모조품 신비학자의 슬리퍼",
+      "engName": "Replica Heatshiver",
+      "korName": "이냐의 통찰 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "금실 장갑",
+      "engType": "Zodiac Leather",
+      "engText": "Replica Hyrri's Ire Zodiac Leather",
+      "korText": "칼리사의 은총 모조품 금실 장갑",
+      "engName": "Replica Hyrri's Ire",
+      "korName": "칼리사의 은총 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영광의 판금 갑옷",
+      "engType": "Arcanist Slippers",
+      "engText": "Replica Inya's Epiphany Arcanist Slippers",
+      "korText": "카옴의 심장 모조품 영광의 판금 갑옷",
+      "engName": "Replica Inya's Epiphany",
+      "korName": "카옴의 심장 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "축제용 가면",
+      "engType": "Samite Gloves",
+      "engText": "Replica Kalisa's Grace Samite Gloves",
+      "korText": "음흉한 시선 모조품 축제용 가면",
+      "engName": "Replica Kalisa's Grace",
+      "korName": "음흉한 시선 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "청동 비늘 장화",
+      "engType": "Glorious Plate",
+      "engText": "Replica Kaom's Heart Glorious Plate",
+      "korText": "라이온아이의 발 모조품 청동 비늘 장화",
+      "engName": "Replica Kaom's Heart",
+      "korName": "라이온아이의 발 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 고리 갑옷",
+      "engType": "Festival Mask",
+      "engText": "Replica Leer Cast Festival Mask",
+      "korText": "지식의 매듭 모조품 고상한 고리 갑옷",
+      "engName": "Replica Leer Cast",
+      "korName": "지식의 매듭 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화려한 화살통",
+      "engType": "Bronzescale Boots",
+      "engText": "Replica Lioneye's Paws Bronzescale Boots",
+      "korText": "말로니의 기계 장치 모조품 화려한 화살통",
+      "engName": "Replica Lioneye's Paws",
+      "korName": "말로니의 기계 장치 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "옻칠한 버클러",
+      "engType": "Elegant Ringmail",
+      "engText": "Replica Loreweave Elegant Ringmail",
+      "korText": "안개 벽 모조품 옻칠한 버클러",
+      "engName": "Replica Loreweave",
+      "korName": "안개 벽 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성좌의 가죽 갑옷",
+      "engType": "Ornate Quiver",
+      "engText": "Replica Maloney's Mechanism Ornate Quiver",
+      "korText": "완벽한 구조 모조품 성좌의 가죽 갑옷",
+      "engName": "Replica Maloney's Mechanism",
+      "korName": "완벽한 구조 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 각반",
+      "engType": "Lacquered Buckler",
+      "engText": "Replica Mistwall Lacquered Buckler",
+      "korText": "붉은 발자취 모조품 거신 각반",
+      "engName": "Replica Mistwall",
+      "korName": "붉은 발자취 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 갑옷",
+      "engType": "Zodiac Leather",
+      "engText": "Replica Perfect Form Zodiac Leather",
+      "korText": "끊임없는 수호 모조품 육욕의 갑옷",
+      "engName": "Replica Perfect Form",
+      "korName": "끊임없는 수호 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 갑옷",
+      "engType": "Titan Greaves",
+      "engText": "Replica Red Trail Titan Greaves",
+      "korText": "무광의 연막 모조품 육욕의 갑옷",
+      "engName": "Replica Red Trail",
+      "korName": "무광의 연막 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가시촉 화살통",
+      "engType": "Carnal Armour",
+      "engText": "Replica Restless Ward Carnal Armour",
+      "korText": "영혼의 일격 모조품 가시촉 화살통",
+      "engName": "Replica Restless Ward",
+      "korName": "영혼의 일격 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 장화",
+      "engType": "Carnal Armour",
+      "engText": "Replica Shroud of the Lightless Carnal Armour",
+      "korText": "쇄도 모조품 암살자의 장화",
+      "engName": "Replica Shroud of the Lightless",
+      "korName": "쇄도 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거친 생가죽 장화",
+      "engType": "Spike-Point Arrow Quiver",
+      "engText": "Replica Soul Strike Spike-Point Arrow Quiver",
+      "korText": "삼단 공격 모조품 거친 생가죽 장화",
+      "engName": "Replica Soul Strike",
+      "korName": "삼단 공격 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "칠흑의 거대 방패",
+      "engType": "Assassin's Boots",
+      "engText": "Replica Stampede Assassin's Boots",
+      "korText": "투코하마의 요새 모조품 칠흑의 거대 방패",
+      "engName": "Replica Stampede",
+      "korName": "투코하마의 요새 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 투구",
+      "engType": "Shagreen Boots",
+      "engText": "Replica Three-step Assault Shagreen Boots",
+      "korText": "밤의 장막 모조품 대형 투구",
+      "engName": "Replica Three-step Assault",
+      "korName": "밤의 장막 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "합판 연모양 방패",
+      "engType": "Ebony Tower Shield",
+      "engText": "Replica Tukohama's Fortress Ebony Tower Shield",
+      "korText": "빅타리오의 자비 모조품 합판 연모양 방패",
+      "engName": "Replica Tukohama's Fortress",
+      "korName": "빅타리오의 자비 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 장화",
+      "engType": "Great Helmet",
+      "engText": "Replica Veil of the Night Great Helmet",
+      "korText": "공허 보행자 모조품 살인자의 장화",
+      "engName": "Replica Veil of the Night",
+      "korName": "공허 보행자 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹신자 장갑",
+      "engType": "Laminated Kite Shield",
+      "engText": "Replica Victario's Charity Laminated Kite Shield",
+      "korText": "볼쿠르의 인도 모조품 맹신자 장갑",
+      "engName": "Replica Victario's Charity",
+      "korName": "볼쿠르의 인도 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "쌍촉 화살통",
+      "engType": "Murder Boots",
+      "engText": "Replica Voidwalker Murder Boots",
+      "korText": "리그월드의 화살 쌍촉 화살통",
+      "engName": "Replica Voidwalker",
+      "korName": "리그월드의 화살",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "정신의 창살",
+      "engType": "Zealot Gloves",
+      "engText": "Replica Volkuur's Guidance Zealot Gloves",
+      "korText": "냉기의 시선 정신의 창살",
+      "engName": "Replica Volkuur's Guidance",
+      "korName": "냉기의 시선",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조각무늬 연모양 방패",
+      "engType": "Two-Point Arrow Quiver",
+      "engText": "Rigwald's Quills Two-Point Arrow Quiver",
+      "korText": "불사조의 비상 조각무늬 연모양 방패",
+      "engName": "Rigwald's Quills",
+      "korName": "불사조의 비상",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단단한 고리 갑옷",
+      "engType": "Mind Cage",
+      "engText": "Rime Gaze Mind Cage",
+      "korText": "썩어가는 군단 단단한 고리 갑옷",
+      "engName": "Rime Gaze",
+      "korName": "썩어가는 군단",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "양모 장갑",
+      "engType": "Mosaic Kite Shield",
+      "engText": "Rise of the Phoenix Mosaic Kite Shield",
+      "korText": "사디마의 손길 양모 장갑",
+      "engName": "Rise of the Phoenix",
+      "korName": "사디마의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "깃 화살통",
+      "engType": "Loricated Ringmail",
+      "engText": "Rotting Legion Loricated Ringmail",
+      "korText": "새무스의 선물 깃 화살통",
+      "engName": "Rotting Legion",
+      "korName": "새무스의 선물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가시촉 화살통",
+      "engType": "Wool Gloves",
+      "engText": "Sadima's Touch Wool Gloves",
+      "korText": "새무스의 선물 가시촉 화살통",
+      "engName": "Sadima's Touch",
+      "korName": "새무스의 선물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "각인한 연모양 방패",
+      "engType": "Feathered Arrow Quiver",
+      "engText": "Saemus' Gift Feathered Arrow Quiver",
+      "korText": "사펠의 골격 각인한 연모양 방패",
+      "engName": "Saemus' Gift",
+      "korName": "사펠의 골격",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "네크로맨서 관",
+      "engType": "Spike-Point Arrow Quiver",
+      "engText": "Saemus' Gift Spike-Point Arrow Quiver",
+      "korText": "모래 폭풍의 얼굴 네크로맨서 관",
+      "engName": "Saemus' Gift",
+      "korName": "모래 폭풍의 얼굴",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실크 두건",
+      "engType": "Branded Kite Shield",
+      "engText": "Saffell's Frame Branded Kite Shield",
+      "korText": "사카왈의 무리 실크 두건",
+      "engName": "Saffell's Frame",
+      "korName": "사카왈의 무리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "피의 의복",
+      "engType": "Necromancer Circlet",
+      "engText": "Sandstorm Visage Necromancer Circlet",
+      "korText": "사카왈의 둥지 피의 의복",
+      "engName": "Sandstorm Visage",
+      "korName": "사카왈의 둥지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "히드라 비늘 장화",
+      "engType": "Silken Hood",
+      "engText": "Saqawal's Flock Silken Hood",
+      "korText": "사카왈의 발톱 히드라 비늘 장화",
+      "engName": "Saqawal's Flock",
+      "korName": "사카왈의 발톱",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "병사 장갑",
+      "engType": "Blood Raiment",
+      "engText": "Saqawal's Nest Blood Raiment",
+      "korText": "사카왈의 바람 병사 장갑",
+      "engName": "Saqawal's Nest",
+      "korName": "사카왈의 바람",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "정신의 창살",
+      "engType": "Hydrascale Boots",
+      "engText": "Saqawal's Talons Hydrascale Boots",
+      "korText": "꾸짖음의 굴레 정신의 창살",
+      "engName": "Saqawal's Talons",
+      "korName": "꾸짖음의 굴레",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무거운 화살통",
+      "engType": "Soldier Gloves",
+      "engText": "Saqawal's Winds Soldier Gloves",
+      "korText": "전갈의 부름 무거운 화살통",
+      "engName": "Saqawal's Winds",
+      "korName": "전갈의 부름",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "넓은 촉 화살통",
+      "engType": "Mind Cage",
+      "engText": "Scold's Bridle Mind Cage",
+      "korText": "전갈의 부름 넓은 촉 화살통",
+      "engName": "Scold's Bridle",
+      "korName": "전갈의 부름",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황동 영혼 방패",
+      "engType": "Heavy Arrow Quiver",
+      "engText": "Scorpion's Call Heavy Arrow Quiver",
+      "korText": "센타리의 응답 황동 영혼 방패",
+      "engName": "Scorpion's Call",
+      "korName": "센타리의 응답",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "생가죽 장화",
+      "engType": "Broadhead Arrow Quiver",
+      "engText": "Scorpion's Call Broadhead Arrow Quiver",
+      "korText": "바람의 걸음 생가죽 장화",
+      "engName": "Scorpion's Call",
+      "korName": "바람의 걸음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사슬 장갑",
+      "engType": "Brass Spirit Shield",
+      "engText": "Sentari's Answer Brass Spirit Shield",
+      "korText": "불운아의 족쇄 사슬 장갑",
+      "engName": "Sentari's Answer",
+      "korName": "불운아의 족쇄",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "버클 미트",
+      "engType": "Rawhide Boots",
+      "engText": "Seven-League Step Rawhide Boots",
+      "korText": "그림자와 먼지 버클 미트",
+      "engName": "Seven-League Step",
+      "korName": "그림자와 먼지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "희생의 의복",
+      "engType": "Chain Gloves",
+      "engText": "Shackles of the Wretched Chain Gloves",
+      "korText": "그림자 봉합 희생의 의복",
+      "engName": "Shackles of the Wretched",
+      "korName": "그림자 봉합",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 장갑",
+      "engType": "Clasped Mitts",
+      "engText": "Shadows and Dust Clasped Mitts",
+      "korText": "쉐이퍼의 손길 십자군 장갑",
+      "engName": "Shadows and Dust",
+      "korName": "쉐이퍼의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 원형 방패",
+      "engType": "Sacrificial Garb",
+      "engText": "Shadowstitch Sacrificial Garb",
+      "korText": "파편 분쇄 진홍색 원형 방패",
+      "engName": "Shadowstitch",
+      "korName": "파편 분쇄",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "학자 장화",
+      "engType": "Crusader Gloves",
+      "engText": "Shaper's Touch Crusader Gloves",
+      "korText": "샤브론의 책략 학자 장화",
+      "engName": "Shaper's Touch",
+      "korName": "샤브론의 책략",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "학자 장화",
+      "engType": "Crimson Round Shield",
+      "engText": "Shattershard Crimson Round Shield",
+      "korText": "샤브론의 보폭 학자 장화",
+      "engName": "Shattershard",
+      "korName": "샤브론의 보폭",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오컬티스트의 법의",
+      "engType": "Scholar Boots",
+      "engText": "Shavronne's Gambit Scholar Boots",
+      "korText": "샤브론의 겉옷 오컬티스트의 법의",
+      "engName": "Shavronne's Gambit",
+      "korName": "샤브론의 겉옷",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 갑옷",
+      "engType": "Scholar Boots",
+      "engText": "Shavronne's Pace Scholar Boots",
+      "korText": "무광의 연막 육욕의 갑옷",
+      "engName": "Shavronne's Pace",
+      "korName": "무광의 연막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "은신 장화",
+      "engType": "Occultist's Vestment",
+      "engText": "Shavronne's Wrappings Occultist's Vestment",
+      "korText": "죄악의 여정 은신 장화",
+      "engName": "Shavronne's Wrappings",
+      "korName": "죄악의 여정",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단순한 로브",
+      "engType": "Carnal Armour",
+      "engText": "Shroud of the Lightless Carnal Armour",
+      "korText": "군주의 가죽 단순한 로브",
+      "engName": "Shroud of the Lightless",
+      "korName": "군주의 가죽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단순한 로브",
+      "engType": "Stealth Boots",
+      "engText": "Sin Trek Stealth Boots",
+      "korText": "충신의 가죽 단순한 로브",
+      "engName": "Sin Trek",
+      "korName": "충신의 가죽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "쌍촉 화살통",
+      "engType": "Simple Robe",
+      "engText": "Skin of the Lords Simple Robe",
+      "korText": "접전 쌍촉 화살통",
+      "engName": "Skin of the Lords",
+      "korName": "접전",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "호위병 샐릿",
+      "engType": "Simple Robe",
+      "engText": "Skin of the Loyal Simple Robe",
+      "korText": "두개골 투구 호위병 샐릿",
+      "engName": "Skin of the Loyal",
+      "korName": "두개골 투구",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악령술사 장화",
+      "engType": "Two-Point Arrow Quiver",
+      "engText": "Skirmish Two-Point Arrow Quiver",
+      "korText": "하늘 달리기 악령술사 장화",
+      "engName": "Skirmish",
+      "korName": "하늘 달리기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "매복 미트",
+      "engType": "Secutor Helm",
+      "engText": "Skullhead Secutor Helm",
+      "korText": "노예 감독관의 손길 매복 미트",
+      "engName": "Skullhead",
+      "korName": "노예 감독관의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "청동 비늘 건틀릿",
+      "engType": "Sorcerer Boots",
+      "engText": "Skyforth Sorcerer Boots",
+      "korText": "뱀의 손길 청동 비늘 건틀릿",
+      "engName": "Skyforth",
+      "korName": "뱀의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "톱니 화살통",
+      "engType": "Ambush Mitts",
+      "engText": "Slavedriver's Hand Ambush Mitts",
+      "korText": "섭리의 편린 화살통 톱니 화살통",
+      "engName": "Slavedriver's Hand",
+      "korName": "섭리의 편린 화살통",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 미트",
+      "engType": "Bronzescale Gauntlets",
+      "engText": "Slitherpinch Bronzescale Gauntlets",
+      "korText": "뱀 이빨 암살자의 미트",
+      "engName": "Slitherpinch",
+      "korName": "뱀 이빨",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "구리 판금 갑옷",
+      "engType": "Serrated Arrow Quiver",
+      "engText": "Slivers of Providence Serrated Arrow Quiver",
+      "korText": "솔라리스 흉갑 구리 판금 갑옷",
+      "engName": "Slivers of Providence",
+      "korName": "솔라리스 흉갑",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 미트",
+      "engType": "Assassin's Mitts",
+      "engText": "Snakebite Assassin's Mitts",
+      "korText": "영혼 승천 육욕의 미트",
+      "engName": "Snakebite",
+      "korName": "영혼 승천",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거미줄 실크 로브",
+      "engType": "Copper Plate",
+      "engText": "Solaris Lorica Copper Plate",
+      "korText": "영혼의 외투 거미줄 실크 로브",
+      "engName": "Solaris Lorica",
+      "korName": "영혼의 외투",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가시촉 화살통",
+      "engType": "Carnal Mitts",
+      "engText": "Soul Ascension Carnal Mitts",
+      "korText": "영혼의 일격 가시촉 화살통",
+      "engName": "Soul Ascension",
+      "korName": "영혼의 일격",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "병사 장갑",
+      "engType": "Spidersilk Robe",
+      "engText": "Soul Mantle Spidersilk Robe",
+      "korText": "남행 병사 장갑",
+      "engName": "Soul Mantle",
+      "korName": "남행",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "예언자 왕관",
+      "engType": "Spike-Point Arrow Quiver",
+      "engText": "Soul Strike Spike-Point Arrow Quiver",
+      "korText": "연설가의 화관 예언자 왕관",
+      "engName": "Soul Strike",
+      "korName": "연설가의 화관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성인의 쇠사슬 갑옷",
+      "engType": "Soldier Gloves",
+      "engText": "Southbound Soldier Gloves",
+      "korText": "포자 수호 성인의 쇠사슬 갑옷",
+      "engName": "Southbound",
+      "korName": "포자 수호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "널빤지 연모양 방패",
+      "engType": "Prophet Crown",
+      "engText": "Speaker's Wreath Prophet Crown",
+      "korText": "생기의 잎사귀 널빤지 연모양 방패",
+      "engName": "Speaker's Wreath",
+      "korName": "생기의 잎사귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실크 두건",
+      "engType": "Saint's Hauberk",
+      "engText": "Sporeguard Saint's Hauberk",
+      "korText": "스타콘자의 머리 실크 두건",
+      "engName": "Sporeguard",
+      "korName": "스타콘자의 머리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 갑옷",
+      "engType": "Plank Kite Shield",
+      "engText": "Springleaf Plank Kite Shield",
+      "korText": "정체 감옥 육욕의 갑옷",
+      "engName": "Springleaf",
+      "korName": "정체 감옥",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "넓은 촉 화살통",
+      "engType": "Silken Hood",
+      "engText": "Starkonja's Head Silken Hood",
+      "korText": "강철지렁이 넓은 촉 화살통",
+      "engName": "Starkonja's Head",
+      "korName": "강철지렁이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악령술사 장화",
+      "engType": "Carnal Armour",
+      "engText": "Stasis Prison Carnal Armour",
+      "korText": "스테판 야드 악령술사 장화",
+      "engName": "Stasis Prison",
+      "korName": "스테판 야드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "판금 각반",
+      "engType": "Broadhead Arrow Quiver",
+      "engText": "Steelworm Broadhead Arrow Quiver",
+      "korText": "태풍 돌격대 판금 각반",
+      "engName": "Steelworm",
+      "korName": "태풍 돌격대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "매복 미트",
+      "engType": "Sorcerer Boots",
+      "engText": "Steppan Eard Sorcerer Boots",
+      "korText": "폭풍 탐구자 매복 미트",
+      "engName": "Steppan Eard",
+      "korName": "폭풍 탐구자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 미트",
+      "engType": "Plated Greaves",
+      "engText": "Stormcharger Plated Greaves",
+      "korText": "태풍의 선물 암살자의 미트",
+      "engName": "Stormcharger",
+      "korName": "태풍의 선물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 관",
+      "engType": "Ambush Mitts",
+      "engText": "Stormseeker Ambush Mitts",
+      "korText": "개벽 강철 관",
+      "engName": "Stormseeker",
+      "korName": "개벽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "버클 장화",
+      "engType": "Assassin's Mitts",
+      "engText": "Storm's Gift Assassin's Mitts",
+      "korText": "태양을 보는 춤 버클 장화",
+      "engName": "Storm's Gift",
+      "korName": "태양을 보는 춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "버클 장화",
+      "engType": "Steel Circlet",
+      "engText": "Sudden Dawn Steel Circlet",
+      "korText": "태양의 원한 버클 장화",
+      "engName": "Sudden Dawn",
+      "korName": "태양의 원한",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "용 비늘 건틀릿",
+      "engType": "Clasped Boots",
+      "engText": "Sundance Clasped Boots",
+      "korText": "몰려드는 격동 용 비늘 건틀릿",
+      "engName": "Sundance",
+      "korName": "몰려드는 격동",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "둘러싼 거대 방패",
+      "engType": "Clasped Boots",
+      "engText": "Sunspite Clasped Boots",
+      "korText": "스발린 둘러싼 거대 방패",
+      "engName": "Sunspite",
+      "korName": "스발린",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단순한 로브",
+      "engType": "Dragonscale Gauntlets",
+      "engText": "Surgebinders Dragonscale Gauntlets",
+      "korText": "타뷸라 라사 단순한 로브",
+      "engName": "Surgebinders",
+      "korName": "타뷸라 라사",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아룡 비늘 건틀릿",
+      "engType": "Girded Tower Shield",
+      "engText": "Svalinn Girded Tower Shield",
+      "korText": "타누 아히 아룡 비늘 건틀릿",
+      "engName": "Svalinn",
+      "korName": "타누 아히",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거친 생가죽 장화",
+      "engType": "Simple Robe",
+      "engText": "Tabula Rasa Simple Robe",
+      "korText": "유혹의 발걸음 거친 생가죽 장화",
+      "engName": "Tabula Rasa",
+      "korName": "유혹의 발걸음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "광택 나는 외투",
+      "engType": "Wyrmscale Gauntlets",
+      "engText": "Tanu Ahi Wyrmscale Gauntlets",
+      "korText": "제독 광택 나는 외투",
+      "engName": "Tanu Ahi",
+      "korName": "제독",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 거대 방패",
+      "engType": "Shagreen Boots",
+      "engText": "Temptation Step Shagreen Boots",
+      "korText": "기대 에조미어 거대 방패",
+      "engName": "Temptation Step",
+      "korName": "기대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "비법가 예복",
+      "engType": "Varnished Coat",
+      "engText": "The Admiral Varnished Coat",
+      "korText": "배교자 비법가 예복",
+      "engName": "The Admiral",
+      "korName": "배교자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "폐쇄형 투구",
+      "engType": "Ezomyte Tower Shield",
+      "engText": "The Anticipation Ezomyte Tower Shield",
+      "korText": "남작 폐쇄형 투구",
+      "engName": "The Anticipation",
+      "korName": "남작",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 예복",
+      "engType": "Cabalist Regalia",
+      "engText": "The Apostate Cabalist Regalia",
+      "korText": "야수 모피 숄 바알 예복",
+      "engName": "The Apostate",
+      "korName": "야수 모피 숄",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상어가죽 장화",
+      "engType": "Close Helmet",
+      "engText": "The Baron Close Helmet",
+      "korText": "피의 춤 상어가죽 장화",
+      "engName": "The Baron",
+      "korName": "피의 춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "검투사 판금 갑옷",
+      "engType": "Vaal Regalia",
+      "engText": "The Beast Fur Shawl Vaal Regalia",
+      "korText": "황동 철갑 검투사 판금 갑옷",
+      "engName": "The Beast Fur Shawl",
+      "korName": "황동 철갑",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "예언자 왕관",
+      "engType": "Sharkskin Boots",
+      "engText": "The Blood Dance Sharkskin Boots",
+      "korText": "염수 왕관 예언자 왕관",
+      "engName": "The Blood Dance",
+      "korName": "염수 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악몽의 배서닛",
+      "engType": "Gladiator Plate",
+      "engText": "The Brass Dome Gladiator Plate",
+      "korText": "비의 인도자 악몽의 배서닛",
+      "engName": "The Brass Dome",
+      "korName": "비의 인도자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "예언자 왕관",
+      "engType": "Prophet Crown",
+      "engText": "The Brine Crown Prophet Crown",
+      "korText": "부서진 왕관 예언자 왕관",
+      "engName": "The Brine Crown",
+      "korName": "부서진 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거인 건틀릿",
+      "engType": "Nightmare Bascinet",
+      "engText": "The Bringer of Rain Nightmare Bascinet",
+      "korText": "천공의 죔쇠 거인 건틀릿",
+      "engName": "The Bringer of Rain",
+      "korName": "천공의 죔쇠",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "파괴자 예복",
+      "engType": "Prophet Crown",
+      "engText": "The Broken Crown Prophet Crown",
+      "korText": "다가오는 대재난 파괴자 예복",
+      "engName": "The Broken Crown",
+      "korName": "다가오는 대재난",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거미줄 실크 로브",
+      "engType": "Goliath Gauntlets",
+      "engText": "The Celestial Brace Goliath Gauntlets",
+      "korText": "계약 거미줄 실크 로브",
+      "engName": "The Celestial Brace",
+      "korName": "계약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "징 박힌 원형 방패",
+      "engType": "Destroyer Regalia",
+      "engText": "The Coming Calamity Destroyer Regalia",
+      "korText": "심해의 가죽 징 박힌 원형 방패",
+      "engName": "The Coming Calamity",
+      "korName": "심해의 가죽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "돼지 머리 배서닛",
+      "engType": "Spidersilk Robe",
+      "engText": "The Covenant Spidersilk Robe",
+      "korText": "정신 포식자 돼지 머리 배서닛",
+      "engName": "The Covenant",
+      "korName": "정신 포식자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "네크로맨서 관",
+      "engType": "Studded Round Shield",
+      "engText": "The Deep One's Hide Studded Round Shield",
+      "korText": "걸신들린 왕관 네크로맨서 관",
+      "engName": "The Deep One's Hide",
+      "korName": "걸신들린 왕관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 미트",
+      "engType": "Pig-Faced Bascinet",
+      "engText": "The Devourer of Minds Pig-Faced Bascinet",
+      "korText": "시체처리사의 장갑 육욕의 미트",
+      "engName": "The Devourer of Minds",
+      "korName": "시체처리사의 장갑",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "차임벨 영혼 방패",
+      "engType": "Necromancer Circlet",
+      "engText": "The Devouring Diadem Necromancer Circlet",
+      "korText": "영원한 사과 차임벨 영혼 방패",
+      "engName": "The Devouring Diadem",
+      "korName": "영원한 사과",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "피의 의복",
+      "engType": "Carnal Mitts",
+      "engText": "The Embalmer Carnal Mitts",
+      "korText": "영원의 연막 피의 의복",
+      "engName": "The Embalmer",
+      "korName": "영원의 연막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단풍나무 원형 방패",
+      "engType": "Chiming Spirit Shield",
+      "engText": "The Eternal Apple Chiming Spirit Shield",
+      "korText": "결함 있는 피난처 단풍나무 원형 방패",
+      "engName": "The Eternal Apple",
+      "korName": "결함 있는 피난처",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "옻칠한 투구",
+      "engType": "Blood Raiment",
+      "engText": "The Eternity Shroud Blood Raiment",
+      "korText": "풋내기 옻칠한 투구",
+      "engName": "The Eternity Shroud",
+      "korName": "풋내기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공성 투구",
+      "engType": "Maple Round Shield",
+      "engText": "The Flawed Refuge Maple Round Shield",
+      "korText": "무형의 불꽃 공성 투구",
+      "engName": "The Flawed Refuge",
+      "korName": "무형의 불꽃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 기병 투구",
+      "engType": "Lacquered Helmet",
+      "engText": "The Fledgling Lacquered Helmet",
+      "korText": "무형의 불꽃 왕실 기병 투구",
+      "engName": "The Fledgling",
+      "korName": "무형의 불꽃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 기병 투구",
+      "engType": "Siege Helmet",
+      "engText": "The Formless Flame Siege Helmet",
+      "korText": "무형의 지옥불 왕실 기병 투구",
+      "engName": "The Formless Flame",
+      "korName": "무형의 지옥불",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "신도 사슬 갑옷",
+      "engType": "Royal Burgonet",
+      "engText": "The Formless Flame Royal Burgonet",
+      "korText": "네 번째 맹세 신도 사슬 갑옷",
+      "engName": "The Formless Flame",
+      "korName": "네 번째 맹세",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뭉툭한 화살통",
+      "engType": "Royal Burgonet",
+      "engText": "The Formless Inferno Royal Burgonet",
+      "korText": "분쇄형 회전기 뭉툭한 화살통",
+      "engName": "The Formless Inferno",
+      "korName": "분쇄형 회전기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "티크목 원형 방패",
+      "engType": "Devout Chainmail",
+      "engText": "The Fourth Vow Devout Chainmail",
+      "korText": "무시무시한 극장 티크목 원형 방패",
+      "engName": "The Fourth Vow",
+      "korName": "무시무시한 극장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "큰까마귀 가면",
+      "engType": "Blunt Arrow Quiver",
+      "engText": "The Fracturing Spinner Blunt Arrow Quiver",
+      "korText": "갈매기 큰까마귀 가면",
+      "engName": "The Fracturing Spinner",
+      "korName": "갈매기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "망사 장갑",
+      "engType": "Teak Round Shield",
+      "engText": "The Ghastly Theatre Teak Round Shield",
+      "korText": "프레시아의 손 망사 장갑",
+      "engName": "The Ghastly Theatre",
+      "korName": "프레시아의 손",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Raven Mask",
+      "engText": "The Gull Raven Mask",
+      "korText": "불멸의 의지 집정관의 연모양 방패",
+      "engName": "The Gull",
+      "korName": "불멸의 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거인 각반",
+      "engType": "Mesh Gloves",
+      "engText": "The Hand of Phrecia Mesh Gloves",
+      "korText": "끝없는 추적 거인 각반",
+      "engName": "The Hand of Phrecia",
+      "korName": "끝없는 추적",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 각반",
+      "engType": "Archon Kite Shield",
+      "engText": "The Immortal Will Archon Kite Shield",
+      "korText": "끝없는 추적 거신 각반",
+      "engName": "The Immortal Will",
+      "korName": "끝없는 추적",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "십자군 판금 갑옷",
+      "engType": "Goliath Greaves",
+      "engText": "The Infinite Pursuit Goliath Greaves",
+      "korText": "철의 요새 십자군 판금 갑옷",
+      "engName": "The Infinite Pursuit",
+      "korName": "철의 요새",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성인의 쇠사슬 갑옷",
+      "engType": "Titan Greaves",
+      "engText": "The Infinite Pursuit Titan Greaves",
+      "korText": "상아탑 성인의 쇠사슬 갑옷",
+      "engName": "The Infinite Pursuit",
+      "korName": "상아탑",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "널빤지 연모양 방패",
+      "engType": "Crusader Plate",
+      "engText": "The Iron Fortress Crusader Plate",
+      "korText": "참나무 널빤지 연모양 방패",
+      "engName": "The Iron Fortress",
+      "korName": "참나무",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 원형 방패",
+      "engType": "Saint's Hauberk",
+      "engText": "The Ivory Tower Saint's Hauberk",
+      "korText": "억압자 고상한 원형 방패",
+      "engName": "The Ivory Tower",
+      "korName": "억압자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "차양 단 샐릿",
+      "engType": "Plank Kite Shield",
+      "engText": "The Oak Plank Kite Shield",
+      "korText": "송골매 차양 단 샐릿",
+      "engName": "The Oak",
+      "korName": "송골매",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성좌의 가죽 갑옷",
+      "engType": "Elegant Round Shield",
+      "engText": "The Oppressor Elegant Round Shield",
+      "korText": "완벽한 구조 성좌의 가죽 갑옷",
+      "engName": "The Oppressor",
+      "korName": "완벽한 구조",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "원시 화살통",
+      "engType": "Visored Sallet",
+      "engText": "The Peregrine Visored Sallet",
+      "korText": "평형의 분광기 원시 화살통",
+      "engName": "The Peregrine",
+      "korName": "평형의 분광기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 예복",
+      "engType": "Zodiac Leather",
+      "engText": "The Perfect Form Zodiac Leather",
+      "korText": "여왕의 갈망 바알 예복",
+      "engName": "The Perfect Form",
+      "korName": "여왕의 갈망",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상어가죽 튜닉",
+      "engType": "Primal Arrow Quiver",
+      "engText": "The Poised Prism Primal Arrow Quiver",
+      "korText": "쥐덫 상어가죽 튜닉",
+      "engName": "The Poised Prism",
+      "korName": "쥐덫",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 각반",
+      "engType": "Vaal Regalia",
+      "engText": "The Queen's Hunger Vaal Regalia",
+      "korText": "붉은 발자취 거신 각반",
+      "engName": "The Queen's Hunger",
+      "korName": "붉은 발자취",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 갑옷",
+      "engType": "Sharkskin Tunic",
+      "engText": "The Rat Cage Sharkskin Tunic",
+      "korText": "끊임없는 수호 육욕의 갑옷",
+      "engName": "The Rat Cage",
+      "korName": "끊임없는 수호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "차임벨 영혼 방패",
+      "engType": "Titan Greaves",
+      "engText": "The Red Trail Titan Greaves",
+      "korText": "정의의 저울 차임벨 영혼 방패",
+      "engName": "The Red Trail",
+      "korName": "정의의 저울",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뭉툭한 화살통",
+      "engType": "Carnal Armour",
+      "engText": "The Restless Ward Carnal Armour",
+      "korText": "산산이 조각난 신성 뭉툭한 화살통",
+      "engName": "The Restless Ward",
+      "korName": "산산이 조각난 신성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "불화살통",
+      "engType": "Chiming Spirit Shield",
+      "engText": "The Scales of Justice Chiming Spirit Shield",
+      "korText": "봉화 불화살통",
+      "engName": "The Scales of Justice",
+      "korName": "봉화",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹렬한 화살통",
+      "engType": "Blunt Arrow Quiver",
+      "engText": "The Shattered Divinity Blunt Arrow Quiver",
+      "korText": "봉화 맹렬한 화살통",
+      "engName": "The Shattered Divinity",
+      "korName": "봉화",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "보존된 화살통",
+      "engType": "Fire Arrow Quiver",
+      "engText": "The Signal Fire Fire Arrow Quiver",
+      "korText": "봉화 보존된 화살통",
+      "engName": "The Signal Fire",
+      "korName": "봉화",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "광환의 가죽 갑옷",
+      "engType": "Blazing Arrow Quiver",
+      "engText": "The Signal Fire Blazing Arrow Quiver",
+      "korText": "설맹의 은총 광환의 가죽 갑옷",
+      "engName": "The Signal Fire",
+      "korName": "설맹의 은총",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성좌의 가죽 갑옷",
+      "engType": "Cured Quiver",
+      "engText": "The Signal Fire Cured Quiver",
+      "korText": "설맹의 은총 성좌의 가죽 갑옷",
+      "engName": "The Signal Fire",
+      "korName": "설맹의 은총",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 원형 방패",
+      "engType": "Coronal Leather",
+      "engText": "The Snowblind Grace Coronal Leather",
+      "korText": "종자 고상한 원형 방패",
+      "engName": "The Snowblind Grace",
+      "korName": "종자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자의 장화",
+      "engType": "Zodiac Leather",
+      "engText": "The Snowblind Grace Zodiac Leather",
+      "korText": "쇄도 암살자의 장화",
+      "engName": "The Snowblind Grace",
+      "korName": "쇄도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 거대 방패",
+      "engType": "Elegant Round Shield",
+      "engText": "The Squire Elegant Round Shield",
+      "korText": "포기 에조미어 거대 방패",
+      "engName": "The Squire",
+      "korName": "포기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거인 각반",
+      "engType": "Assassin's Boots",
+      "engText": "The Stampede Assassin's Boots",
+      "korText": "몰려오는 폭풍 거인 각반",
+      "engName": "The Stampede",
+      "korName": "몰려오는 폭풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "냉담한 가면",
+      "engType": "Ezomyte Tower Shield",
+      "engText": "The Surrender Ezomyte Tower Shield",
+      "korText": "폭풍의 속박 냉담한 가면",
+      "engName": "The Surrender",
+      "korName": "폭풍의 속박",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "냉담한 가면",
+      "engType": "Goliath Greaves",
+      "engText": "The Tempest Rising Goliath Greaves",
+      "korText": "폭풍의 해방 냉담한 가면",
+      "engName": "The Tempest Rising",
+      "korName": "폭풍의 해방",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 가면",
+      "engType": "Callous Mask",
+      "engText": "The Tempest's Binding Callous Mask",
+      "korText": "세 마리의 용 황금 가면",
+      "engName": "The Tempest's Binding",
+      "korName": "세 마리의 용",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "차양 단 샐릿",
+      "engType": "Callous Mask",
+      "engText": "The Tempest's Liberation Callous Mask",
+      "korText": "협잡꾼의 미소 차양 단 샐릿",
+      "engName": "The Tempest's Liberation",
+      "korName": "협잡꾼의 미소",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Golden Mask",
+      "engText": "The Three Dragons Golden Mask",
+      "korText": "불굴의 의지 집정관의 연모양 방패",
+      "engName": "The Three Dragons",
+      "korName": "불굴의 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 가면",
+      "engType": "Visored Sallet",
+      "engText": "The Trickster's Smile Visored Sallet",
+      "korText": "최정점 바알 가면",
+      "engName": "The Trickster's Smile",
+      "korName": "최정점",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전쟁용 버클러",
+      "engType": "Archon Kite Shield",
+      "engText": "The Unshattered Will Archon Kite Shield",
+      "korText": "공포에 대한 갈증 전쟁용 버클러",
+      "engName": "The Unshattered Will",
+      "korName": "공포에 대한 갈증",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단순한 로브",
+      "engType": "Vaal Mask",
+      "engText": "The Vertex Vaal Mask",
+      "korText": "천 개의 리본 단순한 로브",
+      "engName": "The Vertex",
+      "korName": "천 개의 리본",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 버클러",
+      "engType": "War Buckler",
+      "engText": "Thirst for Horrors War Buckler",
+      "korText": "천 개의 이빨 테무 바알 버클러",
+      "engName": "Thirst for Horrors",
+      "korName": "천 개의 이빨 테무",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거친 생가죽 장화",
+      "engType": "Simple Robe",
+      "engText": "Thousand Ribbons Simple Robe",
+      "korText": "삼단 공격 거친 생가죽 장화",
+      "engName": "Thousand Ribbons",
+      "korName": "삼단 공격",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철갑 투구",
+      "engType": "Vaal Buckler",
+      "engText": "Thousand Teeth Temu Vaal Buckler",
+      "korText": "전율강철 철갑 투구",
+      "engName": "Thousand Teeth Temu",
+      "korName": "전율강철",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 미트",
+      "engType": "Shagreen Boots",
+      "engText": "Three-step Assault Shagreen Boots",
+      "korText": "천둥 주먹 살인자의 미트",
+      "engName": "Three-step Assault",
+      "korName": "천둥 주먹",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태양의 관",
+      "engType": "Barbute Helmet",
+      "engText": "Thrillsteel Barbute Helmet",
+      "korText": "천둥 시야 태양의 관",
+      "engName": "Thrillsteel",
+      "korName": "천둥 시야",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가학자 의복",
+      "engType": "Murder Mitts",
+      "engText": "Thunderfist Murder Mitts",
+      "korText": "톱니의 보호 가학자 의복",
+      "engName": "Thunderfist",
+      "korName": "톱니의 보호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강화 거대 방패",
+      "engType": "Solaris Circlet",
+      "engText": "Thundersight Solaris Circlet",
+      "korText": "티투시우스의 방패 강화 거대 방패",
+      "engName": "Thundersight",
+      "korName": "티투시우스의 방패",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강화 거대 방패",
+      "engType": "Sadist Garb",
+      "engText": "Tinkerskin Sadist Garb",
+      "korText": "티투커스 방패 강화 거대 방패",
+      "engName": "Tinkerskin",
+      "korName": "티투커스 방패",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 비늘 건틀릿",
+      "engType": "Reinforced Tower Shield",
+      "engText": "Titucius' Span Reinforced Tower Shield",
+      "korText": "툼피스트 강철 비늘 건틀릿",
+      "engName": "Titucius' Span",
+      "korName": "툼피스트",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "앤티크 각반",
+      "engType": "Reinforced Tower Shield",
+      "engText": "Titucus Span Reinforced Tower Shield",
+      "korText": "횃불 참나무 층계 앤티크 각반",
+      "engName": "Titucus Span",
+      "korName": "횃불 참나무 층계",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "망사 장갑",
+      "engType": "Steelscale Gauntlets",
+      "engText": "Tombfist Steelscale Gauntlets",
+      "korText": "삼합의 손아귀 망사 장갑",
+      "engName": "Tombfist",
+      "korName": "삼합의 손아귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "삼나무 거대 방패",
+      "engType": "Antique Greaves",
+      "engText": "Torchoak Step Antique Greaves",
+      "korText": "트롤나무 꼭대기 삼나무 거대 방패",
+      "engName": "Torchoak Step",
+      "korName": "트롤나무 꼭대기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "칠흑의 거대 방패",
+      "engType": "Mesh Gloves",
+      "engText": "Triad Grip Mesh Gloves",
+      "korText": "투코하마의 요새 칠흑의 거대 방패",
+      "engName": "Triad Grip",
+      "korName": "투코하마의 요새",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Cedar Tower Shield",
+      "engText": "Trolltimber Spire Cedar Tower Shield",
+      "korText": "완고한 불꽃 집정관의 연모양 방패",
+      "engName": "Trolltimber Spire",
+      "korName": "완고한 불꽃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영원의 기병 투구",
+      "engType": "Ebony Tower Shield",
+      "engText": "Tukohama's Fortress Ebony Tower Shield",
+      "korText": "찬탈자의 속죄 영원의 기병 투구",
+      "engName": "Tukohama's Fortress",
+      "korName": "찬탈자의 속죄",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "청동 비늘 건틀릿",
+      "engType": "Archon Kite Shield",
+      "engText": "Unyielding Flame Archon Kite Shield",
+      "korText": "바알의 손길 청동 비늘 건틀릿",
+      "engName": "Unyielding Flame",
+      "korName": "바알의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 투구",
+      "engType": "Eternal Burgonet",
+      "engText": "Usurper's Penance Eternal Burgonet",
+      "korText": "밤의 장막 대형 투구",
+      "engName": "Usurper's Penance",
+      "korName": "밤의 장막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "섀클 장화",
+      "engType": "Bronzescale Gauntlets",
+      "engText": "Vaal Caress Bronzescale Gauntlets",
+      "korText": "베루소의 야심 섀클 장화",
+      "engName": "Vaal Caress",
+      "korName": "베루소의 야심",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 건틀릿",
+      "engType": "Great Helmet",
+      "engText": "Veil of the Night Great Helmet",
+      "korText": "베루소의 공성추 거신 건틀릿",
+      "engName": "Veil of the Night",
+      "korName": "베루소의 공성추",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "합판 연모양 방패",
+      "engType": "Shackled Boots",
+      "engText": "Veruso's Ambition Shackled Boots",
+      "korText": "빅타리오의 자비 합판 연모양 방패",
+      "engName": "Veruso's Ambition",
+      "korName": "빅타리오의 자비",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "옻칠한 의복",
+      "engType": "Titan Gauntlets",
+      "engText": "Veruso's Battering Rams Titan Gauntlets",
+      "korText": "빅타리오의 영향력 옻칠한 의복",
+      "engName": "Veruso's Battering Rams",
+      "korName": "빅타리오의 영향력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전신 미늘 갑옷",
+      "engType": "Laminated Kite Shield",
+      "engText": "Victario's Charity Laminated Kite Shield",
+      "korText": "독사의 비늘 전신 미늘 갑옷",
+      "engName": "Victario's Charity",
+      "korName": "독사의 비늘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관 왕관",
+      "engType": "Lacquered Garb",
+      "engText": "Victario's Influence Lacquered Garb",
+      "korText": "비리디의 장막 집정관 왕관",
+      "engName": "Victario's Influence",
+      "korName": "비리디의 장막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "네크로맨서 실크 갑옷",
+      "engType": "Full Scale Armour",
+      "engText": "Viper's Scales Full Scale Armour",
+      "korText": "비스 모티스 네크로맨서 실크 갑옷",
+      "engName": "Viper's Scales",
+      "korName": "비스 모티스",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "수놓은 장갑",
+      "engType": "Praetor Crown",
+      "engText": "Viridi's Veil Praetor Crown",
+      "korText": "암여우의 함정 수놓은 장갑",
+      "engName": "Viridi's Veil",
+      "korName": "암여우의 함정",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "선홍색 원형 방패",
+      "engType": "Necromancer Silks",
+      "engText": "Vis Mortis Necromancer Silks",
+      "korText": "불굴의 달 선홍색 원형 방패",
+      "engName": "Vis Mortis",
+      "korName": "불굴의 달",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "요술사 장갑",
+      "engType": "Embroidered Gloves",
+      "engText": "Vixen's Entrapment Embroidered Gloves",
+      "korText": "공허 인도자 요술사 장갑",
+      "engName": "Vixen's Entrapment",
+      "korName": "공허 인도자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "관통 화살통",
+      "engType": "Cardinal Round Shield",
+      "engText": "Vix Lunaris Cardinal Round Shield",
+      "korText": "공허 화살깃 관통 화살통",
+      "engName": "Vix Lunaris",
+      "korName": "공허 화살깃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "원시 화살통",
+      "engType": "Conjurer Gloves",
+      "engText": "Voidbringer Conjurer Gloves",
+      "korText": "공허 화살깃 원시 화살통",
+      "engName": "Voidbringer",
+      "korName": "공허 화살깃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 장화",
+      "engType": "Penetrating Arrow Quiver",
+      "engText": "Voidfletcher Penetrating Arrow Quiver",
+      "korText": "공허 보행자 살인자의 장화",
+      "engName": "Voidfletcher",
+      "korName": "공허 보행자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹신자 장갑",
+      "engType": "Primal Arrow Quiver",
+      "engText": "Voidfletcher Primal Arrow Quiver",
+      "korText": "볼쿠르의 인도 맹신자 장갑",
+      "engName": "Voidfletcher",
+      "korName": "볼쿠르의 인도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성스러운 사슬 갑옷",
+      "engType": "Murder Boots",
+      "engText": "Voidwalker Murder Boots",
+      "korText": "볼의 보호자 성스러운 사슬 갑옷",
+      "engName": "Voidwalker",
+      "korName": "볼의 보호자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관 왕관",
+      "engType": "Zealot Gloves",
+      "engText": "Volkuur's Guidance Zealot Gloves",
+      "korText": "볼의 시각 집정관 왕관",
+      "engName": "Volkuur's Guidance",
+      "korName": "볼의 시각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "룬 발 덮개",
+      "engType": "Holy Chainmail",
+      "engText": "Voll's Protector Holy Chainmail",
+      "korText": "보라나의 행진 룬 발 덮개",
+      "engName": "Voll's Protector",
+      "korName": "보라나의 행진",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "망사 장화",
+      "engType": "Praetor Crown",
+      "engText": "Voll's Vision Praetor Crown",
+      "korText": "파괴의 경야 망사 장화",
+      "engName": "Voll's Vision",
+      "korName": "파괴의 경야",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "판금 조끼",
+      "engType": "Runic Sabatons",
+      "engText": "Vorana's March Runic Sabatons",
+      "korText": "가시나무 벽 판금 조끼",
+      "engName": "Vorana's March",
+      "korName": "가시나무 벽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "양모 신발",
+      "engType": "Mesh Boots",
+      "engText": "Wake of Destruction Mesh Boots",
+      "korText": "방랑벽 양모 신발",
+      "engName": "Wake of Destruction",
+      "korName": "방랑벽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "변색된 영혼 방패",
+      "engType": "Plate Vest",
+      "engText": "Wall of Brambles Plate Vest",
+      "korText": "와카투투키 오 마투아 변색된 영혼 방패",
+      "engName": "Wall of Brambles",
+      "korName": "와카투투키 오 마투아",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "썩은 원형 방패",
+      "engType": "Wool Shoes",
+      "engText": "Wanderlust Wool Shoes",
+      "korText": "거친 항해의 타륜 썩은 원형 방패",
+      "engName": "Wanderlust",
+      "korName": "거친 항해의 타륜",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끈을 멘 가죽 갑옷",
+      "engType": "Tarnished Spirit Shield",
+      "engText": "Whakatutuki o Matua Tarnished Spirit Shield",
+      "korText": "황야의 겉옷 끈을 멘 가죽 갑옷",
+      "engName": "Whakatutuki o Matua",
+      "korName": "황야의 겉옷",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 가면",
+      "engType": "Rotted Round Shield",
+      "engText": "Wheel of the Stormsail Rotted Round Shield",
+      "korText": "의지의 충돌 황금 가면",
+      "engName": "Wheel of the Stormsail",
+      "korName": "의지의 충돌",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태양의 관",
+      "engType": "Strapped Leather",
+      "engText": "Wildwrap Strapped Leather",
+      "korText": "윌마의 보답 태양의 관",
+      "engName": "Wildwrap",
+      "korName": "윌마의 보답",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강화 각반",
+      "engType": "Golden Mask",
+      "engText": "Willclash Golden Mask",
+      "korText": "바람의 괴성 강화 각반",
+      "engName": "Willclash",
+      "korName": "바람의 괴성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강화 각반",
+      "engType": "Solaris Circlet",
+      "engText": "Wilma's Requital Solaris Circlet",
+      "korText": "바람의 비명 강화 각반",
+      "engName": "Wilma's Requital",
+      "korName": "바람의 비명",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고대의 건틀릿",
+      "engType": "Reinforced Greaves",
+      "engText": "Windscream Reinforced Greaves",
+      "korText": "변화의 바람 고대의 건틀릿",
+      "engName": "Windscream",
+      "korName": "변화의 바람",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벨벳 슬리퍼",
+      "engType": "Reinforced Greaves",
+      "engText": "Windshriek Reinforced Greaves",
+      "korText": "기적의 발판 벨벳 슬리퍼",
+      "engName": "Windshriek",
+      "korName": "기적의 발판",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "용 비늘 건틀릿",
+      "engType": "Ancient Gauntlets",
+      "engText": "Winds of Change Ancient Gauntlets",
+      "korText": "세계분쇄기 용 비늘 건틀릿",
+      "engName": "Winds of Change",
+      "korName": "세계분쇄기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뼈의 관",
+      "engType": "Velvet Slippers",
+      "engText": "Wondertrap Velvet Slippers",
+      "korText": "악령 군주 뼈의 관",
+      "engName": "Wondertrap",
+      "korName": "악령 군주",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 관",
+      "engType": "Dragonscale Gauntlets",
+      "engText": "Worldcarver Dragonscale Gauntlets",
+      "korText": "프레시아의 화관 철제 관",
+      "engName": "Worldcarver",
+      "korName": "프레시아의 화관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아룡 비늘 건틀릿",
+      "engType": "Bone Circlet",
+      "engText": "Wraithlord Bone Circlet",
+      "korText": "아룡의 징조 아룡 비늘 건틀릿",
+      "engName": "Wraithlord",
+      "korName": "아룡의 징조",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "자만의 관",
+      "engType": "Iron Circlet",
+      "engText": "Wreath of Phrecia Iron Circlet",
+      "korText": "일프밴의 계략 자만의 관",
+      "engName": "Wreath of Phrecia",
+      "korName": "일프밴의 계략",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "정교한 가죽 갑옷",
+      "engType": "Wyrmscale Gauntlets",
+      "engText": "Wyrmsign Wyrmscale Gauntlets",
+      "korText": "이리엘의 훈육 정교한 가죽 갑옷",
+      "engName": "Wyrmsign",
+      "korName": "이리엘의 훈육",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "현자의 로브",
+      "engType": "Hubris Circlet",
+      "engText": "Ylfeban's Trickery Hubris Circlet",
+      "korText": "잔데투스의 성직복 현자의 로브",
+      "engName": "Ylfeban's Trickery",
+      "korName": "잔데투스의 성직복",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "광택을 낸 가시 방패",
+      "engType": "Exquisite Leather",
+      "engText": "Yriel's Fostering Exquisite Leather",
+      "korText": "질의 증폭기 광택을 낸 가시 방패",
+      "engName": "Yriel's Fostering",
+      "korName": "질의 증폭기",
+      "flags": {
+        "unique": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "heistmission",
+  "labelKor": "강탈 임무",
+  "labelEng": "Heist Mission",
+  "entries": [
+    {
+      "korType": "도면: 벙커",
+      "engType": "Blueprint: Bunker"
+    },
+    {
+      "korType": "도면: 기록 보관소",
+      "engType": "Blueprint: Records Office"
+    },
+    {
+      "korType": "도면: 실험실",
+      "engType": "Blueprint: Laboratory"
+    },
+    {
+      "korType": "도면: 금지된 도서관",
+      "engType": "Blueprint: Prohibited Library"
+    },
+    {
+      "korType": "도면: 대저택",
+      "engType": "Blueprint: Mansion"
+    },
+    {
+      "korType": "도면: 밀수범 소굴",
+      "engType": "Blueprint: Smuggler's Den"
+    },
+    {
+      "korType": "도면: 저장소",
+      "engType": "Blueprint: Repository"
+    },
+    {
+      "korType": "도면: 터널",
+      "engType": "Blueprint: Tunnels"
+    },
+    {
+      "korType": "도면: 취약 지점",
+      "engType": "Blueprint: Underbelly"
+    },
+    {
+      "korType": "계약: 벙커",
+      "engType": "Contract: Bunker"
+    },
+    {
+      "korType": "계약: 기록 보관소",
+      "engType": "Contract: Records Office"
+    },
+    {
+      "korType": "계약: 실험실",
+      "engType": "Contract: Laboratory"
+    },
+    {
+      "korType": "계약: 금지된 도서관",
+      "engType": "Contract: Prohibited Library"
+    },
+    {
+      "korType": "계약: 대저택",
+      "engType": "Contract: Mansion"
+    },
+    {
+      "korType": "계약: 밀수범 소굴",
+      "engType": "Contract: Smuggler's Den"
+    },
+    {
+      "korType": "계약: 저장소",
+      "engType": "Contract: Repository"
+    },
+    {
+      "korType": "계약: 터널",
+      "engType": "Contract: Tunnels"
+    },
+    {
+      "korType": "계약: 취약 지점",
+      "engType": "Contract: Underbelly"
+    },
+    {
+      "korType": "가문의 계약",
+      "engType": "Familial Contract"
+    },
+    {
+      "korType": "해군 계약",
+      "engType": "Naval Contract"
+    },
+    {
+      "korType": "예방 차원의 계약",
+      "engType": "Preventative Contract"
+    },
+    {
+      "korType": "복수의 계약",
+      "engType": "Vengeful Contract"
+    },
+    {
+      "korType": "치안 계약",
+      "engType": "Vigilante Contract"
+    },
+    {
+      "korType": "예방 차원의 계약",
+      "engType": "Preventative Contract",
+      "engText": "Contract: Breaking the Unbreakable Preventative Contract",
+      "korText": "계약: 파괴 불가능한 존재 파괴하기 예방 차원의 계약",
+      "engName": "Contract: Breaking the Unbreakable",
+      "korName": "계약: 파괴 불가능한 존재 파괴하기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "해군 계약",
+      "engType": "Naval Contract",
+      "engText": "Contract: Death to Darnaw Naval Contract",
+      "korText": "계약: 다나우에게 죽음을 해군 계약",
+      "engName": "Contract: Death to Darnaw",
+      "korName": "계약: 다나우에게 죽음을",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가문의 계약",
+      "engType": "Familial Contract",
+      "engText": "Contract: Heart of Glory Familial Contract",
+      "korText": "계약: 영광의 심장 가문의 계약",
+      "engName": "Contract: Heart of Glory",
+      "korName": "계약: 영광의 심장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "치안 계약",
+      "engType": "Vigilante Contract",
+      "engText": "Contract: The Slaver King Vigilante Contract",
+      "korText": "계약: 노예상의 왕 치안 계약",
+      "engName": "Contract: The Slaver King",
+      "korName": "계약: 노예상의 왕",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "복수의 계약",
+      "engType": "Vengeful Contract",
+      "engText": "Contract: The Twins Vengeful Contract",
+      "korText": "계약: 쌍둥이 복수의 계약",
+      "engName": "Contract: The Twins",
+      "korName": "계약: 쌍둥이",
+      "flags": {
+        "unique": true
+      }
+    }
+  ]
+}

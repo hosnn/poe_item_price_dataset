@@ -1,0 +1,2101 @@
+{
+  "id": "jewel",
+  "labelKor": "주얼",
+  "labelEng": "Jewels",
+  "entries": [
+    {
+      "korType": "최면 거는 눈 주얼",
+      "engType": "Hypnotic Eye Jewel"
+    },
+    {
+      "korType": "살인적인 눈 주얼",
+      "engType": "Murderous Eye Jewel"
+    },
+    {
+      "korType": "탐색하는 눈 주얼",
+      "engType": "Searching Eye Jewel"
+    },
+    {
+      "korType": "무시무시한 눈 주얼",
+      "engType": "Ghastly Eye Jewel"
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel"
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel"
+    },
+    {
+      "korType": "대형 스킬 군 주얼",
+      "engType": "Large Cluster Jewel"
+    },
+    {
+      "korType": "중형 스킬 군 주얼",
+      "engType": "Medium Cluster Jewel"
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel"
+    },
+    {
+      "korType": "분광 주얼",
+      "engType": "Prismatic Jewel"
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel"
+    },
+    {
+      "korType": "무궁한 주얼",
+      "engType": "Timeless Jewel"
+    },
+    {
+      "korType": "무시무시한 눈 주얼",
+      "engType": "Ghastly Eye Jewel",
+      "engText": "Amanamu's Gaze Ghastly Eye Jewel",
+      "korText": "아마나무의 응시 무시무시한 눈 주얼",
+      "engName": "Amanamu's Gaze",
+      "korName": "아마나무의 응시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Anatomical Knowledge Cobalt Jewel",
+      "korText": "육체에 대한 지식 코발트색 주얼",
+      "engName": "Anatomical Knowledge",
+      "korName": "육체에 대한 지식",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Ancestral Vision Viridian Jewel",
+      "korText": "선대의 환영 진청록색 주얼",
+      "engName": "Ancestral Vision",
+      "korName": "선대의 환영",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Ancient Waystones Crimson Jewel",
+      "korText": "고대 경로석 진홍색 주얼",
+      "engName": "Ancient Waystones",
+      "korName": "고대 경로석",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Apex Mode Cobalt Jewel",
+      "korText": "정점 모드 코발트색 주얼",
+      "engName": "Apex Mode",
+      "korName": "정점 모드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Apparitions Viridian Jewel",
+      "korText": "유령 진청록색 주얼",
+      "engName": "Apparitions",
+      "korName": "유령",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "To Dust Cobalt Jewel",
+      "korText": "먼지처럼 사라져라 코발트색 주얼",
+      "engName": "To Dust",
+      "korName": "먼지처럼 사라져라",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Assassin's Haste Cobalt Jewel",
+      "korText": "암살자의 신속함 코발트색 주얼",
+      "engName": "Assassin's Haste",
+      "korName": "암살자의 신속함",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Atziri's Reign Crimson Jewel",
+      "korText": "앗지리의 치세 진홍색 주얼",
+      "engName": "Atziri's Reign",
+      "korName": "앗지리의 치세",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Bloodnotch Crimson Jewel",
+      "korText": "피의 오늬 진홍색 주얼",
+      "engName": "Bloodnotch",
+      "korName": "피의 오늬",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Blood Sacrifice Crimson Jewel",
+      "korText": "피의 희생 진홍색 주얼",
+      "engName": "Blood Sacrifice",
+      "korName": "피의 희생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Brawn Crimson Jewel",
+      "korText": "근육 진홍색 주얼",
+      "engName": "Brawn",
+      "korName": "근육",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Brittle Barrier Cobalt Jewel",
+      "korText": "부실한 방어막 코발트색 주얼",
+      "engName": "Brittle Barrier",
+      "korName": "부실한 방어막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무궁한 주얼",
+      "engType": "Timeless Jewel",
+      "engText": "Brutal Restraint Timeless Jewel",
+      "korText": "잔인한 속박 무궁한 주얼",
+      "engName": "Brutal Restraint",
+      "korName": "잔인한 속박",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Brute Force Solution Cobalt Jewel",
+      "korText": "완력 해결 코발트색 주얼",
+      "engName": "Brute Force Solution",
+      "korName": "완력 해결",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Fortified Legion Cobalt Jewel",
+      "korText": "견고한 부대 코발트색 주얼",
+      "engName": "Fortified Legion",
+      "korName": "견고한 부대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel",
+      "engText": "Calamitous Visions Small Cluster Jewel",
+      "korText": "환란의 시각 소형 스킬 군 주얼",
+      "engName": "Calamitous Visions",
+      "korName": "환란의 시각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Careful Planning Viridian Jewel",
+      "korText": "철저한 계획 진청록색 주얼",
+      "engName": "Careful Planning",
+      "korName": "철저한 계획",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Cheap Construction Viridian Jewel",
+      "korText": "저렴한 건축 진청록색 주얼",
+      "engName": "Cheap Construction",
+      "korName": "저렴한 건축",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Chill of Corruption Viridian Jewel",
+      "korText": "타락의 한기 진청록색 주얼",
+      "engName": "Chill of Corruption",
+      "korName": "타락의 한기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Clear Mind Cobalt Jewel",
+      "korText": "맑은 정신 코발트색 주얼",
+      "engName": "Clear Mind",
+      "korName": "맑은 정신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Coated Shrapnel Crimson Jewel",
+      "korText": "뒤덮은 파편 진홍색 주얼",
+      "engName": "Coated Shrapnel",
+      "korName": "뒤덮은 파편",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Cold Steel Viridian Jewel",
+      "korText": "냉기의 강철 진청록색 주얼",
+      "engName": "Cold Steel",
+      "korName": "냉기의 강철",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Collateral Damage Viridian Jewel",
+      "korText": "부가적 피해 진청록색 주얼",
+      "engName": "Collateral Damage",
+      "korName": "부가적 피해",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Combat Focus Viridian Jewel",
+      "korText": "집중 전투 진청록색 주얼",
+      "engName": "Combat Focus",
+      "korName": "집중 전투",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Combat Focus Crimson Jewel",
+      "korText": "집중 전투 진홍색 주얼",
+      "engName": "Combat Focus",
+      "korName": "집중 전투",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Combat Focus Cobalt Jewel",
+      "korText": "집중 전투 코발트색 주얼",
+      "engName": "Combat Focus",
+      "korName": "집중 전투",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Combustibles Crimson Jewel",
+      "korText": "가연성 보석 진홍색 주얼",
+      "engName": "Combustibles",
+      "korName": "가연성 보석",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Conqueror's Efficiency Crimson Jewel",
+      "korText": "정복자의 효율 진홍색 주얼",
+      "engName": "Conqueror's Efficiency",
+      "korName": "정복자의 효율",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Conqueror's Longevity Viridian Jewel",
+      "korText": "정복자의 수명 진청록색 주얼",
+      "engName": "Conqueror's Longevity",
+      "korName": "정복자의 수명",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Conqueror's Potency Cobalt Jewel",
+      "korText": "정복자의 능력 코발트색 주얼",
+      "engName": "Conqueror's Potency",
+      "korName": "정복자의 능력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Corrupted Energy Cobalt Jewel",
+      "korText": "타락한 에너지 코발트색 주얼",
+      "engName": "Corrupted Energy",
+      "korName": "타락한 에너지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Dead Reckoning Cobalt Jewel",
+      "korText": "망자의 판단 코발트색 주얼",
+      "engName": "Dead Reckoning",
+      "korName": "망자의 판단",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Dissolution of the Flesh Crimson Jewel",
+      "korText": "살점의 융해 진홍색 주얼",
+      "engName": "Dissolution of the Flesh",
+      "korName": "살점의 융해",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Seething Fury Viridian Jewel",
+      "korText": "끓어오르는 광분 진청록색 주얼",
+      "engName": "Seething Fury",
+      "korName": "끓어오르는 광분",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Divine Inferno Crimson Jewel",
+      "korText": "신성한 지옥불 진홍색 주얼",
+      "engName": "Divine Inferno",
+      "korName": "신성한 지옥불",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Efficient Training Crimson Jewel",
+      "korText": "효율적인 훈련 진홍색 주얼",
+      "engName": "Efficient Training",
+      "korName": "효율적인 훈련",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Eldritch Knowledge Cobalt Jewel",
+      "korText": "섬뜩한 지식 코발트색 주얼",
+      "engName": "Eldritch Knowledge",
+      "korName": "섬뜩한 지식",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무궁한 주얼",
+      "engType": "Timeless Jewel",
+      "engText": "Elegant Hubris Timeless Jewel",
+      "korText": "고상한 오만 무궁한 주얼",
+      "engName": "Elegant Hubris",
+      "korName": "고상한 오만",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Emperor's Cunning Viridian Jewel",
+      "korText": "황제의 잔꾀 진청록색 주얼",
+      "engName": "Emperor's Cunning",
+      "korName": "황제의 잔꾀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "분광 주얼",
+      "engType": "Prismatic Jewel",
+      "engText": "Emperor's Mastery Prismatic Jewel",
+      "korText": "황제의 숙련 분광 주얼",
+      "engName": "Emperor's Mastery",
+      "korName": "황제의 숙련",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Emperor's Might Crimson Jewel",
+      "korText": "황제의 완력 진홍색 주얼",
+      "engName": "Emperor's Might",
+      "korName": "황제의 완력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Emperor's Wit Cobalt Jewel",
+      "korText": "황제의 재치 코발트색 주얼",
+      "engName": "Emperor's Wit",
+      "korName": "황제의 재치",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Endless Misery Cobalt Jewel",
+      "korText": "끝없는 불행 코발트색 주얼",
+      "engName": "Endless Misery",
+      "korName": "끝없는 불행",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Energised Armour Crimson Jewel",
+      "korText": "활력의 방어구 진홍색 주얼",
+      "engName": "Energised Armour",
+      "korName": "활력의 방어구",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Energy From Within Cobalt Jewel",
+      "korText": "내재한 에너지 코발트색 주얼",
+      "engName": "Energy From Within",
+      "korName": "내재한 에너지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Fertile Mind Cobalt Jewel",
+      "korText": "풍요로운 마음 코발트색 주얼",
+      "engName": "Fertile Mind",
+      "korName": "풍요로운 마음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Fevered Mind Cobalt Jewel",
+      "korText": "흥분한 마음 코발트색 주얼",
+      "engName": "Fevered Mind",
+      "korName": "흥분한 마음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Fight for Survival Viridian Jewel",
+      "korText": "처절한 분투 진청록색 주얼",
+      "engName": "Fight for Survival",
+      "korName": "처절한 분투",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Fireborn Crimson Jewel",
+      "korText": "불의 체질 진홍색 주얼",
+      "engName": "Fireborn",
+      "korName": "불의 체질",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Firesong Crimson Jewel",
+      "korText": "불의 노래 진홍색 주얼",
+      "engName": "Firesong",
+      "korName": "불의 노래",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "First Snow Cobalt Jewel",
+      "korText": "첫눈 코발트색 주얼",
+      "engName": "First Snow",
+      "korName": "첫눈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Fluid Motion Viridian Jewel",
+      "korText": "유체 운동 진청록색 주얼",
+      "engName": "Fluid Motion",
+      "korName": "유체 운동",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Forbidden Flame Crimson Jewel",
+      "korText": "금단의 화염 진홍색 주얼",
+      "engName": "Forbidden Flame",
+      "korName": "금단의 화염",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Forbidden Flesh Cobalt Jewel",
+      "korText": "금단의 살점 코발트색 주얼",
+      "engName": "Forbidden Flesh",
+      "korName": "금단의 살점",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Fortress Covenant Cobalt Jewel",
+      "korText": "요새 계약 코발트색 주얼",
+      "engName": "Fortress Covenant",
+      "korName": "요새 계약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Fragile Bloom Crimson Jewel",
+      "korText": "가냘픈 꽃 진홍색 주얼",
+      "engName": "Fragile Bloom",
+      "korName": "가냘픈 꽃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Fragility Crimson Jewel",
+      "korText": "허약 진홍색 주얼",
+      "engName": "Fragility",
+      "korName": "허약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "From Dust Cobalt Jewel",
+      "korText": "먼지처럼 나타나라 코발트색 주얼",
+      "engName": "From Dust",
+      "korName": "먼지처럼 나타나라",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Frozen Trail Cobalt Jewel",
+      "korText": "얼어붙은 길 코발트색 주얼",
+      "engName": "Frozen Trail",
+      "korName": "얼어붙은 길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무궁한 주얼",
+      "engType": "Timeless Jewel",
+      "engText": "Glorious Vanity Timeless Jewel",
+      "korText": "찬란한 허영심 무궁한 주얼",
+      "engName": "Glorious Vanity",
+      "korName": "찬란한 허영심",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Grand Spectrum Viridian Jewel",
+      "korText": "장대한 파장 진청록색 주얼",
+      "engName": "Grand Spectrum",
+      "korName": "장대한 파장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Grand Spectrum Cobalt Jewel",
+      "korText": "장대한 파장 코발트색 주얼",
+      "engName": "Grand Spectrum",
+      "korName": "장대한 파장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Grand Spectrum Crimson Jewel",
+      "korText": "장대한 파장 진홍색 주얼",
+      "engName": "Grand Spectrum",
+      "korName": "장대한 파장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Growing Agony Viridian Jewel",
+      "korText": "심해지는 고통 진청록색 주얼",
+      "engName": "Growing Agony",
+      "korName": "심해지는 고통",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Hair Trigger Viridian Jewel",
+      "korText": "민감한 반응 진청록색 주얼",
+      "engName": "Hair Trigger",
+      "korName": "민감한 반응",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Hazardous Research Cobalt Jewel",
+      "korText": "위험한 연구 코발트색 주얼",
+      "engName": "Hazardous Research",
+      "korName": "위험한 연구",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Healthy Mind Cobalt Jewel",
+      "korText": "건강한 마음 코발트색 주얼",
+      "engName": "Healthy Mind",
+      "korName": "건강한 마음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Hidden Potential Viridian Jewel",
+      "korText": "숨겨진 잠재력 진청록색 주얼",
+      "engName": "Hidden Potential",
+      "korName": "숨겨진 잠재력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Hotheaded Viridian Jewel",
+      "korText": "핫헤드 진청록색 주얼",
+      "engName": "Hotheaded",
+      "korName": "핫헤드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Hungry Abyss Viridian Jewel",
+      "korText": "굶주린 심연 진청록색 주얼",
+      "engName": "Hungry Abyss",
+      "korName": "굶주린 심연",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Immutable Force Crimson Jewel",
+      "korText": "불변의 힘 진홍색 주얼",
+      "engName": "Immutable Force",
+      "korName": "불변의 힘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Impossible Escape Viridian Jewel",
+      "korText": "불가능한 탈출 진청록색 주얼",
+      "engName": "Impossible Escape",
+      "korName": "불가능한 탈출",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Inertia Crimson Jewel",
+      "korText": "관성 진홍색 주얼",
+      "engName": "Inertia",
+      "korName": "관성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Inevitability Cobalt Jewel",
+      "korText": "필연 코발트색 주얼",
+      "engName": "Inevitability",
+      "korName": "필연",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Inspired Learning Crimson Jewel",
+      "korText": "탁월한 학습 진홍색 주얼",
+      "engName": "Inspired Learning",
+      "korName": "탁월한 학습",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Intuitive Leap Viridian Jewel",
+      "korText": "직관의 도약 진청록색 주얼",
+      "engName": "Intuitive Leap",
+      "korName": "직관의 도약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Izaro's Turmoil Crimson Jewel",
+      "korText": "이자로의 혼란 진홍색 주얼",
+      "engName": "Izaro's Turmoil",
+      "korName": "이자로의 혼란",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel",
+      "engText": "Kitava's Teachings Small Cluster Jewel",
+      "korText": "키타바의 가르침 소형 스킬 군 주얼",
+      "engName": "Kitava's Teachings",
+      "korName": "키타바의 가르침",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "최면 거는 눈 주얼",
+      "engType": "Hypnotic Eye Jewel",
+      "engText": "Kurgal's Gaze Hypnotic Eye Jewel",
+      "korText": "쿠르갈의 응시 최면 거는 눈 주얼",
+      "engName": "Kurgal's Gaze",
+      "korName": "쿠르갈의 응시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무궁한 주얼",
+      "engType": "Timeless Jewel",
+      "engText": "Lethal Pride Timeless Jewel",
+      "korText": "치명적인 긍지 무궁한 주얼",
+      "engName": "Lethal Pride",
+      "korName": "치명적인 긍지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Lioneye's Fall Viridian Jewel",
+      "korText": "라이온아이의 몰락 진청록색 주얼",
+      "engName": "Lioneye's Fall",
+      "korName": "라이온아이의 몰락",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Lord of Steel Viridian Jewel",
+      "korText": "강철의 군주 진청록색 주얼",
+      "engName": "Lord of Steel",
+      "korName": "강철의 군주",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Malicious Intent Cobalt Jewel",
+      "korText": "불순한 의도 코발트색 주얼",
+      "engName": "Malicious Intent",
+      "korName": "불순한 의도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Mantra of Flames Crimson Jewel",
+      "korText": "화염의 주문 진홍색 주얼",
+      "engName": "Mantra of Flames",
+      "korName": "화염의 주문",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Martial Artistry Crimson Jewel",
+      "korText": "무도가의 기교 진홍색 주얼",
+      "engName": "Martial Artistry",
+      "korName": "무도가의 기교",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "중형 스킬 군 주얼",
+      "engType": "Medium Cluster Jewel",
+      "engText": "Megalomaniac Medium Cluster Jewel",
+      "korText": "과대망상 중형 스킬 군 주얼",
+      "engName": "Megalomaniac",
+      "korName": "과대망상",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Melding of the Flesh Cobalt Jewel",
+      "korText": "살점의 융합 코발트색 주얼",
+      "engName": "Melding of the Flesh",
+      "korName": "살점의 융합",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Might and Influence Viridian Jewel",
+      "korText": "권력과 영향력 진청록색 주얼",
+      "engName": "Might and Influence",
+      "korName": "권력과 영향력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Might in All Forms Crimson Jewel",
+      "korText": "만물의 힘 진홍색 주얼",
+      "engName": "Might in All Forms",
+      "korName": "만물의 힘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Might of the Meek Crimson Jewel",
+      "korText": "온유의 힘 진홍색 주얼",
+      "engName": "Might of the Meek",
+      "korName": "온유의 힘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무궁한 주얼",
+      "engType": "Timeless Jewel",
+      "engText": "Militant Faith Timeless Jewel",
+      "korText": "호전적인 신념 무궁한 주얼",
+      "engName": "Militant Faith",
+      "korName": "호전적인 신념",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Mutated Growth Cobalt Jewel",
+      "korText": "변이한 종양 코발트색 주얼",
+      "engName": "Mutated Growth",
+      "korName": "변이한 종양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Nadir Mode Cobalt Jewel",
+      "korText": "저점 모드 코발트색 주얼",
+      "engName": "Nadir Mode",
+      "korName": "저점 모드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel",
+      "engText": "Natural Affinity Small Cluster Jewel",
+      "korText": "타고난 친화력 소형 스킬 군 주얼",
+      "engName": "Natural Affinity",
+      "korName": "타고난 친화력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Omen on the Winds Viridian Jewel",
+      "korText": "바람에 실린 전조 진청록색 주얼",
+      "engName": "Omen on the Winds",
+      "korName": "바람에 실린 전조",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel",
+      "engText": "One With Nothing Small Cluster Jewel",
+      "korText": "맨주먹 소형 스킬 군 주얼",
+      "engName": "One With Nothing",
+      "korName": "맨주먹",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Overwhelming Odds Crimson Jewel",
+      "korText": "압도적인 역경 진홍색 주얼",
+      "engName": "Overwhelming Odds",
+      "korName": "압도적인 역경",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Pacifism Viridian Jewel",
+      "korText": "평화주의 진청록색 주얼",
+      "engName": "Pacifism",
+      "korName": "평화주의",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Pitch Darkness Viridian Jewel",
+      "korText": "칠흑 같은 어둠 진청록색 주얼",
+      "engName": "Pitch Darkness",
+      "korName": "칠흑 같은 어둠",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Poacher's Aim Viridian Jewel",
+      "korText": "밀렵꾼의 조준 진청록색 주얼",
+      "engName": "Poacher's Aim",
+      "korName": "밀렵꾼의 조준",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Powerlessness Cobalt Jewel",
+      "korText": "무력함 코발트색 주얼",
+      "engName": "Powerlessness",
+      "korName": "무력함",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Primordial Eminence Viridian Jewel",
+      "korText": "태고의 고귀 진청록색 주얼",
+      "engName": "Primordial Eminence",
+      "korName": "태고의 고귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Primordial Harmony Cobalt Jewel",
+      "korText": "태고의 조화 코발트색 주얼",
+      "engName": "Primordial Harmony",
+      "korName": "태고의 조화",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Primordial Might Crimson Jewel",
+      "korText": "태고의 완력 진홍색 주얼",
+      "engName": "Primordial Might",
+      "korName": "태고의 완력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Pugilist Viridian Jewel",
+      "korText": "권투가 진청록색 주얼",
+      "engName": "Pugilist",
+      "korName": "권투가",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Pure Talent Viridian Jewel",
+      "korText": "타고난 재능 진청록색 주얼",
+      "engName": "Pure Talent",
+      "korName": "타고난 재능",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Quickening Covenant Viridian Jewel",
+      "korText": "재촉의 계약 진청록색 주얼",
+      "engName": "Quickening Covenant",
+      "korName": "재촉의 계약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Rain of Splinters Crimson Jewel",
+      "korText": "파편의 비 진홍색 주얼",
+      "engName": "Rain of Splinters",
+      "korName": "파편의 비",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Rapid Expansion Crimson Jewel",
+      "korText": "신속한 확장 진홍색 주얼",
+      "engName": "Rapid Expansion",
+      "korName": "신속한 확장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Rational Doctrine Cobalt Jewel",
+      "korText": "합리적인 교리 코발트색 주얼",
+      "engName": "Rational Doctrine",
+      "korName": "합리적인 교리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Reckless Defence Cobalt Jewel",
+      "korText": "무모한 방어 코발트색 주얼",
+      "engName": "Reckless Defence",
+      "korName": "무모한 방어",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Replica Blood Sacrifice Crimson Jewel",
+      "korText": "피의 희생 모조품 진홍색 주얼",
+      "engName": "Replica Blood Sacrifice",
+      "korName": "피의 희생 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Replica Cheap Construction Viridian Jewel",
+      "korText": "저렴한 건축 모조품 진청록색 주얼",
+      "engName": "Replica Cheap Construction",
+      "korName": "저렴한 건축 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Replica Conqueror's Efficiency Crimson Jewel",
+      "korText": "정복자의 효율 모조품 진홍색 주얼",
+      "engName": "Replica Conqueror's Efficiency",
+      "korName": "정복자의 효율 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Replica Fragile Bloom Crimson Jewel",
+      "korText": "가냘픈 꽃 모조품 진홍색 주얼",
+      "engName": "Replica Fragile Bloom",
+      "korName": "가냘픈 꽃 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Replica Fragility Crimson Jewel",
+      "korText": "허약 모조품 진홍색 주얼",
+      "engName": "Replica Fragility",
+      "korName": "허약 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Replica Hotheaded Viridian Jewel",
+      "korText": "핫헤드 모조품 진청록색 주얼",
+      "engName": "Replica Hotheaded",
+      "korName": "핫헤드 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Replica Pacifism Viridian Jewel",
+      "korText": "평화주의 모조품 진청록색 주얼",
+      "engName": "Replica Pacifism",
+      "korName": "평화주의 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Replica Powerlessness Cobalt Jewel",
+      "korText": "무력함 모조품 코발트색 주얼",
+      "engName": "Replica Powerlessness",
+      "korName": "무력함 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Replica Primordial Might Crimson Jewel",
+      "korText": "태고의 완력 모조품 진홍색 주얼",
+      "engName": "Replica Primordial Might",
+      "korName": "태고의 완력 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Replica Pure Talent Viridian Jewel",
+      "korText": "타고난 재능 모조품 진청록색 주얼",
+      "engName": "Replica Pure Talent",
+      "korName": "타고난 재능 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Replica Reckless Defence Cobalt Jewel",
+      "korText": "무모한 방어 모조품 코발트색 주얼",
+      "engName": "Replica Reckless Defence",
+      "korName": "무모한 방어 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Replica Unstable Payload Cobalt Jewel",
+      "korText": "불안정한 하중 모조품 코발트색 주얼",
+      "engName": "Replica Unstable Payload",
+      "korName": "불안정한 하중 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Ring of Blades Viridian Jewel",
+      "korText": "칼날 경기장 진청록색 주얼",
+      "engName": "Ring of Blades",
+      "korName": "칼날 경기장",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Rolling Flames Cobalt Jewel",
+      "korText": "몰려오는 불꽃 코발트색 주얼",
+      "engName": "Rolling Flames",
+      "korName": "몰려오는 불꽃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Sacrificial Harvest Viridian Jewel",
+      "korText": "희생의 수확 진청록색 주얼",
+      "engName": "Sacrificial Harvest",
+      "korName": "희생의 수확",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Self-Flagellation Viridian Jewel",
+      "korText": "자학 채찍질 진청록색 주얼",
+      "engName": "Self-Flagellation",
+      "korName": "자학 채찍질",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Shattered Chains Crimson Jewel",
+      "korText": "바스라진 사슬 진홍색 주얼",
+      "engName": "Shattered Chains",
+      "korName": "바스라진 사슬",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Soul's Wick Cobalt Jewel",
+      "korText": "영혼의 심지 코발트색 주얼",
+      "engName": "Soul's Wick",
+      "korName": "영혼의 심지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Spire of Stone Crimson Jewel",
+      "korText": "첨탑 진홍색 주얼",
+      "engName": "Spire of Stone",
+      "korName": "첨탑",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Spirited Response Cobalt Jewel",
+      "korText": "맹렬한 응답 코발트색 주얼",
+      "engName": "Spirited Response",
+      "korName": "맹렬한 응답",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Spirit Guards Viridian Jewel",
+      "korText": "혼백의 수호 진청록색 주얼",
+      "engName": "Spirit Guards",
+      "korName": "혼백의 수호",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Split Personality Crimson Jewel",
+      "korText": "이중 인격 진홍색 주얼",
+      "engName": "Split Personality",
+      "korName": "이중 인격",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Spreading Rot Cobalt Jewel",
+      "korText": "퍼져가는 부패 코발트색 주얼",
+      "engName": "Spreading Rot",
+      "korName": "퍼져가는 부패",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Static Electricity Viridian Jewel",
+      "korText": "정전기 진청록색 주얼",
+      "engName": "Static Electricity",
+      "korName": "정전기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Steel Spirit Viridian Jewel",
+      "korText": "강철 혼백 진청록색 주얼",
+      "engName": "Steel Spirit",
+      "korName": "강철 혼백",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Stormshroud Viridian Jewel",
+      "korText": "폭풍연막 진청록색 주얼",
+      "engName": "Stormshroud",
+      "korName": "폭풍연막",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "분광 주얼",
+      "engType": "Prismatic Jewel",
+      "engText": "Sublime Vision Prismatic Jewel",
+      "korText": "숭고한 환영 분광 주얼",
+      "engName": "Sublime Vision",
+      "korName": "숭고한 환영",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Sudden Ignition Viridian Jewel",
+      "korText": "기습적인 점화 진청록색 주얼",
+      "engName": "Sudden Ignition",
+      "korName": "기습적인 점화",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Survival Instincts Viridian Jewel",
+      "korText": "생존 본능 진청록색 주얼",
+      "engName": "Survival Instincts",
+      "korName": "생존 본능",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Survival Secrets Cobalt Jewel",
+      "korText": "생존 비결 코발트색 주얼",
+      "engName": "Survival Secrets",
+      "korName": "생존 비결",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Survival Skills Crimson Jewel",
+      "korText": "생존 기술 진홍색 주얼",
+      "engName": "Survival Skills",
+      "korName": "생존 기술",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인적인 눈 주얼",
+      "engType": "Murderous Eye Jewel",
+      "engText": "Tecrod's Gaze Murderous Eye Jewel",
+      "korText": "테크로드의 응시 살인적인 눈 주얼",
+      "engName": "Tecrod's Gaze",
+      "korName": "테크로드의 응시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Tempered Flesh Crimson Jewel",
+      "korText": "조절된 육체 진홍색 주얼",
+      "engName": "Tempered Flesh",
+      "korName": "조절된 육체",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Tempered Mind Cobalt Jewel",
+      "korText": "조절된 마음 코발트색 주얼",
+      "engName": "Tempered Mind",
+      "korName": "조절된 마음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Tempered Spirit Viridian Jewel",
+      "korText": "조절된 정신 진청록색 주얼",
+      "engName": "Tempered Spirit",
+      "korName": "조절된 정신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "That Which Was Taken Crimson Jewel",
+      "korText": "빼앗긴 것 진홍색 주얼",
+      "engName": "That Which Was Taken",
+      "korName": "빼앗긴 것",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "The Adorned Crimson Jewel",
+      "korText": "치장한 자 진홍색 주얼",
+      "engName": "The Adorned",
+      "korName": "치장한 자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "분광 주얼",
+      "engType": "Prismatic Jewel",
+      "engText": "The Anima Stone Prismatic Jewel",
+      "korText": "생명의 돌 분광 주얼",
+      "engName": "The Anima Stone",
+      "korName": "생명의 돌",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "The Balance of Terror Cobalt Jewel",
+      "korText": "공포의 균형 코발트색 주얼",
+      "engName": "The Balance of Terror",
+      "korName": "공포의 균형",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "The Blue Dream Cobalt Jewel",
+      "korText": "파란 꿈 코발트색 주얼",
+      "engName": "The Blue Dream",
+      "korName": "파란 꿈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "The Blue Nightmare Cobalt Jewel",
+      "korText": "파란 악몽 코발트색 주얼",
+      "engName": "The Blue Nightmare",
+      "korName": "파란 악몽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel",
+      "engText": "The Front Line Small Cluster Jewel",
+      "korText": "최전방 소형 스킬 군 주얼",
+      "engName": "The Front Line",
+      "korName": "최전방",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "The Golden Rule Viridian Jewel",
+      "korText": "황금 법칙 진청록색 주얼",
+      "engName": "The Golden Rule",
+      "korName": "황금 법칙",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "The Green Dream Viridian Jewel",
+      "korText": "녹색 꿈 진청록색 주얼",
+      "engName": "The Green Dream",
+      "korName": "녹색 꿈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "The Green Nightmare Viridian Jewel",
+      "korText": "녹색 악몽 진청록색 주얼",
+      "engName": "The Green Nightmare",
+      "korName": "녹색 악몽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel",
+      "engText": "The Interrogation Small Cluster Jewel",
+      "korText": "취조 소형 스킬 군 주얼",
+      "engName": "The Interrogation",
+      "korName": "취조",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "분광 주얼",
+      "engType": "Prismatic Jewel",
+      "engText": "The Light of Meaning Prismatic Jewel",
+      "korText": "의미의 빛 분광 주얼",
+      "engName": "The Light of Meaning",
+      "korName": "의미의 빛",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "The Long Winter Cobalt Jewel",
+      "korText": "기나긴 겨울 코발트색 주얼",
+      "engName": "The Long Winter",
+      "korName": "기나긴 겨울",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "분광 주얼",
+      "engType": "Prismatic Jewel",
+      "engText": "The Perandus Pact Prismatic Jewel",
+      "korText": "페란두스 맹약 분광 주얼",
+      "engName": "The Perandus Pact",
+      "korName": "페란두스 맹약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "The Red Dream Crimson Jewel",
+      "korText": "붉은 꿈 진홍색 주얼",
+      "engName": "The Red Dream",
+      "korName": "붉은 꿈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "The Red Nightmare Crimson Jewel",
+      "korText": "붉은 악몽 진홍색 주얼",
+      "engName": "The Red Nightmare",
+      "korName": "붉은 악몽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "소형 스킬 군 주얼",
+      "engType": "Small Cluster Jewel",
+      "engText": "The Siege Small Cluster Jewel",
+      "korText": "포위 작전 소형 스킬 군 주얼",
+      "engName": "The Siege",
+      "korName": "포위 작전",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "The Vigil Crimson Jewel",
+      "korText": "철야 기도 진홍색 주얼",
+      "engName": "The Vigil",
+      "korName": "철야 기도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Thread of Hope Crimson Jewel",
+      "korText": "희망의 실타래 진홍색 주얼",
+      "engName": "Thread of Hope",
+      "korName": "희망의 실타래",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Transcendent Flesh Crimson Jewel",
+      "korText": "초월한 육체 진홍색 주얼",
+      "engName": "Transcendent Flesh",
+      "korName": "초월한 육체",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Transcendent Mind Cobalt Jewel",
+      "korText": "초월한 마음 코발트색 주얼",
+      "engName": "Transcendent Mind",
+      "korName": "초월한 마음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Transcendent Spirit Viridian Jewel",
+      "korText": "초월한 정신 진청록색 주얼",
+      "engName": "Transcendent Spirit",
+      "korName": "초월한 정신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "탐색하는 눈 주얼",
+      "engType": "Searching Eye Jewel",
+      "engText": "Ulaman's Gaze Searching Eye Jewel",
+      "korText": "울라만의 응시 탐색하는 눈 주얼",
+      "engName": "Ulaman's Gaze",
+      "korName": "울라만의 응시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Unending Hunger Cobalt Jewel",
+      "korText": "끝없는 허기 코발트색 주얼",
+      "engName": "Unending Hunger",
+      "korName": "끝없는 허기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Unnatural Instinct Viridian Jewel",
+      "korText": "기이한 본능 진청록색 주얼",
+      "engName": "Unnatural Instinct",
+      "korName": "기이한 본능",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Unstable Payload Cobalt Jewel",
+      "korText": "불안정한 하중 코발트색 주얼",
+      "engName": "Unstable Payload",
+      "korName": "불안정한 하중",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Vaal Sentencing Cobalt Jewel",
+      "korText": "바알의 판결 코발트색 주얼",
+      "engName": "Vaal Sentencing",
+      "korName": "바알의 판결",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Violent Dead Cobalt Jewel",
+      "korText": "난폭한 망자 코발트색 주얼",
+      "engName": "Violent Dead",
+      "korName": "난폭한 망자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 스킬 군 주얼",
+      "engType": "Large Cluster Jewel",
+      "engText": "Voices Large Cluster Jewel",
+      "korText": "목소리 대형 스킬 군 주얼",
+      "engName": "Voices",
+      "korName": "목소리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Volley Fire Viridian Jewel",
+      "korText": "일제 포격 진청록색 주얼",
+      "engName": "Volley Fire",
+      "korName": "일제 포격",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Warlord's Reach Crimson Jewel",
+      "korText": "전쟁군주의 역량 진홍색 주얼",
+      "engName": "Warlord's Reach",
+      "korName": "전쟁군주의 역량",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Warrior's Tale Crimson Jewel",
+      "korText": "전사의 이야기 진홍색 주얼",
+      "engName": "Warrior's Tale",
+      "korName": "전사의 이야기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "분광 주얼",
+      "engType": "Prismatic Jewel",
+      "engText": "Watcher's Eye Prismatic Jewel",
+      "korText": "감시자의 눈 분광 주얼",
+      "engName": "Watcher's Eye",
+      "korName": "감시자의 눈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진청록색 주얼",
+      "engType": "Viridian Jewel",
+      "engText": "Weight of Sin Viridian Jewel",
+      "korText": "죄의 무게 진청록색 주얼",
+      "engName": "Weight of Sin",
+      "korName": "죄의 무게",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Weight of the Empire Crimson Jewel",
+      "korText": "제국의 무게 진홍색 주얼",
+      "engName": "Weight of the Empire",
+      "korName": "제국의 무게",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Wildfire Crimson Jewel",
+      "korText": "도깨비불 진홍색 주얼",
+      "engName": "Wildfire",
+      "korName": "도깨비불",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "진홍색 주얼",
+      "engType": "Crimson Jewel",
+      "engText": "Winter Burial Crimson Jewel",
+      "korText": "한겨울의 장례식 진홍색 주얼",
+      "engName": "Winter Burial",
+      "korName": "한겨울의 장례식",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Winter's Bounty Cobalt Jewel",
+      "korText": "겨울의 하사품 코발트색 주얼",
+      "engName": "Winter's Bounty",
+      "korName": "겨울의 하사품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "Witchbane Cobalt Jewel",
+      "korText": "마녀의 파멸 코발트색 주얼",
+      "engName": "Witchbane",
+      "korName": "마녀의 파멸",
+      "flags": {
+        "unique": true
+      }
+    }
+  ]
+}

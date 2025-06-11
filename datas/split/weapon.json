@@ -1,0 +1,4980 @@
+{
+  "id": "weapon",
+  "labelKor": "무기",
+  "labelEng": "Weapons",
+  "entries": [
+    {
+      "korType": "못박은 너클",
+      "engType": "Nailed Fist"
+    },
+    {
+      "korType": "후비개",
+      "engType": "Gouger"
+    },
+    {
+      "korType": "호랑이 발",
+      "engType": "Tiger's Paw"
+    },
+    {
+      "korType": "내장 거열기",
+      "engType": "Gut Ripper"
+    },
+    {
+      "korType": "선사 시대 클로",
+      "engType": "Prehistoric Claw"
+    },
+    {
+      "korType": "귀족 클로",
+      "engType": "Noble Claw"
+    },
+    {
+      "korType": "독수리 클로",
+      "engType": "Eagle Claw"
+    },
+    {
+      "korType": "거대 하얀 클로",
+      "engType": "Great White Claw"
+    },
+    {
+      "korType": "목구멍 송곳",
+      "engType": "Throat Stabber"
+    },
+    {
+      "korType": "헬리온의 발",
+      "engType": "Hellion's Paw"
+    },
+    {
+      "korType": "눈 후비개",
+      "engType": "Eye Gouger"
+    },
+    {
+      "korType": "상어이빨 클로",
+      "engType": "Sharktooth Claw"
+    },
+    {
+      "korType": "바알 클로",
+      "engType": "Vaal Claw"
+    },
+    {
+      "korType": "제국 클로",
+      "engType": "Imperial Claw"
+    },
+    {
+      "korType": "공포의 클로",
+      "engType": "Terror Claw"
+    },
+    {
+      "korType": "송곳",
+      "engType": "Awl"
+    },
+    {
+      "korType": "고양이 발",
+      "engType": "Cat's Paw"
+    },
+    {
+      "korType": "실명기",
+      "engType": "Blinder"
+    },
+    {
+      "korType": "오래된 클로",
+      "engType": "Timeworn Claw"
+    },
+    {
+      "korType": "섬광 클로",
+      "engType": "Sparkling Claw"
+    },
+    {
+      "korType": "섬뜩한 클로",
+      "engType": "Fright Claw"
+    },
+    {
+      "korType": "도리깨 클로",
+      "engType": "Thresher Claw"
+    },
+    {
+      "korType": "그림자 송곳니",
+      "engType": "Shadow Fangs"
+    },
+    {
+      "korType": "해악의 송곳니",
+      "engType": "Malign Fangs"
+    },
+    {
+      "korType": "공허의 송곳니",
+      "engType": "Void Fangs"
+    },
+    {
+      "korType": "이중 클로",
+      "engType": "Double Claw"
+    },
+    {
+      "korType": "쌍둥이 클로",
+      "engType": "Twin Claw"
+    },
+    {
+      "korType": "쌍생아 클로",
+      "engType": "Gemini Claw"
+    },
+    {
+      "korType": "유리 단도",
+      "engType": "Glass Shank"
+    },
+    {
+      "korType": "도살자 단도",
+      "engType": "Butcher Knife"
+    },
+    {
+      "korType": "포이너드",
+      "engType": "Poignard"
+    },
+    {
+      "korType": "주머니칼",
+      "engType": "Boot Blade"
+    },
+    {
+      "korType": "황금 크리스",
+      "engType": "Golden Kris"
+    },
+    {
+      "korType": "왕실 양날 단검",
+      "engType": "Royal Skean"
+    },
+    {
+      "korType": "마귀 단검",
+      "engType": "Fiend Dagger"
+    },
+    {
+      "korType": "내장 제거용 단도",
+      "engType": "Gutting Knife"
+    },
+    {
+      "korType": "살육 단도",
+      "engType": "Slaughter Knife"
+    },
+    {
+      "korType": "매복자",
+      "engType": "Ambusher"
+    },
+    {
+      "korType": "에조미어 단검",
+      "engType": "Ezomyte Dagger"
+    },
+    {
+      "korType": "무두질용 단도",
+      "engType": "Skinning Knife"
+    },
+    {
+      "korType": "백금 크리스",
+      "engType": "Platinum Kris"
+    },
+    {
+      "korType": "제국 양날 단검",
+      "engType": "Imperial Skean"
+    },
+    {
+      "korType": "악마 단검",
+      "engType": "Demon Dagger"
+    },
+    {
+      "korType": "조각용 단도",
+      "engType": "Carving Knife"
+    },
+    {
+      "korType": "스틸레토",
+      "engType": "Stiletto"
+    },
+    {
+      "korType": "주머니 단도",
+      "engType": "Boot Knife"
+    },
+    {
+      "korType": "구리 크리스",
+      "engType": "Copper Kris"
+    },
+    {
+      "korType": "양날 단검",
+      "engType": "Skean"
+    },
+    {
+      "korType": "임프 단검",
+      "engType": "Imp Dagger"
+    },
+    {
+      "korType": "박피 단도",
+      "engType": "Flaying Knife"
+    },
+    {
+      "korType": "중공 단검",
+      "engType": "Hollowpoint Dagger"
+    },
+    {
+      "korType": "가압 단검",
+      "engType": "Pressurised Dagger"
+    },
+    {
+      "korType": "공압 단검",
+      "engType": "Pneumatic Dagger"
+    },
+    {
+      "korType": "갈래 단검",
+      "engType": "Prong Dagger"
+    },
+    {
+      "korType": "트리술라",
+      "engType": "Trisula"
+    },
+    {
+      "korType": "사이",
+      "engType": "Sai"
+    },
+    {
+      "korType": "일렁이는 화염 칼",
+      "engType": "Flickerflame Blade"
+    },
+    {
+      "korType": "번쩍이는 불꽃 칼",
+      "engType": "Flashfire Blade"
+    },
+    {
+      "korType": "지옥불 칼",
+      "engType": "Infernal Blade"
+    },
+    {
+      "korType": "녹슨 손도끼",
+      "engType": "Rusted Hatchet"
+    },
+    {
+      "korType": "토마호크",
+      "engType": "Tomahawk"
+    },
+    {
+      "korType": "팔목 절단기",
+      "engType": "Wrist Chopper"
+    },
+    {
+      "korType": "전쟁용 도끼",
+      "engType": "War Axe"
+    },
+    {
+      "korType": "가르기용 스플리터",
+      "engType": "Chest Splitter"
+    },
+    {
+      "korType": "의식용 도끼",
+      "engType": "Ceremonial Axe"
+    },
+    {
+      "korType": "악령 도끼",
+      "engType": "Wraith Axe"
+    },
+    {
+      "korType": "카루이 도끼",
+      "engType": "Karui Axe"
+    },
+    {
+      "korType": "공성용 도끼",
+      "engType": "Siege Axe"
+    },
+    {
+      "korType": "강탈자 도끼",
+      "engType": "Reaver Axe"
+    },
+    {
+      "korType": "도살자 도끼",
+      "engType": "Butcher Axe"
+    },
+    {
+      "korType": "비취 손도끼",
+      "engType": "Jade Hatchet"
+    },
+    {
+      "korType": "바알 손도끼",
+      "engType": "Vaal Hatchet"
+    },
+    {
+      "korType": "왕실 도끼",
+      "engType": "Royal Axe"
+    },
+    {
+      "korType": "지옥불 도끼",
+      "engType": "Infernal Axe"
+    },
+    {
+      "korType": "선상 도끼",
+      "engType": "Boarding Axe"
+    },
+    {
+      "korType": "가로날도끼",
+      "engType": "Cleaver"
+    },
+    {
+      "korType": "넓은날 도끼",
+      "engType": "Broad Axe"
+    },
+    {
+      "korType": "전투용 도끼",
+      "engType": "Arming Axe"
+    },
+    {
+      "korType": "장식된 도끼",
+      "engType": "Decorative Axe"
+    },
+    {
+      "korType": "영체 도끼",
+      "engType": "Spectral Axe"
+    },
+    {
+      "korType": "벽옥 손도끼",
+      "engType": "Jasper Axe"
+    },
+    {
+      "korType": "가학의 도끼",
+      "engType": "Maltreatment Axe"
+    },
+    {
+      "korType": "책망의 도끼",
+      "engType": "Disapprobation Axe"
+    },
+    {
+      "korType": "광기의 도끼",
+      "engType": "Psychotic Axe"
+    },
+    {
+      "korType": "조각된 손도끼",
+      "engType": "Etched Hatchet"
+    },
+    {
+      "korType": "아로새긴 손도끼",
+      "engType": "Engraved Hatchet"
+    },
+    {
+      "korType": "룬 손도끼",
+      "engType": "Runic Hatchet"
+    },
+    {
+      "korType": "표류목 곤봉",
+      "engType": "Driftwood Club"
+    },
+    {
+      "korType": "가시 돋친 곤봉",
+      "engType": "Barbed Club"
+    },
+    {
+      "korType": "바위 분쇄기",
+      "engType": "Rock Breaker"
+    },
+    {
+      "korType": "전투용 망치",
+      "engType": "Battle Hammer"
+    },
+    {
+      "korType": "테두리 철퇴",
+      "engType": "Flanged Mace"
+    },
+    {
+      "korType": "화려한 철퇴",
+      "engType": "Ornate Mace"
+    },
+    {
+      "korType": "혼령 철퇴",
+      "engType": "Phantom Mace"
+    },
+    {
+      "korType": "선대의 곤봉",
+      "engType": "Ancestral Club"
+    },
+    {
+      "korType": "고기 망치",
+      "engType": "Tenderizer"
+    },
+    {
+      "korType": "의사봉",
+      "engType": "Gavel"
+    },
+    {
+      "korType": "군단 망치",
+      "engType": "Legion Hammer"
+    },
+    {
+      "korType": "부족 곤봉",
+      "engType": "Tribal Club"
+    },
+    {
+      "korType": "페르나치",
+      "engType": "Pernach"
+    },
+    {
+      "korType": "금빛 철퇴",
+      "engType": "Auric Mace"
+    },
+    {
+      "korType": "악몽의 철퇴",
+      "engType": "Nightmare Mace"
+    },
+    {
+      "korType": "가시 박힌 곤봉",
+      "engType": "Spiked Club"
+    },
+    {
+      "korType": "쇄석 망치",
+      "engType": "Stone Hammer"
+    },
+    {
+      "korType": "전쟁 망치",
+      "engType": "War Hammer"
+    },
+    {
+      "korType": "톱날 철퇴",
+      "engType": "Bladed Mace"
+    },
+    {
+      "korType": "의식용 철퇴",
+      "engType": "Ceremonial Mace"
+    },
+    {
+      "korType": "몽환의 철퇴",
+      "engType": "Dream Mace"
+    },
+    {
+      "korType": "석화된 곤봉",
+      "engType": "Petrified Club"
+    },
+    {
+      "korType": "조명탄 철퇴",
+      "engType": "Flare Mace"
+    },
+    {
+      "korType": "균열 철퇴",
+      "engType": "Crack Mace"
+    },
+    {
+      "korType": "우뢰 철퇴",
+      "engType": "Boom Mace"
+    },
+    {
+      "korType": "아룡 철퇴",
+      "engType": "Wyrm Mace"
+    },
+    {
+      "korType": "용 철퇴",
+      "engType": "Dragon Mace"
+    },
+    {
+      "korType": "거대한 철퇴",
+      "engType": "Behemoth Mace"
+    },
+    {
+      "korType": "표류목 셉터",
+      "engType": "Driftwood Sceptre"
+    },
+    {
+      "korType": "세크헴",
+      "engType": "Sekhem"
+    },
+    {
+      "korType": "수정 셉터",
+      "engType": "Crystal Sceptre"
+    },
+    {
+      "korType": "납 셉터",
+      "engType": "Lead Sceptre"
+    },
+    {
+      "korType": "피의 셉터",
+      "engType": "Blood Sceptre"
+    },
+    {
+      "korType": "왕실의 셉터",
+      "engType": "Royal Sceptre"
+    },
+    {
+      "korType": "심연의 셉터",
+      "engType": "Abyssal Sceptre"
+    },
+    {
+      "korType": "카루이 셉터",
+      "engType": "Karui Sceptre"
+    },
+    {
+      "korType": "폭군의 세크헴",
+      "engType": "Tyrant's Sekhem"
+    },
+    {
+      "korType": "오팔 셉터",
+      "engType": "Opal Sceptre"
+    },
+    {
+      "korType": "백금 셉터",
+      "engType": "Platinum Sceptre"
+    },
+    {
+      "korType": "흑단목 셉터",
+      "engType": "Darkwood Sceptre"
+    },
+    {
+      "korType": "바알 셉터",
+      "engType": "Vaal Sceptre"
+    },
+    {
+      "korType": "육욕의 셉터",
+      "engType": "Carnal Sceptre"
+    },
+    {
+      "korType": "공허의 셉터",
+      "engType": "Void Sceptre"
+    },
+    {
+      "korType": "청동 셉터",
+      "engType": "Bronze Sceptre"
+    },
+    {
+      "korType": "석영 셉터",
+      "engType": "Quartz Sceptre"
+    },
+    {
+      "korType": "철제 셉터",
+      "engType": "Iron Sceptre"
+    },
+    {
+      "korType": "오커 셉터",
+      "engType": "Ochre Sceptre"
+    },
+    {
+      "korType": "의식용 셉터",
+      "engType": "Ritual Sceptre"
+    },
+    {
+      "korType": "그림자 셉터",
+      "engType": "Shadow Sceptre"
+    },
+    {
+      "korType": "웃는 조각상 홀",
+      "engType": "Grinning Fetish"
+    },
+    {
+      "korType": "진동 셉터",
+      "engType": "Oscillating Sceptre"
+    },
+    {
+      "korType": "안정화의 셉터",
+      "engType": "Stabilising Sceptre"
+    },
+    {
+      "korType": "갈마드는 셉터",
+      "engType": "Alternating Sceptre"
+    },
+    {
+      "korType": "뿔 달린 셉터",
+      "engType": "Horned Sceptre"
+    },
+    {
+      "korType": "수사슴 셉터",
+      "engType": "Stag Sceptre"
+    },
+    {
+      "korType": "삼바 셉터",
+      "engType": "Sambar Sceptre"
+    },
+    {
+      "korType": "녹슨 검",
+      "engType": "Rusted Sword"
+    },
+    {
+      "korType": "커틀라스",
+      "engType": "Cutlass"
+    },
+    {
+      "korType": "베이스라드",
+      "engType": "Baselard"
+    },
+    {
+      "korType": "전투용 검",
+      "engType": "Battle Sword"
+    },
+    {
+      "korType": "장로의 검",
+      "engType": "Elder Sword"
+    },
+    {
+      "korType": "우아한 검",
+      "engType": "Graceful Sword"
+    },
+    {
+      "korType": "여명의 검",
+      "engType": "Twilight Blade"
+    },
+    {
+      "korType": "원석 검",
+      "engType": "Gemstone Sword"
+    },
+    {
+      "korType": "해적의 검",
+      "engType": "Corsair Sword"
+    },
+    {
+      "korType": "글라디우스",
+      "engType": "Gladius"
+    },
+    {
+      "korType": "군단 검",
+      "engType": "Legion Sword"
+    },
+    {
+      "korType": "구리 검",
+      "engType": "Copper Sword"
+    },
+    {
+      "korType": "바알 칼날",
+      "engType": "Vaal Blade"
+    },
+    {
+      "korType": "영원의 검",
+      "engType": "Eternal Sword"
+    },
+    {
+      "korType": "심야의 칼날",
+      "engType": "Midnight Blade"
+    },
+    {
+      "korType": "사브르",
+      "engType": "Sabre"
+    },
+    {
+      "korType": "넓은날 검",
+      "engType": "Broad Sword"
+    },
+    {
+      "korType": "전쟁 검",
+      "engType": "War Sword"
+    },
+    {
+      "korType": "고대의 검",
+      "engType": "Ancient Sword"
+    },
+    {
+      "korType": "고상한 검",
+      "engType": "Elegant Sword"
+    },
+    {
+      "korType": "황혼의 검",
+      "engType": "Dusk Blade"
+    },
+    {
+      "korType": "바리사이트 검",
+      "engType": "Variscite Blade"
+    },
+    {
+      "korType": "차란의 검",
+      "engType": "Charan's Sword"
+    },
+    {
+      "korType": "황금 검",
+      "engType": "Golden Blade"
+    },
+    {
+      "korType": "변화무쌍한 정령의 칼",
+      "engType": "Fickle Spiritblade"
+    },
+    {
+      "korType": "변덕스러운 정령의 칼",
+      "engType": "Capricious Spiritblade"
+    },
+    {
+      "korType": "무질서한 정령의 칼",
+      "engType": "Anarchic Spiritblade"
+    },
+    {
+      "korType": "갈고리 검",
+      "engType": "Hook Sword"
+    },
+    {
+      "korType": "격투자",
+      "engType": "Grappler"
+    },
+    {
+      "korType": "호랑이 갈고리",
+      "engType": "Tiger Hook"
+    },
+    {
+      "korType": "녹슨 스파이크",
+      "engType": "Rusted Spike"
+    },
+    {
+      "korType": "윤이 나는 펜싱 검",
+      "engType": "Burnished Foil"
+    },
+    {
+      "korType": "에스톡",
+      "engType": "Estoc"
+    },
+    {
+      "korType": "톱니 펜싱 검",
+      "engType": "Serrated Foil"
+    },
+    {
+      "korType": "원시 레이피어",
+      "engType": "Primeval Rapier"
+    },
+    {
+      "korType": "장식용 펜싱 검",
+      "engType": "Fancy Foil"
+    },
+    {
+      "korType": "정점 레이피어",
+      "engType": "Apex Rapier"
+    },
+    {
+      "korType": "용뼈 레이피어",
+      "engType": "Dragonbone Rapier"
+    },
+    {
+      "korType": "단조한 펜싱 검",
+      "engType": "Tempered Foil"
+    },
+    {
+      "korType": "페코라로",
+      "engType": "Pecoraro"
+    },
+    {
+      "korType": "나선형 펜싱 검",
+      "engType": "Spiraled Foil"
+    },
+    {
+      "korType": "고래뼈 레이피어",
+      "engType": "Whalebone Rapier"
+    },
+    {
+      "korType": "바알 레이피어",
+      "engType": "Vaal Rapier"
+    },
+    {
+      "korType": "보석이 박힌 펜싱 검",
+      "engType": "Jewelled Foil"
+    },
+    {
+      "korType": "하피 레이피어",
+      "engType": "Harpy Rapier"
+    },
+    {
+      "korType": "닳은 펜싱 검",
+      "engType": "Battered Foil"
+    },
+    {
+      "korType": "손보호구 레이피어",
+      "engType": "Basket Rapier"
+    },
+    {
+      "korType": "삐죽삐죽한 펜싱 검",
+      "engType": "Jagged Foil"
+    },
+    {
+      "korType": "앤티크 레이피어",
+      "engType": "Antique Rapier"
+    },
+    {
+      "korType": "고상한 펜싱 검",
+      "engType": "Elegant Foil"
+    },
+    {
+      "korType": "가시 레이피어",
+      "engType": "Thorn Rapier"
+    },
+    {
+      "korType": "아룡뼈 레이피어",
+      "engType": "Wyrmbone Rapier"
+    },
+    {
+      "korType": "스몰 소드",
+      "engType": "Smallsword"
+    },
+    {
+      "korType": "코르티잔 검",
+      "engType": "Courtesan Sword"
+    },
+    {
+      "korType": "용기병 검",
+      "engType": "Dragoon Sword"
+    },
+    {
+      "korType": "표류목 마법봉",
+      "engType": "Driftwood Wand"
+    },
+    {
+      "korType": "똬리 마법봉",
+      "engType": "Coiled Wand"
+    },
+    {
+      "korType": "전조의 마법봉",
+      "engType": "Omen Wand"
+    },
+    {
+      "korType": "악마의 뿔",
+      "engType": "Demon's Horn"
+    },
+    {
+      "korType": "부여된 마법봉",
+      "engType": "Imbued Wand"
+    },
+    {
+      "korType": "오팔 마법봉",
+      "engType": "Opal Wand"
+    },
+    {
+      "korType": "회오리 마법봉",
+      "engType": "Tornado Wand"
+    },
+    {
+      "korType": "예언 마법봉",
+      "engType": "Prophecy Wand"
+    },
+    {
+      "korType": "염소의 뿔",
+      "engType": "Goat's Horn"
+    },
+    {
+      "korType": "조각된 마법봉",
+      "engType": "Carved Wand"
+    },
+    {
+      "korType": "석영 마법봉",
+      "engType": "Quartz Wand"
+    },
+    {
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand"
+    },
+    {
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand"
+    },
+    {
+      "korType": "판의 뿔",
+      "engType": "Faun's Horn"
+    },
+    {
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand"
+    },
+    {
+      "korType": "수정 마법봉",
+      "engType": "Crystal Wand"
+    },
+    {
+      "korType": "소집의 마법봉",
+      "engType": "Convoking Wand"
+    },
+    {
+      "korType": "조립 마법봉",
+      "engType": "Assembler Wand"
+    },
+    {
+      "korType": "군집 마법봉",
+      "engType": "Congregator Wand"
+    },
+    {
+      "korType": "축적 마법봉",
+      "engType": "Accumulator Wand"
+    },
+    {
+      "korType": "이교도 마법봉",
+      "engType": "Pagan Wand"
+    },
+    {
+      "korType": "이방인 마법봉",
+      "engType": "Heathen Wand"
+    },
+    {
+      "korType": "부정한 마법봉",
+      "engType": "Profane Wand"
+    },
+    {
+      "korType": "부름의 마법봉",
+      "engType": "Calling Wand"
+    },
+    {
+      "korType": "회합의 마법봉",
+      "engType": "Convening Wand"
+    },
+    {
+      "korType": "낚싯대",
+      "engType": "Fishing Rod"
+    },
+    {
+      "korType": "조잡한 활",
+      "engType": "Crude Bow"
+    },
+    {
+      "korType": "비곡궁",
+      "engType": "Decurve Bow"
+    },
+    {
+      "korType": "복합궁",
+      "engType": "Compound Bow"
+    },
+    {
+      "korType": "저격수 활",
+      "engType": "Sniper Bow"
+    },
+    {
+      "korType": "상아색 활",
+      "engType": "Ivory Bow"
+    },
+    {
+      "korType": "명문가의 활",
+      "engType": "Highborn Bow"
+    },
+    {
+      "korType": "대량 학살의 활",
+      "engType": "Decimation Bow"
+    },
+    {
+      "korType": "잡목림 활",
+      "engType": "Thicket Bow"
+    },
+    {
+      "korType": "성채 활",
+      "engType": "Citadel Bow"
+    },
+    {
+      "korType": "레인저 활",
+      "engType": "Ranger Bow"
+    },
+    {
+      "korType": "암살자 활",
+      "engType": "Assassin Bow"
+    },
+    {
+      "korType": "단궁",
+      "engType": "Short Bow"
+    },
+    {
+      "korType": "척추 활",
+      "engType": "Spine Bow"
+    },
+    {
+      "korType": "제국 활",
+      "engType": "Imperial Bow"
+    },
+    {
+      "korType": "선구자 활",
+      "engType": "Harbinger Bow"
+    },
+    {
+      "korType": "장궁",
+      "engType": "Long Bow"
+    },
+    {
+      "korType": "합성궁",
+      "engType": "Composite Bow"
+    },
+    {
+      "korType": "반곡궁",
+      "engType": "Recurve Bow"
+    },
+    {
+      "korType": "뼈 활",
+      "engType": "Bone Bow"
+    },
+    {
+      "korType": "왕실 활",
+      "engType": "Royal Bow"
+    },
+    {
+      "korType": "죽음의 활",
+      "engType": "Death Bow"
+    },
+    {
+      "korType": "수목원 활",
+      "engType": "Grove Bow"
+    },
+    {
+      "korType": "다면체 활",
+      "engType": "Hedron Bow"
+    },
+    {
+      "korType": "주물 활",
+      "engType": "Foundry Bow"
+    },
+    {
+      "korType": "태양의 활",
+      "engType": "Solarine Bow"
+    },
+    {
+      "korType": "반동궁",
+      "engType": "Reflex Bow"
+    },
+    {
+      "korType": "강철목 활",
+      "engType": "Steelwood Bow"
+    },
+    {
+      "korType": "마라케스 활",
+      "engType": "Maraketh Bow"
+    },
+    {
+      "korType": "울퉁불퉁한 나뭇가지",
+      "engType": "Gnarled Branch"
+    },
+    {
+      "korType": "군용 지팡이",
+      "engType": "Military Staff"
+    },
+    {
+      "korType": "사문석 지팡이",
+      "engType": "Serpentine Staff"
+    },
+    {
+      "korType": "상류층의 지팡이",
+      "engType": "Highborn Staff"
+    },
+    {
+      "korType": "사악한 지팡이",
+      "engType": "Foul Staff"
+    },
+    {
+      "korType": "태고의 지팡이",
+      "engType": "Primordial Staff"
+    },
+    {
+      "korType": "쇠테 곤봉",
+      "engType": "Lathi"
+    },
+    {
+      "korType": "에조미어 지팡이",
+      "engType": "Ezomyte Staff"
+    },
+    {
+      "korType": "마엘스트롬 지팡이",
+      "engType": "Maelström Staff"
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff"
+    },
+    {
+      "korType": "심판 지팡이",
+      "engType": "Judgement Staff"
+    },
+    {
+      "korType": "원시의 지팡이",
+      "engType": "Primitive Staff"
+    },
+    {
+      "korType": "긴 지팡이",
+      "engType": "Long Staff"
+    },
+    {
+      "korType": "철제 지팡이",
+      "engType": "Iron Staff"
+    },
+    {
+      "korType": "코일형 지팡이",
+      "engType": "Coiled Staff"
+    },
+    {
+      "korType": "왕실 지팡이",
+      "engType": "Royal Staff"
+    },
+    {
+      "korType": "끔찍한 지팡이",
+      "engType": "Vile Staff"
+    },
+    {
+      "korType": "목재 지팡이",
+      "engType": "Woodful Staff"
+    },
+    {
+      "korType": "육척봉",
+      "engType": "Quarterstaff"
+    },
+    {
+      "korType": "변신 지팡이",
+      "engType": "Transformer Staff"
+    },
+    {
+      "korType": "보복 지팡이",
+      "engType": "Reciprocation Staff"
+    },
+    {
+      "korType": "충전 지팡이",
+      "engType": "Battery Staff"
+    },
+    {
+      "korType": "초승달의 지팡이",
+      "engType": "Crescent Staff"
+    },
+    {
+      "korType": "달의 지팡이",
+      "engType": "Moon Staff"
+    },
+    {
+      "korType": "월식 지팡이",
+      "engType": "Eclipse Staff"
+    },
+    {
+      "korType": "가능성의 막대",
+      "engType": "Capacity Rod"
+    },
+    {
+      "korType": "잠재력의 막대",
+      "engType": "Potentiality Rod"
+    },
+    {
+      "korType": "불예측의 막대",
+      "engType": "Eventuality Rod"
+    },
+    {
+      "korType": "돌도끼",
+      "engType": "Stone Axe"
+    },
+    {
+      "korType": "참수자 도끼",
+      "engType": "Headsman Axe"
+    },
+    {
+      "korType": "라브리스",
+      "engType": "Labrys"
+    },
+    {
+      "korType": "귀족 도끼",
+      "engType": "Noble Axe"
+    },
+    {
+      "korType": "심연의 도끼",
+      "engType": "Abyssal Axe"
+    },
+    {
+      "korType": "카루이 절단기",
+      "engType": "Karui Chopper"
+    },
+    {
+      "korType": "작렬하는 도끼",
+      "engType": "Sundering Axe"
+    },
+    {
+      "korType": "에조미어 도끼",
+      "engType": "Ezomyte Axe"
+    },
+    {
+      "korType": "바알 도끼",
+      "engType": "Vaal Axe"
+    },
+    {
+      "korType": "절대군주 도끼",
+      "engType": "Despot Axe"
+    },
+    {
+      "korType": "공허의 도끼",
+      "engType": "Void Axe"
+    },
+    {
+      "korType": "비취 절단기",
+      "engType": "Jade Chopper"
+    },
+    {
+      "korType": "벌목스플리터",
+      "engType": "Woodsplitter"
+    },
+    {
+      "korType": "자루 도끼",
+      "engType": "Poleaxe"
+    },
+    {
+      "korType": "양날 도끼",
+      "engType": "Double Axe"
+    },
+    {
+      "korType": "도금된 도끼",
+      "engType": "Gilded Axe"
+    },
+    {
+      "korType": "그림자 도끼",
+      "engType": "Shadow Axe"
+    },
+    {
+      "korType": "벽옥 절단기",
+      "engType": "Jasper Chopper"
+    },
+    {
+      "korType": "목재용 도끼",
+      "engType": "Timber Axe"
+    },
+    {
+      "korType": "최종형 가로날도끼",
+      "engType": "Prime Cleaver"
+    },
+    {
+      "korType": "연마한 가로날도끼",
+      "engType": "Honed Cleaver"
+    },
+    {
+      "korType": "정점의 가로날도끼",
+      "engType": "Apex Cleaver"
+    },
+    {
+      "korType": "단검 도끼",
+      "engType": "Dagger Axe"
+    },
+    {
+      "korType": "발톱 도끼",
+      "engType": "Talon Axe"
+    },
+    {
+      "korType": "살점 거열기",
+      "engType": "Fleshripper"
+    },
+    {
+      "korType": "표류목 대형 망치",
+      "engType": "Driftwood Maul"
+    },
+    {
+      "korType": "강철머리 망치",
+      "engType": "Steelhead"
+    },
+    {
+      "korType": "가시투성이 대형 망치",
+      "engType": "Spiny Maul"
+    },
+    {
+      "korType": "판금 대형 망치",
+      "engType": "Plated Maul"
+    },
+    {
+      "korType": "끔찍한 대형 망치",
+      "engType": "Dread Maul"
+    },
+    {
+      "korType": "카루이 대형 망치",
+      "engType": "Karui Maul"
+    },
+    {
+      "korType": "초대형 나무 망치",
+      "engType": "Colossus Mallet"
+    },
+    {
+      "korType": "말뚝 망치",
+      "engType": "Piledriver"
+    },
+    {
+      "korType": "고기 갈이개",
+      "engType": "Meatgrinder"
+    },
+    {
+      "korType": "제국 대형 망치",
+      "engType": "Imperial Maul"
+    },
+    {
+      "korType": "공포의 대형 망치",
+      "engType": "Terror Maul"
+    },
+    {
+      "korType": "부족 대형 망치",
+      "engType": "Tribal Maul"
+    },
+    {
+      "korType": "나무 망치",
+      "engType": "Mallet"
+    },
+    {
+      "korType": "대형 양손 망치",
+      "engType": "Sledgehammer"
+    },
+    {
+      "korType": "삐죽삐죽한 대형 망치",
+      "engType": "Jagged Maul"
+    },
+    {
+      "korType": "황동 대형 망치",
+      "engType": "Brass Maul"
+    },
+    {
+      "korType": "섬뜩한 대형 망치",
+      "engType": "Fright Maul"
+    },
+    {
+      "korType": "토템 대형 망치",
+      "engType": "Totemic Maul"
+    },
+    {
+      "korType": "대형 나무 망치",
+      "engType": "Great Mallet"
+    },
+    {
+      "korType": "둔력 응축자",
+      "engType": "Blunt Force Condenser"
+    },
+    {
+      "korType": "압착력 확대자",
+      "engType": "Crushing Force Magnifier"
+    },
+    {
+      "korType": "충격력 확산자",
+      "engType": "Impact Force Propagator"
+    },
+    {
+      "korType": "모닝스타",
+      "engType": "Morning Star"
+    },
+    {
+      "korType": "태양의 대형 망치",
+      "engType": "Solar Maul"
+    },
+    {
+      "korType": "광환의 대형 망치",
+      "engType": "Coronal Maul"
+    },
+    {
+      "korType": "부식된 칼날",
+      "engType": "Corroded Blade"
+    },
+    {
+      "korType": "고지대 검",
+      "engType": "Highland Blade"
+    },
+    {
+      "korType": "아로새긴 대검",
+      "engType": "Engraved Greatsword"
+    },
+    {
+      "korType": "호랑이 검",
+      "engType": "Tiger Sword"
+    },
+    {
+      "korType": "악령 검",
+      "engType": "Wraith Sword"
+    },
+    {
+      "korType": "참수자의 검",
+      "engType": "Headman's Sword"
+    },
+    {
+      "korType": "강탈자 검",
+      "engType": "Reaver Sword"
+    },
+    {
+      "korType": "에조미어 검",
+      "engType": "Ezomyte Blade"
+    },
+    {
+      "korType": "바알 대검",
+      "engType": "Vaal Greatsword"
+    },
+    {
+      "korType": "사자 검",
+      "engType": "Lion Sword"
+    },
+    {
+      "korType": "지옥불 검",
+      "engType": "Infernal Sword"
+    },
+    {
+      "korType": "장검",
+      "engType": "Longsword"
+    },
+    {
+      "korType": "바스타드",
+      "engType": "Bastard Sword"
+    },
+    {
+      "korType": "양손검",
+      "engType": "Two-Handed Sword"
+    },
+    {
+      "korType": "조각된 대검",
+      "engType": "Etched Greatsword"
+    },
+    {
+      "korType": "화려한 검",
+      "engType": "Ornate Sword"
+    },
+    {
+      "korType": "영체 검",
+      "engType": "Spectral Sword"
+    },
+    {
+      "korType": "도살자 검",
+      "engType": "Butcher Sword"
+    },
+    {
+      "korType": "보병 검",
+      "engType": "Footman Sword"
+    },
+    {
+      "korType": "질책의 칼",
+      "engType": "Rebuking Blade"
+    },
+    {
+      "korType": "폭발성 칼",
+      "engType": "Blasting Blade"
+    },
+    {
+      "korType": "추방의 칼",
+      "engType": "Banishing Blade"
+    },
+    {
+      "korType": "곡도",
+      "engType": "Curved Blade"
+    },
+    {
+      "korType": "유연한 검",
+      "engType": "Lithe Blade"
+    },
+    {
+      "korType": "정교한 검",
+      "engType": "Exquisite Blade"
+    },
+    {
+      "korType": "염소의 뿔",
+      "engType": "Goat's Horn",
+      "engText": "Abberath's Horn Goat's Horn",
+      "korText": "아버라스의 뿔 염소의 뿔",
+      "engName": "Abberath's Horn",
+      "korName": "아버라스의 뿔",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도살자 도끼",
+      "engType": "Butcher Axe",
+      "engText": "Actum Butcher Axe",
+      "korText": "액툼 도살자 도끼",
+      "engName": "Actum",
+      "korName": "액툼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "내장 거열기",
+      "engType": "Gut Ripper",
+      "engText": "Advancing Fortress Gut Ripper",
+      "korText": "전진하는 요새 내장 거열기",
+      "engName": "Advancing Fortress",
+      "korName": "전진하는 요새",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "Agnerod Imperial Staff",
+      "korText": "아그네로드 제국 지팡이",
+      "engName": "Agnerod",
+      "korName": "아그네로드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "Agnerod East Imperial Staff",
+      "korText": "동쪽의 아그네로드 제국 지팡이",
+      "engName": "Agnerod East",
+      "korName": "동쪽의 아그네로드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "Agnerod North Imperial Staff",
+      "korText": "북쪽의 아그네로드 제국 지팡이",
+      "engName": "Agnerod North",
+      "korName": "북쪽의 아그네로드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "Agnerod South Imperial Staff",
+      "korText": "남쪽의 아그네로드 제국 지팡이",
+      "engName": "Agnerod South",
+      "korName": "남쪽의 아그네로드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "Agnerod West Imperial Staff",
+      "korText": "서쪽의 아그네로드 제국 지팡이",
+      "engName": "Agnerod West",
+      "korName": "서쪽의 아그네로드",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심야의 칼날",
+      "engType": "Midnight Blade",
+      "engText": "Ahn's Might Midnight Blade",
+      "korText": "안의 완력 심야의 칼날",
+      "engName": "Ahn's Might",
+      "korName": "안의 완력",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오래된 클로",
+      "engType": "Timeworn Claw",
+      "engText": "Al Dhih Timeworn Claw",
+      "korText": "알 디 오래된 클로",
+      "engName": "Al Dhih",
+      "korName": "알 디",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 클로",
+      "engType": "Vaal Claw",
+      "engText": "Allure Vaal Claw",
+      "korText": "매혹 바알 클로",
+      "engName": "Allure",
+      "korName": "매혹",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand",
+      "engText": "Amplification Rod Spiraled Wand",
+      "korText": "증폭 막대 나선형 마법봉",
+      "engName": "Amplification Rod",
+      "korName": "증폭 막대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오팔 마법봉",
+      "engType": "Opal Wand",
+      "engText": "Apep's Rage Opal Wand",
+      "korText": "아펩의 격노 오팔 마법봉",
+      "engName": "Apep's Rage",
+      "korName": "아펩의 격노",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전조의 마법봉",
+      "engType": "Omen Wand",
+      "engText": "Apep's Rage Omen Wand",
+      "korText": "아펩의 격노 전조의 마법봉",
+      "engName": "Apep's Rage",
+      "korName": "아펩의 격노",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "마귀 단검",
+      "engType": "Fiend Dagger",
+      "engText": "Arakaali's Fang Fiend Dagger",
+      "korText": "아라칼리의 송곳니 마귀 단검",
+      "engName": "Arakaali's Fang",
+      "korName": "아라칼리의 송곳니",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자 활",
+      "engType": "Assassin Bow",
+      "engText": "Arborix Assassin Bow",
+      "korText": "아보릭스 암살자 활",
+      "engName": "Arborix",
+      "korName": "아보릭스",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "석영 마법봉",
+      "engType": "Quartz Wand",
+      "engText": "Ashcaller Quartz Wand",
+      "korText": "재 소환사 석영 마법봉",
+      "engName": "Ashcaller",
+      "korName": "재 소환사",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조각된 마법봉",
+      "engType": "Carved Wand",
+      "engText": "Ashcaller Carved Wand",
+      "korText": "재 소환사 조각된 마법봉",
+      "engName": "Ashcaller",
+      "korName": "재 소환사",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "표류목 곤봉",
+      "engType": "Driftwood Club",
+      "engText": "Ashes of the Sun Driftwood Club",
+      "korText": "태양의 재 표류목 곤봉",
+      "engName": "Ashes of the Sun",
+      "korName": "태양의 재",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 도끼",
+      "engType": "Vaal Axe",
+      "engText": "Atziri's Disfavour Vaal Axe",
+      "korText": "앗지리의 경멸 바알 도끼",
+      "engName": "Atziri's Disfavour",
+      "korName": "앗지리의 경멸",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심판 지팡이",
+      "engType": "Judgement Staff",
+      "engText": "Atziri's Rule Judgement Staff",
+      "korText": "앗지리의 통치 심판 지팡이",
+      "engName": "Atziri's Rule",
+      "korName": "앗지리의 통치",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공허의 셉터",
+      "engType": "Void Sceptre",
+      "engText": "Augyre Void Sceptre",
+      "korText": "오귀르 공허의 셉터",
+      "engName": "Augyre",
+      "korName": "오귀르",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "손보호구 레이피어",
+      "engType": "Basket Rapier",
+      "engText": "Aurumvorax Basket Rapier",
+      "korText": "금빛 욕망 손보호구 레이피어",
+      "engName": "Aurumvorax",
+      "korName": "금빛 욕망",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "청동 셉터",
+      "engType": "Bronze Sceptre",
+      "engText": "Axiom Perpetuum Bronze Sceptre",
+      "korText": "액시옴의 무기징역 청동 셉터",
+      "engName": "Axiom Perpetuum",
+      "korName": "액시옴의 무기징역",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오팔 셉터",
+      "engType": "Opal Sceptre",
+      "engText": "Balefire Opal Sceptre",
+      "korText": "대화재 오팔 셉터",
+      "engName": "Balefire",
+      "korName": "대화재",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영원의 검",
+      "engType": "Eternal Sword",
+      "engText": "Beltimber Blade Eternal Sword",
+      "korText": "벨팀버 검 영원의 검",
+      "engName": "Beltimber Blade",
+      "korName": "벨팀버 검",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살육 단도",
+      "engType": "Slaughter Knife",
+      "engText": "Bino's Kitchen Knife Slaughter Knife",
+      "korText": "비노의 부엌칼 살육 단도",
+      "engName": "Bino's Kitchen Knife",
+      "korName": "비노의 부엌칼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "그림자 셉터",
+      "engType": "Shadow Sceptre",
+      "engText": "Bitterdream Shadow Sceptre",
+      "korText": "악몽 그림자 셉터",
+      "engName": "Bitterdream",
+      "korName": "악몽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "녹슨 검",
+      "engType": "Rusted Sword",
+      "engText": "Blood of Summer Rusted Sword",
+      "korText": "여름날의 피 녹슨 검",
+      "engName": "Blood of Summer",
+      "korName": "여름날의 피",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "스틸레토",
+      "engType": "Stiletto",
+      "engText": "Bloodplay Stiletto",
+      "korText": "피의 오락 스틸레토",
+      "engName": "Bloodplay",
+      "korName": "피의 오락",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "헬리온의 발",
+      "engType": "Hellion's Paw",
+      "engText": "Bloodseeker Hellion's Paw",
+      "korText": "피의 탐색자 헬리온의 발",
+      "engName": "Bloodseeker",
+      "korName": "피의 탐색자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고기 갈이개",
+      "engType": "Meatgrinder",
+      "engText": "Brain Rattler Meatgrinder",
+      "korText": "요동치는 두뇌 고기 갈이개",
+      "engName": "Brain Rattler",
+      "korName": "요동치는 두뇌",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육욕의 셉터",
+      "engType": "Carnal Sceptre",
+      "engText": "Breath of the Council Carnal Sceptre",
+      "korText": "의회의 숨결 육욕의 셉터",
+      "engName": "Breath of the Council",
+      "korName": "의회의 숨결",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전쟁 망치",
+      "engType": "War Hammer",
+      "engText": "Brightbeak War Hammer",
+      "korText": "밝은 부리 전쟁 망치",
+      "engName": "Brightbeak",
+      "korName": "밝은 부리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "의식용 셉터",
+      "engType": "Ritual Sceptre",
+      "engText": "Brutus' Lead Sprinkler Ritual Sceptre",
+      "korText": "브루투스의 리드 스프링클러 의식용 셉터",
+      "engName": "Brutus' Lead Sprinkler",
+      "korName": "브루투스의 리드 스프링클러",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "금빛 철퇴",
+      "engType": "Auric Mace",
+      "engText": "Callinellus Malleus Auric Mace",
+      "korText": "집게발 쇠망치 금빛 철퇴",
+      "engName": "Callinellus Malleus",
+      "korName": "집게발 쇠망치",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "의사봉",
+      "engType": "Gavel",
+      "engText": "Cameria's Avarice Gavel",
+      "korText": "카메리아의 탐욕 의사봉",
+      "engName": "Cameria's Avarice",
+      "korName": "카메리아의 탐욕",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "의사봉",
+      "engType": "Gavel",
+      "engText": "Cameria's Maul Gavel",
+      "korText": "카메리아의 대형 망치 의사봉",
+      "engName": "Cameria's Maul",
+      "korName": "카메리아의 대형 망치",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사문석 지팡이",
+      "engType": "Serpentine Staff",
+      "engText": "Cane of Kulemak Serpentine Staff",
+      "korText": "쿨레막의 지팡이 사문석 지팡이",
+      "engName": "Cane of Kulemak",
+      "korName": "쿨레막의 지팡이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 지팡이",
+      "engType": "Ezomyte Staff",
+      "engText": "Cane of Unravelling Ezomyte Staff",
+      "korText": "해결의 지팡이 에조미어 지팡이",
+      "engName": "Cane of Unravelling",
+      "korName": "해결의 지팡이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "피의 셉터",
+      "engType": "Blood Sceptre",
+      "engText": "Cerberus Limb Blood Sceptre",
+      "korText": "케르베로스의 발 피의 셉터",
+      "engName": "Cerberus Limb",
+      "korName": "케르베로스의 발",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 나무 망치",
+      "engType": "Great Mallet",
+      "engText": "Chaber Cairn Great Mallet",
+      "korText": "차버 케른 대형 나무 망치",
+      "engName": "Chaber Cairn",
+      "korName": "차버 케른",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자 활",
+      "engType": "Assassin Bow",
+      "engText": "Chin Sol Assassin Bow",
+      "korText": "친 솔 암살자 활",
+      "engName": "Chin Sol",
+      "korName": "친 솔",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 펜싱 검",
+      "engType": "Elegant Foil",
+      "engText": "Chitus' Needle Elegant Foil",
+      "korText": "치투스의 바늘 고상한 펜싱 검",
+      "engName": "Chitus' Needle",
+      "korName": "치투스의 바늘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 나무 망치",
+      "engType": "Great Mallet",
+      "engText": "Chober Chaber Great Mallet",
+      "korText": "초버 차버 대형 나무 망치",
+      "engName": "Chober Chaber",
+      "korName": "초버 차버",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바위 분쇄기",
+      "engType": "Rock Breaker",
+      "engText": "Clayshaper Rock Breaker",
+      "korText": "클레이쉐이퍼 바위 분쇄기",
+      "engName": "Clayshaper",
+      "korName": "클레이쉐이퍼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 단검",
+      "engType": "Ezomyte Dagger",
+      "engText": "Cold Iron Point Ezomyte Dagger",
+      "korText": "날붙이 끝 에조미어 단검",
+      "engName": "Cold Iron Point",
+      "korName": "날붙이 끝",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "수정 마법봉",
+      "engType": "Crystal Wand",
+      "engText": "Corona Solaris Crystal Wand",
+      "korText": "솔라리스의 광환 수정 마법봉",
+      "engName": "Corona Solaris",
+      "korName": "솔라리스의 광환",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "보석이 박힌 펜싱 검",
+      "engType": "Jewelled Foil",
+      "engText": "Cospri's Malice Jewelled Foil",
+      "korText": "코스프리의 장난 보석이 박힌 펜싱 검",
+      "engName": "Cospri's Malice",
+      "korName": "코스프리의 장난",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "도리깨 클로",
+      "engType": "Thresher Claw",
+      "engText": "Cybil's Paw Thresher Claw",
+      "korText": "시빌의 발 도리깨 클로",
+      "engName": "Cybil's Paw",
+      "korName": "시빌의 발",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에스톡",
+      "engType": "Estoc",
+      "engText": "Daresso's Passion Estoc",
+      "korText": "다레소의 열정 에스톡",
+      "engName": "Daresso's Passion",
+      "korName": "다레소의 열정",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "암살자 활",
+      "engType": "Assassin Bow",
+      "engText": "Darkscorn Assassin Bow",
+      "korText": "어두운 냉소 암살자 활",
+      "engName": "Darkscorn",
+      "korName": "어두운 냉소",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "카루이 셉터",
+      "engType": "Karui Sceptre",
+      "engText": "Death's Hand Karui Sceptre",
+      "korText": "죽음의 손길 카루이 셉터",
+      "engName": "Death's Hand",
+      "korName": "죽음의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "죽음의 활",
+      "engType": "Death Bow",
+      "engText": "Death's Harp Death Bow",
+      "korText": "죽음의 하프 죽음의 활",
+      "engName": "Death's Harp",
+      "korName": "죽음의 하프",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "죽음의 활",
+      "engType": "Death Bow",
+      "engText": "Death's Opus Death Bow",
+      "korText": "죽음의 작품 죽음의 활",
+      "engName": "Death's Opus",
+      "korName": "죽음의 작품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "절대군주 도끼",
+      "engType": "Despot Axe",
+      "engText": "Debeon's Dirge Despot Axe",
+      "korText": "데비온의 장송곡 절대군주 도끼",
+      "engName": "Debeon's Dirge",
+      "korName": "데비온의 장송곡",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 검",
+      "engType": "Golden Blade",
+      "engText": "Demigod's Authority Golden Blade",
+      "korText": "반신의 권위 황금 검",
+      "engName": "Demigod's Authority",
+      "korName": "반신의 권위",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "마엘스트롬 지팡이",
+      "engType": "Maelström Staff",
+      "engText": "Disintegrator Maelström Staff",
+      "korText": "파쇄자 마엘스트롬 지팡이",
+      "engName": "Disintegrator",
+      "korName": "파쇄자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 양날 단검",
+      "engType": "Imperial Skean",
+      "engText": "Divinarius Imperial Skean",
+      "korText": "디비나리우스 제국 양날 단검",
+      "engName": "Divinarius",
+      "korName": "디비나리우스",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 활",
+      "engType": "Royal Bow",
+      "engText": "Doomfletch Royal Bow",
+      "korText": "죽음의 깃 왕실 활",
+      "engName": "Doomfletch",
+      "korName": "죽음의 깃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 활",
+      "engType": "Royal Bow",
+      "engText": "Doomfletch's Prism Royal Bow",
+      "korText": "죽음의 깃의 분광기 왕실 활",
+      "engName": "Doomfletch's Prism",
+      "korName": "죽음의 깃의 분광기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사자 검",
+      "engType": "Lion Sword",
+      "engText": "Doomsower Lion Sword",
+      "korText": "멸망 유발자 사자 검",
+      "engName": "Doomsower",
+      "korName": "멸망 유발자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 셉터",
+      "engType": "Vaal Sceptre",
+      "engText": "Doon Cuebiyari Vaal Sceptre",
+      "korText": "둔 큐비야리 바알 셉터",
+      "engName": "Doon Cuebiyari",
+      "korName": "둔 큐비야리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 셉터",
+      "engType": "Vaal Sceptre",
+      "engText": "Doryani's Catalyst Vaal Sceptre",
+      "korText": "도리아니의 기폭제 바알 셉터",
+      "engName": "Doryani's Catalyst",
+      "korName": "도리아니의 기폭제",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가로날도끼",
+      "engType": "Cleaver",
+      "engText": "Dreadarc Cleaver",
+      "korText": "접근하는 공포 가로날도끼",
+      "engName": "Dreadarc",
+      "korName": "접근하는 공포",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "녹슨 검",
+      "engType": "Rusted Sword",
+      "engText": "Dreadbeak Rusted Sword",
+      "korText": "공포의 부리 녹슨 검",
+      "engName": "Dreadbeak",
+      "korName": "공포의 부리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가로날도끼",
+      "engType": "Cleaver",
+      "engText": "Dreadsurge Cleaver",
+      "korText": "밀려드는 공포 가로날도끼",
+      "engName": "Dreadsurge",
+      "korName": "밀려드는 공포",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영원의 검",
+      "engType": "Eternal Sword",
+      "engText": "Dreamfeather Eternal Sword",
+      "korText": "꿈의 깃털 영원의 검",
+      "engName": "Dreamfeather",
+      "korName": "꿈의 깃털",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "마엘스트롬 지팡이",
+      "engType": "Maelström Staff",
+      "engText": "Duskdawn Maelström Staff",
+      "korText": "황혼의 아침 마엘스트롬 지팡이",
+      "engName": "Duskdawn",
+      "korName": "황혼의 아침",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "지옥불 도끼",
+      "engType": "Infernal Axe",
+      "engText": "Dyadus Infernal Axe",
+      "korText": "디아두스 지옥불 도끼",
+      "engName": "Dyadus",
+      "korName": "디아두스",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 지팡이",
+      "engType": "Iron Staff",
+      "engText": "Dying Breath Iron Staff",
+      "korText": "죽어가는 숨결 철제 지팡이",
+      "engName": "Dying Breath",
+      "korName": "죽어가는 숨결",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코일형 지팡이",
+      "engType": "Coiled Staff",
+      "engText": "Dying Breath Coiled Staff",
+      "korText": "죽어가는 숨결 코일형 지팡이",
+      "engName": "Dying Breath",
+      "korName": "죽어가는 숨결",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "웃는 조각상 홀",
+      "engType": "Grinning Fetish",
+      "engText": "Earendel's Embrace Grinning Fetish",
+      "korText": "에아렌델의 포옹 웃는 조각상 홀",
+      "engName": "Earendel's Embrace",
+      "korName": "에아렌델의 포옹",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "지옥불 검",
+      "engType": "Infernal Sword",
+      "engText": "Echoforge Infernal Sword",
+      "korText": "메아리의 탄생 지옥불 검",
+      "engName": "Echoforge",
+      "korName": "메아리의 탄생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "수정 마법봉",
+      "engType": "Crystal Wand",
+      "engText": "Eclipse Solaris Crystal Wand",
+      "korText": "솔라리스의 쇠퇴 수정 마법봉",
+      "engName": "Eclipse Solaris",
+      "korName": "솔라리스의 쇠퇴",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand",
+      "engText": "Eclipse Solaris Engraved Wand",
+      "korText": "솔라리스의 쇠퇴 아로새긴 마법봉",
+      "engName": "Eclipse Solaris",
+      "korName": "솔라리스의 쇠퇴",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조각된 대검",
+      "engType": "Etched Greatsword",
+      "engText": "Edge of Madness Etched Greatsword",
+      "korText": "광기의 칼날 조각된 대검",
+      "engName": "Edge of Madness",
+      "korName": "광기의 칼날",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황혼의 검",
+      "engType": "Dusk Blade",
+      "engText": "Ephemeral Edge Dusk Blade",
+      "korText": "덧없는 칼날 황혼의 검",
+      "engName": "Ephemeral Edge",
+      "korName": "덧없는 칼날",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 클로",
+      "engType": "Vaal Claw",
+      "engText": "Essentia Sanguis Vaal Claw",
+      "korText": "피의 정수 바알 클로",
+      "engName": "Essentia Sanguis",
+      "korName": "피의 정수",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "눈 후비개",
+      "engType": "Eye Gouger",
+      "engText": "Essentia Sanguis Eye Gouger",
+      "korText": "피의 정수 눈 후비개",
+      "engName": "Essentia Sanguis",
+      "korName": "피의 정수",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "앤티크 레이피어",
+      "engType": "Antique Rapier",
+      "engText": "Ewar's Mirage Antique Rapier",
+      "korText": "이워의 신기루 앤티크 레이피어",
+      "engName": "Ewar's Mirage",
+      "korName": "이워의 신기루",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "원석 검",
+      "engType": "Gemstone Sword",
+      "engText": "Fate of the Vaal Gemstone Sword",
+      "korText": "바알의 운명 원석 검",
+      "engName": "Fate of the Vaal",
+      "korName": "바알의 운명",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태고의 지팡이",
+      "engType": "Primordial Staff",
+      "engText": "Femurs of the Saints Primordial Staff",
+      "korText": "성자의 대퇴골 태고의 지팡이",
+      "engName": "Femurs of the Saints",
+      "korName": "성자의 대퇴골",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "울퉁불퉁한 나뭇가지",
+      "engType": "Gnarled Branch",
+      "engText": "Fencoil Gnarled Branch",
+      "korText": "늪 감긴 가지 울퉁불퉁한 나뭇가지",
+      "engName": "Fencoil",
+      "korName": "늪 감긴 가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "삐죽삐죽한 펜싱 검",
+      "engType": "Jagged Foil",
+      "engText": "Fidelitas' Spike Jagged Foil",
+      "korText": "피델리타스의 가시 삐죽삐죽한 펜싱 검",
+      "engName": "Fidelitas' Spike",
+      "korName": "피델리타스의 가시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "몽환의 철퇴",
+      "engType": "Dream Mace",
+      "engText": "Flesh-Eater Dream Mace",
+      "korText": "식인종 몽환의 철퇴",
+      "engName": "Flesh-Eater",
+      "korName": "식인종",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "유리 단도",
+      "engType": "Glass Shank",
+      "engText": "Fragment of Eternity Glass Shank",
+      "korText": "영원의 조각 유리 단도",
+      "engName": "Fragment of Eternity",
+      "korName": "영원의 조각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화려한 철퇴",
+      "engType": "Ornate Mace",
+      "engText": "Frostbreath Ornate Mace",
+      "korText": "서리 숨결 화려한 철퇴",
+      "engName": "Frostbreath",
+      "korName": "서리 숨결",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황동 대형 망치",
+      "engType": "Brass Maul",
+      "engText": "Geofri's Baptism Brass Maul",
+      "korText": "조프리의 세례 황동 대형 망치",
+      "engName": "Geofri's Baptism",
+      "korName": "조프리의 세례",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황동 대형 망치",
+      "engType": "Brass Maul",
+      "engText": "Geofri's Devotion Brass Maul",
+      "korText": "조프리의 헌신 황동 대형 망치",
+      "engName": "Geofri's Devotion",
+      "korName": "조프리의 헌신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "매복자",
+      "engType": "Ambusher",
+      "engText": "Goblinedge Ambusher",
+      "korText": "고블린날 매복자",
+      "engName": "Goblinedge",
+      "korName": "고블린날",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가시 박힌 곤봉",
+      "engType": "Spiked Club",
+      "engText": "Gorebreaker Spiked Club",
+      "korText": "유혈 분쇄기 가시 박힌 곤봉",
+      "engName": "Gorebreaker",
+      "korName": "유혈 분쇄기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무두질용 단도",
+      "engType": "Skinning Knife",
+      "engText": "Goredrill Skinning Knife",
+      "korText": "유혈 관통 무두질용 단도",
+      "engName": "Goredrill",
+      "korName": "유혈 관통",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "예언 마법봉",
+      "engType": "Prophecy Wand",
+      "engText": "Grace of the Goddess Prophecy Wand",
+      "korText": "여신의 은총 예언 마법봉",
+      "engName": "Grace of the Goddess",
+      "korName": "여신의 은총",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영원의 검",
+      "engType": "Eternal Sword",
+      "engText": "Grelwood Shank Eternal Sword",
+      "korText": "그렐나무 자루 영원의 검",
+      "engName": "Grelwood Shank",
+      "korName": "그렐나무 자루",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "실명기",
+      "engType": "Blinder",
+      "engText": "Hand of Thought and Motion Blinder",
+      "korText": "사고와 움직임의 손아귀 실명기",
+      "engName": "Hand of Thought and Motion",
+      "korName": "사고와 움직임의 손아귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 클로",
+      "engType": "Imperial Claw",
+      "engText": "Hand of Thought and Motion Imperial Claw",
+      "korText": "사고와 움직임의 손아귀 제국 클로",
+      "engName": "Hand of Thought and Motion",
+      "korName": "사고와 움직임의 손아귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 클로",
+      "engType": "Imperial Claw",
+      "engText": "Hand of Wisdom and Action Imperial Claw",
+      "korText": "지혜와 행동의 손아귀 제국 클로",
+      "engName": "Hand of Wisdom and Action",
+      "korName": "지혜와 행동의 손아귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 양날 단검",
+      "engType": "Royal Skean",
+      "engText": "Heartbreaker Royal Skean",
+      "korText": "심장 분쇄기 왕실 양날 단검",
+      "engName": "Heartbreaker",
+      "korName": "심장 분쇄기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심판 지팡이",
+      "engType": "Judgement Staff",
+      "engText": "Hegemony's Era Judgement Staff",
+      "korText": "패권의 시대 심판 지팡이",
+      "engName": "Hegemony's Era",
+      "korName": "패권의 시대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 도끼",
+      "engType": "Vaal Axe",
+      "engText": "Hezmana's Bloodlust Vaal Axe",
+      "korText": "헤즈마나의 유혈 충동 바알 도끼",
+      "engName": "Hezmana's Bloodlust",
+      "korName": "헤즈마나의 유혈 충동",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강탈자 검",
+      "engType": "Reaver Sword",
+      "engText": "Hiltless Reaver Sword",
+      "korText": "고통의 검 강탈자 검",
+      "engName": "Hiltless",
+      "korName": "고통의 검",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "레인저 활",
+      "engType": "Ranger Bow",
+      "engText": "Hopeshredder Ranger Bow",
+      "korText": "희망 종결자 레인저 활",
+      "engName": "Hopeshredder",
+      "korName": "희망 종결자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 양손 망치",
+      "engType": "Sledgehammer",
+      "engText": "Hrimnor's Dirge Sledgehammer",
+      "korText": "흐림노르의 만가 대형 양손 망치",
+      "engName": "Hrimnor's Dirge",
+      "korName": "흐림노르의 만가",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 양손 망치",
+      "engType": "Sledgehammer",
+      "engText": "Hrimnor's Hymn Sledgehammer",
+      "korText": "흐림노르의 찬가 대형 양손 망치",
+      "engName": "Hrimnor's Hymn",
+      "korName": "흐림노르의 찬가",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 검",
+      "engType": "Legion Sword",
+      "engText": "Hyaon's Fury Legion Sword",
+      "korText": "하야온의 광분 군단 검",
+      "engName": "Hyaon's Fury",
+      "korName": "하야온의 광분",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "해적의 검",
+      "engType": "Corsair Sword",
+      "engText": "Ichimonji Corsair Sword",
+      "korText": "이치몬지 해적의 검",
+      "engName": "Ichimonji",
+      "korName": "이치몬지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대량 학살의 활",
+      "engType": "Decimation Bow",
+      "engText": "Infractem Decimation Bow",
+      "korText": "침범자 대량 학살의 활",
+      "engName": "Infractem",
+      "korName": "침범자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "장로의 검",
+      "engType": "Elder Sword",
+      "engText": "Innsbury Edge Elder Sword",
+      "korText": "인스뷰리 칼날 장로의 검",
+      "engName": "Innsbury Edge",
+      "korName": "인스뷰리 칼날",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "죽음의 활",
+      "engType": "Death Bow",
+      "engText": "Iron Commander Death Bow",
+      "korText": "철의 지휘관 죽음의 활",
+      "engName": "Iron Commander",
+      "korName": "철의 지휘관",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 클로",
+      "engType": "Imperial Claw",
+      "engText": "Izaro's Dilemma Imperial Claw",
+      "korText": "이자로의 난제 제국 클로",
+      "engName": "Izaro's Dilemma",
+      "korName": "이자로의 난제",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 손도끼",
+      "engType": "Vaal Hatchet",
+      "engText": "Jack, the Axe Vaal Hatchet",
+      "korText": "도끼마 잭 바알 손도끼",
+      "engName": "Jack, the Axe",
+      "korName": "도끼마 잭",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철머리 망치",
+      "engType": "Steelhead",
+      "engText": "Jorrhast's Blacksteel Steelhead",
+      "korText": "요르하스트의 강철 강철머리 망치",
+      "engName": "Jorrhast's Blacksteel",
+      "korName": "요르하스트의 강철",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "카루이 절단기",
+      "engType": "Karui Chopper",
+      "engText": "Kaom's Primacy Karui Chopper",
+      "korText": "카옴의 탁월함 카루이 절단기",
+      "engName": "Kaom's Primacy",
+      "korName": "카옴의 탁월함",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "절대군주 도끼",
+      "engType": "Despot Axe",
+      "engText": "Kingmaker Despot Axe",
+      "korText": "실세 절대군주 도끼",
+      "engName": "Kingmaker",
+      "korName": "실세",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공허의 도끼",
+      "engType": "Void Axe",
+      "engText": "Kitava's Feast Void Axe",
+      "korText": "키타바의 연회 공허의 도끼",
+      "engName": "Kitava's Feast",
+      "korName": "키타바의 연회",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 검",
+      "engType": "Ezomyte Blade",
+      "engText": "Kondo's Pride Ezomyte Blade",
+      "korText": "콘도의 자부심 에조미어 검",
+      "engName": "Kondo's Pride",
+      "korName": "콘도의 자부심",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공포의 대형 망치",
+      "engType": "Terror Maul",
+      "engText": "Kongor's Undying Rage Terror Maul",
+      "korText": "콩고르의 끝없는 격노 공포의 대형 망치",
+      "engName": "Kongor's Undying Rage",
+      "korName": "콩고르의 끝없는 격노",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 검",
+      "engType": "Elegant Sword",
+      "engText": "Lakishu's Blade Elegant Sword",
+      "korText": "라키슈의 검 고상한 검",
+      "engName": "Lakishu's Blade",
+      "korName": "라키슈의 검",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "못박은 너클",
+      "engType": "Nailed Fist",
+      "engText": "Last Resort Nailed Fist",
+      "korText": "최후의 수단 못박은 너클",
+      "engName": "Last Resort",
+      "korName": "최후의 수단",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전쟁 망치",
+      "engType": "War Hammer",
+      "engText": "Lavianga's Wisdom War Hammer",
+      "korText": "라비앙가의 지혜 전쟁 망치",
+      "engName": "Lavianga's Wisdom",
+      "korName": "라비앙가의 지혜",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "헬리온의 발",
+      "engType": "Hellion's Paw",
+      "engText": "Law of the Wilds Hellion's Paw",
+      "korText": "황야의 법칙 헬리온의 발",
+      "engName": "Law of the Wilds",
+      "korName": "황야의 법칙",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "표류목 마법봉",
+      "engType": "Driftwood Wand",
+      "engText": "Lifesprig Driftwood Wand",
+      "korText": "생명의 가지 표류목 마법봉",
+      "engName": "Lifesprig",
+      "korName": "생명의 가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벌목스플리터",
+      "engType": "Woodsplitter",
+      "engText": "Limbsplit Woodsplitter",
+      "korText": "사지 분할기 벌목스플리터",
+      "engName": "Limbsplit",
+      "korName": "사지 분할기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 활",
+      "engType": "Imperial Bow",
+      "engText": "Lioneye's Glare Imperial Bow",
+      "korText": "라이온아이의 섬광 제국 활",
+      "engName": "Lioneye's Glare",
+      "korName": "라이온아이의 섬광",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "카루이 셉터",
+      "engType": "Karui Sceptre",
+      "engText": "Maata's Teaching Karui Sceptre",
+      "korText": "마아타의 가르침 카루이 셉터",
+      "engName": "Maata's Teaching",
+      "korName": "마아타의 가르침",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "백금 크리스",
+      "engType": "Platinum Kris",
+      "engText": "Mark of the Doubting Knight Platinum Kris",
+      "korText": "불안한 기사의 징표 백금 크리스",
+      "engName": "Mark of the Doubting Knight",
+      "korName": "불안한 기사의 징표",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "카루이 대형 망치",
+      "engType": "Karui Maul",
+      "engText": "Marohi Erqi Karui Maul",
+      "korText": "마로히 에르키 카루이 대형 망치",
+      "engName": "Marohi Erqi",
+      "korName": "마로히 에르키",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상류층의 지팡이",
+      "engType": "Highborn Staff",
+      "engText": "Martyr of Innocence Highborn Staff",
+      "korText": "결백한 순교자 상류층의 지팡이",
+      "engName": "Martyr of Innocence",
+      "korName": "결백한 순교자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand",
+      "engText": "Midnight Bargain Engraved Wand",
+      "korText": "심야의 교섭 아로새긴 마법봉",
+      "engName": "Midnight Bargain",
+      "korName": "심야의 교섭",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "박피 단도",
+      "engType": "Flaying Knife",
+      "engText": "Mightflay Flaying Knife",
+      "korText": "강력한 가죽칼 박피 단도",
+      "engName": "Mightflay",
+      "korName": "강력한 가죽칼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "울퉁불퉁한 나뭇가지",
+      "engType": "Gnarled Branch",
+      "engText": "Mirebough Gnarled Branch",
+      "korText": "늪 가지 울퉁불퉁한 나뭇가지",
+      "engName": "Mirebough",
+      "korName": "늪 가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "의사봉",
+      "engType": "Gavel",
+      "engText": "Mjölner Gavel",
+      "korText": "묠니르 의사봉",
+      "engName": "Mjölner",
+      "korName": "묠니르",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공허의 셉터",
+      "engType": "Void Sceptre",
+      "engText": "Mon'tregul's Grasp Void Sceptre",
+      "korText": "몬트레굴의 장악 공허의 셉터",
+      "engName": "Mon'tregul's Grasp",
+      "korName": "몬트레굴의 장악",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "토마호크",
+      "engType": "Tomahawk",
+      "engText": "Moonbender's Wing Tomahawk",
+      "korText": "달을 구부리는 자의 날개 토마호크",
+      "engName": "Moonbender's Wing",
+      "korName": "달을 구부리는 자의 날개",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "부여된 마법봉",
+      "engType": "Imbued Wand",
+      "engText": "Moonsorrow Imbued Wand",
+      "korText": "달의 슬픔 부여된 마법봉",
+      "engName": "Moonsorrow",
+      "korName": "달의 슬픔",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "섬뜩한 클로",
+      "engType": "Fright Claw",
+      "engText": "Mortem Morsu Fright Claw",
+      "korText": "고통스러운 죽음 섬뜩한 클로",
+      "engName": "Mortem Morsu",
+      "korName": "고통스러운 죽음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "우아한 검",
+      "engType": "Graceful Sword",
+      "engText": "Nametaker Graceful Sword",
+      "korText": "이름강탈자 우아한 검",
+      "engName": "Nametaker",
+      "korName": "이름강탈자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공허의 셉터",
+      "engType": "Void Sceptre",
+      "engText": "Nebulis Void Sceptre",
+      "korText": "성운 공허의 셉터",
+      "engName": "Nebulis",
+      "korName": "성운",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악몽의 철퇴",
+      "engType": "Nightmare Mace",
+      "engText": "Nebuloch Nightmare Mace",
+      "korText": "네뷸록 악몽의 철퇴",
+      "engName": "Nebuloch",
+      "korName": "네뷸록",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심연의 도끼",
+      "engType": "Abyssal Axe",
+      "engText": "Ngamahu's Flame Abyssal Axe",
+      "korText": "나마후의 불꽃 심연의 도끼",
+      "engName": "Ngamahu's Flame",
+      "korName": "나마후의 불꽃",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "레인저 활",
+      "engType": "Ranger Bow",
+      "engText": "Null's Inclination Ranger Bow",
+      "korText": "몰살 의지 레인저 활",
+      "engName": "Null's Inclination",
+      "korName": "몰살 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "선구자 활",
+      "engType": "Harbinger Bow",
+      "engText": "Nuro's Harp Harbinger Bow",
+      "korText": "누로의 하프 선구자 활",
+      "engName": "Nuro's Harp",
+      "korName": "누로의 하프",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "수정 셉터",
+      "engType": "Crystal Sceptre",
+      "engText": "Nycta's Lantern Crystal Sceptre",
+      "korText": "닉타의 등불 수정 셉터",
+      "engName": "Nycta's Lantern",
+      "korName": "닉타의 등불",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악마의 뿔",
+      "engType": "Demon's Horn",
+      "engText": "Obliteration Demon's Horn",
+      "korText": "말살 악마의 뿔",
+      "engName": "Obliteration",
+      "korName": "말살",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "부여된 마법봉",
+      "engType": "Imbued Wand",
+      "engText": "Obliteration Imbued Wand",
+      "korText": "말살 부여된 마법봉",
+      "engName": "Obliteration",
+      "korName": "말살",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "차란의 검",
+      "engType": "Charan's Sword",
+      "engText": "Oni-Goroshi Charan's Sword",
+      "korText": "오니고로시 차란의 검",
+      "engName": "Oni-Goroshi",
+      "korName": "오니고로시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "내장 거열기",
+      "engType": "Gut Ripper",
+      "engText": "Ornament of the East Gut Ripper",
+      "korText": "동방의 장신구 내장 거열기",
+      "engName": "Ornament of the East",
+      "korName": "동방의 장신구",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "지옥불 검",
+      "engType": "Infernal Sword",
+      "engText": "Oro's Sacrifice Infernal Sword",
+      "korText": "오로의 희생 지옥불 검",
+      "engName": "Oro's Sacrifice",
+      "korName": "오로의 희생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "삐죽삐죽한 대형 망치",
+      "engType": "Jagged Maul",
+      "engText": "Panquetzaliztli Jagged Maul",
+      "korText": "판케찰리스틀리 삐죽삐죽한 대형 망치",
+      "engName": "Panquetzaliztli",
+      "korName": "판케찰리스틀리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 레이피어",
+      "engType": "Vaal Rapier",
+      "engText": "Paradoxica Vaal Rapier",
+      "korText": "모순 바알 레이피어",
+      "engName": "Paradoxica",
+      "korName": "모순",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 지팡이",
+      "engType": "Iron Staff",
+      "engText": "Pillar of the Caged God Iron Staff",
+      "korText": "갇힌 신의 기둥 철제 지팡이",
+      "engName": "Pillar of the Caged God",
+      "korName": "갇힌 신의 기둥",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "긴 지팡이",
+      "engType": "Long Staff",
+      "engText": "Pillar of the Caged God Long Staff",
+      "korText": "갇힌 신의 기둥 긴 지팡이",
+      "engName": "Pillar of the Caged God",
+      "korName": "갇힌 신의 기둥",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "회오리 마법봉",
+      "engType": "Tornado Wand",
+      "engText": "Piscator's Vigil Tornado Wand",
+      "korText": "피스카토의 기도 회오리 마법봉",
+      "engName": "Piscator's Vigil",
+      "korName": "피스카토의 기도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "부여된 마법봉",
+      "engType": "Imbued Wand",
+      "engText": "Piscator's Vigil Imbued Wand",
+      "korText": "피스카토의 기도 부여된 마법봉",
+      "engName": "Piscator's Vigil",
+      "korName": "피스카토의 기도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심판 지팡이",
+      "engType": "Judgement Staff",
+      "engText": "Pledge of Hands Judgement Staff",
+      "korText": "손으로 맺은 서약 심판 지팡이",
+      "engName": "Pledge of Hands",
+      "korName": "손으로 맺은 서약",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "여명의 검",
+      "engType": "Twilight Blade",
+      "engText": "Prismatic Eclipse Twilight Blade",
+      "korText": "분광 월식 여명의 검",
+      "engName": "Prismatic Eclipse",
+      "korName": "분광 월식",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "삐죽삐죽한 대형 망치",
+      "engType": "Jagged Maul",
+      "engText": "Quecholli Jagged Maul",
+      "korText": "퀘촐리 삐죽삐죽한 대형 망치",
+      "engName": "Quecholli",
+      "korName": "퀘촐리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화려한 검",
+      "engType": "Ornate Sword",
+      "engText": "Queen's Decree Ornate Sword",
+      "korText": "여왕의 법령 화려한 검",
+      "engName": "Queen's Decree",
+      "korName": "여왕의 법령",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화려한 검",
+      "engType": "Ornate Sword",
+      "engText": "Queen's Escape Ornate Sword",
+      "korText": "여왕의 탈주 화려한 검",
+      "engName": "Queen's Escape",
+      "korName": "여왕의 탈주",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단궁",
+      "engType": "Short Bow",
+      "engText": "Quill Rain Short Bow",
+      "korText": "화살 비 단궁",
+      "engName": "Quill Rain",
+      "korName": "화살 비",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아로새긴 대검",
+      "engType": "Engraved Greatsword",
+      "engText": "Rakiata's Dance Engraved Greatsword",
+      "korText": "라키아타의 춤 아로새긴 대검",
+      "engName": "Rakiata's Dance",
+      "korName": "라키아타의 춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심야의 칼날",
+      "engType": "Midnight Blade",
+      "engText": "Razor of the Seventh Sun Midnight Blade",
+      "korText": "날카로운 일곱 번째 태양 심야의 칼날",
+      "engName": "Razor of the Seventh Sun",
+      "korName": "날카로운 일곱 번째 태양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "척추 활",
+      "engType": "Spine Bow",
+      "engText": "Reach of the Council Spine Bow",
+      "korText": "의회의 역량 척추 활",
+      "engName": "Reach of the Council",
+      "korName": "의회의 역량",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 지팡이",
+      "engType": "Iron Staff",
+      "engText": "Realm Ender Iron Staff",
+      "korText": "종결자 철제 지팡이",
+      "engName": "Realm Ender",
+      "korName": "종결자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 지팡이",
+      "engType": "Iron Staff",
+      "engText": "Realmshaper Iron Staff",
+      "korText": "영역 형성자 철제 지팡이",
+      "engName": "Realmshaper",
+      "korName": "영역 형성자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "그림자 도끼",
+      "engType": "Shadow Axe",
+      "engText": "Reaper's Pursuit Shadow Axe",
+      "korText": "수확자의 추적 그림자 도끼",
+      "engName": "Reaper's Pursuit",
+      "korName": "수확자의 추적",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 칼날",
+      "engType": "Vaal Blade",
+      "engText": "Rebuke of the Vaal Vaal Blade",
+      "korText": "바알의 질책 바알 칼날",
+      "engName": "Rebuke of the Vaal",
+      "korName": "바알의 질책",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "녹슨 검",
+      "engType": "Rusted Sword",
+      "engText": "Redbeak Rusted Sword",
+      "korText": "붉은 부리 녹슨 검",
+      "engName": "Redbeak",
+      "korName": "붉은 부리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "낚싯대",
+      "engType": "Fishing Rod",
+      "engText": "Reefbane Fishing Rod",
+      "korText": "암초의 파멸 낚싯대",
+      "engName": "Reefbane",
+      "korName": "암초의 파멸",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "장식된 도끼",
+      "engType": "Decorative Axe",
+      "engText": "Relentless Fury Decorative Axe",
+      "korText": "맹렬한 광분 장식된 도끼",
+      "engName": "Relentless Fury",
+      "korName": "맹렬한 광분",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조잡한 활",
+      "engType": "Crude Bow",
+      "engText": "Relic of the Cycle Crude Bow",
+      "korText": "순환의 유물 조잡한 활",
+      "engName": "Relic of the Cycle",
+      "korName": "순환의 유물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand",
+      "engText": "Relic of the Pact Spiraled Wand",
+      "korText": "맹약의 유물 나선형 마법봉",
+      "engName": "Relic of the Pact",
+      "korName": "맹약의 유물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand",
+      "engText": "Relic of the Pact Sage Wand",
+      "korText": "맹약의 유물 현자 마법봉",
+      "engName": "Relic of the Pact",
+      "korName": "맹약의 유물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "내장 거열기",
+      "engType": "Gut Ripper",
+      "engText": "Replica Advancing Fortress Gut Ripper",
+      "korText": "전진하는 요새 모조품 내장 거열기",
+      "engName": "Replica Advancing Fortress",
+      "korName": "전진하는 요새 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 클로",
+      "engType": "Vaal Claw",
+      "engText": "Replica Allure Vaal Claw",
+      "korText": "매혹 모조품 바알 클로",
+      "engName": "Replica Allure",
+      "korName": "매혹 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "그림자 셉터",
+      "engType": "Shadow Sceptre",
+      "engText": "Replica Bitterdream Shadow Sceptre",
+      "korText": "악몽 모조품 그림자 셉터",
+      "engName": "Replica Bitterdream",
+      "korName": "악몽 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "스틸레토",
+      "engType": "Stiletto",
+      "engText": "Replica Bloodplay Stiletto",
+      "korText": "피의 오락 모조품 스틸레토",
+      "engName": "Replica Bloodplay",
+      "korName": "피의 오락 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "울퉁불퉁한 나뭇가지",
+      "engType": "Gnarled Branch",
+      "engText": "Replica Blood Thorn Gnarled Branch",
+      "korText": "피의 가시 모조품 울퉁불퉁한 나뭇가지",
+      "engName": "Replica Blood Thorn",
+      "korName": "피의 가시 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 단검",
+      "engType": "Ezomyte Dagger",
+      "engText": "Replica Cold Iron Point Ezomyte Dagger",
+      "korText": "날붙이 끝 모조품 에조미어 단검",
+      "engName": "Replica Cold Iron Point",
+      "korName": "날붙이 끝 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영원의 검",
+      "engType": "Eternal Sword",
+      "engText": "Replica Dreamfeather Eternal Sword",
+      "korText": "꿈의 깃털 모조품 영원의 검",
+      "engName": "Replica Dreamfeather",
+      "korName": "꿈의 깃털 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "마엘스트롬 지팡이",
+      "engType": "Maelström Staff",
+      "engText": "Replica Duskdawn Maelström Staff",
+      "korText": "황혼의 아침 모조품 마엘스트롬 지팡이",
+      "engName": "Replica Duskdawn",
+      "korName": "황혼의 아침 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "웃는 조각상 홀",
+      "engType": "Grinning Fetish",
+      "engText": "Replica Earendel's Embrace Grinning Fetish",
+      "korText": "에아렌델의 포옹 모조품 웃는 조각상 홀",
+      "engName": "Replica Earendel's Embrace",
+      "korName": "에아렌델의 포옹 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "울퉁불퉁한 나뭇가지",
+      "engType": "Gnarled Branch",
+      "engText": "Replica Fencoil Gnarled Branch",
+      "korText": "늪 감긴 가지 모조품 울퉁불퉁한 나뭇가지",
+      "engName": "Replica Fencoil",
+      "korName": "늪 감긴 가지 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "화려한 철퇴",
+      "engType": "Ornate Mace",
+      "engText": "Replica Frostbreath Ornate Mace",
+      "korText": "서리 숨결 모조품 화려한 철퇴",
+      "engName": "Replica Frostbreath",
+      "korName": "서리 숨결 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벽옥 절단기",
+      "engType": "Jasper Chopper",
+      "engText": "Replica Harvest Jasper Chopper",
+      "korText": "수확 모조품 벽옥 절단기",
+      "engName": "Replica Harvest",
+      "korName": "수확 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 양날 단검",
+      "engType": "Royal Skean",
+      "engText": "Replica Heartbreaker Royal Skean",
+      "korText": "심장 분쇄기 모조품 왕실 양날 단검",
+      "engName": "Replica Heartbreaker",
+      "korName": "심장 분쇄기 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대량 학살의 활",
+      "engType": "Decimation Bow",
+      "engText": "Replica Infractem Decimation Bow",
+      "korText": "침범자 모조품 대량 학살의 활",
+      "engName": "Replica Infractem",
+      "korName": "침범자 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "장로의 검",
+      "engType": "Elder Sword",
+      "engText": "Replica Innsbury Edge Elder Sword",
+      "korText": "인스뷰리 칼날 모조품 장로의 검",
+      "engName": "Replica Innsbury Edge",
+      "korName": "인스뷰리 칼날 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "죽음의 활",
+      "engType": "Death Bow",
+      "engText": "Replica Iron Commander Death Bow",
+      "korText": "철의 지휘관 모조품 죽음의 활",
+      "engName": "Replica Iron Commander",
+      "korName": "철의 지휘관 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공포의 대형 망치",
+      "engType": "Terror Maul",
+      "engText": "Replica Kongor's Undying Rage Terror Maul",
+      "korText": "콩고르의 끝없는 격노 모조품 공포의 대형 망치",
+      "engName": "Replica Kongor's Undying Rage",
+      "korName": "콩고르의 끝없는 격노 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "못박은 너클",
+      "engType": "Nailed Fist",
+      "engText": "Replica Last Resort Nailed Fist",
+      "korText": "최후의 수단 모조품 못박은 너클",
+      "engName": "Replica Last Resort",
+      "korName": "최후의 수단 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand",
+      "engText": "Replica Midnight Bargain Engraved Wand",
+      "korText": "심야의 교섭 모조품 아로새긴 마법봉",
+      "engName": "Replica Midnight Bargain",
+      "korName": "심야의 교섭 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공허의 셉터",
+      "engType": "Void Sceptre",
+      "engText": "Replica Nebulis Void Sceptre",
+      "korText": "성운 모조품 공허의 셉터",
+      "engName": "Replica Nebulis",
+      "korName": "성운 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "지옥불 검",
+      "engType": "Infernal Sword",
+      "engText": "Replica Oro's Sacrifice Infernal Sword",
+      "korText": "오로의 희생 모조품 지옥불 검",
+      "engName": "Replica Oro's Sacrifice",
+      "korName": "오로의 희생 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 레이피어",
+      "engType": "Vaal Rapier",
+      "engText": "Replica Paradoxica Vaal Rapier",
+      "korText": "모순 모조품 바알 레이피어",
+      "engName": "Replica Paradoxica",
+      "korName": "모순 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "단궁",
+      "engType": "Short Bow",
+      "engText": "Replica Quill Rain Short Bow",
+      "korText": "화살 비 모조품 단궁",
+      "engName": "Replica Quill Rain",
+      "korName": "화살 비 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공성용 도끼",
+      "engType": "Siege Axe",
+      "engText": "Replica Soul Taker Siege Axe",
+      "korText": "영혼 수확자 모조품 공성용 도끼",
+      "engName": "Replica Soul Taker",
+      "korName": "영혼 수확자 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전쟁 검",
+      "engType": "War Sword",
+      "engText": "Replica Tempestuous Steel War Sword",
+      "korText": "격렬한 강철 모조품 전쟁 검",
+      "engName": "Replica Tempestuous Steel",
+      "korName": "격렬한 강철 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 나무 망치",
+      "engType": "Great Mallet",
+      "engText": "Replica Trypanon Great Mallet",
+      "korText": "트리파논 모조품 대형 나무 망치",
+      "engName": "Replica Trypanon",
+      "korName": "트리파논 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오팔 마법봉",
+      "engType": "Opal Wand",
+      "engText": "Replica Tulfall Opal Wand",
+      "korText": "툴의 몰락 모조품 오팔 마법봉",
+      "engName": "Replica Tulfall",
+      "korName": "툴의 몰락 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "회오리 마법봉",
+      "engType": "Tornado Wand",
+      "engText": "Replica Tulfall Tornado Wand",
+      "korText": "툴의 몰락 모조품 회오리 마법봉",
+      "engName": "Replica Tulfall",
+      "korName": "툴의 몰락 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand",
+      "engText": "Replica Twyzel Sage Wand",
+      "korText": "트위즐 모조품 현자 마법봉",
+      "engName": "Replica Twyzel",
+      "korName": "트위즐 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "주머니 단도",
+      "engType": "Boot Knife",
+      "engText": "Replica Ungil's Gauche Boot Knife",
+      "korText": "웅힐의 투박함 모조품 주머니 단도",
+      "engName": "Replica Ungil's Gauche",
+      "korName": "웅힐의 투박함 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 활",
+      "engType": "Imperial Bow",
+      "engText": "Replica Windripper Imperial Bow",
+      "korText": "윈드리퍼 모조품 제국 활",
+      "engName": "Replica Windripper",
+      "korName": "윈드리퍼 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 도끼",
+      "engType": "Ezomyte Axe",
+      "engText": "Replica Wings of Entropy Ezomyte Axe",
+      "korText": "엔트로피의 날개 모조품 에조미어 도끼",
+      "engName": "Replica Wings of Entropy",
+      "korName": "엔트로피의 날개 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand",
+      "engText": "Reverberation Rod Spiraled Wand",
+      "korText": "울림의 막대 나선형 마법봉",
+      "engName": "Reverberation Rod",
+      "korName": "울림의 막대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고지대 검",
+      "engType": "Highland Blade",
+      "engText": "Rigwald's Charge Highland Blade",
+      "korText": "리그월드의 돌진 고지대 검",
+      "engName": "Rigwald's Charge",
+      "korName": "리그월드의 돌진",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심야의 칼날",
+      "engType": "Midnight Blade",
+      "engText": "Rigwald's Command Midnight Blade",
+      "korText": "리그월드의 명령 심야의 칼날",
+      "engName": "Rigwald's Command",
+      "korName": "리그월드의 명령",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 도끼",
+      "engType": "Royal Axe",
+      "engText": "Rigwald's Savagery Royal Axe",
+      "korText": "리그월드의 야만 왕실 도끼",
+      "engName": "Rigwald's Savagery",
+      "korName": "리그월드의 야만",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공포의 클로",
+      "engType": "Terror Claw",
+      "engText": "Rive Terror Claw",
+      "korText": "리브 공포의 클로",
+      "engName": "Rive",
+      "korName": "리브",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "반곡궁",
+      "engType": "Recurve Bow",
+      "engText": "Roth's Reach Recurve Bow",
+      "korText": "로스의 역량 반곡궁",
+      "engName": "Roth's Reach",
+      "korName": "로스의 역량",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "녹슨 손도끼",
+      "engType": "Rusted Hatchet",
+      "engText": "Rust of Winter Rusted Hatchet",
+      "korText": "부패한 겨울 녹슨 손도끼",
+      "engName": "Rust of Winter",
+      "korName": "부패한 겨울",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무두질용 단도",
+      "engType": "Skinning Knife",
+      "engText": "Sanguine Gambol Skinning Knife",
+      "korText": "핏빛 장난 무두질용 단도",
+      "engName": "Sanguine Gambol",
+      "korName": "핏빛 장난",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "글라디우스",
+      "engType": "Gladius",
+      "engText": "Scaeva Gladius",
+      "korText": "스카이바 글라디우스",
+      "engName": "Scaeva",
+      "korName": "스카이바",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "못박은 너클",
+      "engType": "Nailed Fist",
+      "engText": "Scar of Fate Nailed Fist",
+      "korText": "운명의 흉터 못박은 너클",
+      "engName": "Scar of Fate",
+      "korName": "운명의 흉터",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "혼령 철퇴",
+      "engType": "Phantom Mace",
+      "engText": "Serle's Masterwork Phantom Mace",
+      "korText": "세를의 걸작 혼령 철퇴",
+      "engName": "Serle's Masterwork",
+      "korName": "세를의 걸작",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "커틀라스",
+      "engType": "Cutlass",
+      "engText": "Severed in Sleep Cutlass",
+      "korText": "야습 커틀라스",
+      "engName": "Severed in Sleep",
+      "korName": "야습",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand",
+      "engText": "Shade of Solaris Sage Wand",
+      "korText": "솔라리스의 그늘 현자 마법봉",
+      "engName": "Shade of Solaris",
+      "korName": "솔라리스의 그늘",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "회오리 마법봉",
+      "engType": "Tornado Wand",
+      "engText": "Shimmeron Tornado Wand",
+      "korText": "쉬머론 회오리 마법봉",
+      "engName": "Shimmeron",
+      "korName": "쉬머론",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바스타드",
+      "engType": "Bastard Sword",
+      "engText": "Shiversting Bastard Sword",
+      "korText": "오한의 검 바스타드",
+      "engName": "Shiversting",
+      "korName": "오한의 검",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "폭군의 세크헴",
+      "engType": "Tyrant's Sekhem",
+      "engText": "Sign of the Sin Eater Tyrant's Sekhem",
+      "korText": "죄악을 먹는 자의 흔적 폭군의 세크헴",
+      "engName": "Sign of the Sin Eater",
+      "korName": "죄악을 먹는 자의 흔적",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조잡한 활",
+      "engType": "Crude Bow",
+      "engText": "Silverbough Crude Bow",
+      "korText": "은빛 나뭇가지 조잡한 활",
+      "engName": "Silverbough",
+      "korName": "은빛 나뭇가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조잡한 활",
+      "engType": "Crude Bow",
+      "engText": "Silverbranch Crude Bow",
+      "korText": "은빛 가지 조잡한 활",
+      "engName": "Silverbranch",
+      "korName": "은빛 가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "백금 셉터",
+      "engType": "Platinum Sceptre",
+      "engText": "Singularity Platinum Sceptre",
+      "korText": "중력 붕괴 백금 셉터",
+      "engName": "Singularity",
+      "korName": "중력 붕괴",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 도끼",
+      "engType": "Ezomyte Axe",
+      "engText": "Sinvicta's Mettle Ezomyte Axe",
+      "korText": "신빅타의 패기 에조미어 도끼",
+      "engName": "Sinvicta's Mettle",
+      "korName": "신빅타의 패기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사문석 지팡이",
+      "engType": "Serpentine Staff",
+      "engText": "Sire of Shards Serpentine Staff",
+      "korText": "파편의 영주 사문석 지팡이",
+      "engName": "Sire of Shards",
+      "korName": "파편의 영주",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "선구자 활",
+      "engType": "Harbinger Bow",
+      "engText": "Slivertongue Harbinger Bow",
+      "korText": "슬리버텅 선구자 활",
+      "engName": "Slivertongue",
+      "korName": "슬리버텅",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "낚싯대",
+      "engType": "Fishing Rod",
+      "engText": "Song of the Sirens Fishing Rod",
+      "korText": "사이렌의 노래 낚싯대",
+      "engName": "Song of the Sirens",
+      "korName": "사이렌의 노래",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공성용 도끼",
+      "engType": "Siege Axe",
+      "engText": "Soul Taker Siege Axe",
+      "korText": "영혼 수확자 공성용 도끼",
+      "engName": "Soul Taker",
+      "korName": "영혼 수확자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 지팡이",
+      "engType": "Ezomyte Staff",
+      "engText": "Soulwrest Ezomyte Staff",
+      "korText": "영혼 착취 에조미어 지팡이",
+      "engName": "Soulwrest",
+      "korName": "영혼 착취",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "철제 셉터",
+      "engType": "Iron Sceptre",
+      "engText": "Spine of the First Claimant Iron Sceptre",
+      "korText": "최초 선구자의 척추 철제 셉터",
+      "engName": "Spine of the First Claimant",
+      "korName": "최초 선구자의 척추",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "표류목 마법봉",
+      "engType": "Driftwood Wand",
+      "engText": "Splinter of the Moon Driftwood Wand",
+      "korText": "달의 파편 표류목 마법봉",
+      "engName": "Splinter of the Moon",
+      "korName": "달의 파편",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "지옥불 검",
+      "engType": "Infernal Sword",
+      "engText": "Starforge Infernal Sword",
+      "korText": "별의 탄생 지옥불 검",
+      "engName": "Starforge",
+      "korName": "별의 탄생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "장궁",
+      "engType": "Long Bow",
+      "engText": "Storm Cloud Long Bow",
+      "korText": "태풍 구름 장궁",
+      "engName": "Storm Cloud",
+      "korName": "태풍 구름",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조각된 마법봉",
+      "engType": "Carved Wand",
+      "engText": "Storm Prison Carved Wand",
+      "korText": "태풍 감옥 조각된 마법봉",
+      "engName": "Storm Prison",
+      "korName": "태풍 감옥",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand",
+      "engText": "Storm Prison Spiraled Wand",
+      "korText": "태풍 감옥 나선형 마법봉",
+      "engName": "Storm Prison",
+      "korName": "태풍 감옥",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "원석 검",
+      "engType": "Gemstone Sword",
+      "engText": "Story of the Vaal Gemstone Sword",
+      "korText": "바알의 사연 원석 검",
+      "engName": "Story of the Vaal",
+      "korName": "바알의 사연",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바리사이트 검",
+      "engType": "Variscite Blade",
+      "engText": "Story of the Vaal Variscite Blade",
+      "korText": "바알의 사연 바리사이트 검",
+      "engName": "Story of the Vaal",
+      "korName": "바알의 사연",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "매복자",
+      "engType": "Ambusher",
+      "engText": "Taproot Ambusher",
+      "korText": "흡혈 뿌리 매복자",
+      "engName": "Taproot",
+      "korName": "흡혈 뿌리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "마엘스트롬 지팡이",
+      "engType": "Maelström Staff",
+      "engText": "Taryn's Shiver Maelström Staff",
+      "korText": "타린의 오한 마엘스트롬 지팡이",
+      "engName": "Taryn's Shiver",
+      "korName": "타린의 오한",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "말뚝 망치",
+      "engType": "Piledriver",
+      "engText": "Tawhoa's Felling Piledriver",
+      "korText": "타호아의 벌채 말뚝 망치",
+      "engName": "Tawhoa's Felling",
+      "korName": "타호아의 벌채",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "호랑이 검",
+      "engType": "Tiger Sword",
+      "engText": "Terminus Est Tiger Sword",
+      "korText": "다가온 최후 호랑이 검",
+      "engName": "Terminus Est",
+      "korName": "다가온 최후",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "육척봉",
+      "engType": "Quarterstaff",
+      "engText": "The Annihilating Light Quarterstaff",
+      "korText": "절멸의 빛 육척봉",
+      "engName": "The Annihilating Light",
+      "korName": "절멸의 빛",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실의 셉터",
+      "engType": "Royal Sceptre",
+      "engText": "The Black Cane Royal Sceptre",
+      "korText": "검은 지팡이 왕실의 셉터",
+      "engName": "The Black Cane",
+      "korName": "검은 지팡이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "참수자 도끼",
+      "engType": "Headsman Axe",
+      "engText": "The Blood Reaper Headsman Axe",
+      "korText": "피의 수확자 참수자 도끼",
+      "engName": "The Blood Reaper",
+      "korName": "피의 수확자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "울퉁불퉁한 나뭇가지",
+      "engType": "Gnarled Branch",
+      "engText": "The Blood Thorn Gnarled Branch",
+      "korText": "피의 가시 울퉁불퉁한 나뭇가지",
+      "engName": "The Blood Thorn",
+      "korName": "피의 가시",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태고의 지팡이",
+      "engType": "Primordial Staff",
+      "engText": "The Burden of Shadows Primordial Staff",
+      "korText": "그림자의 짐 태고의 지팡이",
+      "engName": "The Burden of Shadows",
+      "korName": "그림자의 짐",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벌목스플리터",
+      "engType": "Woodsplitter",
+      "engText": "The Cauteriser Woodsplitter",
+      "korText": "소각로 벌목스플리터",
+      "engName": "The Cauteriser",
+      "korName": "소각로",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "마귀 단검",
+      "engType": "Fiend Dagger",
+      "engText": "The Consuming Dark Fiend Dagger",
+      "korText": "타들어 가는 어둠 마귀 단검",
+      "engName": "The Consuming Dark",
+      "korName": "타들어 가는 어둠",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철목 활",
+      "engType": "Steelwood Bow",
+      "engText": "The Crimson Storm Steelwood Bow",
+      "korText": "진홍색 태풍 강철목 활",
+      "engName": "The Crimson Storm",
+      "korName": "진홍색 태풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강탈자 검",
+      "engType": "Reaver Sword",
+      "engText": "The Dancing Dervish Reaver Sword",
+      "korText": "춤추는 수도승 강탈자 검",
+      "engName": "The Dancing Dervish",
+      "korName": "춤추는 수도승",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강탈자 검",
+      "engType": "Reaver Sword",
+      "engText": "The Dancing Duo Reaver Sword",
+      "korText": "춤추는 한 쌍 강탈자 검",
+      "engName": "The Dancing Duo",
+      "korName": "춤추는 한 쌍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "그림자 셉터",
+      "engType": "Shadow Sceptre",
+      "engText": "The Dark Seer Shadow Sceptre",
+      "korText": "어둠 예견자 그림자 셉터",
+      "engName": "The Dark Seer",
+      "korName": "어둠 예견자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "The Enmity Divine Imperial Staff",
+      "korText": "증오의 신 제국 지팡이",
+      "engName": "The Enmity Divine",
+      "korName": "증오의 신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 지팡이",
+      "engType": "Ezomyte Staff",
+      "engText": "The Fulcrum Ezomyte Staff",
+      "korText": "버팀대 에조미어 지팡이",
+      "engName": "The Fulcrum",
+      "korName": "버팀대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상류층의 지팡이",
+      "engType": "Highborn Staff",
+      "engText": "The Geomantic Gyre Highborn Staff",
+      "korText": "대지술 선회 상류층의 지팡이",
+      "engName": "The Geomantic Gyre",
+      "korName": "대지술 선회",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성채 활",
+      "engType": "Citadel Bow",
+      "engText": "The Gluttonous Tide Citadel Bow",
+      "korText": "걸신들린 파도 성채 활",
+      "engName": "The Gluttonous Tide",
+      "korName": "걸신들린 파도",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고래뼈 레이피어",
+      "engType": "Whalebone Rapier",
+      "engText": "The Goddess Bound Whalebone Rapier",
+      "korText": "속박된 여신 고래뼈 레이피어",
+      "engName": "The Goddess Bound",
+      "korName": "속박된 여신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고상한 검",
+      "engType": "Elegant Sword",
+      "engText": "The Goddess Scorned Elegant Sword",
+      "korText": "경멸받는 여신 고상한 검",
+      "engName": "The Goddess Scorned",
+      "korName": "경멸받는 여신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영원의 검",
+      "engType": "Eternal Sword",
+      "engText": "The Goddess Unleashed Eternal Sword",
+      "korText": "해방된 여신 영원의 검",
+      "engName": "The Goddess Unleashed",
+      "korName": "해방된 여신",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "심판 지팡이",
+      "engType": "Judgement Staff",
+      "engText": "The Grey Spire Judgement Staff",
+      "korText": "회색 가지 심판 지팡이",
+      "engName": "The Grey Spire",
+      "korName": "회색 가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "비취 손도끼",
+      "engType": "Jade Hatchet",
+      "engText": "The Gryphon Jade Hatchet",
+      "korText": "그리폰 비취 손도끼",
+      "engName": "The Gryphon",
+      "korName": "그리폰",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "벽옥 절단기",
+      "engType": "Jasper Chopper",
+      "engText": "The Harvest Jasper Chopper",
+      "korText": "수확 벽옥 절단기",
+      "engName": "The Harvest",
+      "korName": "수확",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "매복자",
+      "engType": "Ambusher",
+      "engText": "The Hidden Blade Ambusher",
+      "korText": "숨겨진 칼날 매복자",
+      "engName": "The Hidden Blade",
+      "korName": "숨겨진 칼날",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "글라디우스",
+      "engType": "Gladius",
+      "engText": "The Iron Mass Gladius",
+      "korText": "철제 운집 글라디우스",
+      "engName": "The Iron Mass",
+      "korName": "철제 운집",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 검",
+      "engType": "Ezomyte Blade",
+      "engText": "The Living Blade Ezomyte Blade",
+      "korText": "살아있는 칼날 에조미어 검",
+      "engName": "The Living Blade",
+      "korName": "살아있는 칼날",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조각된 마법봉",
+      "engType": "Carved Wand",
+      "engText": "The Poet's Pen Carved Wand",
+      "korText": "시인의 펜 조각된 마법봉",
+      "engName": "The Poet's Pen",
+      "korName": "시인의 펜",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사브르",
+      "engType": "Sabre",
+      "engText": "The Princess Sabre",
+      "korText": "공주 사브르",
+      "engName": "The Princess",
+      "korName": "공주",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "글라디우스",
+      "engType": "Gladius",
+      "engText": "The Redblade Gladius",
+      "korText": "적검 글라디우스",
+      "engName": "The Redblade",
+      "korName": "적검",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 검",
+      "engType": "Legion Sword",
+      "engText": "The Rippling Thoughts Legion Sword",
+      "korText": "퍼져나가는 생각 군단 검",
+      "engName": "The Rippling Thoughts",
+      "korName": "퍼져나가는 생각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 검",
+      "engType": "Legion Sword",
+      "engText": "The Saviour Legion Sword",
+      "korText": "구원자 군단 검",
+      "engName": "The Saviour",
+      "korName": "구원자",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "공포의 클로",
+      "engType": "Terror Claw",
+      "engText": "The Scourge Terror Claw",
+      "korText": "재앙 공포의 클로",
+      "engName": "The Scourge",
+      "korName": "재앙",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "비취 손도끼",
+      "engType": "Jade Hatchet",
+      "engText": "The Screaming Eagle Jade Hatchet",
+      "korText": "울부짖는 독수리 비취 손도끼",
+      "engName": "The Screaming Eagle",
+      "korName": "울부짖는 독수리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "쇠테 곤봉",
+      "engType": "Lathi",
+      "engText": "The Searing Touch Lathi",
+      "korText": "이글거리는 손길 쇠테 곤봉",
+      "engName": "The Searing Touch",
+      "korName": "이글거리는 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "긴 지팡이",
+      "engType": "Long Staff",
+      "engText": "The Searing Touch Long Staff",
+      "korText": "이글거리는 손길 긴 지팡이",
+      "engName": "The Searing Touch",
+      "korName": "이글거리는 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 지팡이",
+      "engType": "Royal Staff",
+      "engText": "The Stormheart Royal Staff",
+      "korText": "태풍의 눈 왕실 지팡이",
+      "engName": "The Stormheart",
+      "korName": "태풍의 눈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "왕실 지팡이",
+      "engType": "Royal Staff",
+      "engText": "The Stormwall Royal Staff",
+      "korText": "태풍의 장벽 왕실 지팡이",
+      "engName": "The Stormwall",
+      "korName": "태풍의 장벽",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "수정 셉터",
+      "engType": "Crystal Sceptre",
+      "engText": "The Supreme Truth Crystal Sceptre",
+      "korText": "지고의 진리 수정 셉터",
+      "engName": "The Supreme Truth",
+      "korName": "지고의 진리",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군단 검",
+      "engType": "Legion Sword",
+      "engText": "The Surging Thoughts Legion Sword",
+      "korText": "쇄도하는 생각 군단 검",
+      "engName": "The Surging Thoughts",
+      "korName": "쇄도하는 생각",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "장궁",
+      "engType": "Long Bow",
+      "engText": "The Tempest Long Bow",
+      "korText": "폭풍 장궁",
+      "engName": "The Tempest",
+      "korName": "폭풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "전쟁 검",
+      "engType": "War Sword",
+      "engText": "The Tempestuous Steel War Sword",
+      "korText": "격렬한 강철 전쟁 검",
+      "engName": "The Tempestuous Steel",
+      "korName": "격렬한 강철",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "목구멍 송곳",
+      "engType": "Throat Stabber",
+      "engText": "The Wasp Nest Throat Stabber",
+      "korText": "말벌의 독침 목구멍 송곳",
+      "engName": "The Wasp Nest",
+      "korName": "말벌의 독침",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끔찍한 지팡이",
+      "engType": "Vile Staff",
+      "engText": "The Whispering Ice Vile Staff",
+      "korText": "속삭이는 얼음 끔찍한 지팡이",
+      "engName": "The Whispering Ice",
+      "korName": "속삭이는 얼음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사악한 지팡이",
+      "engType": "Foul Staff",
+      "engText": "The Winds of Fate Foul Staff",
+      "korText": "숙명의 바람 사악한 지팡이",
+      "engName": "The Winds of Fate",
+      "korName": "숙명의 바람",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "The Yielding Mortality Imperial Staff",
+      "korText": "누그러진 필멸성 제국 지팡이",
+      "engName": "The Yielding Mortality",
+      "korName": "누그러진 필멸성",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "부식된 칼날",
+      "engType": "Corroded Blade",
+      "engText": "Thunder of the Dawn Corroded Blade",
+      "korText": "새벽의 천둥 부식된 칼날",
+      "engName": "Thunder of the Dawn",
+      "korName": "새벽의 천둥",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 대형 망치",
+      "engType": "Imperial Maul",
+      "engText": "Tidebreaker Imperial Maul",
+      "korText": "물결 분쇄기 제국 대형 망치",
+      "engName": "Tidebreaker",
+      "korName": "물결 분쇄기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "고래뼈 레이피어",
+      "engType": "Whalebone Rapier",
+      "engText": "Tipua Kaikohuru Whalebone Rapier",
+      "korText": "티푸아 카이코후루 고래뼈 레이피어",
+      "engName": "Tipua Kaikohuru",
+      "korName": "티푸아 카이코후루",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 클로",
+      "engType": "Imperial Claw",
+      "engText": "Touch of Anguish Imperial Claw",
+      "korText": "비통의 손길 제국 클로",
+      "engName": "Touch of Anguish",
+      "korName": "비통의 손길",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "군용 지팡이",
+      "engType": "Military Staff",
+      "engText": "Tremor Rod Military Staff",
+      "korText": "전율의 막대 군용 지팡이",
+      "engName": "Tremor Rod",
+      "korName": "전율의 막대",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대형 나무 망치",
+      "engType": "Great Mallet",
+      "engText": "Trypanon Great Mallet",
+      "korText": "트리파논 대형 나무 망치",
+      "engName": "Trypanon",
+      "korName": "트리파논",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand",
+      "engText": "Tulborn Spiraled Wand",
+      "korText": "툴의 탄생 나선형 마법봉",
+      "engName": "Tulborn",
+      "korName": "툴의 탄생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오팔 마법봉",
+      "engType": "Opal Wand",
+      "engText": "Tulborn Opal Wand",
+      "korText": "툴의 탄생 오팔 마법봉",
+      "engName": "Tulborn",
+      "korName": "툴의 탄생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "회오리 마법봉",
+      "engType": "Tornado Wand",
+      "engText": "Tulfall Tornado Wand",
+      "korText": "툴의 몰락 회오리 마법봉",
+      "engName": "Tulfall",
+      "korName": "툴의 몰락",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "오팔 마법봉",
+      "engType": "Opal Wand",
+      "engText": "Tulfall Opal Wand",
+      "korText": "툴의 몰락 오팔 마법봉",
+      "engName": "Tulfall",
+      "korName": "툴의 몰락",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand",
+      "engText": "Twyzel Sage Wand",
+      "korText": "트위즐 현자 마법봉",
+      "engName": "Twyzel",
+      "korName": "트위즐",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "주머니 단도",
+      "engType": "Boot Knife",
+      "engText": "Ungil's Gauche Boot Knife",
+      "korText": "웅힐의 투박함 주머니 단도",
+      "engName": "Ungil's Gauche",
+      "korName": "웅힐의 투박함",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "커틀라스",
+      "engType": "Cutlass",
+      "engText": "United in Dream Cutlass",
+      "korText": "꿈속의 연합 커틀라스",
+      "engName": "United in Dream",
+      "korName": "꿈속의 연합",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 도끼",
+      "engType": "Vaal Axe",
+      "engText": "Uul-Netol's Embrace Vaal Axe",
+      "korText": "울네톨의 포옹 바알 도끼",
+      "engName": "Uul-Netol's Embrace",
+      "korName": "울네톨의 포옹",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "라브리스",
+      "engType": "Labrys",
+      "engText": "Uul-Netol's Kiss Labrys",
+      "korText": "울네톨의 입맞춤 라브리스",
+      "engName": "Uul-Netol's Kiss",
+      "korName": "울네톨의 입맞춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 도끼",
+      "engType": "Vaal Axe",
+      "engText": "Uul-Netol's Kiss Vaal Axe",
+      "korText": "울네톨의 입맞춤 바알 도끼",
+      "engName": "Uul-Netol's Kiss",
+      "korName": "울네톨의 입맞춤",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 칼날",
+      "engType": "Vaal Blade",
+      "engText": "Varunastra Vaal Blade",
+      "korText": "바루나스트라 바알 칼날",
+      "engName": "Varunastra",
+      "korName": "바루나스트라",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "울퉁불퉁한 나뭇가지",
+      "engType": "Gnarled Branch",
+      "engText": "Vestige of Divinity Gnarled Branch",
+      "korText": "신성의 자취 울퉁불퉁한 나뭇가지",
+      "engName": "Vestige of Divinity",
+      "korName": "신성의 자취",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "예언 마법봉",
+      "engType": "Prophecy Wand",
+      "engText": "Void Battery Prophecy Wand",
+      "korText": "공허 충전기 예언 마법봉",
+      "engName": "Void Battery",
+      "korName": "공허 충전기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "지옥불 검",
+      "engType": "Infernal Sword",
+      "engText": "Voidforge Infernal Sword",
+      "korText": "공허의 탄생 지옥불 검",
+      "engName": "Voidforge",
+      "korName": "공허의 탄생",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "끔찍한 대형 망치",
+      "engType": "Dread Maul",
+      "engText": "Voidhome Dread Maul",
+      "korText": "공허한 고향 끔찍한 대형 망치",
+      "engName": "Voidhome",
+      "korName": "공허한 고향",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "척추 활",
+      "engType": "Spine Bow",
+      "engText": "Voltaxic Rift Spine Bow",
+      "korText": "전도성 균열 척추 활",
+      "engName": "Voltaxic Rift",
+      "korName": "전도성 균열",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악마 단검",
+      "engType": "Demon Dagger",
+      "engText": "Vulconus Demon Dagger",
+      "korText": "불커누스 악마 단검",
+      "engName": "Vulconus",
+      "korName": "불커누스",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 양날 단검",
+      "engType": "Imperial Skean",
+      "engText": "White Wind Imperial Skean",
+      "korText": "눈바람 제국 양날 단검",
+      "engName": "White Wind",
+      "korName": "눈바람",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "자루 도끼",
+      "engType": "Poleaxe",
+      "engText": "Wideswing Poleaxe",
+      "korText": "넓은 자루 도끼 자루 도끼",
+      "engName": "Wideswing",
+      "korName": "넓은 자루 도끼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "조잡한 활",
+      "engType": "Crude Bow",
+      "engText": "Widowhail Crude Bow",
+      "korText": "과부우박 조잡한 활",
+      "engName": "Widowhail",
+      "korName": "과부우박",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "주머니칼",
+      "engType": "Boot Blade",
+      "engText": "Widowmaker Boot Blade",
+      "korText": "위도우메이커 주머니칼",
+      "engName": "Widowmaker",
+      "korName": "위도우메이커",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "송곳",
+      "engType": "Awl",
+      "engText": "Wildslash Awl",
+      "korText": "거친 베기 송곳",
+      "engName": "Wildslash",
+      "korName": "거친 베기",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 활",
+      "engType": "Imperial Bow",
+      "engText": "Windripper Imperial Bow",
+      "korText": "윈드리퍼 제국 활",
+      "engName": "Windripper",
+      "korName": "윈드리퍼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "에조미어 도끼",
+      "engType": "Ezomyte Axe",
+      "engText": "Wings of Entropy Ezomyte Axe",
+      "korText": "엔트로피의 날개 에조미어 도끼",
+      "engName": "Wings of Entropy",
+      "korName": "엔트로피의 날개",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "작렬하는 도끼",
+      "engType": "Sundering Axe",
+      "engText": "Wings of Entropy Sundering Axe",
+      "korText": "엔트로피의 날개 작렬하는 도끼",
+      "engName": "Wings of Entropy",
+      "korName": "엔트로피의 날개",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "상류층의 지팡이",
+      "engType": "Highborn Staff",
+      "engText": "Witchhunter's Judgment Highborn Staff",
+      "korText": "마녀 사냥꾼의 심판 상류층의 지팡이",
+      "engName": "Witchhunter's Judgment",
+      "korName": "마녀 사냥꾼의 심판",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코일형 지팡이",
+      "engType": "Coiled Staff",
+      "engText": "Xirgil's Crank Coiled Staff",
+      "korText": "저글의 손잡이 코일형 지팡이",
+      "engName": "Xirgil's Crank",
+      "korName": "저글의 손잡이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "뼈 활",
+      "engType": "Bone Bow",
+      "engText": "Xoph's Inception Bone Bow",
+      "korText": "조프의 시초 뼈 활",
+      "engName": "Xoph's Inception",
+      "korName": "조프의 시초",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성채 활",
+      "engType": "Citadel Bow",
+      "engText": "Xoph's Inception Citadel Bow",
+      "korText": "조프의 시초 성채 활",
+      "engName": "Xoph's Inception",
+      "korName": "조프의 시초",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성채 활",
+      "engType": "Citadel Bow",
+      "engText": "Xoph's Nurture Citadel Bow",
+      "korText": "조프의 보살핌 성채 활",
+      "engName": "Xoph's Nurture",
+      "korName": "조프의 보살핌",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "바알 셉터",
+      "engType": "Vaal Sceptre",
+      "engText": "Yaomac's Accord Vaal Sceptre",
+      "korText": "야오맥의 합의 바알 셉터",
+      "engName": "Yaomac's Accord",
+      "korName": "야오맥의 합의",
+      "flags": {
+        "unique": true
+      }
+    }
+  ]
+}
