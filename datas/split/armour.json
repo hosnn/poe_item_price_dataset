@@ -2372,11 +2372,22 @@
       }
     },
     {
-      "korType": "두 가지 색 장화",
+      "korType": "옻칠한 버클러",
       "engType": "Clasped Mitts",
       "engText": "Aukuna's Will Clasped Mitts",
-      "korText": "광기의 신호 두 가지 색 장화",
+      "korText": "아자디 문양 옻칠한 버클러",
       "engName": "Aukuna's Will",
+      "korName": "아자디 문양",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "두 가지 색 장화",
+      "engType": "Steelscale Gauntlets",
+      "engText": "Aurseize Steelscale Gauntlets",
+      "korText": "광기의 신호 두 가지 색 장화",
+      "engName": "Aurseize",
       "korName": "광기의 신호",
       "flags": {
         "unique": true
@@ -2384,10 +2395,10 @@
     },
     {
       "korType": "전신 아룡 비늘 갑옷",
-      "engType": "Steelscale Gauntlets",
-      "engText": "Aurseize Steelscale Gauntlets",
+      "engType": "Lacquered Buckler",
+      "engText": "Azadi Crest Lacquered Buckler",
       "korText": "짐승의 소굴 전신 아룡 비늘 갑옷",
-      "engName": "Aurseize",
+      "engName": "Azadi Crest",
       "korName": "짐승의 소굴",
       "flags": {
         "unique": true
@@ -4033,11 +4044,22 @@
       }
     },
     {
-      "korType": "맹신자 장갑",
+      "korType": "순교자 장갑",
       "engType": "Serpentscale Gauntlets",
       "engText": "Haemophilia Serpentscale Gauntlets",
-      "korText": "열렬한 자의 손 맹신자 장갑",
+      "korText": "이단의 손 순교자 장갑",
       "engName": "Haemophilia",
+      "korName": "이단의 손",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "맹신자 장갑",
+      "engType": "Mind Cage",
+      "engText": "Hale Negator Mind Cage",
+      "korText": "열렬한 자의 손 맹신자 장갑",
+      "engName": "Hale Negator",
       "korName": "열렬한 자의 손",
       "flags": {
         "unique": true
@@ -4045,10 +4067,10 @@
     },
     {
       "korType": "십자군 장갑",
-      "engType": "Mind Cage",
-      "engText": "Hale Negator Mind Cage",
+      "engType": "Martyr Gloves",
+      "engText": "Hand of Heresy Martyr Gloves",
       "korText": "고위 템플러의 손 십자군 장갑",
-      "engName": "Hale Negator",
+      "engName": "Hand of Heresy",
       "korName": "고위 템플러의 손",
       "flags": {
         "unique": true
@@ -4110,11 +4132,22 @@
       }
     },
     {
-      "korType": "염소가죽 장갑",
+      "korType": "에조미어 기병 투구",
       "engType": "Deicide Mask",
       "engText": "Heretic's Veil Deicide Mask",
-      "korText": "흐림번 염소가죽 장갑",
+      "korText": "포효균열 에조미어 기병 투구",
       "engName": "Heretic's Veil",
+      "korName": "포효균열",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "염소가죽 장갑",
+      "engType": "Soldier Helmet",
+      "engText": "Honourhome Soldier Helmet",
+      "korText": "흐림번 염소가죽 장갑",
+      "engName": "Honourhome",
       "korName": "흐림번",
       "flags": {
         "unique": true
@@ -4122,10 +4155,10 @@
     },
     {
       "korType": "삼니움 투구",
-      "engType": "Soldier Helmet",
-      "engText": "Honourhome Soldier Helmet",
+      "engType": "Ezomyte Burgonet",
+      "engText": "Howlcrack Ezomyte Burgonet",
       "korText": "흐림노르의 결의 삼니움 투구",
-      "engName": "Honourhome",
+      "engName": "Howlcrack",
       "korName": "흐림노르의 결의",
       "flags": {
         "unique": true
@@ -5848,11 +5881,22 @@
       }
     },
     {
-      "korType": "무거운 화살통",
+      "korType": "새틴 슬리퍼",
       "engType": "Soldier Gloves",
       "engText": "Saqawal's Winds Soldier Gloves",
-      "korText": "전갈의 부름 무거운 화살통",
+      "korText": "경멸융합 새틴 슬리퍼",
       "engName": "Saqawal's Winds",
+      "korName": "경멸융합",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무거운 화살통",
+      "engType": "Mind Cage",
+      "engText": "Scold's Bridle Mind Cage",
+      "korText": "전갈의 부름 무거운 화살통",
+      "engName": "Scold's Bridle",
       "korName": "전갈의 부름",
       "flags": {
         "unique": true
@@ -5860,10 +5904,10 @@
     },
     {
       "korType": "넓은 촉 화살통",
-      "engType": "Mind Cage",
-      "engText": "Scold's Bridle Mind Cage",
+      "engType": "Satin Slippers",
+      "engText": "Scornflux Satin Slippers",
       "korText": "전갈의 부름 넓은 촉 화살통",
-      "engName": "Scold's Bridle",
+      "engName": "Scornflux",
       "korName": "전갈의 부름",
       "flags": {
         "unique": true
@@ -5881,22 +5925,44 @@
       }
     },
     {
-      "korType": "생가죽 장화",
+      "korType": "고문자의 의복",
       "engType": "Broadhead Arrow Quiver",
       "engText": "Scorpion's Call Broadhead Arrow Quiver",
-      "korText": "바람의 걸음 생가죽 장화",
+      "korText": "부패의 종복 고문자의 의복",
       "engName": "Scorpion's Call",
+      "korName": "부패의 종복",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "생가죽 장화",
+      "engType": "Brass Spirit Shield",
+      "engText": "Sentari's Answer Brass Spirit Shield",
+      "korText": "바람의 걸음 생가죽 장화",
+      "engName": "Sentari's Answer",
       "korName": "바람의 걸음",
       "flags": {
         "unique": true
       }
     },
     {
+      "korType": "밀랍재질 의복",
+      "engType": "Torturer Garb",
+      "engText": "Servant of Decay Torturer Garb",
+      "korText": "일곱 개의 가르침 밀랍재질 의복",
+      "engName": "Servant of Decay",
+      "korName": "일곱 개의 가르침",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "사슬 장갑",
-      "engType": "Brass Spirit Shield",
-      "engText": "Sentari's Answer Brass Spirit Shield",
+      "engType": "Rawhide Boots",
+      "engText": "Seven-League Step Rawhide Boots",
       "korText": "불운아의 족쇄 사슬 장갑",
-      "engName": "Sentari's Answer",
+      "engName": "Seven-League Step",
       "korName": "불운아의 족쇄",
       "flags": {
         "unique": true
@@ -5904,10 +5970,10 @@
     },
     {
       "korType": "버클 미트",
-      "engType": "Rawhide Boots",
-      "engText": "Seven-League Step Rawhide Boots",
+      "engType": "Waxed Garb",
+      "engText": "Seven Teachings Waxed Garb",
       "korText": "그림자와 먼지 버클 미트",
-      "engName": "Seven-League Step",
+      "engName": "Seven Teachings",
       "korName": "그림자와 먼지",
       "flags": {
         "unique": true
@@ -6167,11 +6233,22 @@
       }
     },
     {
-      "korType": "성인의 쇠사슬 갑옷",
+      "korType": "끔찍한 화살통",
       "engType": "Soldier Gloves",
       "engText": "Southbound Soldier Gloves",
-      "korText": "포자 수호 성인의 쇠사슬 갑옷",
+      "korText": "가시우박 끔찍한 화살통",
       "engName": "Southbound",
+      "korName": "가시우박",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "성인의 쇠사슬 갑옷",
+      "engType": "Prophet Crown",
+      "engText": "Speaker's Wreath Prophet Crown",
+      "korText": "포자 수호 성인의 쇠사슬 갑옷",
+      "engName": "Speaker's Wreath",
       "korName": "포자 수호",
       "flags": {
         "unique": true
@@ -6179,10 +6256,10 @@
     },
     {
       "korType": "널빤지 연모양 방패",
-      "engType": "Prophet Crown",
-      "engText": "Speaker's Wreath Prophet Crown",
+      "engType": "Vile Arrow Quiver",
+      "engText": "Spinehail Vile Arrow Quiver",
       "korText": "생기의 잎사귀 널빤지 연모양 방패",
-      "engName": "Speaker's Wreath",
+      "engName": "Spinehail",
       "korName": "생기의 잎사귀",
       "flags": {
         "unique": true
@@ -6497,11 +6574,22 @@
       }
     },
     {
-      "korType": "징 박힌 원형 방패",
+      "korType": "리치의 관",
       "engType": "Destroyer Regalia",
       "engText": "The Coming Calamity Destroyer Regalia",
-      "korText": "심해의 가죽 징 박힌 원형 방패",
+      "korText": "어둠의 국왕 리치의 관",
       "engName": "The Coming Calamity",
+      "korName": "어둠의 국왕",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "징 박힌 원형 방패",
+      "engType": "Spidersilk Robe",
+      "engText": "The Covenant Spidersilk Robe",
+      "korText": "심해의 가죽 징 박힌 원형 방패",
+      "engName": "The Covenant",
       "korName": "심해의 가죽",
       "flags": {
         "unique": true
@@ -6509,10 +6597,10 @@
     },
     {
       "korType": "돼지 머리 배서닛",
-      "engType": "Spidersilk Robe",
-      "engText": "The Covenant Spidersilk Robe",
+      "engType": "Lich's Circlet",
+      "engText": "The Dark Monarch Lich's Circlet",
       "korText": "정신 포식자 돼지 머리 배서닛",
-      "engName": "The Covenant",
+      "engName": "The Dark Monarch",
       "korName": "정신 포식자",
       "flags": {
         "unique": true

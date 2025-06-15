@@ -29,5 +29,5 @@ target_types = ["징조", "문신", "룬", "성유"]
 extract_and_save_currency_types(input_filepath, output_dir, target_types)
 
 input_filepath = "datas/split/map.json"
-target_types = ["갑충석"]
+target_types = ["갑충석", "올플레임"]
 extract_and_save_currency_types(input_filepath, output_dir, target_types)

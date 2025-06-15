@@ -16,8 +16,28 @@
       "engType": "Timeworn Reliquary Key"
     },
     {
+      "korType": "숭배의 메아리",
+      "engType": "Echo of Reverence"
+    },
+    {
+      "korType": "외상의 메아리",
+      "engType": "Echo of Trauma"
+    },
+    {
+      "korType": "고독의 메아리",
+      "engType": "Echo of Loneliness"
+    },
+    {
+      "korType": "쿨레막의 올플레임 잉걸불",
+      "engType": "Allflame Ember of Kulemak"
+    },
+    {
       "korType": "고대의 성유물 보관실 열쇠",
       "engType": "Ancient Reliquary Key"
+    },
+    {
+      "korType": "천상에 속한 자의 올플레임 잉걸불",
+      "engType": "Allflame Ember of the Ethereal"
     },
     {
       "korType": "복제된 영토",
@@ -126,6 +146,10 @@
     {
       "korType": "가차없는 무궁한 바알 상징",
       "engType": "Unrelenting Timeless Vaal Emblem"
+    },
+    {
+      "korType": "연합 메달리온",
+      "engType": "Syndicate Medallion"
     },
     {
       "korType": "메이븐의 문서",
@@ -272,8 +296,16 @@
       "engType": "Mortal Grief"
     },
     {
+      "korType": "도금된 자의 올플레임 잉걸불",
+      "engType": "Allflame Ember of the Gilded"
+    },
+    {
       "korType": "메이븐의 초대: 아틀라스",
       "engType": "Maven's Invitation: The Atlas"
+    },
+    {
+      "korType": "살점의 올플레임 잉걸불",
+      "engType": "Allflame Ember of Flesh"
     },
     {
       "korType": "백열하는 초대",
@@ -292,12 +324,24 @@
       "engType": "Writhing Invitation"
     },
     {
+      "korType": "증식의 올플레임 잉걸불",
+      "engType": "Allflame Ember of Propagation"
+    },
+    {
+      "korType": "광휘의 올플레임 잉걸불",
+      "engType": "Allflame Ember of Resplendence"
+    },
+    {
       "korType": "왕 알현",
       "engType": "An Audience With The King"
     },
     {
       "korType": "피 담긴 그릇",
       "engType": "Blood-filled Vessel"
+    },
+    {
+      "korType": "두꺼비의 올플레임 잉걸불",
+      "engType": "Allflame Ember of Toads"
     },
     {
       "korType": "본능적인 성유물 보관실 열쇠",
@@ -334,6 +378,10 @@
     {
       "korType": "공허의 시초 성유물 보관실 열쇠",
       "engType": "Voidborn Reliquary Key"
+    },
+    {
+      "korType": "야생림의 올플레임 잉걸불",
+      "engType": "Allflame Ember of the Wildwood"
     },
     {
       "korType": "녹슨 심연 갑충석",
@@ -436,8 +484,8 @@
       "engType": "Betrayal Scarab"
     },
     {
-      "korType": "지능의 배신 갑충석",
-      "engType": "Betrayal Scarab of Intelligence"
+      "korType": "올플레임의 배신 갑충석",
+      "engType": "Betrayal Scarab of the Allflame"
     },
     {
       "korType": "보강의 배신 갑충석",
@@ -886,6 +934,18 @@
     {
       "korType": "풍부함의 의식 갑충석",
       "engType": "Ritual Scarab of Abundance"
+    },
+    {
+      "korType": "칼구르 갑충석",
+      "engType": "Kalguuran Scarab"
+    },
+    {
+      "korType": "보호받는 재물의 칼구르 갑충석",
+      "engType": "Kalguuran Scarab of Guarded Riches"
+    },
+    {
+      "korType": "정제의 칼구르 갑충석",
+      "engType": "Kalguuran Scarab of Refinement"
     },
     {
       "korType": "녹슨 쉐이퍼 갑충석",
@@ -6104,10 +6164,10 @@
       "korText": "액턴의 악몽 무성한 성소 지도",
       "engName": "Acton's Nightmare",
       "korName": "액턴의 악몽",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "무성한 성소 지도",
@@ -6116,10 +6176,10 @@
       "korText": "액턴의 악몽 무성한 성소 지도 (아틀라스의 세계)",
       "engName": "Acton's Nightmare",
       "korName": "액턴의 악몽",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "무성한 성소 지도",
@@ -6128,10 +6188,10 @@
       "korText": "액턴의 악몽 무성한 성소 지도 (각성)",
       "engName": "Acton's Nightmare",
       "korName": "액턴의 악몽",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "무성한 성소 지도",
@@ -6140,10 +6200,10 @@
       "korText": "액턴의 악몽 무성한 성소 지도 (유산)",
       "engName": "Acton's Nightmare",
       "korName": "액턴의 악몽",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "공성 지도",
@@ -6152,10 +6212,10 @@
       "korText": "뒤바뀐 희미한 기억 공성 지도",
       "engName": "Altered Distant Memory",
       "korName": "뒤바뀐 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "결합된 지도",
@@ -6164,10 +6224,10 @@
       "korText": "뒤바뀐 희미한 기억 결합된 지도",
       "engName": "Altered Distant Memory",
       "korName": "뒤바뀐 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "법원 지도",
@@ -6176,10 +6236,10 @@
       "korText": "강화된 희미한 기억 법원 지도",
       "engName": "Augmented Distant Memory",
       "korName": "강화된 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "으스스한 대저택 지도",
@@ -6188,10 +6248,10 @@
       "korText": "강화된 희미한 기억 으스스한 대저택 지도",
       "engName": "Augmented Distant Memory",
       "korName": "강화된 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "결합된 지도",
@@ -6200,10 +6260,10 @@
       "korText": "강화된 희미한 기억 결합된 지도",
       "engName": "Augmented Distant Memory",
       "korName": "강화된 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "지하 강 지도",
@@ -6212,10 +6272,10 @@
       "korText": "캐어블레이드 늑대의 소굴 지하 강 지도",
       "engName": "Caer Blaidd, Wolfpack's Den",
       "korName": "캐어블레이드 늑대의 소굴",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "지하 강 지도",
@@ -6224,10 +6284,10 @@
       "korText": "캐어블레이드 늑대의 소굴 지하 강 지도 (아틀라스의 세계)",
       "engName": "Caer Blaidd, Wolfpack's Den",
       "korName": "캐어블레이드 늑대의 소굴",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "지하 강 지도",
@@ -6236,10 +6296,10 @@
       "korText": "캐어블레이드 늑대의 소굴 지하 강 지도 (각성)",
       "engName": "Caer Blaidd, Wolfpack's Den",
       "korName": "캐어블레이드 늑대의 소굴",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "유물의 방 지도",
@@ -6248,10 +6308,10 @@
       "korText": "코텍스 유물의 방 지도",
       "engName": "Cortex",
       "korName": "코텍스",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "결합된 지도",
@@ -6260,10 +6320,10 @@
       "korText": "코텍스 결합된 지도",
       "engName": "Cortex",
       "korName": "코텍스",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "매장지 지도",
@@ -6272,10 +6332,10 @@
       "korText": "죽음과 의무 매장지 지도",
       "engName": "Death and Taxes",
       "korName": "죽음과 의무",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "매장지 지도",
@@ -6284,10 +6344,10 @@
       "korText": "죽음과 의무 매장지 지도 (아틀라스의 세계)",
       "engName": "Death and Taxes",
       "korName": "죽음과 의무",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "매장지 지도",
@@ -6296,10 +6356,10 @@
       "korText": "죽음과 의무 매장지 지도 (각성)",
       "engName": "Death and Taxes",
       "korName": "죽음과 의무",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "매장지 지도",
@@ -6308,10 +6368,10 @@
       "korText": "죽음과 의무 매장지 지도 (유산)",
       "engName": "Death and Taxes",
       "korName": "죽음과 의무",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "미로 지도",
@@ -6320,10 +6380,10 @@
       "korText": "도리아니의 기계실 미로 지도",
       "engName": "Doryani's Machinarium",
       "korName": "도리아니의 기계실",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "산책로 지도",
@@ -6332,10 +6392,10 @@
       "korText": "명인의 전당 산책로 지도",
       "engName": "Hall of Grandmasters",
       "korName": "명인의 전당",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "산책로 지도",
@@ -6344,10 +6404,10 @@
       "korText": "명인의 전당 산책로 지도 (아틀라스의 세계)",
       "engName": "Hall of Grandmasters",
       "korName": "명인의 전당",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "산책로 지도",
@@ -6356,10 +6416,10 @@
       "korText": "명인의 전당 산책로 지도 (각성)",
       "engName": "Hall of Grandmasters",
       "korName": "명인의 전당",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "산책로 지도",
@@ -6368,10 +6428,10 @@
       "korText": "명인의 전당 산책로 지도 (유산)",
       "engName": "Hall of Grandmasters",
       "korName": "명인의 전당",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "공동묘지 지도",
@@ -6380,10 +6440,10 @@
       "korText": "거룩한 대지 공동묘지 지도",
       "engName": "Hallowed Ground",
       "korName": "거룩한 대지",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "묘지 지도",
@@ -6392,10 +6452,10 @@
       "korText": "거룩한 대지 묘지 지도 (아틀라스의 세계)",
       "engName": "Hallowed Ground",
       "korName": "거룩한 대지",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "선구자 지도",
@@ -6404,10 +6464,10 @@
       "korText": "주입된 교두보 선구자 지도",
       "engName": "Infused Beachhead",
       "korName": "주입된 교두보",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "산호섬 지도",
@@ -6416,10 +6476,10 @@
       "korText": "혼돈의 마엘스트롬 산호섬 지도",
       "engName": "Maelström of Chaos",
       "korName": "혼돈의 마엘스트롬",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "산호섬 지도",
@@ -6428,10 +6488,10 @@
       "korText": "혼돈의 마엘스트롬 산호섬 지도 (아틀라스의 세계)",
       "engName": "Maelström of Chaos",
       "korName": "혼돈의 마엘스트롬",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "산호섬 지도",
@@ -6440,10 +6500,10 @@
       "korText": "혼돈의 마엘스트롬 산호섬 지도 (각성)",
       "engName": "Maelström of Chaos",
       "korName": "혼돈의 마엘스트롬",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "산호섬 지도",
@@ -6452,10 +6512,10 @@
       "korText": "혼돈의 마엘스트롬 산호섬 지도 (유산)",
       "engName": "Maelström of Chaos",
       "korName": "혼돈의 마엘스트롬",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "바닷가 지도",
@@ -6464,10 +6524,10 @@
       "korText": "마오 쿤 바닷가 지도",
       "engName": "Mao Kun",
       "korName": "마오 쿤",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "암초 지도",
@@ -6476,10 +6536,10 @@
       "korText": "마오 쿤 암초 지도 (아틀라스의 세계)",
       "engName": "Mao Kun",
       "korName": "마오 쿤",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "암초 지도",
@@ -6488,10 +6548,10 @@
       "korText": "마오 쿤 암초 지도 (각성)",
       "engName": "Mao Kun",
       "korName": "마오 쿤",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "암초 지도",
@@ -6500,10 +6560,10 @@
       "korText": "마오 쿤 암초 지도 (유산)",
       "engName": "Mao Kun",
       "korName": "마오 쿤",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "태고의 구역 지도",
@@ -6512,10 +6572,10 @@
       "korText": "오바의 저주받은 전리품 태고의 구역 지도",
       "engName": "Oba's Cursed Trove",
       "korName": "오바의 저주받은 전리품",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "지하 해양 지도",
@@ -6524,10 +6584,10 @@
       "korText": "오바의 저주받은 전리품 지하 해양 지도",
       "engName": "Oba's Cursed Trove",
       "korName": "오바의 저주받은 전리품",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "태고의 구역 지도",
@@ -6536,10 +6596,10 @@
       "korText": "오바의 저주받은 전리품 태고의 구역 지도 (아틀라스의 세계)",
       "engName": "Oba's Cursed Trove",
       "korName": "오바의 저주받은 전리품",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "태고의 구역 지도",
@@ -6548,10 +6608,10 @@
       "korText": "오바의 저주받은 전리품 태고의 구역 지도 (각성)",
       "engName": "Oba's Cursed Trove",
       "korName": "오바의 저주받은 전리품",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "태고의 구역 지도",
@@ -6560,10 +6620,10 @@
       "korText": "오바의 저주받은 전리품 태고의 구역 지도 (유산)",
       "engName": "Oba's Cursed Trove",
       "korName": "오바의 저주받은 전리품",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "뼈 지하실 지도",
@@ -6572,10 +6632,10 @@
       "korText": "올멕의 지성소 뼈 지하실 지도",
       "engName": "Olmec's Sanctum",
       "korName": "올멕의 지성소",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "뼈 지하실 지도",
@@ -6584,10 +6644,10 @@
       "korText": "올멕의 지성소 뼈 지하실 지도 (아틀라스의 세계)",
       "engName": "Olmec's Sanctum",
       "korName": "올멕의 지성소",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "뼈 지하실 지도",
@@ -6596,10 +6656,10 @@
       "korText": "올멕의 지성소 뼈 지하실 지도 (각성)",
       "engName": "Olmec's Sanctum",
       "korName": "올멕의 지성소",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "미로 지도",
@@ -6608,10 +6668,10 @@
       "korText": "올멕의 지성소 미로 지도 (유산)",
       "engName": "Olmec's Sanctum",
       "korName": "올멕의 지성소",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "사구 지도",
@@ -6620,10 +6680,10 @@
       "korText": "아룬의 기둥 사구 지도",
       "engName": "Pillars of Arun",
       "korName": "아룬의 기둥",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "사원 지도",
@@ -6632,10 +6692,10 @@
       "korText": "푸어조이의 은신처 사원 지도",
       "engName": "Poorjoy's Asylum",
       "korName": "푸어조이의 은신처",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "사원 지도",
@@ -6644,10 +6704,10 @@
       "korText": "푸어조이의 은신처 사원 지도 (아틀라스의 세계)",
       "engName": "Poorjoy's Asylum",
       "korName": "푸어조이의 은신처",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "사원 지도",
@@ -6656,10 +6716,10 @@
       "korText": "푸어조이의 은신처 사원 지도 (각성)",
       "engName": "Poorjoy's Asylum",
       "korName": "푸어조이의 은신처",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "사원 지도",
@@ -6668,10 +6728,10 @@
       "korText": "푸어조이의 은신처 사원 지도 (유산)",
       "engName": "Poorjoy's Asylum",
       "korName": "푸어조이의 은신처",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "유물의 방 지도",
@@ -6680,10 +6740,10 @@
       "korText": "코텍스 모조품 유물의 방 지도",
       "engName": "Replica Cortex",
       "korName": "코텍스 모조품",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "결합된 지도",
@@ -6692,10 +6752,10 @@
       "korText": "코텍스 모조품 결합된 지도",
       "engName": "Replica Cortex",
       "korName": "코텍스 모조품",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "사구 지도",
@@ -6704,10 +6764,10 @@
       "korText": "아룬의 기둥 모조품 사구 지도",
       "engName": "Replica Pillars of Arun",
       "korName": "아룬의 기둥 모조품",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "사원 지도",
@@ -6716,10 +6776,10 @@
       "korText": "푸어조이의 은신처 모조품 사원 지도",
       "engName": "Replica Poorjoy's Asylum",
       "korName": "푸어조이의 은신처 모조품",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "교회당 지도",
@@ -6728,10 +6788,10 @@
       "korText": "다시 쓰인 희미한 기억 교회당 지도",
       "engName": "Rewritten Distant Memory",
       "korName": "다시 쓰인 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "결합된 지도",
@@ -6740,10 +6800,10 @@
       "korText": "다시 쓰인 희미한 기억 결합된 지도",
       "engName": "Rewritten Distant Memory",
       "korName": "다시 쓰인 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "선구자 지도",
@@ -6752,10 +6812,10 @@
       "korText": "교두보 선구자 지도",
       "engName": "The Beachhead",
       "korName": "교두보",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "선구자 지도",
@@ -6764,10 +6824,10 @@
       "korText": "교두보 선구자 지도 (아틀라스의 세계)",
       "engName": "The Beachhead",
       "korName": "교두보",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "저주받은 지하실 지도",
@@ -6776,10 +6836,10 @@
       "korText": "겁쟁이의 시험 저주받은 지하실 지도",
       "engName": "The Coward's Trial",
       "korName": "겁쟁이의 시험",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "저주받은 지하실 지도",
@@ -6788,10 +6848,10 @@
       "korText": "겁쟁이의 시험 저주받은 지하실 지도 (아틀라스의 세계)",
       "engName": "The Coward's Trial",
       "korName": "겁쟁이의 시험",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "저주받은 지하실 지도",
@@ -6800,10 +6860,10 @@
       "korText": "겁쟁이의 시험 저주받은 지하실 지도 (각성)",
       "engName": "The Coward's Trial",
       "korName": "겁쟁이의 시험",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "저주받은 지하실 지도",
@@ -6812,10 +6872,10 @@
       "korText": "겁쟁이의 시험 저주받은 지하실 지도 (유산)",
       "engName": "The Coward's Trial",
       "korName": "겁쟁이의 시험",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "대저택 지도",
@@ -6824,10 +6884,10 @@
       "korText": "페란두스 저택 대저택 지도",
       "engName": "The Perandus Manor",
       "korName": "페란두스 저택",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "대저택 지도",
@@ -6836,10 +6896,10 @@
       "korText": "페란두스 저택 대저택 지도 (아틀라스의 세계)",
       "engName": "The Perandus Manor",
       "korName": "페란두스 저택",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "대저택 지도",
@@ -6848,10 +6908,10 @@
       "korText": "페란두스 저택 대저택 지도 (각성)",
       "engName": "The Perandus Manor",
       "korName": "페란두스 저택",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "박물관 지도",
@@ -6860,10 +6920,10 @@
       "korText": "악취 나는 수도원 박물관 지도",
       "engName": "The Putrid Cloister",
       "korName": "악취 나는 수도원",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "박물관 지도",
@@ -6872,10 +6932,10 @@
       "korText": "악취 나는 수도원 박물관 지도 (아틀라스의 세계)",
       "engName": "The Putrid Cloister",
       "korName": "악취 나는 수도원",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "아로새긴 결전",
@@ -6884,10 +6944,10 @@
       "korText": "시련의 탑 아로새긴 결전",
       "engName": "The Tower of Ordeals",
       "korName": "시련의 탑",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "달의 사원 지도",
@@ -6896,10 +6956,10 @@
       "korText": "황혼의 사원 달의 사원 지도",
       "engName": "The Twilight Temple",
       "korName": "황혼의 사원",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "안뜰 지도",
@@ -6908,10 +6968,10 @@
       "korText": "빙타 광장 안뜰 지도",
       "engName": "The Vinktar Square",
       "korName": "빙타 광장",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "안뜰 지도",
@@ -6920,10 +6980,10 @@
       "korText": "빙타 광장 안뜰 지도 (아틀라스의 세계)",
       "engName": "The Vinktar Square",
       "korName": "빙타 광장",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "안뜰 지도",
@@ -6932,10 +6992,10 @@
       "korText": "빙타 광장 안뜰 지도 (각성)",
       "engName": "The Vinktar Square",
       "korName": "빙타 광장",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "공원 지도",
@@ -6944,10 +7004,10 @@
       "korText": "뒤틀린 희미한 기억 공원 지도",
       "engName": "Twisted Distant Memory",
       "korName": "뒤틀린 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "결합된 지도",
@@ -6956,10 +7016,10 @@
       "korText": "뒤틀린 희미한 기억 결합된 지도",
       "engName": "Twisted Distant Memory",
       "korName": "뒤틀린 희미한 기억",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "바알 피라미드 지도",
@@ -6968,10 +7028,10 @@
       "korText": "앗지리의 금고실 바알 피라미드 지도",
       "engName": "Vaults of Atziri",
       "korName": "앗지리의 금고실",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "바알 피라미드 지도",
@@ -6980,10 +7040,10 @@
       "korText": "앗지리의 금고실 바알 피라미드 지도 (아틀라스의 세계)",
       "engName": "Vaults of Atziri",
       "korName": "앗지리의 금고실",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "바알 피라미드 지도",
@@ -6992,10 +7052,10 @@
       "korText": "앗지리의 금고실 바알 피라미드 지도 (각성)",
       "engName": "Vaults of Atziri",
       "korName": "앗지리의 금고실",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "바알 피라미드 지도",
@@ -7004,10 +7064,10 @@
       "korText": "앗지리의 금고실 바알 피라미드 지도 (유산)",
       "engName": "Vaults of Atziri",
       "korName": "앗지리의 금고실",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     },
     {
       "korType": "해안 지도",
@@ -7016,10 +7076,10 @@
       "korText": "와카와 투아후 해안 지도",
       "engName": "Whakawairua Tuahu",
       "korName": "와카와 투아후",
+      "disc": "warfortheatlas",
       "flags": {
         "unique": true
-      },
-      "disc": "warfortheatlas"
+      }
     },
     {
       "korType": "해안 지도",
@@ -7028,10 +7088,10 @@
       "korText": "와카와 투아후 해안 지도 (아틀라스의 세계)",
       "engName": "Whakawairua Tuahu",
       "korName": "와카와 투아후",
+      "disc": "atlasofworlds",
       "flags": {
         "unique": true
-      },
-      "disc": "atlasofworlds"
+      }
     },
     {
       "korType": "해안 지도",
@@ -7040,10 +7100,10 @@
       "korText": "와카와 투아후 해안 지도 (각성)",
       "engName": "Whakawairua Tuahu",
       "korName": "와카와 투아후",
+      "disc": "theawakening",
       "flags": {
         "unique": true
-      },
-      "disc": "theawakening"
+      }
     },
     {
       "korType": "해안 지도",
@@ -7052,10 +7112,10 @@
       "korText": "와카와 투아후 해안 지도 (유산)",
       "engName": "Whakawairua Tuahu",
       "korName": "와카와 투아후",
+      "disc": "original",
       "flags": {
         "unique": true
-      },
-      "disc": "original"
+      }
     }
   ]
 }
