@@ -16,7 +16,7 @@
             "id": 113826,
             "name": "Ambush Scarab of Containment",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/dd7b8bd53f/Tier4ScarabStrongboxes.png",
-            "chaosValue": 199.97
+            "chaosValue": 199.96
         },
         {
             "id": 113909,
@@ -46,7 +46,7 @@
             "id": 114031,
             "name": "Ultimatum Scarab of Catalysing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlVsdGltYXR1bSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67b8b8b39c/Tier4ScarabUltimatum.png",
-            "chaosValue": 92.5
+            "chaosValue": 92.0
         },
         {
             "id": 113830,
@@ -109,6 +109,12 @@
             "chaosValue": 41.0
         },
         {
+            "id": 113766,
+            "name": "Blight Scarab of Blooming",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
+            "chaosValue": 40.0
+        },
+        {
             "id": 113860,
             "name": "Horned Scarab of Pandemonium",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd523e523b/SuperScarab7.png",
@@ -125,12 +131,6 @@
             "name": "Divination Scarab of Pilfering",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRpdmluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6539f578d/Tier4ScarabDivination.png",
             "chaosValue": 40.0
-        },
-        {
-            "id": 113766,
-            "name": "Blight Scarab of Blooming",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
-            "chaosValue": 39.7
         },
         {
             "id": 113861,
@@ -352,7 +352,7 @@
             "id": 42505,
             "name": "Farric Lure",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lDYXRBc3BlY3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f8cbe8eacc/CurrencyCatAspect.png",
-            "chaosValue": 3.3
+            "chaosValue": 3.2
         },
         {
             "id": 113685,
@@ -661,12 +661,6 @@
             "chaosValue": 1.5
         },
         {
-            "id": 113733,
-            "name": "Bestiary Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
-            "chaosValue": 1.4
-        },
-        {
             "id": 113688,
             "name": "Betrayal Scarab of Intelligence",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
@@ -718,6 +712,12 @@
             "id": 113722,
             "name": "Influencing Scarab of the Shaper",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTaGFwZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9e83e315c9/LesserScarabShaper.png",
+            "chaosValue": 1.0
+        },
+        {
+            "id": 113733,
+            "name": "Bestiary Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
             "chaosValue": 1.0
         },
         {
