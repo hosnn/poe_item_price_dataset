@@ -16,7 +16,7 @@
             "id": 22533,
             "name": "Silver Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TaWx2ZXJPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb57de2d95/SilverOil.png",
-            "chaosValue": 38.9
+            "chaosValue": 38.0
         },
         {
             "id": 118399,
@@ -55,6 +55,12 @@
             "chaosValue": 2.0
         },
         {
+            "id": 22524,
+            "name": "Verdant Oil",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WZXJkYW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/55a911a67d/VerdantOil.png",
+            "chaosValue": 1.0
+        },
+        {
             "id": 22526,
             "name": "Teal Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9UZWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b6712a15cf/TealOil.png",
@@ -82,19 +88,13 @@
             "id": 22525,
             "name": "Clear Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de298bd226/ClearOil.png",
-            "chaosValue": 0.9
+            "chaosValue": 0.89
         },
         {
             "id": 22523,
             "name": "Sepia Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TZXBpYU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/580407bed5/SepiaOil.png",
-            "chaosValue": 0.8
-        },
-        {
-            "id": 22524,
-            "name": "Verdant Oil",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WZXJkYW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/55a911a67d/VerdantOil.png",
-            "chaosValue": 0.79
+            "chaosValue": 0.77
         }
     ]
 }
