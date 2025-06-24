@@ -16,7 +16,7 @@
             "id": 22533,
             "name": "Silver Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TaWx2ZXJPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb57de2d95/SilverOil.png",
-            "chaosValue": 25.2
+            "chaosValue": 25.0
         },
         {
             "id": 118399,
@@ -73,12 +73,6 @@
             "chaosValue": 1.0
         },
         {
-            "id": 22527,
-            "name": "Amber Oil",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BbWJlck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/931f4d2fdd/AmberOil.png",
-            "chaosValue": 1.0
-        },
-        {
             "id": 22528,
             "name": "Azure Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BenVyZU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/926343421b/AzureOil.png",
@@ -94,7 +88,13 @@
             "id": 22524,
             "name": "Verdant Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WZXJkYW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/55a911a67d/VerdantOil.png",
-            "chaosValue": 0.99
+            "chaosValue": 0.98
+        },
+        {
+            "id": 22527,
+            "name": "Amber Oil",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BbWJlck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/931f4d2fdd/AmberOil.png",
+            "chaosValue": 0.77
         }
     ]
 }
