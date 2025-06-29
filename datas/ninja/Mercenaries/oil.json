@@ -10,19 +10,19 @@
             "id": 60076,
             "name": "Tainted Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WYWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54c3400bd8/VaalOil.png",
-            "chaosValue": 124.0
+            "chaosValue": 122.1
         },
         {
             "id": 118399,
             "name": "Prismatic Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9QcmlzbWF0aWNPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3efc2bb957/PrismaticOil.png",
-            "chaosValue": 119.2
+            "chaosValue": 120.0
         },
         {
             "id": 22533,
             "name": "Silver Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TaWx2ZXJPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb57de2d95/SilverOil.png",
-            "chaosValue": 40.0
+            "chaosValue": 44.1
         },
         {
             "id": 22535,
@@ -67,6 +67,12 @@
             "chaosValue": 1.0
         },
         {
+            "id": 22525,
+            "name": "Clear Oil",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de298bd226/ClearOil.png",
+            "chaosValue": 1.0
+        },
+        {
             "id": 22526,
             "name": "Teal Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9UZWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b6712a15cf/TealOil.png",
@@ -89,12 +95,6 @@
             "name": "Indigo Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JbmRpZ29PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f9356f7cb0/IndigoOil.png",
             "chaosValue": 1.0
-        },
-        {
-            "id": 22525,
-            "name": "Clear Oil",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de298bd226/ClearOil.png",
-            "chaosValue": 0.93
         }
     ]
 }
