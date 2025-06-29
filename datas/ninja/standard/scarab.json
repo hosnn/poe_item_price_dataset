@@ -10,7 +10,7 @@
             "id": 114030,
             "name": "Horned Scarab of Awakening",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/10856e6528/SuperScarab4.png",
-            "chaosValue": 407.43
+            "chaosValue": 401.55
         },
         {
             "id": 113826,
@@ -52,7 +52,7 @@
             "id": 113830,
             "name": "Incursion Scarab of Timelines",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c651660186/Tier4ScarabIncursion.png",
-            "chaosValue": 94.43
+            "chaosValue": 94.71
         },
         {
             "id": 113945,
@@ -89,12 +89,6 @@
             "name": "Blight Scarab of Blooming",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
             "chaosValue": 50.0
-        },
-        {
-            "id": 42558,
-            "name": "Craicic Lure",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lDcmFiQXNwZWN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/602d1dc44e/CurrencyCrabAspect.png",
-            "chaosValue": 48.48
         },
         {
             "id": 113827,
@@ -139,6 +133,12 @@
             "chaosValue": 25.0
         },
         {
+            "id": 42558,
+            "name": "Craicic Lure",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lDcmFiQXNwZWN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/602d1dc44e/CurrencyCrabAspect.png",
+            "chaosValue": 22.86
+        },
+        {
             "id": 113721,
             "name": "Bestiary Scarab of the Herd",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f4dc83dc5/NormalScarabBeasts.png",
@@ -181,15 +181,15 @@
             "chaosValue": 16.58
         },
         {
-            "id": 117975,
-            "name": "Blight Scarab of Invigoration",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
-            "chaosValue": 15.0
-        },
-        {
             "id": 125016,
             "name": "Kalguuran Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTZXR0bGVycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c14c3a7ef3/LesserScarabSettlers.png",
+            "chaosValue": 15.1
+        },
+        {
+            "id": 117975,
+            "name": "Blight Scarab of Invigoration",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
             "chaosValue": 15.0
         },
         {
@@ -466,7 +466,7 @@
             "id": 118276,
             "name": "Blight Scarab of the Blightheart",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmxpZ2h0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cf36f28d45/GreaterScarabBlight.png",
-            "chaosValue": 2.26
+            "chaosValue": 2.35
         },
         {
             "id": 113686,
