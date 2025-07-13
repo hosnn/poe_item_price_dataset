@@ -17,7 +17,7 @@ def main():
     'scarab': 'Scarab',
     'tattoo': 'Tattoo',
     'omen': 'Omen',
-    'rune': 'KalguuranRune',
+    'rune': 'Runegraft',
     'oil': 'Oil',
   }
 
