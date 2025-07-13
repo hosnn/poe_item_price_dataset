@@ -696,6 +696,10 @@
       "engType": "Tiger Hook"
     },
     {
+      "korType": "에너지 칼날",
+      "engType": "Energy Blade"
+    },
+    {
       "korType": "녹슨 스파이크",
       "engType": "Rusted Spike"
     },
@@ -1809,6 +1813,17 @@
       }
     },
     {
+      "korType": "백금 셉터",
+      "engType": "Platinum Sceptre",
+      "engText": "Cadigan's Authority Platinum Sceptre",
+      "korText": "캐디건의 권위 백금 셉터",
+      "engName": "Cadigan's Authority",
+      "korName": "캐디건의 권위",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "금빛 철퇴",
       "engType": "Auric Mace",
       "engText": "Callinellus Malleus Auric Mace",
@@ -2238,10 +2253,10 @@
       }
     },
     {
-      "korType": "수정 마법봉",
-      "engType": "Crystal Wand",
-      "engText": "Eclipse Solaris Crystal Wand",
-      "korText": "솔라리스의 쇠퇴 수정 마법봉",
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand",
+      "engText": "Eclipse Solaris Engraved Wand",
+      "korText": "솔라리스의 쇠퇴 아로새긴 마법봉",
       "engName": "Eclipse Solaris",
       "korName": "솔라리스의 쇠퇴",
       "flags": {
@@ -2249,10 +2264,10 @@
       }
     },
     {
-      "korType": "아로새긴 마법봉",
-      "engType": "Engraved Wand",
-      "engText": "Eclipse Solaris Engraved Wand",
-      "korText": "솔라리스의 쇠퇴 아로새긴 마법봉",
+      "korType": "수정 마법봉",
+      "engType": "Crystal Wand",
+      "engText": "Eclipse Solaris Crystal Wand",
+      "korText": "솔라리스의 쇠퇴 수정 마법봉",
       "engName": "Eclipse Solaris",
       "korName": "솔라리스의 쇠퇴",
       "flags": {
@@ -3129,10 +3144,10 @@
       }
     },
     {
-      "korType": "회오리 마법봉",
-      "engType": "Tornado Wand",
-      "engText": "Piscator's Vigil Tornado Wand",
-      "korText": "피스카토의 기도 회오리 마법봉",
+      "korType": "부여된 마법봉",
+      "engType": "Imbued Wand",
+      "engText": "Piscator's Vigil Imbued Wand",
+      "korText": "피스카토의 기도 부여된 마법봉",
       "engName": "Piscator's Vigil",
       "korName": "피스카토의 기도",
       "flags": {
@@ -3140,10 +3155,10 @@
       }
     },
     {
-      "korType": "부여된 마법봉",
-      "engType": "Imbued Wand",
-      "engText": "Piscator's Vigil Imbued Wand",
-      "korText": "피스카토의 기도 부여된 마법봉",
+      "korType": "회오리 마법봉",
+      "engType": "Tornado Wand",
+      "engText": "Piscator's Vigil Tornado Wand",
+      "korText": "피스카토의 기도 회오리 마법봉",
       "engName": "Piscator's Vigil",
       "korName": "피스카토의 기도",
       "flags": {
@@ -3338,10 +3353,10 @@
       }
     },
     {
-      "korType": "나선형 마법봉",
-      "engType": "Spiraled Wand",
-      "engText": "Relic of the Pact Spiraled Wand",
-      "korText": "맹약의 유물 나선형 마법봉",
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand",
+      "engText": "Relic of the Pact Sage Wand",
+      "korText": "맹약의 유물 현자 마법봉",
       "engName": "Relic of the Pact",
       "korName": "맹약의 유물",
       "flags": {
@@ -3349,10 +3364,10 @@
       }
     },
     {
-      "korType": "현자 마법봉",
-      "engType": "Sage Wand",
-      "engText": "Relic of the Pact Sage Wand",
-      "korText": "맹약의 유물 현자 마법봉",
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand",
+      "engText": "Relic of the Pact Spiraled Wand",
+      "korText": "맹약의 유물 나선형 마법봉",
       "engName": "Relic of the Pact",
       "korName": "맹약의 유물",
       "flags": {
@@ -4669,10 +4684,10 @@
       }
     },
     {
-      "korType": "나선형 마법봉",
-      "engType": "Spiraled Wand",
-      "engText": "Tulborn Spiraled Wand",
-      "korText": "툴의 탄생 나선형 마법봉",
+      "korType": "오팔 마법봉",
+      "engType": "Opal Wand",
+      "engText": "Tulborn Opal Wand",
+      "korText": "툴의 탄생 오팔 마법봉",
       "engName": "Tulborn",
       "korName": "툴의 탄생",
       "flags": {
@@ -4680,10 +4695,10 @@
       }
     },
     {
-      "korType": "오팔 마법봉",
-      "engType": "Opal Wand",
-      "engText": "Tulborn Opal Wand",
-      "korText": "툴의 탄생 오팔 마법봉",
+      "korType": "나선형 마법봉",
+      "engType": "Spiraled Wand",
+      "engText": "Tulborn Spiraled Wand",
+      "korText": "툴의 탄생 나선형 마법봉",
       "engName": "Tulborn",
       "korName": "툴의 탄생",
       "flags": {
@@ -4757,10 +4772,10 @@
       }
     },
     {
-      "korType": "라브리스",
-      "engType": "Labrys",
-      "engText": "Uul-Netol's Kiss Labrys",
-      "korText": "울네톨의 입맞춤 라브리스",
+      "korType": "바알 도끼",
+      "engType": "Vaal Axe",
+      "engText": "Uul-Netol's Kiss Vaal Axe",
+      "korText": "울네톨의 입맞춤 바알 도끼",
       "engName": "Uul-Netol's Kiss",
       "korName": "울네톨의 입맞춤",
       "flags": {
@@ -4768,10 +4783,10 @@
       }
     },
     {
-      "korType": "바알 도끼",
-      "engType": "Vaal Axe",
-      "engText": "Uul-Netol's Kiss Vaal Axe",
-      "korText": "울네톨의 입맞춤 바알 도끼",
+      "korType": "라브리스",
+      "engType": "Labrys",
+      "engText": "Uul-Netol's Kiss Labrys",
+      "korText": "울네톨의 입맞춤 라브리스",
       "engName": "Uul-Netol's Kiss",
       "korName": "울네톨의 입맞춤",
       "flags": {

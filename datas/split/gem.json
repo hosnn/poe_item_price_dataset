@@ -1600,10 +1600,6 @@
       "engType": "Devour Support"
     },
     {
-      "korType": "신성한 축복 보조",
-      "engType": "Divine Blessing Support"
-    },
-    {
       "korType": "대지 분쇄자 보조",
       "engType": "Earthbreaker Support"
     },
@@ -2667,6 +2663,13 @@
       "engType": "Vaal Summon Skeletons",
       "engText": "Vaal Summon Skeletons (Summon Skeletons of Mages)",
       "korText": "바알 해골 소환 (마법사의 해골 소환)",
+      "disc": "alt_y"
+    },
+    {
+      "korType": "바알 환영 무기 투척",
+      "engType": "Vaal Spectral Throw",
+      "engText": "Vaal Spectral Throw (Spectral Throw of Trarthus)",
+      "korText": "바알 환영 무기 투척 (트라투스의 환영 무기 투척)",
       "disc": "alt_y"
     },
     {
@@ -3822,6 +3825,13 @@
       "engType": "Vaal Spark",
       "engText": "Vaal Spark (Spark of the Nova)",
       "korText": "바알 전기불꽃 (폭발의 전기불꽃)",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "바알 폭풍 부름",
+      "engType": "Vaal Storm Call",
+      "engText": "Vaal Storm Call (Storm Call of Trarthus)",
+      "korText": "바알 폭풍 부름 (트라투스의 폭풍 부름)",
       "disc": "alt_x"
     },
     {
