@@ -4,7 +4,7 @@
             "id": 113782,
             "name": "Bestiary Scarab of the Shadowed Crow",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJlYXN0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d79b58e5e/Tier4ScarabBeasts.png",
-            "chaosValue": 499.4
+            "chaosValue": 499.46
         },
         {
             "id": 113919,
@@ -64,7 +64,7 @@
             "id": 113900,
             "name": "Horned Scarab of Glittering",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f282b3a1e/SuperScarab6.png",
-            "chaosValue": 90.0
+            "chaosValue": 89.1
         },
         {
             "id": 113766,
@@ -106,7 +106,7 @@
             "id": 113861,
             "name": "Breach Scarab of the Dreamer",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/20276236e9/NormalScarabBreach.png",
-            "chaosValue": 47.39
+            "chaosValue": 47.2
         },
         {
             "id": 113827,
@@ -133,16 +133,16 @@
             "chaosValue": 40.0
         },
         {
-            "id": 113879,
-            "name": "Breach Scarab of Snares",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0b375322d7/Tier4ScarabBreach.png",
-            "chaosValue": 34.07
-        },
-        {
             "id": 42494,
             "name": "Fenumal Lure",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lTcGlkZXJBc3BlY3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bf4835aab6/CurrencySpiderAspect.png",
             "chaosValue": 32.5
+        },
+        {
+            "id": 113879,
+            "name": "Breach Scarab of Snares",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0b375322d7/Tier4ScarabBreach.png",
+            "chaosValue": 32.0
         },
         {
             "id": 121389,
@@ -181,6 +181,12 @@
             "chaosValue": 19.21
         },
         {
+            "id": 117976,
+            "name": "Breach Scarab of Resonant Cascade",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/aa58715219/AltTier4ScarabBreach.png",
+            "chaosValue": 18.37
+        },
+        {
             "id": 113832,
             "name": "Harbinger Scarab of Warhoards",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
@@ -214,12 +220,6 @@
             "id": 113835,
             "name": "Legion Scarab of The Sekhema",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTGVnaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4fe4dfd58/GreaterScarabLegion.png",
-            "chaosValue": 15.0
-        },
-        {
-            "id": 117976,
-            "name": "Breach Scarab of Resonant Cascade",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/aa58715219/AltTier4ScarabBreach.png",
             "chaosValue": 15.0
         },
         {
@@ -304,7 +304,7 @@
             "id": 113745,
             "name": "Essence Scarab of Ascent",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3f918a4115/NormalScarabEssence.png",
-            "chaosValue": 6.19
+            "chaosValue": 6.17
         },
         {
             "id": 113828,
@@ -358,7 +358,13 @@
             "id": 113743,
             "name": "Abyss Scarab of Edifice",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6bcf6b93d/GreaterScarabAbyss.png",
-            "chaosValue": 4.5
+            "chaosValue": 4.68
+        },
+        {
+            "id": 118284,
+            "name": "Domination Scarab of Evolution",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRG9taW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/88bb71ff95/GreaterScarabDomination.png",
+            "chaosValue": 4.19
         },
         {
             "id": 113728,
@@ -367,22 +373,16 @@
             "chaosValue": 4.16
         },
         {
-            "id": 118284,
-            "name": "Domination Scarab of Evolution",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRG9taW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/88bb71ff95/GreaterScarabDomination.png",
-            "chaosValue": 4.15
+            "id": 113693,
+            "name": "Sulphite Scarab of Greed",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3b6d388b91/NormalScarabSulphite.png",
+            "chaosValue": 4.1
         },
         {
             "id": 113687,
             "name": "Essence Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c9f153a8cf/LesserScarabEssence.png",
             "chaosValue": 4.09
-        },
-        {
-            "id": 113693,
-            "name": "Sulphite Scarab of Greed",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3b6d388b91/NormalScarabSulphite.png",
-            "chaosValue": 4.04
         },
         {
             "id": 113695,
