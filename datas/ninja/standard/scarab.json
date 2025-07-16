@@ -148,7 +148,7 @@
             "id": 113726,
             "name": "Bestiary Scarab of Duplicating",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmVhc3RzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7225b9e62b/GreaterScarabBeasts.png",
-            "chaosValue": 22.0
+            "chaosValue": 22.08
         },
         {
             "id": 113729,
@@ -163,16 +163,16 @@
             "chaosValue": 20.0
         },
         {
-            "id": 113762,
-            "name": "Blight Scarab of Bounty",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fda66abb96/NormalScarabBlight.png",
-            "chaosValue": 19.7
-        },
-        {
             "id": 117976,
             "name": "Breach Scarab of Resonant Cascade",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/aa58715219/AltTier4ScarabBreach.png",
             "chaosValue": 19.62
+        },
+        {
+            "id": 113762,
+            "name": "Blight Scarab of Bounty",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fda66abb96/NormalScarabBlight.png",
+            "chaosValue": 19.6
         },
         {
             "id": 118275,
@@ -205,6 +205,12 @@
             "chaosValue": 15.0
         },
         {
+            "id": 113835,
+            "name": "Legion Scarab of The Sekhema",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTGVnaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4fe4dfd58/GreaterScarabLegion.png",
+            "chaosValue": 15.0
+        },
+        {
             "id": 113837,
             "name": "Expedition Scarab of the Skald",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiRXhwZWRpdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/be09af6f34/AltGreaterScarabExpedition.png",
@@ -214,7 +220,7 @@
             "id": 113760,
             "name": "Ritual Scarab of Abundance",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiUml0dWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2e76a61fb9/GreaterScarabRitual.png",
-            "chaosValue": 14.8
+            "chaosValue": 14.7
         },
         {
             "id": 42505,
@@ -227,12 +233,6 @@
             "name": "Cartography Scarab of Corruption",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
             "chaosValue": 13.9
-        },
-        {
-            "id": 113835,
-            "name": "Legion Scarab of The Sekhema",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTGVnaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4fe4dfd58/GreaterScarabLegion.png",
-            "chaosValue": 13.35
         },
         {
             "id": 42556,
@@ -310,7 +310,7 @@
             "id": 113828,
             "name": "Incursion Scarab of Champions",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSW5jdXJzaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f6b60e9be1/GreaterScarabIncursion.png",
-            "chaosValue": 5.87
+            "chaosValue": 5.86
         },
         {
             "id": 113685,
@@ -358,7 +358,7 @@
             "id": 113743,
             "name": "Abyss Scarab of Edifice",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6bcf6b93d/GreaterScarabAbyss.png",
-            "chaosValue": 4.44
+            "chaosValue": 4.47
         },
         {
             "id": 113728,
