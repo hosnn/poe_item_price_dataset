@@ -34,7 +34,7 @@
             "id": 106330,
             "name": "Tattoo of the Valako Shieldbearer",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
-            "chaosValue": 168.2
+            "chaosValue": 162.8
         },
         {
             "id": 108018,
@@ -49,15 +49,15 @@
             "chaosValue": 90.0
         },
         {
-            "id": 106417,
-            "name": "Tattoo of the Rongokurai Turtle",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 77.0
-        },
-        {
             "id": 106372,
             "name": "Tattoo of the Tukohama Warcaller",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
+            "chaosValue": 75.0
+        },
+        {
+            "id": 106417,
+            "name": "Tattoo of the Rongokurai Turtle",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
             "chaosValue": 75.0
         },
         {
@@ -187,6 +187,12 @@
             "chaosValue": 10.0
         },
         {
+            "id": 106274,
+            "name": "Tattoo of the Valako Scout",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
+            "chaosValue": 10.0
+        },
+        {
             "id": 106280,
             "name": "Tattoo of the Valako Stormrider",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
@@ -307,16 +313,10 @@
             "chaosValue": 10.0
         },
         {
-            "id": 106274,
-            "name": "Tattoo of the Valako Scout",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 9.0
-        },
-        {
             "id": 106548,
             "name": "Tattoo of the Kitava Rebel",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
-            "chaosValue": 9.0
+            "chaosValue": 9.96
         }
     ]
 }
