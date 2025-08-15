@@ -10,7 +10,7 @@
     "korType": "군중의 심연 갑충석",
     "engType": "Abyss Scarab of Multitudes",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c78d645398/NormalScarabAbyss.png",
-    "chaosValue": 0.8,
+    "chaosValue": 0.78,
     "regex": "군.*심"
   },
   {
@@ -108,7 +108,7 @@
     "korType": "재기의 이계 갑충석",
     "engType": "Beyond Scarab of Resurgence",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiQmV5b25kIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d007f87e7b/AltGreaterScarabBeyond.png",
-    "chaosValue": 0.96,
+    "chaosValue": 1.0,
     "regex": "재기"
   },
   {
@@ -129,14 +129,14 @@
     "korType": "메마른 심장의 역병 갑충석",
     "engType": "Blight Scarab of the Blightheart",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmxpZ2h0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cf36f28d45/GreaterScarabBlight.png",
-    "chaosValue": 1.32,
+    "chaosValue": 1.3,
     "regex": "^메"
   },
   {
     "korType": "개화의 역병 갑충석",
     "engType": "Blight Scarab of Blooming",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
-    "chaosValue": 24.0,
+    "chaosValue": 24.33,
     "regex": "개화"
   },
   {
@@ -304,7 +304,7 @@
     "korType": "탐험 갑충석",
     "engType": "Expedition Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFeHBlZGl0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e9bb9fa480/LesserScarabExpedition.png",
-    "chaosValue": 0.9,
+    "chaosValue": 0.89,
     "regex": "^탐험"
   },
   {
@@ -360,14 +360,14 @@
     "korType": "수확 갑충석",
     "engType": "Harvest Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0951fed47e/LesserScarabHarvest.png",
-    "chaosValue": 0.68,
+    "chaosValue": 0.7,
     "regex": "^수확"
   },
   {
     "korType": "복제의 수확 갑충석",
     "engType": "Harvest Scarab of Doubling",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFydmVzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67ebfc1b1f/GreaterScarabHarvest.png",
-    "chaosValue": 11.15,
+    "chaosValue": 11.49,
     "regex": "복.*확"
   },
   {
@@ -402,7 +402,7 @@
     "korType": "시간선의 기습 갑충석",
     "engType": "Incursion Scarab of Timelines",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c651660186/Tier4ScarabIncursion.png",
-    "chaosValue": 13.26,
+    "chaosValue": 13.38,
     "regex": "간선"
   },
   {
@@ -486,7 +486,7 @@
     "korType": "군중의 지도 제작 갑충석",
     "engType": "Cartography Scarab of the Multitude",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/95a7a8097c/AltNormalScarabMaps.png",
-    "chaosValue": 0.98,
+    "chaosValue": 0.99,
     "regex": "중.*제"
   },
   {
@@ -549,7 +549,7 @@
     "korType": "선택의 의식 갑충석",
     "engType": "Ritual Scarab of Selectiveness",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJSaXR1YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/744a25b9f9/LesserScarabRitual.png",
-    "chaosValue": 1.11,
+    "chaosValue": 1.1,
     "regex": "택의"
   },
   {
@@ -563,7 +563,7 @@
     "korType": "풍부함의 의식 갑충석",
     "engType": "Ritual Scarab of Abundance",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiUml0dWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2e76a61fb9/GreaterScarabRitual.png",
-    "chaosValue": 7.43,
+    "chaosValue": 7.0,
     "regex": "풍.*식"
   },
   {
@@ -703,7 +703,7 @@
     "korType": "혼란 유발의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Pandemonium",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd523e523b/SuperScarab7.png",
-    "chaosValue": 65.0,
+    "chaosValue": 65.44,
     "regex": "발의"
   },
   {
