@@ -10,7 +10,7 @@
             "id": 114030,
             "name": "Horned Scarab of Awakening",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/10856e6528/SuperScarab4.png",
-            "chaosValue": 923.67
+            "chaosValue": 926.38
         },
         {
             "id": 113919,
@@ -136,7 +136,7 @@
             "id": 113875,
             "name": "Legion Scarab of Eternal Conflict",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkxlZ2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/05b623a2a7/Tier4ScarabLegion.png",
-            "chaosValue": 40.4
+            "chaosValue": 44.0
         },
         {
             "id": 113879,
@@ -352,7 +352,7 @@
             "id": 113833,
             "name": "Cartography Scarab of Singularity",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/95a7a8097c/AltNormalScarabMaps.png",
-            "chaosValue": 4.75
+            "chaosValue": 4.67
         },
         {
             "id": 113693,
@@ -364,7 +364,7 @@
             "id": 113743,
             "name": "Abyss Scarab of Edifice",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6bcf6b93d/GreaterScarabAbyss.png",
-            "chaosValue": 4.11
+            "chaosValue": 4.04
         },
         {
             "id": 121388,
@@ -376,12 +376,6 @@
             "id": 113737,
             "name": "Beyond Scarab of the Invasion",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJleW9uZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f3d0278af1/Tier4ScarabBeyond.png",
-            "chaosValue": 4.0
-        },
-        {
-            "id": 113834,
-            "name": "Betrayal Scarab of Perpetuation",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJldHJheWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/85b473f9fb/Tier4ScarabBetrayal.png",
             "chaosValue": 4.0
         },
         {
@@ -409,6 +403,12 @@
             "chaosValue": 4.0
         },
         {
+            "id": 113834,
+            "name": "Betrayal Scarab of Perpetuation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJldHJheWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/85b473f9fb/Tier4ScarabBetrayal.png",
+            "chaosValue": 3.99
+        },
+        {
             "id": 113771,
             "name": "Ultimatum Scarab of Inscription",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlVsdGltYXR1bSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6c6731cf8d/AltTier4ScarabUltimatum.png",
@@ -431,6 +431,12 @@
             "name": "Ambush Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
             "chaosValue": 3.39
+        },
+        {
+            "id": 113767,
+            "name": "Torment Scarab of Release",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVG9ybWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0dcb6987a3/GreaterScarabTorment.png",
+            "chaosValue": 3.13
         },
         {
             "id": 113691,
@@ -475,16 +481,10 @@
             "chaosValue": 3.0
         },
         {
-            "id": 113767,
-            "name": "Torment Scarab of Release",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVG9ybWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0dcb6987a3/GreaterScarabTorment.png",
-            "chaosValue": 2.8
-        },
-        {
             "id": 113838,
             "name": "Beyond Scarab of Corruption",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmV5b25kIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/609ccf1c51/GreaterScarabBeyond.png",
-            "chaosValue": 2.6
+            "chaosValue": 2.55
         },
         {
             "id": 118277,
@@ -688,7 +688,7 @@
             "id": 113720,
             "name": "Torment Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJUb3JtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b4e843a49b/LesserScarabTorment.png",
-            "chaosValue": 1.82
+            "chaosValue": 1.77
         },
         {
             "id": 124868,
