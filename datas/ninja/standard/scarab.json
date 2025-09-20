@@ -43,16 +43,16 @@
             "chaosValue": 200.0
         },
         {
-            "id": 42556,
-            "name": "Saqawine Lure",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lTbmFrZUFzcGVjdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a8228222e2/CurrencySnakeAspect.png",
-            "chaosValue": 165.07
-        },
-        {
             "id": 113909,
             "name": "Harvest Scarab of Cornucopia",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcnZlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a32654b789/Tier4ScarabHarvest.png",
             "chaosValue": 165.07
+        },
+        {
+            "id": 42556,
+            "name": "Saqawine Lure",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lTbmFrZUFzcGVjdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a8228222e2/CurrencySnakeAspect.png",
+            "chaosValue": 152.56
         },
         {
             "id": 114031,
@@ -88,7 +88,7 @@
             "id": 42494,
             "name": "Fenumal Lure",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lTcGlkZXJBc3BlY3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bf4835aab6/CurrencySpiderAspect.png",
-            "chaosValue": 77.5
+            "chaosValue": 70.0
         },
         {
             "id": 113828,
@@ -106,7 +106,7 @@
             "id": 42558,
             "name": "Craicic Lure",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lDcmFiQXNwZWN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/602d1dc44e/CurrencyCrabAspect.png",
-            "chaosValue": 52.0
+            "chaosValue": 50.0
         },
         {
             "id": 117971,
@@ -178,13 +178,13 @@
             "id": 113761,
             "name": "Domination Scarab of Terrors",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRvbWluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e56a6e5dc/Tier4ScarabDomination.png",
-            "chaosValue": 28.4
+            "chaosValue": 28.6
         },
         {
             "id": 118275,
             "name": "Cartography Scarab of Risk",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0baaf413d0/NormalScarabMaps.png",
-            "chaosValue": 27.87
+            "chaosValue": 27.93
         },
         {
             "id": 113721,
@@ -298,7 +298,7 @@
             "id": 125016,
             "name": "Kalguuran Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTZXR0bGVycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c14c3a7ef3/LesserScarabSettlers.png",
-            "chaosValue": 6.74
+            "chaosValue": 6.77
         },
         {
             "id": 113745,
@@ -418,7 +418,7 @@
             "id": 113695,
             "name": "Ritual Scarab of Selectiveness",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJSaXR1YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/744a25b9f9/LesserScarabRitual.png",
-            "chaosValue": 3.61
+            "chaosValue": 3.62
         },
         {
             "id": 113728,
@@ -484,7 +484,7 @@
             "id": 118277,
             "name": "Cartography Scarab of Escalation",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c982c28d52/LesserScarabMaps.png",
-            "chaosValue": 2.56
+            "chaosValue": 2.57
         },
         {
             "id": 113838,
