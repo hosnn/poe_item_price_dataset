@@ -10,14 +10,14 @@
     "korType": "군중의 심연 갑충석",
     "engType": "Abyss Scarab of Multitudes",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c78d645398/NormalScarabAbyss.png",
-    "chaosValue": 0.88,
+    "chaosValue": 0.89,
     "regex": "군.*심"
   },
   {
     "korType": "건축물의 심연 갑충석",
     "engType": "Abyss Scarab of Edifice",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6bcf6b93d/GreaterScarabAbyss.png",
-    "chaosValue": 3.96,
+    "chaosValue": 3.85,
     "regex": "건.물"
   },
   {
@@ -276,7 +276,7 @@
     "korType": "상승의 에센스 갑충석",
     "engType": "Essence Scarab of Ascent",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3f918a4115/NormalScarabEssence.png",
-    "chaosValue": 1.05,
+    "chaosValue": 1.06,
     "regex": "상승"
   },
   {
@@ -353,7 +353,7 @@
     "korType": "전쟁비축물의 선구자 갑충석",
     "engType": "Harbinger Scarab of Warhoards",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
-    "chaosValue": 4.03,
+    "chaosValue": 4.02,
     "regex": "쟁비"
   },
   {
@@ -416,7 +416,7 @@
     "korType": "엘더의 영향력 갑충석",
     "engType": "Influencing Scarab of the Elder",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFbGRlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/11cabe4d12/LesserScarabElder.png",
-    "chaosValue": 0.52,
+    "chaosValue": 0.54,
     "regex": "^엘"
   },
   {
@@ -710,7 +710,7 @@
     "korType": "결전 갑충석",
     "engType": "Ultimatum Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e0bf2875db/LesserScarabUltimatum.png",
-    "chaosValue": 0.56,
+    "chaosValue": 0.55,
     "regex": "^결..갑"
   },
   {
