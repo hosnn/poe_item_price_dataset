@@ -59,7 +59,7 @@
     "korType": "떼의 야수 도감 갑충석",
     "engType": "Bestiary Scarab of the Herd",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f4dc83dc5/NormalScarabBeasts.png",
-    "chaosValue": 2.06,
+    "chaosValue": 2.05,
     "regex": "떼"
   },
   {
@@ -73,7 +73,7 @@
     "korType": "배신 갑충석",
     "engType": "Betrayal Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/26d3ff70f1/LesserScarabBetrayal.png",
-    "chaosValue": 0.68,
+    "chaosValue": 0.71,
     "regex": "^배신"
   },
   {
@@ -101,7 +101,7 @@
     "korType": "혈우병의 이계 갑충석",
     "engType": "Beyond Scarab of Haemophilia",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXlvbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/66114ee2e9/NormalScarabBeyond.png",
-    "chaosValue": 0.77,
+    "chaosValue": 0.76,
     "regex": "혈우"
   },
   {
@@ -255,7 +255,7 @@
     "korType": "진화의 지배 갑충석",
     "engType": "Domination Scarab of Evolution",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRG9taW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/88bb71ff95/GreaterScarabDomination.png",
-    "chaosValue": 4.09,
+    "chaosValue": 4.03,
     "regex": "^진화"
   },
   {
@@ -269,7 +269,7 @@
     "korType": "에센스 갑충석",
     "engType": "Essence Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c9f153a8cf/LesserScarabEssence.png",
-    "chaosValue": 0.83,
+    "chaosValue": 0.82,
     "regex": "^에.*갑"
   },
   {
@@ -367,7 +367,7 @@
     "korType": "복제의 수확 갑충석",
     "engType": "Harvest Scarab of Doubling",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFydmVzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67ebfc1b1f/GreaterScarabHarvest.png",
-    "chaosValue": 29.4,
+    "chaosValue": 29.2,
     "regex": "복.*확"
   },
   {
@@ -500,7 +500,7 @@
     "korType": "찬란한 폭풍의 갑충석",
     "engType": "Scarab of Radiant Storms",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1pc2MyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a1a6f9261c/Tier4ScarabMisc2.png",
-    "chaosValue": 1.95,
+    "chaosValue": 1.96,
     "regex": "찬"
   },
   {
@@ -549,7 +549,7 @@
     "korType": "선택의 의식 갑충석",
     "engType": "Ritual Scarab of Selectiveness",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJSaXR1YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/744a25b9f9/LesserScarabRitual.png",
-    "chaosValue": 1.14,
+    "chaosValue": 1.28,
     "regex": "택의"
   },
   {
@@ -563,7 +563,7 @@
     "korType": "풍부함의 의식 갑충석",
     "engType": "Ritual Scarab of Abundance",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiUml0dWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2e76a61fb9/GreaterScarabRitual.png",
-    "chaosValue": 4.92,
+    "chaosValue": 4.91,
     "regex": "풍.*식"
   },
   {
@@ -591,7 +591,7 @@
     "korType": "매복 갑충석",
     "engType": "Ambush Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
-    "chaosValue": 0.88,
+    "chaosValue": 0.86,
     "regex": "^매복"
   },
   {
