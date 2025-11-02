@@ -880,6 +880,18 @@
       "engType": "Accumulator Wand"
     },
     {
+      "korType": "신체의 마법봉",
+      "engType": "Somatic Wand"
+    },
+    {
+      "korType": "폭발하는 마법봉",
+      "engType": "Blasting Wand"
+    },
+    {
+      "korType": "역학 마법봉",
+      "engType": "Kinetic Wand"
+    },
+    {
       "korType": "이교도 마법봉",
       "engType": "Pagan Wand"
     },
@@ -1463,13 +1475,14 @@
     {
       "korType": "제국 지팡이",
       "engType": "Imperial Staff",
-      "engText": "Agnerod Imperial Staff",
-      "korText": "아그네로드 제국 지팡이",
+      "engText": "Agnerod Imperial Staff (Legacy)",
+      "korText": "아그네로드 제국 지팡이 (Legacy)",
       "engName": "Agnerod",
       "korName": "아그네로드",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "제국 지팡이",
@@ -1560,17 +1573,6 @@
       }
     },
     {
-      "korType": "오팔 마법봉",
-      "engType": "Opal Wand",
-      "engText": "Apep's Rage Opal Wand",
-      "korText": "아펩의 격노 오팔 마법봉",
-      "engName": "Apep's Rage",
-      "korName": "아펩의 격노",
-      "flags": {
-        "unique": true
-      }
-    },
-    {
       "korType": "전조의 마법봉",
       "engType": "Omen Wand",
       "engText": "Apep's Rage Omen Wand",
@@ -1580,6 +1582,18 @@
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "오팔 마법봉",
+      "engType": "Opal Wand",
+      "engText": "Apep's Rage Opal Wand (Legacy)",
+      "korText": "아펩의 격노 오팔 마법봉 (Legacy)",
+      "engName": "Apep's Rage",
+      "korName": "아펩의 격노",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "마귀 단검",
@@ -1604,10 +1618,10 @@
       }
     },
     {
-      "korType": "석영 마법봉",
-      "engType": "Quartz Wand",
-      "engText": "Ashcaller Quartz Wand",
-      "korText": "재 소환사 석영 마법봉",
+      "korType": "염소의 뿔",
+      "engType": "Goat's Horn",
+      "engText": "Ashcaller Goat's Horn",
+      "korText": "재 소환사 염소의 뿔",
       "engName": "Ashcaller",
       "korName": "재 소환사",
       "flags": {
@@ -1617,13 +1631,26 @@
     {
       "korType": "조각된 마법봉",
       "engType": "Carved Wand",
-      "engText": "Ashcaller Carved Wand",
-      "korText": "재 소환사 조각된 마법봉",
+      "engText": "Ashcaller Carved Wand (Legacy)",
+      "korText": "재 소환사 조각된 마법봉 (Legacy)",
       "engName": "Ashcaller",
       "korName": "재 소환사",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
+    },
+    {
+      "korType": "석영 마법봉",
+      "engType": "Quartz Wand",
+      "engText": "Ashcaller Quartz Wand (Legacy)",
+      "korText": "재 소환사 석영 마법봉 (Legacy)",
+      "engName": "Ashcaller",
+      "korName": "재 소환사",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "표류목 곤봉",
@@ -2222,13 +2249,14 @@
     {
       "korType": "코일형 지팡이",
       "engType": "Coiled Staff",
-      "engText": "Dying Breath Coiled Staff",
-      "korText": "죽어가는 숨결 코일형 지팡이",
+      "engText": "Dying Breath Coiled Staff (Legacy)",
+      "korText": "죽어가는 숨결 코일형 지팡이 (Legacy)",
       "engName": "Dying Breath",
       "korName": "죽어가는 숨결",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "웃는 조각상 홀",
@@ -2253,10 +2281,10 @@
       }
     },
     {
-      "korType": "아로새긴 마법봉",
-      "engType": "Engraved Wand",
-      "engText": "Eclipse Solaris Engraved Wand",
-      "korText": "솔라리스의 쇠퇴 아로새긴 마법봉",
+      "korType": "판의 뿔",
+      "engType": "Faun's Horn",
+      "engText": "Eclipse Solaris Faun's Horn",
+      "korText": "솔라리스의 쇠퇴 판의 뿔",
       "engName": "Eclipse Solaris",
       "korName": "솔라리스의 쇠퇴",
       "flags": {
@@ -2264,15 +2292,28 @@
       }
     },
     {
-      "korType": "수정 마법봉",
-      "engType": "Crystal Wand",
-      "engText": "Eclipse Solaris Crystal Wand",
-      "korText": "솔라리스의 쇠퇴 수정 마법봉",
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand",
+      "engText": "Eclipse Solaris Engraved Wand (Legacy)",
+      "korText": "솔라리스의 쇠퇴 아로새긴 마법봉 (Legacy)",
       "engName": "Eclipse Solaris",
       "korName": "솔라리스의 쇠퇴",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
+    },
+    {
+      "korType": "수정 마법봉",
+      "engType": "Crystal Wand",
+      "engText": "Eclipse Solaris Crystal Wand (Legacy)",
+      "korText": "솔라리스의 쇠퇴 수정 마법봉 (Legacy)",
+      "engName": "Eclipse Solaris",
+      "korName": "솔라리스의 쇠퇴",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "조각된 대검",
@@ -2310,13 +2351,14 @@
     {
       "korType": "눈 후비개",
       "engType": "Eye Gouger",
-      "engText": "Essentia Sanguis Eye Gouger",
-      "korText": "피의 정수 눈 후비개",
+      "engText": "Essentia Sanguis Eye Gouger (Legacy)",
+      "korText": "피의 정수 눈 후비개 (Legacy)",
       "engName": "Essentia Sanguis",
       "korName": "피의 정수",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "앤티크 레이피어",
@@ -2358,6 +2400,17 @@
       "korText": "늪 감긴 가지 울퉁불퉁한 나뭇가지",
       "engName": "Fencoil",
       "korName": "늪 감긴 가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "악마 단검",
+      "engType": "Demon Dagger",
+      "engText": "Festering Resentment Demon Dagger",
+      "korText": "짓무르는 원한 악마 단검",
+      "engName": "Festering Resentment",
+      "korName": "짓무르는 원한",
       "flags": {
         "unique": true
       }
@@ -2484,17 +2537,6 @@
       }
     },
     {
-      "korType": "실명기",
-      "engType": "Blinder",
-      "engText": "Hand of Thought and Motion Blinder",
-      "korText": "사고와 움직임의 손아귀 실명기",
-      "engName": "Hand of Thought and Motion",
-      "korName": "사고와 움직임의 손아귀",
-      "flags": {
-        "unique": true
-      }
-    },
-    {
       "korType": "제국 클로",
       "engType": "Imperial Claw",
       "engText": "Hand of Thought and Motion Imperial Claw",
@@ -2504,6 +2546,18 @@
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "실명기",
+      "engType": "Blinder",
+      "engText": "Hand of Thought and Motion Blinder (Legacy)",
+      "korText": "사고와 움직임의 손아귀 실명기 (Legacy)",
+      "engName": "Hand of Thought and Motion",
+      "korName": "사고와 움직임의 손아귀",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "제국 클로",
@@ -2666,6 +2720,17 @@
       "korText": "도끼마 잭 바알 손도끼",
       "engName": "Jack, the Axe",
       "korName": "도끼마 잭",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "제국 지팡이",
+      "engType": "Imperial Staff",
+      "engText": "Jiquani's Potential Imperial Staff",
+      "korText": "지콰니의 잠재력 제국 지팡이",
+      "engName": "Jiquani's Potential",
+      "korName": "지콰니의 잠재력",
       "flags": {
         "unique": true
       }
@@ -2869,15 +2934,27 @@
       }
     },
     {
-      "korType": "아로새긴 마법봉",
-      "engType": "Engraved Wand",
-      "engText": "Midnight Bargain Engraved Wand",
-      "korText": "심야의 교섭 아로새긴 마법봉",
+      "korType": "부름의 마법봉",
+      "engType": "Calling Wand",
+      "engText": "Midnight Bargain Calling Wand",
+      "korText": "심야의 교섭 부름의 마법봉",
       "engName": "Midnight Bargain",
       "korName": "심야의 교섭",
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand",
+      "engText": "Midnight Bargain Engraved Wand (Legacy)",
+      "korText": "심야의 교섭 아로새긴 마법봉 (Legacy)",
+      "engName": "Midnight Bargain",
+      "korName": "심야의 교섭",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "박피 단도",
@@ -2935,15 +3012,27 @@
       }
     },
     {
-      "korType": "부여된 마법봉",
-      "engType": "Imbued Wand",
-      "engText": "Moonsorrow Imbued Wand",
-      "korText": "달의 슬픔 부여된 마법봉",
+      "korType": "역학 마법봉",
+      "engType": "Kinetic Wand",
+      "engText": "Moonsorrow Kinetic Wand",
+      "korText": "달의 슬픔 역학 마법봉",
       "engName": "Moonsorrow",
       "korName": "달의 슬픔",
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "부여된 마법봉",
+      "engType": "Imbued Wand",
+      "engText": "Moonsorrow Imbued Wand (Legacy)",
+      "korText": "달의 슬픔 부여된 마법봉 (Legacy)",
+      "engName": "Moonsorrow",
+      "korName": "달의 슬픔",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "섬뜩한 클로",
@@ -3045,10 +3134,10 @@
       }
     },
     {
-      "korType": "악마의 뿔",
-      "engType": "Demon's Horn",
-      "engText": "Obliteration Demon's Horn",
-      "korText": "말살 악마의 뿔",
+      "korType": "전조의 마법봉",
+      "engType": "Omen Wand",
+      "engText": "Obliteration Omen Wand",
+      "korText": "말살 전조의 마법봉",
       "engName": "Obliteration",
       "korName": "말살",
       "flags": {
@@ -3056,15 +3145,28 @@
       }
     },
     {
-      "korType": "부여된 마법봉",
-      "engType": "Imbued Wand",
-      "engText": "Obliteration Imbued Wand",
-      "korText": "말살 부여된 마법봉",
+      "korType": "악마의 뿔",
+      "engType": "Demon's Horn",
+      "engText": "Obliteration Demon's Horn (Legacy)",
+      "korText": "말살 악마의 뿔 (Legacy)",
       "engName": "Obliteration",
       "korName": "말살",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
+    },
+    {
+      "korType": "부여된 마법봉",
+      "engType": "Imbued Wand",
+      "engText": "Obliteration Imbued Wand (Legacy)",
+      "korText": "말살 부여된 마법봉 (Legacy)",
+      "engName": "Obliteration",
+      "korName": "말살",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "차란의 검",
@@ -3135,10 +3237,22 @@
     {
       "korType": "긴 지팡이",
       "engType": "Long Staff",
-      "engText": "Pillar of the Caged God Long Staff",
-      "korText": "갇힌 신의 기둥 긴 지팡이",
+      "engText": "Pillar of the Caged God Long Staff (Legacy)",
+      "korText": "갇힌 신의 기둥 긴 지팡이 (Legacy)",
       "engName": "Pillar of the Caged God",
       "korName": "갇힌 신의 기둥",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
+    },
+    {
+      "korType": "역학 마법봉",
+      "engType": "Kinetic Wand",
+      "engText": "Piscator's Vigil Kinetic Wand",
+      "korText": "피스카토의 기도 역학 마법봉",
+      "engName": "Piscator's Vigil",
+      "korName": "피스카토의 기도",
       "flags": {
         "unique": true
       }
@@ -3146,24 +3260,26 @@
     {
       "korType": "부여된 마법봉",
       "engType": "Imbued Wand",
-      "engText": "Piscator's Vigil Imbued Wand",
-      "korText": "피스카토의 기도 부여된 마법봉",
+      "engText": "Piscator's Vigil Imbued Wand (Legacy)",
+      "korText": "피스카토의 기도 부여된 마법봉 (Legacy)",
       "engName": "Piscator's Vigil",
       "korName": "피스카토의 기도",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "회오리 마법봉",
       "engType": "Tornado Wand",
-      "engText": "Piscator's Vigil Tornado Wand",
-      "korText": "피스카토의 기도 회오리 마법봉",
+      "engText": "Piscator's Vigil Tornado Wand (Legacy)",
+      "korText": "피스카토의 기도 회오리 마법봉 (Legacy)",
       "engName": "Piscator's Vigil",
       "korName": "피스카토의 기도",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "심판 지팡이",
@@ -3366,13 +3482,14 @@
     {
       "korType": "나선형 마법봉",
       "engType": "Spiraled Wand",
-      "engText": "Relic of the Pact Spiraled Wand",
-      "korText": "맹약의 유물 나선형 마법봉",
+      "engText": "Relic of the Pact Spiraled Wand (Legacy)",
+      "korText": "맹약의 유물 나선형 마법봉 (Legacy)",
       "engName": "Relic of the Pact",
       "korName": "맹약의 유물",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "내장 거열기",
@@ -3573,15 +3690,27 @@
       }
     },
     {
-      "korType": "아로새긴 마법봉",
-      "engType": "Engraved Wand",
-      "engText": "Replica Midnight Bargain Engraved Wand",
-      "korText": "심야의 교섭 모조품 아로새긴 마법봉",
+      "korType": "부름의 마법봉",
+      "engType": "Calling Wand",
+      "engText": "Replica Midnight Bargain Calling Wand",
+      "korText": "심야의 교섭 모조품 부름의 마법봉",
       "engName": "Replica Midnight Bargain",
       "korName": "심야의 교섭 모조품",
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "아로새긴 마법봉",
+      "engType": "Engraved Wand",
+      "engText": "Replica Midnight Bargain Engraved Wand (Legacy)",
+      "korText": "심야의 교섭 모조품 아로새긴 마법봉 (Legacy)",
+      "engName": "Replica Midnight Bargain",
+      "korName": "심야의 교섭 모조품",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "공허의 셉터",
@@ -3674,10 +3803,22 @@
     {
       "korType": "회오리 마법봉",
       "engType": "Tornado Wand",
-      "engText": "Replica Tulfall Tornado Wand",
-      "korText": "툴의 몰락 모조품 회오리 마법봉",
+      "engText": "Replica Tulfall Tornado Wand (Legacy)",
+      "korText": "툴의 몰락 모조품 회오리 마법봉 (Legacy)",
       "engName": "Replica Tulfall",
       "korName": "툴의 몰락 모조품",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
+    },
+    {
+      "korType": "폭발하는 마법봉",
+      "engType": "Blasting Wand",
+      "engText": "Replica Twyzel Blasting Wand",
+      "korText": "트위즐 모조품 폭발하는 마법봉",
+      "engName": "Replica Twyzel",
+      "korName": "트위즐 모조품",
       "flags": {
         "unique": true
       }
@@ -3685,13 +3826,14 @@
     {
       "korType": "현자 마법봉",
       "engType": "Sage Wand",
-      "engText": "Replica Twyzel Sage Wand",
-      "korText": "트위즐 모조품 현자 마법봉",
+      "engText": "Replica Twyzel Sage Wand (Legacy)",
+      "korText": "트위즐 모조품 현자 마법봉 (Legacy)",
       "engName": "Replica Twyzel",
       "korName": "트위즐 모조품",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "주머니 단도",
@@ -4057,17 +4199,6 @@
       }
     },
     {
-      "korType": "조각된 마법봉",
-      "engType": "Carved Wand",
-      "engText": "Storm Prison Carved Wand",
-      "korText": "태풍 감옥 조각된 마법봉",
-      "engName": "Storm Prison",
-      "korName": "태풍 감옥",
-      "flags": {
-        "unique": true
-      }
-    },
-    {
       "korType": "나선형 마법봉",
       "engType": "Spiraled Wand",
       "engText": "Storm Prison Spiraled Wand",
@@ -4077,6 +4208,18 @@
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "조각된 마법봉",
+      "engType": "Carved Wand",
+      "engText": "Storm Prison Carved Wand (Legacy)",
+      "korText": "태풍 감옥 조각된 마법봉 (Legacy)",
+      "engName": "Storm Prison",
+      "korName": "태풍 감옥",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "원석 검",
@@ -4092,13 +4235,14 @@
     {
       "korType": "바리사이트 검",
       "engType": "Variscite Blade",
-      "engText": "Story of the Vaal Variscite Blade",
-      "korText": "바알의 사연 바리사이트 검",
+      "engText": "Story of the Vaal Variscite Blade (Legacy)",
+      "korText": "바알의 사연 바리사이트 검 (Legacy)",
       "engName": "Story of the Vaal",
       "korName": "바알의 사연",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "매복자",
@@ -4343,12 +4487,34 @@
       }
     },
     {
+      "korType": "사자 검",
+      "engType": "Lion Sword",
+      "engText": "The Golden Charlatan Lion Sword",
+      "korText": "금빛 사기꾼 사자 검",
+      "engName": "The Golden Charlatan",
+      "korName": "금빛 사기꾼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "심판 지팡이",
       "engType": "Judgement Staff",
       "engText": "The Grey Spire Judgement Staff",
       "korText": "회색 가지 심판 지팡이",
       "engName": "The Grey Spire",
       "korName": "회색 가지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "영체 도끼",
+      "engType": "Spectral Axe",
+      "engText": "The Grey Wind Spectral Axe",
+      "korText": "회색 바람 영체 도끼",
+      "engName": "The Grey Wind",
+      "korName": "회색 바람",
       "flags": {
         "unique": true
       }
@@ -4409,15 +4575,38 @@
       }
     },
     {
-      "korType": "조각된 마법봉",
-      "engType": "Carved Wand",
-      "engText": "The Poet's Pen Carved Wand",
-      "korText": "시인의 펜 조각된 마법봉",
+      "korType": "몽환의 철퇴",
+      "engType": "Dream Mace",
+      "engText": "The Monastery Bell Dream Mace",
+      "korText": "수도원 종 몽환의 철퇴",
+      "engName": "The Monastery Bell",
+      "korName": "수도원 종",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "신체의 마법봉",
+      "engType": "Somatic Wand",
+      "engText": "The Poet's Pen Somatic Wand",
+      "korText": "시인의 펜 신체의 마법봉",
       "engName": "The Poet's Pen",
       "korName": "시인의 펜",
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "조각된 마법봉",
+      "engType": "Carved Wand",
+      "engText": "The Poet's Pen Carved Wand (Legacy)",
+      "korText": "시인의 펜 조각된 마법봉 (Legacy)",
+      "engName": "The Poet's Pen",
+      "korName": "시인의 펜",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "사브르",
@@ -4499,13 +4688,14 @@
     {
       "korType": "긴 지팡이",
       "engType": "Long Staff",
-      "engText": "The Searing Touch Long Staff",
-      "korText": "이글거리는 손길 긴 지팡이",
+      "engText": "The Searing Touch Long Staff (Legacy)",
+      "korText": "이글거리는 손길 긴 지팡이 (Legacy)",
       "engName": "The Searing Touch",
       "korName": "이글거리는 손길",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "왕실 지팡이",
@@ -4642,13 +4832,14 @@
     {
       "korType": "고래뼈 레이피어",
       "engType": "Whalebone Rapier",
-      "engText": "Tipua Kaikohuru Whalebone Rapier",
-      "korText": "티푸아 카이코후루 고래뼈 레이피어",
+      "engText": "Tipua Kaikohuru Whalebone Rapier (Legacy)",
+      "korText": "티푸아 카이코후루 고래뼈 레이피어 (Legacy)",
       "engName": "Tipua Kaikohuru",
       "korName": "티푸아 카이코후루",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "제국 클로",
@@ -4697,24 +4888,14 @@
     {
       "korType": "나선형 마법봉",
       "engType": "Spiraled Wand",
-      "engText": "Tulborn Spiraled Wand",
-      "korText": "툴의 탄생 나선형 마법봉",
+      "engText": "Tulborn Spiraled Wand (Legacy)",
+      "korText": "툴의 탄생 나선형 마법봉 (Legacy)",
       "engName": "Tulborn",
       "korName": "툴의 탄생",
       "flags": {
         "unique": true
-      }
-    },
-    {
-      "korType": "회오리 마법봉",
-      "engType": "Tornado Wand",
-      "engText": "Tulfall Tornado Wand",
-      "korText": "툴의 몰락 회오리 마법봉",
-      "engName": "Tulfall",
-      "korName": "툴의 몰락",
-      "flags": {
-        "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "오팔 마법봉",
@@ -4728,15 +4909,39 @@
       }
     },
     {
-      "korType": "현자 마법봉",
-      "engType": "Sage Wand",
-      "engText": "Twyzel Sage Wand",
-      "korText": "트위즐 현자 마법봉",
+      "korType": "회오리 마법봉",
+      "engType": "Tornado Wand",
+      "engText": "Tulfall Tornado Wand (Legacy)",
+      "korText": "툴의 몰락 회오리 마법봉 (Legacy)",
+      "engName": "Tulfall",
+      "korName": "툴의 몰락",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
+    },
+    {
+      "korType": "폭발하는 마법봉",
+      "engType": "Blasting Wand",
+      "engText": "Twyzel Blasting Wand",
+      "korText": "트위즐 폭발하는 마법봉",
       "engName": "Twyzel",
       "korName": "트위즐",
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand",
+      "engText": "Twyzel Sage Wand (Legacy)",
+      "korText": "트위즐 현자 마법봉 (Legacy)",
+      "engName": "Twyzel",
+      "korName": "트위즐",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "주머니 단도",
@@ -4756,6 +4961,17 @@
       "korText": "꿈속의 연합 커틀라스",
       "engName": "United in Dream",
       "korName": "꿈속의 연합",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "현자 마법봉",
+      "engType": "Sage Wand",
+      "engText": "Unlight Extant Sage Wand",
+      "korText": "무광의 잔존 현자 마법봉",
+      "engName": "Unlight Extant",
+      "korName": "무광의 잔존",
       "flags": {
         "unique": true
       }
@@ -4785,13 +5001,14 @@
     {
       "korType": "라브리스",
       "engType": "Labrys",
-      "engText": "Uul-Netol's Kiss Labrys",
-      "korText": "울네톨의 입맞춤 라브리스",
+      "engText": "Uul-Netol's Kiss Labrys (Legacy)",
+      "korText": "울네톨의 입맞춤 라브리스 (Legacy)",
       "engName": "Uul-Netol's Kiss",
       "korName": "울네톨의 입맞춤",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "바알 칼날",
@@ -4937,6 +5154,17 @@
       }
     },
     {
+      "korType": "제국 활",
+      "engType": "Imperial Bow",
+      "engText": "Wing of the Wyvern Imperial Bow",
+      "korText": "비룡의 날개 제국 활",
+      "engName": "Wing of the Wyvern",
+      "korName": "비룡의 날개",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "에조미어 도끼",
       "engType": "Ezomyte Axe",
       "engText": "Wings of Entropy Ezomyte Axe",
@@ -4950,13 +5178,14 @@
     {
       "korType": "작렬하는 도끼",
       "engType": "Sundering Axe",
-      "engText": "Wings of Entropy Sundering Axe",
-      "korText": "엔트로피의 날개 작렬하는 도끼",
+      "engText": "Wings of Entropy Sundering Axe (Legacy)",
+      "korText": "엔트로피의 날개 작렬하는 도끼 (Legacy)",
       "engName": "Wings of Entropy",
       "korName": "엔트로피의 날개",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "상류층의 지팡이",
@@ -4981,17 +5210,6 @@
       }
     },
     {
-      "korType": "뼈 활",
-      "engType": "Bone Bow",
-      "engText": "Xoph's Inception Bone Bow",
-      "korText": "조프의 시초 뼈 활",
-      "engName": "Xoph's Inception",
-      "korName": "조프의 시초",
-      "flags": {
-        "unique": true
-      }
-    },
-    {
       "korType": "성채 활",
       "engType": "Citadel Bow",
       "engText": "Xoph's Inception Citadel Bow",
@@ -5001,6 +5219,18 @@
       "flags": {
         "unique": true
       }
+    },
+    {
+      "korType": "뼈 활",
+      "engType": "Bone Bow",
+      "engText": "Xoph's Inception Bone Bow (Legacy)",
+      "korText": "조프의 시초 뼈 활 (Legacy)",
+      "engName": "Xoph's Inception",
+      "korName": "조프의 시초",
+      "flags": {
+        "unique": true
+      },
+      "disc": "legacy"
     },
     {
       "korType": "성채 활",

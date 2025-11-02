@@ -120,13 +120,14 @@
     {
       "korType": "코발트색 주얼",
       "engType": "Cobalt Jewel",
-      "engText": "To Dust Cobalt Jewel",
-      "korText": "먼지처럼 사라져라 코발트색 주얼",
+      "engText": "To Dust Cobalt Jewel (Legacy)",
+      "korText": "먼지처럼 사라져라 코발트색 주얼 (Legacy)",
       "engName": "To Dust",
       "korName": "먼지처럼 사라져라",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "코발트색 주얼",
@@ -1884,6 +1885,17 @@
       "korText": "희망의 실타래 진홍색 주얼",
       "engName": "Thread of Hope",
       "korName": "희망의 실타래",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "코발트색 주얼",
+      "engType": "Cobalt Jewel",
+      "engText": "To Dust Cobalt Jewel",
+      "korText": "먼지처럼 사라져라 코발트색 주얼",
+      "engName": "To Dust",
+      "korName": "먼지처럼 사라져라",
       "flags": {
         "unique": true
       }

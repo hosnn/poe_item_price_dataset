@@ -200,6 +200,10 @@
       "engType": "Conductivity"
     },
     {
+      "korType": "연소 화재",
+      "engType": "Conflagration"
+    },
+    {
       "korType": "축성의 진격",
       "engType": "Consecrated Path"
     },
@@ -616,6 +620,14 @@
       "engType": "Kinetic Bolt"
     },
     {
+      "korType": "역학 일제 사격",
+      "engType": "Kinetic Fusillade"
+    },
+    {
+      "korType": "역학 비",
+      "engType": "Kinetic Rain"
+    },
+    {
       "korType": "피부 찢기",
       "engType": "Lacerate"
     },
@@ -884,6 +896,10 @@
       "engType": "Smoke Mine"
     },
     {
+      "korType": "신체의 껍질",
+      "engType": "Somatic Shell"
+    },
+    {
       "korType": "영혼의 연결",
       "engType": "Soul Link"
     },
@@ -1026,6 +1042,10 @@
     {
       "korType": "환영 무기 투척",
       "engType": "Spectral Throw"
+    },
+    {
+      "korType": "뇌우",
+      "engType": "Thunderstorm"
     },
     {
       "korType": "회오리",
@@ -1298,6 +1318,10 @@
     {
       "korType": "절망",
       "engType": "Despair"
+    },
+    {
+      "korType": "힘의 벽",
+      "engType": "Wall of Force"
     },
     {
       "korType": "전쟁 깃발",
@@ -1820,6 +1844,10 @@
       "engType": "Item Rarity Support"
     },
     {
+      "korType": "역학 불안정성 보조",
+      "engType": "Kinetic Instability Support"
+    },
+    {
       "korType": "밀어내기 보조",
       "engType": "Knockback Support"
     },
@@ -1850,6 +1878,10 @@
     {
       "korType": "각성한 번개 관통 보조",
       "engType": "Awakened Lightning Penetration Support"
+    },
+    {
+      "korType": "살아 있는 번개 보조",
+      "engType": "Living Lightning Support"
     },
     {
       "korType": "궤적 지뢰 보조",
@@ -2174,6 +2206,17 @@
     {
       "korType": "각성한 공격 시 원소 피해 보조",
       "engType": "Awakened Elemental Damage with Attacks Support"
+    },
+    {
+      "korType": "바람 격발 보조",
+      "engType": "Windburst Support"
+    },
+    {
+      "korType": "칼날비",
+      "engType": "Bladefall",
+      "engText": "Bladefall of Trarthus",
+      "korText": "트라투스의 칼날비",
+      "disc": "alt_z"
     },
     {
       "korType": "무기 기동",
@@ -2757,13 +2800,6 @@
       "disc": "alt_x"
     },
     {
-      "korType": "칼날비",
-      "engType": "Bladefall",
-      "engText": "Bladefall of Trarthus",
-      "korText": "트라투스의 칼날비",
-      "disc": "alt_z"
-    },
-    {
       "korType": "칼날 폭풍",
       "engType": "Bladestorm",
       "engText": "Bladestorm of Uncertainty",
@@ -3202,6 +3238,13 @@
       "engType": "Kinetic Bolt",
       "engText": "Kinetic Bolt of Fragmentation",
       "korText": "파쇄의 역학 투사체",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "역학 비",
+      "engType": "Kinetic Rain",
+      "engText": "Kinetic Rain of Impact",
+      "korText": "충격의 역학 비",
       "disc": "alt_x"
     },
     {

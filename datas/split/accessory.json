@@ -328,6 +328,30 @@
       "engType": "Iolite Ring"
     },
     {
+      "korType": "냉동 보존 반지",
+      "engType": "Cryonic Ring"
+    },
+    {
+      "korType": "엔탈피 반지",
+      "engType": "Enthalpic Ring"
+    },
+    {
+      "korType": "시냅스 반지",
+      "engType": "Synaptic Ring"
+    },
+    {
+      "korType": "유기적 반지",
+      "engType": "Organic Ring"
+    },
+    {
+      "korType": "도망자 반지",
+      "engType": "Fugitive Ring"
+    },
+    {
+      "korType": "형상 없는 반지",
+      "engType": "Formless Ring"
+    },
+    {
       "korType": "황금 고리",
       "engType": "Golden Hoop"
     },
@@ -562,13 +586,14 @@
     {
       "korType": "사슬 허리띠",
       "engType": "Chain Belt",
-      "engText": "Auxium Chain Belt",
-      "korText": "오시움 사슬 허리띠",
+      "engText": "Auxium Chain Belt (Legacy)",
+      "korText": "오시움 사슬 허리띠 (Legacy)",
       "engName": "Auxium",
       "korName": "오시움",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "터키석 목걸이",
@@ -716,13 +741,14 @@
     {
       "korType": "산호 반지",
       "engType": "Coral Ring",
-      "engText": "Bloodboil Coral Ring",
-      "korText": "끓는 피 산호 반지",
+      "engText": "Bloodboil Coral Ring (Legacy)",
+      "korText": "끓는 피 산호 반지 (Legacy)",
       "engName": "Bloodboil",
       "korName": "끓는 피",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "대리석 목걸이",
@@ -738,13 +764,14 @@
     {
       "korType": "산호 목걸이",
       "engType": "Coral Amulet",
-      "engText": "Bloodgrip Coral Amulet",
-      "korText": "피의 지배 산호 목걸이",
+      "engText": "Bloodgrip Coral Amulet (Legacy)",
+      "korText": "피의 지배 산호 목걸이 (Legacy)",
       "engName": "Bloodgrip",
       "korName": "피의 지배",
       "flags": {
         "unique": true
-      }
+      },
+      "disc": "legacy"
     },
     {
       "korType": "호박 목걸이",
@@ -764,6 +791,17 @@
       "korText": "피투성이 메달리온 호박 목걸이",
       "engName": "Bloodsoaked Medallion",
       "korName": "피투성이 메달리온",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "대리석 목걸이",
+      "engType": "Marble Amulet",
+      "engText": "Bonemeld Marble Amulet",
+      "korText": "뼈결합 대리석 목걸이",
+      "engName": "Bonemeld",
+      "korName": "뼈결합",
       "flags": {
         "unique": true
       }
@@ -1308,6 +1346,17 @@
       }
     },
     {
+      "korType": "터키석 목걸이",
+      "engType": "Turquoise Amulet",
+      "engText": "Haunting Memories Turquoise Amulet",
+      "korText": "사로잡는 기억 터키석 목걸이",
+      "engName": "Haunting Memories",
+      "korName": "사로잡는 기억",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "가죽 허리띠",
       "engType": "Leather Belt",
       "engText": "Headhunter Leather Belt",
@@ -1545,6 +1594,17 @@
       "korText": "로리의 등불 분광 반지",
       "engName": "Lori's Lantern",
       "korName": "로리의 등불",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "형상 없는 반지",
+      "engType": "Formless Ring",
+      "engText": "Lost Unity Formless Ring",
+      "korText": "잃어버린 합일 형상 없는 반지",
+      "engName": "Lost Unity",
+      "korName": "잃어버린 합일",
       "flags": {
         "unique": true
       }
@@ -1847,10 +1907,10 @@
       }
     },
     {
-      "korType": "토파즈 반지",
-      "engType": "Topaz Ring",
-      "engText": "Precursor's Emblem Topaz Ring",
-      "korText": "선도자의 상징 토파즈 반지",
+      "korType": "사파이어 반지",
+      "engType": "Sapphire Ring",
+      "engText": "Precursor's Emblem Sapphire Ring",
+      "korText": "선도자의 상징 사파이어 반지",
       "engName": "Precursor's Emblem",
       "korName": "선도자의 상징",
       "flags": {
@@ -1858,10 +1918,10 @@
       }
     },
     {
-      "korType": "사파이어 반지",
-      "engType": "Sapphire Ring",
-      "engText": "Precursor's Emblem Sapphire Ring",
-      "korText": "선도자의 상징 사파이어 반지",
+      "korType": "토파즈 반지",
+      "engType": "Topaz Ring",
+      "engText": "Precursor's Emblem Topaz Ring",
+      "korText": "선도자의 상징 토파즈 반지",
       "engName": "Precursor's Emblem",
       "korName": "선도자의 상징",
       "flags": {
@@ -2837,6 +2897,17 @@
       }
     },
     {
+      "korType": "도망자 반지",
+      "engType": "Fugitive Ring",
+      "engText": "The Sundered Will Fugitive Ring",
+      "korText": "산산조각 난 의지 도망자 반지",
+      "engName": "The Sundered Will",
+      "korName": "산산조각 난 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "징 박힌 허리띠",
       "engType": "Studded Belt",
       "engText": "The Tactician Studded Belt",
@@ -2881,6 +2952,17 @@
       }
     },
     {
+      "korType": "오팔 반지",
+      "engType": "Opal Ring",
+      "engText": "The Unseen Hue Opal Ring",
+      "korText": "보이지 않는 빛깔 오팔 반지",
+      "engName": "The Unseen Hue",
+      "korName": "보이지 않는 빛깔",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "황금 목걸이",
       "engType": "Gold Amulet",
       "engText": "The Untouched Soul Gold Amulet",
@@ -2909,6 +2991,50 @@
       "korText": "간수의 낙인 철제 반지",
       "engName": "The Warden's Brand",
       "korName": "간수의 낙인",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "시냅스 반지",
+      "engType": "Synaptic Ring",
+      "engText": "The Will of Esh Synaptic Ring",
+      "korText": "에쉬의 의지 시냅스 반지",
+      "engName": "The Will of Esh",
+      "korName": "에쉬의 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "냉동 보존 반지",
+      "engType": "Cryonic Ring",
+      "engText": "The Will of Tul Cryonic Ring",
+      "korText": "툴의 의지 냉동 보존 반지",
+      "engName": "The Will of Tul",
+      "korName": "툴의 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "유기적 반지",
+      "engType": "Organic Ring",
+      "engText": "The Will of Uul-Netol Organic Ring",
+      "korText": "울네톨의 의지 유기적 반지",
+      "engName": "The Will of Uul-Netol",
+      "korName": "울네톨의 의지",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "엔탈피 반지",
+      "engType": "Enthalpic Ring",
+      "engText": "The Will of Xoph Enthalpic Ring",
+      "korText": "조프의 의지 엔탈피 반지",
+      "engName": "The Will of Xoph",
+      "korName": "조프의 의지",
       "flags": {
         "unique": true
       }
@@ -3206,6 +3332,17 @@
       "korText": "겨울 매듭 산호 반지",
       "engName": "Winterweave",
       "korName": "겨울 매듭",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 반지",
+      "engType": "Steel Ring",
+      "engText": "Woespike Steel Ring",
+      "korText": "비애의 가시 강철 반지",
+      "engName": "Woespike",
+      "korName": "비애의 가시",
       "flags": {
         "unique": true
       }
