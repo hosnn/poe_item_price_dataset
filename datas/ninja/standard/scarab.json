@@ -46,7 +46,7 @@
             "id": 117975,
             "name": "Blight Scarab of Invigoration",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
-            "chaosValue": 97.64
+            "chaosValue": 97.2
         },
         {
             "id": 113945,
@@ -70,7 +70,7 @@
             "id": 113782,
             "name": "Bestiary Scarab of the Shadowed Crow",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJlYXN0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d79b58e5e/Tier4ScarabBeasts.png",
-            "chaosValue": 84.7
+            "chaosValue": 87.64
         },
         {
             "id": 113900,
@@ -211,6 +211,12 @@
             "chaosValue": 14.04
         },
         {
+            "id": 113749,
+            "name": "Harbinger Scarab of Regency",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFyYmluZ2VycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce393cfd58/GreaterScarabHarbingers.png",
+            "chaosValue": 10.39
+        },
+        {
             "id": 42494,
             "name": "Fenumal Lure",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lTcGlkZXJBc3BlY3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bf4835aab6/CurrencySpiderAspect.png",
@@ -220,12 +226,6 @@
             "id": 42558,
             "name": "Craicic Lure",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lDcmFiQXNwZWN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/602d1dc44e/CurrencyCrabAspect.png",
-            "chaosValue": 10.0
-        },
-        {
-            "id": 113749,
-            "name": "Harbinger Scarab of Regency",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFyYmluZ2VycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce393cfd58/GreaterScarabHarbingers.png",
             "chaosValue": 10.0
         },
         {
@@ -316,7 +316,7 @@
             "id": 113685,
             "name": "Scarab of Monstrous Lineage",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
-            "chaosValue": 5.61
+            "chaosValue": 5.64
         },
         {
             "id": 113697,
