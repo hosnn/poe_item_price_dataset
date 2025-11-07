@@ -4,7 +4,7 @@
             "id": 113919,
             "name": "Horned Scarab of Preservation",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ce4ee43474/SuperScarab3.png",
-            "chaosValue": 1347
+            "chaosValue": 1422
         },
         {
             "id": 114030,
@@ -37,16 +37,10 @@
             "chaosValue": 149.7
         },
         {
-            "id": 113766,
-            "name": "Blight Scarab of Blooming",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
-            "chaosValue": 99.8
-        },
-        {
             "id": 117975,
             "name": "Blight Scarab of Invigoration",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e74a0932bd/AltTier4ScarabBlight.png",
-            "chaosValue": 98.36
+            "chaosValue": 98.84
         },
         {
             "id": 113830,
@@ -59,6 +53,12 @@
             "name": "Essence Scarab of Calcification",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkVzc2VuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c12e415ec2/Tier4ScarabEssence.png",
             "chaosValue": 95.79
+        },
+        {
+            "id": 113766,
+            "name": "Blight Scarab of Blooming",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
+            "chaosValue": 94.61
         },
         {
             "id": 125155,
@@ -130,7 +130,7 @@
             "id": 117977,
             "name": "Abyss Scarab of Profound Depth",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkFieXNzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7a1f5c2928/AltTier4ScarabAbyss.png",
-            "chaosValue": 34.82
+            "chaosValue": 34.08
         },
         {
             "id": 113726,
@@ -193,15 +193,15 @@
             "chaosValue": 16.0
         },
         {
-            "id": 121389,
-            "name": "Titanic Scarab of Legend",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ec6815d00/GreaterScarabUnique.png",
-            "chaosValue": 15.59
-        },
-        {
             "id": 117973,
             "name": "Essence Scarab of Adaptation",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkVzc2VuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8dbe247549/AltTier4ScarabEssence.png",
+            "chaosValue": 15.0
+        },
+        {
+            "id": 121389,
+            "name": "Titanic Scarab of Legend",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ec6815d00/GreaterScarabUnique.png",
             "chaosValue": 15.0
         },
         {
@@ -229,12 +229,6 @@
             "chaosValue": 10.0
         },
         {
-            "id": 113706,
-            "name": "Cartography Scarab of Corruption",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
-            "chaosValue": 10.0
-        },
-        {
             "id": 113762,
             "name": "Blight Scarab of Bounty",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fda66abb96/NormalScarabBlight.png",
@@ -251,6 +245,12 @@
             "name": "Divination Scarab of Plenty",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGl2aW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8101d1a6e1/GreaterScarabDivination.png",
             "chaosValue": 10.0
+        },
+        {
+            "id": 113706,
+            "name": "Cartography Scarab of Corruption",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
+            "chaosValue": 9.98
         },
         {
             "id": 113828,
@@ -277,6 +277,12 @@
             "chaosValue": 7.88
         },
         {
+            "id": 42505,
+            "name": "Farric Lure",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lDYXRBc3BlY3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f8cbe8eacc/CurrencyCatAspect.png",
+            "chaosValue": 7.6
+        },
+        {
             "id": 118273,
             "name": "Cartography Scarab of the Multitude",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/95a7a8097c/AltNormalScarabMaps.png",
@@ -301,12 +307,6 @@
             "chaosValue": 7.0
         },
         {
-            "id": 42505,
-            "name": "Farric Lure",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnkvQ3VycmVuY3lDYXRBc3BlY3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f8cbe8eacc/CurrencyCatAspect.png",
-            "chaosValue": 6.8
-        },
-        {
             "id": 118284,
             "name": "Domination Scarab of Evolution",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRG9taW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/88bb71ff95/GreaterScarabDomination.png",
@@ -316,7 +316,7 @@
             "id": 113685,
             "name": "Scarab of Monstrous Lineage",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
-            "chaosValue": 5.66
+            "chaosValue": 5.44
         },
         {
             "id": 113697,
@@ -349,12 +349,6 @@
             "chaosValue": 5.0
         },
         {
-            "id": 121388,
-            "name": "Divination Scarab of The Cloister",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
-            "chaosValue": 4.99
-        },
-        {
             "id": 113737,
             "name": "Beyond Scarab of the Invasion",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJleW9uZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f3d0278af1/Tier4ScarabBeyond.png",
@@ -364,7 +358,13 @@
             "id": 113743,
             "name": "Abyss Scarab of Edifice",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6bcf6b93d/GreaterScarabAbyss.png",
-            "chaosValue": 4.94
+            "chaosValue": 4.97
+        },
+        {
+            "id": 121388,
+            "name": "Divination Scarab of The Cloister",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
+            "chaosValue": 4.93
         },
         {
             "id": 113834,
@@ -406,7 +406,7 @@
             "id": 113687,
             "name": "Essence Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c9f153a8cf/LesserScarabEssence.png",
-            "chaosValue": 3.7
+            "chaosValue": 3.67
         },
         {
             "id": 113728,
@@ -712,7 +712,7 @@
             "id": 113692,
             "name": "Torment Scarab of Peculiarity",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJUb3JtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b93daed118/NormalScarabTorment.png",
-            "chaosValue": 1.35
+            "chaosValue": 1.38
         },
         {
             "id": 113702,
