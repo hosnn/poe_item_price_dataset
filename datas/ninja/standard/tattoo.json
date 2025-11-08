@@ -10,7 +10,7 @@
             "id": 108016,
             "name": "Journey Tattoo of Makanui",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTRUYXR0dG9vRXF1aXBtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6e8c1bd4e6/Unique4TatttooEquipment.png",
-            "chaosValue": 123738
+            "chaosValue": 123726
         },
         {
             "id": 106802,
@@ -190,7 +190,7 @@
             "id": 106637,
             "name": "Loyalty Tattoo of Ikiaho",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2e28f4b6c/RareDexTatttooEquipment.png",
-            "chaosValue": 125.0
+            "chaosValue": 110.0
         },
         {
             "id": 106333,
@@ -235,6 +235,12 @@
             "chaosValue": 30.8
         },
         {
+            "id": 106557,
+            "name": "Loyalty Tattoo of Ahuana",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2e28f4b6c/RareDexTatttooEquipment.png",
+            "chaosValue": 30.0
+        },
+        {
             "id": 107127,
             "name": "Honoured Tattoo of the Flood",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhUmFyZUludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/77b2de82f9/HinekoraRareIntTatttooEquipment.png",
@@ -256,7 +262,7 @@
             "id": 106330,
             "name": "Tattoo of the Valako Shieldbearer",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
-            "chaosValue": 28.0
+            "chaosValue": 28.5
         },
         {
             "id": 106383,
@@ -265,22 +271,22 @@
             "chaosValue": 26.0
         },
         {
-            "id": 106557,
-            "name": "Loyalty Tattoo of Ahuana",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVEZXhUYXR0dG9vRXF1aXBtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2e28f4b6c/RareDexTatttooEquipment.png",
-            "chaosValue": 26.0
-        },
-        {
             "id": 106343,
             "name": "Tattoo of the Hinekora Warrior",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 22.7
+            "chaosValue": 23.6
+        },
+        {
+            "id": 106403,
+            "name": "Honoured Tattoo of the Dove",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/80dfeda101/HinekoraCommonTatttooEquipment.png",
+            "chaosValue": 18.0
         },
         {
             "id": 106437,
             "name": "Tattoo of the Kitava Shaman",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
-            "chaosValue": 17.6
+            "chaosValue": 17.4
         },
         {
             "id": 106431,
@@ -301,22 +307,16 @@
             "chaosValue": 15.0
         },
         {
-            "id": 106373,
-            "name": "Tattoo of the Tawhoa Herbalist",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b80711f45f/CommonDexTatttooEquipment.png",
-            "chaosValue": 15.0
-        },
-        {
             "id": 106424,
             "name": "Tattoo of the Arohongui Warmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
             "chaosValue": 15.0
         },
         {
-            "id": 106403,
-            "name": "Honoured Tattoo of the Dove",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/80dfeda101/HinekoraCommonTatttooEquipment.png",
-            "chaosValue": 14.0
+            "id": 106373,
+            "name": "Tattoo of the Tawhoa Herbalist",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b80711f45f/CommonDexTatttooEquipment.png",
+            "chaosValue": 14.5
         },
         {
             "id": 106445,
@@ -430,7 +430,13 @@
             "id": 106367,
             "name": "Honoured Tattoo of the Sky",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/80dfeda101/HinekoraCommonTatttooEquipment.png",
-            "chaosValue": 8.0
+            "chaosValue": 8.4
+        },
+        {
+            "id": 106494,
+            "name": "Loyalty Tattoo of Akoya",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c7c5e8c4de/RareStrTatttooEquipment.png",
+            "chaosValue": 8.2
         },
         {
             "id": 106489,
@@ -439,16 +445,10 @@
             "chaosValue": 8.0
         },
         {
-            "id": 106494,
-            "name": "Loyalty Tattoo of Akoya",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1JhcmVTdHJUYXR0dG9vRXF1aXBtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c7c5e8c4de/RareStrTatttooEquipment.png",
-            "chaosValue": 7.6
-        },
-        {
             "id": 106289,
             "name": "Tattoo of the Tawhoa Warrior",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 7.0
+            "chaosValue": 7.2
         },
         {
             "id": 106548,
@@ -460,7 +460,7 @@
             "id": 106374,
             "name": "Honoured Tattoo of the Pillager",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0hpbmVrb3JhQ29tbW9uVGF0dHRvb0VxdWlwbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/80dfeda101/HinekoraCommonTatttooEquipment.png",
-            "chaosValue": 5.5
+            "chaosValue": 6.0
         },
         {
             "id": 106237,
@@ -544,7 +544,7 @@
             "id": 106405,
             "name": "Tattoo of the Rongokurai Goliath",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
-            "chaosValue": 4.5
+            "chaosValue": 4.6
         },
         {
             "id": 106573,
