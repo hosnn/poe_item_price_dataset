@@ -46,13 +46,13 @@
             "id": 106344,
             "name": "Omen of Brilliance",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNEJsdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3492df192d/VoodooOmens4Blue.png",
-            "chaosValue": 20.0
+            "chaosValue": 19.0
         },
         {
             "id": 106541,
             "name": "Omen of Death-dancing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMVllbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/186596afad/VoodooOmens1Yellow.png",
-            "chaosValue": 20.0
+            "chaosValue": 18.0
         },
         {
             "id": 106725,
@@ -67,18 +67,6 @@
             "chaosValue": 10.0
         },
         {
-            "id": 106404,
-            "name": "Omen of the Soul Devourer",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM0JsdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c90fccd068/VoodooOmens3Blue.png",
-            "chaosValue": 5.2
-        },
-        {
-            "id": 106528,
-            "name": "Omen of Refreshment",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlllbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c1c1cc7c84/VoodooOmens2Yellow.png",
-            "chaosValue": 5.0
-        },
-        {
             "id": 106620,
             "name": "Omen of Adrenaline",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM1llbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f262a79371/VoodooOmens3Yellow.png",
@@ -88,7 +76,19 @@
             "id": 106479,
             "name": "Omen of Return",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMkJsdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/67b6654753/VoodooOmens2Blue.png",
-            "chaosValue": 3.0
+            "chaosValue": 4.7
+        },
+        {
+            "id": 106528,
+            "name": "Omen of Refreshment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlllbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c1c1cc7c84/VoodooOmens2Yellow.png",
+            "chaosValue": 3.6
+        },
+        {
+            "id": 106404,
+            "name": "Omen of the Soul Devourer",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM0JsdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c90fccd068/VoodooOmens3Blue.png",
+            "chaosValue": 1.9
         }
     ]
 }
