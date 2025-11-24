@@ -9,7 +9,7 @@ def main():
   }
 
   LEAGUES = {
-    'standard': 'Standard',
+    # 'standard': 'Standard',
     'Keepers' : 'Keepers',
   }
 
