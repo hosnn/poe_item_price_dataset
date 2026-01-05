@@ -34,7 +34,7 @@
             "id": 113860,
             "name": "Horned Scarab of Pandemonium",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd523e523b/SuperScarab7.png",
-            "chaosValue": 98.54
+            "chaosValue": 95.35
         },
         {
             "id": 117975,
@@ -82,7 +82,7 @@
             "id": 113749,
             "name": "Harbinger Scarab of Regency",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFyYmluZ2VycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce393cfd58/GreaterScarabHarbingers.png",
-            "chaosValue": 13.6
+            "chaosValue": 12.7
         },
         {
             "id": 113766,
@@ -100,13 +100,13 @@
             "id": 113873,
             "name": "Horned Scarab of Nemeses",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f4c8c526ba/SuperScarab2.png",
-            "chaosValue": 8.9
+            "chaosValue": 8.85
         },
         {
             "id": 118282,
             "name": "Divination Scarab of Pilfering",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRpdmluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6539f578d/Tier4ScarabDivination.png",
-            "chaosValue": 8.3
+            "chaosValue": 8.4
         },
         {
             "id": 125155,
@@ -265,6 +265,12 @@
             "chaosValue": 2.0
         },
         {
+            "id": 113744,
+            "name": "Influencing Scarab of Hordes",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bd3ed1eca/GreaterScarabElder.png",
+            "chaosValue": 1.98
+        },
+        {
             "id": 113829,
             "name": "Expedition Scarab of Archaeology",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
@@ -277,16 +283,10 @@
             "chaosValue": 1.97
         },
         {
-            "id": 113744,
-            "name": "Influencing Scarab of Hordes",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bd3ed1eca/GreaterScarabElder.png",
-            "chaosValue": 1.97
-        },
-        {
             "id": 121389,
             "name": "Titanic Scarab of Legend",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ec6815d00/GreaterScarabUnique.png",
-            "chaosValue": 1.96
+            "chaosValue": 1.97
         },
         {
             "id": 113695,
@@ -304,7 +304,7 @@
             "id": 113770,
             "name": "Betrayal Scarab of Reinforcements",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmV0cmF5YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/85f51a19b8/GreaterScarabBetrayal.png",
-            "chaosValue": 1.86
+            "chaosValue": 1.87
         },
         {
             "id": 113831,
@@ -328,7 +328,7 @@
             "id": 125016,
             "name": "Kalguuran Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTZXR0bGVycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c14c3a7ef3/LesserScarabSettlers.png",
-            "chaosValue": 1.41
+            "chaosValue": 1.43
         },
         {
             "id": 113862,
