@@ -31,20 +31,26 @@
             "chaosValue": 25.0
         },
         {
-            "id": 106331,
-            "name": "Tattoo of the Hinekora Storyteller",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 17.0
-        },
-        {
             "id": 106445,
             "name": "Tattoo of the Ngamahu Warmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
             "chaosValue": 17.0
         },
         {
+            "id": 106331,
+            "name": "Tattoo of the Hinekora Storyteller",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
+            "chaosValue": 16.5
+        },
+        {
             "id": 106343,
             "name": "Tattoo of the Hinekora Warrior",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
+            "chaosValue": 15.0
+        },
+        {
+            "id": 106424,
+            "name": "Tattoo of the Arohongui Warmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
             "chaosValue": 15.0
         },
@@ -71,12 +77,6 @@
             "name": "Tattoo of the Tukohama Warcaller",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b7072892c0/CommonStrTatttooEquipment.png",
             "chaosValue": 13.2
-        },
-        {
-            "id": 106424,
-            "name": "Tattoo of the Arohongui Warmonger",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 12.5
         },
         {
             "id": 106287,
@@ -142,7 +142,7 @@
             "id": 106433,
             "name": "Tattoo of the Hinekora Warmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 7.2
+            "chaosValue": 7.0
         },
         {
             "id": 106462,
@@ -177,12 +177,6 @@
         {
             "id": 106247,
             "name": "Tattoo of the Hinekora Deathwarden",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
-            "chaosValue": 5.0
-        },
-        {
-            "id": 106273,
-            "name": "Tattoo of the Hinekora Shaman",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
             "chaosValue": 5.0
         },
@@ -227,6 +221,12 @@
             "name": "Tattoo of the Kitava Heart Eater",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
             "chaosValue": 5.0
+        },
+        {
+            "id": 106273,
+            "name": "Tattoo of the Hinekora Shaman",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bae0258602/CommonIntTatttooEquipment.png",
+            "chaosValue": 4.9
         },
         {
             "id": 106281,
