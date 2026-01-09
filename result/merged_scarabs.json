@@ -115,7 +115,7 @@
     "korType": "침략의 이계 갑충석",
     "engType": "Beyond Scarab of the Invasion",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJleW9uZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f3d0278af1/Tier4ScarabBeyond.png",
-    "chaosValue": 1.48,
+    "chaosValue": 1.46,
     "regex": "략.*이"
   },
   {
@@ -227,7 +227,7 @@
     "korType": "공포의 지배 갑충석",
     "engType": "Domination Scarab of Terrors",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRvbWluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e56a6e5dc/Tier4ScarabDomination.png",
-    "chaosValue": 31.0,
+    "chaosValue": 30.0,
     "regex": "공포"
   },
   {
@@ -339,7 +339,7 @@
     "korType": "풍요의 뿔의 수확 갑충석",
     "engType": "Harvest Scarab of Cornucopia",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcnZlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a32654b789/Tier4ScarabHarvest.png",
-    "chaosValue": 28.9,
+    "chaosValue": 29.0,
     "regex": "풍요"
   },
   {
@@ -437,14 +437,14 @@
     "korType": "위험의 지도 제작 갑충석",
     "engType": "Cartography Scarab of Risk",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0baaf413d0/NormalScarabMaps.png",
-    "chaosValue": 25.26,
+    "chaosValue": 25.21,
     "regex": "^위"
   },
   {
     "korType": "타락의 지도 제작 갑충석",
     "engType": "Cartography Scarab of Corruption",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
-    "chaosValue": 2.4,
+    "chaosValue": 2.3,
     "regex": "타.*지"
   },
   {
@@ -633,7 +633,7 @@
     "korType": "천벌의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Nemeses",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f4c8c526ba/SuperScarab2.png",
-    "chaosValue": 8.81,
+    "chaosValue": 8.9,
     "regex": "^천"
   },
   {
@@ -647,7 +647,7 @@
     "korType": "각성의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Awakening",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/10856e6528/SuperScarab4.png",
-    "chaosValue": 120.0,
+    "chaosValue": 119.8,
     "regex": "각성"
   },
   {
@@ -689,7 +689,7 @@
     "korType": "결투의 결전 갑충석",
     "engType": "Ultimatum Scarab of Dueling",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVWx0aW1hdHVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/42d067c281/GreaterScarabUltimatum.png",
-    "chaosValue": 3.67,
+    "chaosValue": 3.62,
     "regex": "투"
   },
   {
