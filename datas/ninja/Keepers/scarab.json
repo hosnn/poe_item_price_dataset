@@ -22,7 +22,7 @@
             "id": 114030,
             "name": "Horned Scarab of Awakening",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/10856e6528/SuperScarab4.png",
-            "chaosValue": 128.2
+            "chaosValue": 126.6
         },
         {
             "id": 113826,
@@ -49,16 +49,16 @@
             "chaosValue": 30.0
         },
         {
-            "id": 118275,
-            "name": "Cartography Scarab of Risk",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0baaf413d0/NormalScarabMaps.png",
-            "chaosValue": 24.5
-        },
-        {
             "id": 113909,
             "name": "Harvest Scarab of Cornucopia",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcnZlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a32654b789/Tier4ScarabHarvest.png",
             "chaosValue": 23.6
+        },
+        {
+            "id": 118275,
+            "name": "Cartography Scarab of Risk",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0baaf413d0/NormalScarabMaps.png",
+            "chaosValue": 20.0
         },
         {
             "id": 113766,
@@ -88,7 +88,7 @@
             "id": 113749,
             "name": "Harbinger Scarab of Regency",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFyYmluZ2VycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce393cfd58/GreaterScarabHarbingers.png",
-            "chaosValue": 11.3
+            "chaosValue": 12.0
         },
         {
             "id": 113873,
@@ -112,7 +112,7 @@
             "id": 113709,
             "name": "Ambush Scarab of Discernment",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/74111052f4/AltTier4ScarabStrongboxes.png",
-            "chaosValue": 7.1
+            "chaosValue": 7.0
         },
         {
             "id": 113830,
@@ -184,13 +184,13 @@
             "id": 113685,
             "name": "Scarab of Monstrous Lineage",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
-            "chaosValue": 2.34
+            "chaosValue": 2.43
         },
         {
             "id": 113714,
             "name": "Harbinger Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJiaW5nZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1940157b44/LesserScarabHarbingers.png",
-            "chaosValue": 2.08
+            "chaosValue": 2.1
         },
         {
             "id": 113726,
@@ -223,15 +223,15 @@
             "chaosValue": 1.96
         },
         {
-            "id": 113711,
-            "name": "Ambush Scarab of Potency",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3Ryb25nYm94ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8b46f6270a/GreaterScarabStrongboxes.png",
-            "chaosValue": 1.95
-        },
-        {
             "id": 113738,
             "name": "Ambush Scarab of Hidden Compartments",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/46451362bc/NormalScarabStrongboxes.png",
+            "chaosValue": 1.96
+        },
+        {
+            "id": 113711,
+            "name": "Ambush Scarab of Potency",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3Ryb25nYm94ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8b46f6270a/GreaterScarabStrongboxes.png",
             "chaosValue": 1.95
         },
         {
@@ -244,7 +244,7 @@
             "id": 113732,
             "name": "Ultimatum Scarab of Bribing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f7845be27d/NormalScarabUltimatum.png",
-            "chaosValue": 1.7
+            "chaosValue": 1.63
         },
         {
             "id": 113744,
