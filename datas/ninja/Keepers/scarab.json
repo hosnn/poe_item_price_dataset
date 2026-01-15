@@ -16,7 +16,7 @@
             "id": 113826,
             "name": "Ambush Scarab of Containment",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/dd7b8bd53f/Tier4ScarabStrongboxes.png",
-            "chaosValue": 114.0
+            "chaosValue": 112.0
         },
         {
             "id": 113860,
@@ -97,6 +97,12 @@
             "chaosValue": 10.0
         },
         {
+            "id": 113709,
+            "name": "Ambush Scarab of Discernment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/74111052f4/AltTier4ScarabStrongboxes.png",
+            "chaosValue": 8.0
+        },
+        {
             "id": 121388,
             "name": "Divination Scarab of The Cloister",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
@@ -109,16 +115,10 @@
             "chaosValue": 7.1
         },
         {
-            "id": 113709,
-            "name": "Ambush Scarab of Discernment",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/74111052f4/AltTier4ScarabStrongboxes.png",
-            "chaosValue": 7.06
-        },
-        {
             "id": 117973,
             "name": "Essence Scarab of Adaptation",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkVzc2VuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8dbe247549/AltTier4ScarabEssence.png",
-            "chaosValue": 6.6
+            "chaosValue": 6.65
         },
         {
             "id": 125155,
@@ -244,13 +244,7 @@
             "id": 113831,
             "name": "Beyond Scarab of Resurgence",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiQmV5b25kIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d007f87e7b/AltGreaterScarabBeyond.png",
-            "chaosValue": 1.6
-        },
-        {
-            "id": 113685,
-            "name": "Scarab of Monstrous Lineage",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
-            "chaosValue": 1.52
+            "chaosValue": 1.7
         },
         {
             "id": 113728,
@@ -262,13 +256,19 @@
             "id": 118281,
             "name": "Divination Scarab of Plenty",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7fb7abf05a/NormalScarabDivination.png",
-            "chaosValue": 1.44
+            "chaosValue": 1.46
         },
         {
             "id": 125016,
             "name": "Kalguuran Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTZXR0bGVycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c14c3a7ef3/LesserScarabSettlers.png",
-            "chaosValue": 1.32
+            "chaosValue": 1.38
+        },
+        {
+            "id": 113685,
+            "name": "Scarab of Monstrous Lineage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
+            "chaosValue": 1.36
         },
         {
             "id": 113744,
@@ -281,6 +281,12 @@
             "name": "Horned Scarab of Tradition",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c96bd21955/SuperScarab5.png",
             "chaosValue": 1.21
+        },
+        {
+            "id": 113829,
+            "name": "Expedition Scarab of Archaeology",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
+            "chaosValue": 1.04
         },
         {
             "id": 118273,
@@ -526,12 +532,6 @@
             "id": 113771,
             "name": "Ultimatum Scarab of Inscription",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlVsdGltYXR1bSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6c6731cf8d/AltTier4ScarabUltimatum.png",
-            "chaosValue": 1.0
-        },
-        {
-            "id": 113829,
-            "name": "Expedition Scarab of Archaeology",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
             "chaosValue": 1.0
         },
         {
