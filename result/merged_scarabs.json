@@ -164,7 +164,7 @@
     "korType": "편집증의 환영 갑충석",
     "engType": "Delirium Scarab of Paranoia",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGVsaXJpdW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c723c51ba6/GreaterScarabDelirium.png",
-    "chaosValue": 5.2,
+    "chaosValue": 6.0,
     "regex": "^편"
   },
   {
@@ -178,7 +178,7 @@
     "korType": "망상의 환영 갑충석",
     "engType": "Delirium Scarab of Delusions",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRlbGlyaXVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6416ee8493/Tier4ScarabDelirium.png",
-    "chaosValue": 1.6,
+    "chaosValue": 1.68,
     "regex": "망"
   },
   {
@@ -192,7 +192,7 @@
     "korType": "풍부함의 점술 갑충석",
     "engType": "Divination Scarab of Plenty",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7fb7abf05a/NormalScarabDivination.png",
-    "chaosValue": 1.6,
+    "chaosValue": 1.68,
     "regex": "풍.*점"
   },
   {
@@ -297,7 +297,7 @@
     "korType": "선구자 갑충석",
     "engType": "Harbinger Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJiaW5nZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1940157b44/LesserScarabHarbingers.png",
-    "chaosValue": 2.68,
+    "chaosValue": 2.6,
     "regex": "^선구"
   },
   {
@@ -339,7 +339,7 @@
     "korType": "풍요의 뿔의 수확 갑충석",
     "engType": "Harvest Scarab of Cornucopia",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcnZlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a32654b789/Tier4ScarabHarvest.png",
-    "chaosValue": 25.6,
+    "chaosValue": 28.1,
     "regex": "풍요"
   },
   {
@@ -388,7 +388,7 @@
     "korType": "군단의 영향력 갑충석",
     "engType": "Influencing Scarab of Hordes",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bd3ed1eca/GreaterScarabElder.png",
-    "chaosValue": 1.06,
+    "chaosValue": 1.09,
     "regex": "군.*향"
   },
   {
@@ -451,7 +451,7 @@
     "korType": "군중의 지도 제작 갑충석",
     "engType": "Cartography Scarab of the Multitude",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/95a7a8097c/AltNormalScarabMaps.png",
-    "chaosValue": 1.03,
+    "chaosValue": 1.02,
     "regex": "중.*제"
   },
   {
@@ -507,7 +507,7 @@
     "korType": "양단의 갑충석",
     "engType": "Scarab of Bisection",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b0c70fb6c8/GreaterScarabMisc2.png",
-    "chaosValue": 1.86,
+    "chaosValue": 1.76,
     "regex": "양"
   },
   {
@@ -535,7 +535,7 @@
     "korType": "칼구르 갑충석",
     "engType": "Kalguuran Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTZXR0bGVycyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c14c3a7ef3/LesserScarabSettlers.png",
-    "chaosValue": 1.64,
+    "chaosValue": 1.0,
     "regex": "^칼"
   },
   {
@@ -556,7 +556,7 @@
     "korType": "매복 갑충석",
     "engType": "Ambush Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
-    "chaosValue": 1.49,
+    "chaosValue": 1.79,
     "regex": "^매복"
   },
   {
@@ -577,7 +577,7 @@
     "korType": "봉쇄의 매복 갑충석",
     "engType": "Ambush Scarab of Containment",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/dd7b8bd53f/Tier4ScarabStrongboxes.png",
-    "chaosValue": 99.4,
+    "chaosValue": 99.5,
     "regex": "봉쇄"
   },
   {
@@ -647,14 +647,14 @@
     "korType": "각성의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Awakening",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/10856e6528/SuperScarab4.png",
-    "chaosValue": 149.1,
+    "chaosValue": 148.8,
     "regex": "각성"
   },
   {
     "korType": "전통의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Tradition",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c96bd21955/SuperScarab5.png",
-    "chaosValue": 2.7,
+    "chaosValue": 2.6,
     "regex": "전통"
   },
   {
