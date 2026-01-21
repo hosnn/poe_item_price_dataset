@@ -4,7 +4,7 @@
             "id": 126073,
             "name": "Runegraft of the Angler",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2249acfea4/VillageRune10.png",
-            "chaosValue": 9970
+            "chaosValue": 9944
         },
         {
             "id": 126075,
@@ -46,13 +46,7 @@
             "id": 129444,
             "name": "Runegraft of Refraction",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b7a66fc6ab/VillageRune7.png",
-            "chaosValue": 5.75
-        },
-        {
-            "id": 126063,
-            "name": "Runegraft of Restitching",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7164b5744e/VillageRune22.png",
-            "chaosValue": 5.0
+            "chaosValue": 5.86
         },
         {
             "id": 126067,
@@ -67,6 +61,12 @@
             "chaosValue": 5.0
         },
         {
+            "id": 126063,
+            "name": "Runegraft of Restitching",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7164b5744e/VillageRune22.png",
+            "chaosValue": 4.99
+        },
+        {
             "id": 126069,
             "name": "Runegraft of Loyalty",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/55f5558d50/VillageRune23.png",
@@ -76,7 +76,7 @@
             "id": 126077,
             "name": "Runegraft of the Witchmark",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/367ce008d2/VillageRune24.png",
-            "chaosValue": 4.96
+            "chaosValue": 4.97
         },
         {
             "id": 126068,
@@ -91,28 +91,28 @@
             "chaosValue": 3.7
         },
         {
-            "id": 126060,
-            "name": "Runegraft of Quaffing",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/29906dc65f/VillageRune21.png",
-            "chaosValue": 3.0
-        },
-        {
             "id": 126065,
             "name": "Runegraft of Blasphemy",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/73329c3094/VillageRune15.png",
             "chaosValue": 3.0
         },
         {
-            "id": 126059,
-            "name": "Runegraft of the Novamark",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f2b2920431/VillageRune25.png",
-            "chaosValue": 2.4
+            "id": 126060,
+            "name": "Runegraft of Quaffing",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/29906dc65f/VillageRune21.png",
+            "chaosValue": 2.8
         },
         {
             "id": 126061,
             "name": "Runegraft of the River",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/359ab82f70/VillageRune5.png",
-            "chaosValue": 2.4
+            "chaosValue": 2.5
+        },
+        {
+            "id": 126059,
+            "name": "Runegraft of the Novamark",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f2b2920431/VillageRune25.png",
+            "chaosValue": 2.3
         },
         {
             "id": 126062,
