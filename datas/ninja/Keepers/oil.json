@@ -4,7 +4,7 @@
             "id": 60076,
             "name": "Tainted Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WYWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54c3400bd8/VaalOil.png",
-            "chaosValue": 185.7
+            "chaosValue": 184.8
         },
         {
             "id": 22607,
@@ -25,16 +25,16 @@
             "chaosValue": 30.0
         },
         {
-            "id": 98283,
-            "name": "Reflective Oil",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9NaXJyb3JPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1c90ed676a/MirrorOil.png",
-            "chaosValue": 9.0
-        },
-        {
             "id": 22535,
             "name": "Opalescent Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9PcGFsZXNjZW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/11d5d92171/OpalescentOil.png",
-            "chaosValue": 8.9
+            "chaosValue": 9.0
+        },
+        {
+            "id": 98283,
+            "name": "Reflective Oil",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9NaXJyb3JPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1c90ed676a/MirrorOil.png",
+            "chaosValue": 8.5
         },
         {
             "id": 22531,
@@ -47,12 +47,6 @@
             "name": "Crimson Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Dcmltc29uT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54fb620c7e/CrimsonOil.png",
             "chaosValue": 2.0
-        },
-        {
-            "id": 22523,
-            "name": "Sepia Oil",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TZXBpYU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/580407bed5/SepiaOil.png",
-            "chaosValue": 1.0
         },
         {
             "id": 22524,
@@ -89,6 +83,12 @@
             "name": "Indigo Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JbmRpZ29PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f9356f7cb0/IndigoOil.png",
             "chaosValue": 1.0
+        },
+        {
+            "id": 22523,
+            "name": "Sepia Oil",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TZXBpYU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/580407bed5/SepiaOil.png",
+            "chaosValue": 0.98
         },
         {
             "id": 22525,
