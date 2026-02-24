@@ -25,12 +25,6 @@
             "chaosValue": 44.0
         },
         {
-            "id": 106725,
-            "name": "Omen of the Jeweller",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlB1cnBsZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9033727556/VoodooOmens2Purple.png",
-            "chaosValue": 5.48
-        },
-        {
             "id": 106528,
             "name": "Omen of Refreshment",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlllbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c1c1cc7c84/VoodooOmens2Yellow.png",
@@ -52,7 +46,13 @@
             "id": 106541,
             "name": "Omen of Death-dancing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMVllbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/186596afad/VoodooOmens1Yellow.png",
-            "chaosValue": 3.04
+            "chaosValue": 3.0
+        },
+        {
+            "id": 106725,
+            "name": "Omen of the Jeweller",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlB1cnBsZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9033727556/VoodooOmens2Purple.png",
+            "chaosValue": 2.54
         },
         {
             "id": 106479,
@@ -61,16 +61,16 @@
             "chaosValue": 2.0
         },
         {
-            "id": 106620,
-            "name": "Omen of Adrenaline",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM1llbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f262a79371/VoodooOmens3Yellow.png",
-            "chaosValue": 2.0
-        },
-        {
             "id": 106505,
             "name": "Omen of Death's Door",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNFllbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c65d1281e2/VoodooOmens4Yellow.png",
             "chaosValue": 1.9
+        },
+        {
+            "id": 106620,
+            "name": "Omen of Adrenaline",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM1llbGxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f262a79371/VoodooOmens3Yellow.png",
+            "chaosValue": 1.4
         }
     ]
 }
