@@ -25,17 +25,26 @@ def fetch_and_save_data(domain, leagues, categories, save_folder):
         
         # JSON 데이터 저장
         data = response.json()
-        
-        # 필요한 필드만 추출
+
+        # 새 API 구조: lines(id, primaryValue, volumePrimaryValue), items(id, name, image)
+        # chaos 표현은 primaryValue 사용 (항상 카오스 기준)
+        lines_raw = data.get('lines', [])
+        items_list = data.get('items', [])
+
+        items_by_id = {item['id']: item for item in items_list if item.get('id')}
+
+        ICON_BASE = 'https://web.poecdn.com'
+
         filtered_data = {
             "lines": [
                 {
-                    'id': item.get('id'),
-                    'name': item.get('name'),
-                    'icon': item.get('icon'),
-                    'chaosValue': item.get('chaosValue')
+                    'id': line.get('id'),
+                    'name': items_by_id.get(line['id'], {}).get('name'),
+                    'icon': (ICON_BASE + items_by_id[line['id']]['image']) if line.get('id') in items_by_id and items_by_id[line['id']].get('image') else None,
+                    'chaosValue': line.get('primaryValue') or 0
                 }
-                for item in data.get('lines', [])
+                for line in lines_raw
+                if line.get('id')
             ]
         }
         

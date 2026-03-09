@@ -5,7 +5,7 @@ from make_regex_form import merge_regex_to_scarabs
 def main():
   DOMAIN = {
     'currency': 'https://poe.ninja/api/data/currencyoverview',
-    'item': 'https://poe.ninja/api/data/itemoverview',
+    'item': 'https://poe.ninja/poe1/api/economy/exchange/current/overview',
   }
 
   LEAGUES = {
