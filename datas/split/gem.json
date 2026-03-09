@@ -300,6 +300,10 @@
       "engType": "Discipline"
     },
     {
+      "korType": "신성한 폭발",
+      "engType": "Divine Blast"
+    },
+    {
       "korType": "신성한 응징",
       "engType": "Divine Retribution"
     },
@@ -562,6 +566,14 @@
     {
       "korType": "사술 폭발",
       "engType": "Hexblast"
+    },
+    {
+      "korType": "신성한 망치",
+      "engType": "Holy Hammers"
+    },
+    {
+      "korType": "신성한 타격",
+      "engType": "Holy Strike"
     },
     {
       "korType": "물의 구체",
@@ -860,6 +872,10 @@
       "engType": "Shield Crush"
     },
     {
+      "korType": "빛의 방패",
+      "engType": "Shield of Light"
+    },
+    {
       "korType": "충격 폭발",
       "engType": "Shock Nova"
     },
@@ -1016,8 +1032,8 @@
       "engType": "Sunder"
     },
     {
-      "korType": "휩쓸기",
-      "engType": "Sweep"
+      "korType": "신성한 휩쓸기",
+      "engType": "Holy Sweep"
     },
     {
       "korType": "지층 강타",
@@ -1412,6 +1428,10 @@
       "engType": "Awakened Ancestral Call Support"
     },
     {
+      "korType": "절멸 보조",
+      "engType": "Annihilation Support"
+    },
+    {
       "korType": "비전 쇄도 보조",
       "engType": "Arcane Surge Support"
     },
@@ -1444,6 +1464,10 @@
       "engType": "Awakened Blasphemy Support"
     },
     {
+      "korType": "축복받은 부름 보조",
+      "engType": "Blessed Call Support"
+    },
+    {
       "korType": "실명 보조",
       "engType": "Blind Support"
     },
@@ -1460,12 +1484,20 @@
       "engType": "Arrogance Support"
     },
     {
+      "korType": "피투성이 깃발 보조",
+      "engType": "Bloodsoaked Banner Support"
+    },
+    {
       "korType": "피의 갈증 보조",
       "engType": "Bloodthirst Support"
     },
     {
       "korType": "사무치는 한기 보조",
       "engType": "Bonechill Support"
+    },
+    {
+      "korType": "뼈 첨탑 보조",
+      "engType": "Bonespire Support"
     },
     {
       "korType": "포악함 보조",
@@ -1502,6 +1534,10 @@
     {
       "korType": "기절 시 시전 보조",
       "engType": "Cast when Stunned Support"
+    },
+    {
+      "korType": "수호 파괴 시 시전 보조",
+      "engType": "Cast on Ward Break Support"
     },
     {
       "korType": "집중 유지 중 시전 보조",
@@ -1560,8 +1596,16 @@
       "engType": "Cold to Fire Support"
     },
     {
+      "korType": "반려 의식 보조",
+      "engType": "Companionship Support"
+    },
+    {
       "korType": "효과 집중 보조",
       "engType": "Concentrated Effect Support"
+    },
+    {
+      "korType": "회중 보조",
+      "engType": "Congregation Support"
     },
     {
       "korType": "제어된 불길 보조",
@@ -1576,6 +1620,10 @@
       "engType": "Awakened Controlled Destruction Support"
     },
     {
+      "korType": "재사용 대기시간 회복 보조",
+      "engType": "Cooldown Recovery Support"
+    },
+    {
       "korType": "타락시키는 비명 보조",
       "engType": "Corrupting Cry Support"
     },
@@ -1586,6 +1634,10 @@
     {
       "korType": "마무리 타격 보조",
       "engType": "Culling Strike Support"
+    },
+    {
+      "korType": "약자 솎아내기 보조",
+      "engType": "Cull the Weak Support"
     },
     {
       "korType": "저주받은 지대 보조",
@@ -1624,12 +1676,24 @@
       "engType": "Devour Support"
     },
     {
+      "korType": "신성한 파수꾼 보조",
+      "engType": "Divine Sentinel Support"
+    },
+    {
       "korType": "대지 분쇄자 보조",
       "engType": "Earthbreaker Support"
     },
     {
+      "korType": "일식 보조",
+      "engType": "Eclipse Support"
+    },
+    {
       "korType": "효력 보조",
       "engType": "Efficacy Support"
+    },
+    {
+      "korType": "섬뜩한 신성 모독 보조",
+      "engType": "Eldritch Blasphemy Support"
     },
     {
       "korType": "원소 집중 보조",
@@ -1672,6 +1736,14 @@
       "engType": "Eternal Blessing Support"
     },
     {
+      "korType": "제명 보조",
+      "engType": "Excommunicate Support"
+    },
+    {
+      "korType": "귀감 보조",
+      "engType": "Exemplar Support"
+    },
+    {
       "korType": "노련한 보복 보조",
       "engType": "Expert Retaliation Support"
     },
@@ -1698,6 +1770,10 @@
     {
       "korType": "각성한 화염 관통 보조",
       "engType": "Awakened Fire Penetration Support"
+    },
+    {
+      "korType": "균열 보조",
+      "engType": "Fissure Support"
     },
     {
       "korType": "전쟁의 주먹 보조",
@@ -1728,6 +1804,10 @@
       "engType": "Fortify Support"
     },
     {
+      "korType": "부정한 손아귀 보조",
+      "engType": "Foulgrasp Support"
+    },
+    {
       "korType": "얼음 쐐기 보조",
       "engType": "Ice Bite Support"
     },
@@ -1744,12 +1824,40 @@
       "engType": "Frigid Bond Support"
     },
     {
+      "korType": "서리 마법사 보조",
+      "engType": "Frostmage Support"
+    },
+    {
       "korType": "관대함 보조",
       "engType": "Generosity Support"
     },
     {
       "korType": "각성한 관대함 보조",
       "engType": "Awakened Generosity Support"
+    },
+    {
+      "korType": "폭식 보조",
+      "engType": "Gluttony Support"
+    },
+    {
+      "korType": "상위 선대의 부름 보조",
+      "engType": "Greater Ancestral Call Support"
+    },
+    {
+      "korType": "상위 연쇄 보조",
+      "engType": "Greater Chain Support"
+    },
+    {
+      "korType": "상위 포식 보조",
+      "engType": "Greater Devour Support"
+    },
+    {
+      "korType": "상위 갈래 보조",
+      "engType": "Greater Fork Support"
+    },
+    {
+      "korType": "상위 역학 불안정성 보조",
+      "engType": "Greater Kinetic Instability Support"
     },
     {
       "korType": "상위 다중 투사체 보조",
@@ -1760,12 +1868,32 @@
       "engType": "Awakened Greater Multiple Projectiles Support"
     },
     {
+      "korType": "상위 연속타격 보조",
+      "engType": "Greater Multistrike Support"
+    },
+    {
+      "korType": "상위 연속 주문 보조",
+      "engType": "Greater Spell Cascade Support"
+    },
+    {
+      "korType": "상위 주문 메아리 보조",
+      "engType": "Greater Spell Echo Support"
+    },
+    {
+      "korType": "상위 촉발 보조",
+      "engType": "Greater Unleash Support"
+    },
+    {
       "korType": "상위 사격 공세 보조",
       "engType": "Greater Volley Support"
     },
     {
       "korType": "수호자의 축복 보조",
       "engType": "Guardian's Blessing Support"
+    },
+    {
+      "korType": "거룩함 보조",
+      "engType": "Hallow Support"
     },
     {
       "korType": "촉발 보조",
@@ -1780,8 +1908,20 @@
       "engType": "Hex Bloom Support"
     },
     {
+      "korType": "사술통과 보조",
+      "engType": "Hexpass Support"
+    },
+    {
+      "korType": "사술두꺼비 보조",
+      "engType": "Hextoad Support"
+    },
+    {
       "korType": "고충격 지뢰 보조",
       "engType": "High-Impact Mine Support"
+    },
+    {
+      "korType": "벌레집 태생 보조",
+      "engType": "Hiveborn Support"
     },
     {
       "korType": "점화 확산 보조",
@@ -1828,6 +1968,14 @@
       "engType": "Infernal Legion Support"
     },
     {
+      "korType": "발명 보조",
+      "engType": "Invention Support"
+    },
+    {
+      "korType": "규칙 뒤집기 보조",
+      "engType": "Invert the Rules Support"
+    },
+    {
       "korType": "강철 손아귀 보조",
       "engType": "Iron Grip Support"
     },
@@ -1852,12 +2000,16 @@
       "engType": "Knockback Support"
     },
     {
-      "korType": "하위 다중 투사체 보조",
-      "engType": "Lesser Multiple Projectiles Support"
+      "korType": "다중 투사체 보조",
+      "engType": "Multiple Projectiles Support"
     },
     {
       "korType": "중독 확률 보조",
       "engType": "Chance to Poison Support"
+    },
+    {
+      "korType": "치사량 투여 보조",
+      "engType": "Lethal Dose Support"
     },
     {
       "korType": "명중 시 생명력 획득 보조",
@@ -1886,6 +2038,10 @@
     {
       "korType": "궤적 지뢰 보조",
       "engType": "Locus Mine Support"
+    },
+    {
+      "korType": "계책 보조",
+      "engType": "Machinations Support"
     },
     {
       "korType": "힘줄 절단 보조",
@@ -1944,6 +2100,10 @@
       "engType": "Minion Life Support"
     },
     {
+      "korType": "소환수 맹약 보조",
+      "engType": "Minion Pact Support"
+    },
+    {
       "korType": "소환수 속도 보조",
       "engType": "Minion Speed Support"
     },
@@ -1992,6 +2152,18 @@
       "engType": "Overexertion Support"
     },
     {
+      "korType": "과열 보조",
+      "engType": "Overheat Support"
+    },
+    {
+      "korType": "과부하된 격렬함 보조",
+      "engType": "Overloaded Intensity Support"
+    },
+    {
+      "korType": "평화주의 보조",
+      "engType": "Pacifism Support"
+    },
+    {
       "korType": "사격 공세 보조",
       "engType": "Volley Support"
     },
@@ -2032,6 +2204,10 @@
       "engType": "Pulverise Support"
     },
     {
+      "korType": "장작 보조",
+      "engType": "Pyre Support"
+    },
+    {
       "korType": "격노 보조",
       "engType": "Rage Support"
     },
@@ -2044,7 +2220,7 @@
       "engType": "Swift Affliction Support"
     },
     {
-      "korType": "지속시간 감소 보조",
+      "korType": "지속시간 감폭 보조",
       "engType": "Less Duration Support"
     },
     {
@@ -2078,6 +2254,10 @@
     {
       "korType": "가학증 보조",
       "engType": "Sadism Support"
+    },
+    {
+      "korType": "경멸하는 전령 보조",
+      "engType": "Scornful Herald Support"
     },
     {
       "korType": "새로운 활력 보조",
@@ -2144,6 +2324,10 @@
       "engType": "Swiftbrand Support"
     },
     {
+      "korType": "수혈 보조",
+      "engType": "Transfusion Support"
+    },
+    {
       "korType": "덫 보조",
       "engType": "Trap Support"
     },
@@ -2172,12 +2356,24 @@
       "engType": "Awakened Unbound Ailments Support"
     },
     {
+      "korType": "불경한 삼위일체 보조",
+      "engType": "Unholy Trinity Support"
+    },
+    {
       "korType": "각성한 촉발 보조",
       "engType": "Awakened Unleash Support"
     },
     {
       "korType": "긴급 명령 보조",
       "engType": "Urgent Orders Support"
+    },
+    {
+      "korType": "바알 희생 보조",
+      "engType": "Vaal Sacrifice Support"
+    },
+    {
+      "korType": "바알 유혹 보조",
+      "engType": "Vaal Temptation Support"
     },
     {
       "korType": "각성한 포악한 투사체 보조",
@@ -2194,6 +2390,14 @@
     {
       "korType": "각성한 공허 조작 보조",
       "engType": "Awakened Void Manipulation Support"
+    },
+    {
+      "korType": "공허 충격파 보조",
+      "engType": "Void Shockwave Support"
+    },
+    {
+      "korType": "공허폭풍 보조",
+      "engType": "Voidstorm Support"
     },
     {
       "korType": "일촉즉발 보조",
@@ -2751,6 +2955,13 @@
       "disc": "alt_x"
     },
     {
+      "korType": "엄습하는 서리",
+      "engType": "Creeping Frost",
+      "engText": "Creeping Frost of Floes",
+      "korText": "부빙의 엄습하는 서리",
+      "disc": "alt_x"
+    },
+    {
       "korType": "종말의 낙인",
       "engType": "Armageddon Brand",
       "engText": "Armageddon Brand of Volatility",
@@ -2860,6 +3071,13 @@
       "engType": "Blade Flurry",
       "engText": "Blade Flurry of Incision",
       "korText": "절개의 질풍의 칼날",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "충전 질주",
+      "engType": "Charged Dash",
+      "engText": "Charged Dash of Projection",
+      "korText": "투영의 충전 질주",
       "disc": "alt_x"
     },
     {
@@ -3066,6 +3284,13 @@
       "disc": "alt_x"
     },
     {
+      "korType": "화염방사기 덫",
+      "engType": "Flamethrower Trap",
+      "engText": "Flamethrower Trap of Stability",
+      "korText": "안정성의 화염방사기 덫",
+      "disc": "alt_x"
+    },
+    {
       "korType": "신성한 화염 토템",
       "engType": "Holy Flame Totem",
       "engText": "Holy Flame Totem of Ire",
@@ -3199,6 +3424,13 @@
       "disc": "alt_x"
     },
     {
+      "korType": "착취 덫",
+      "engType": "Siphoning Trap",
+      "engText": "Siphoning Trap of Pain",
+      "korText": "고통의 착취 덫",
+      "disc": "alt_x"
+    },
+    {
       "korType": "얼음 창",
       "engType": "Ice Spear",
       "engText": "Ice Spear of Splitting",
@@ -3238,6 +3470,13 @@
       "engType": "Kinetic Bolt",
       "engText": "Kinetic Bolt of Fragmentation",
       "korText": "파쇄의 역학 투사체",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "역학 일제 사격",
+      "engType": "Kinetic Fusillade",
+      "engText": "Kinetic Fusillade of Detonation",
+      "korText": "기폭의 역학 일제 사격",
       "disc": "alt_x"
     },
     {
@@ -3322,6 +3561,13 @@
       "engType": "Molten Strike",
       "engText": "Molten Strike of the Zenith",
       "korText": "북극성의 용암 타격",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "폭풍 보주",
+      "engType": "Orb of Storms",
+      "engText": "Orb of Storms of Squalls",
+      "korText": "돌풍의 폭풍 보주",
       "disc": "alt_x"
     },
     {
@@ -3430,6 +3676,13 @@
       "disc": "alt_x"
     },
     {
+      "korType": "불타는 굴레",
+      "engType": "Searing Bond",
+      "engText": "Searing Bond of Detonation",
+      "korText": "기폭의 불타는 굴레",
+      "disc": "alt_x"
+    },
+    {
       "korType": "강철 파편",
       "engType": "Shattering Steel",
       "engText": "Shattering Steel of Ammunition",
@@ -3441,6 +3694,20 @@
       "engType": "Shield Crush",
       "engText": "Shield Crush of the Chieftain",
       "korText": "부족장의 방패 타쇄",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "충격 폭발",
+      "engType": "Shock Nova",
+      "engText": "Shock Nova of Procession",
+      "korText": "행진의 충격 폭발",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "충격파 토템",
+      "engType": "Shockwave Totem",
+      "engText": "Shockwave Totem of Authority",
+      "korText": "권위의 충격파 토템",
       "disc": "alt_x"
     },
     {
@@ -3507,6 +3774,13 @@
       "disc": "alt_x"
     },
     {
+      "korType": "정전기 타격",
+      "engType": "Static Strike",
+      "engText": "Static Strike of Gathering Lightning",
+      "korText": "모여드는 번개의 정전기 타격",
+      "disc": "alt_x"
+    },
+    {
       "korType": "폭풍 연대",
       "engType": "Stormbind",
       "engText": "Stormbind of Teleportation",
@@ -3518,6 +3792,13 @@
       "engType": "Storm Brand",
       "engText": "Storm Brand of Indecision",
       "korText": "우유부단의 폭풍의 낙인",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "폭풍 점사",
+      "engType": "Storm Burst",
+      "engText": "Storm Burst of Repulsion",
+      "korText": "반발의 폭풍 점사",
       "disc": "alt_x"
     },
     {

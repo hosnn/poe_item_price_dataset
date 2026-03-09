@@ -244,6 +244,10 @@
       "engType": "Mechanical Belt"
     },
     {
+      "korType": "줄 허리띠",
+      "engType": "Cord Belt"
+    },
+    {
       "korType": "균열 반지",
       "engType": "Breach Ring"
     },
@@ -587,13 +591,13 @@
       "korType": "사슬 허리띠",
       "engType": "Chain Belt",
       "engText": "Auxium Chain Belt (Legacy)",
-      "korText": "오시움 사슬 허리띠 (Legacy)",
+      "korText": "오시움 사슬 허리띠 (유산)",
       "engName": "Auxium",
       "korName": "오시움",
+      "disc": "legacy",
       "flags": {
         "unique": true
-      },
-      "disc": "legacy"
+      }
     },
     {
       "korType": "터키석 목걸이",
@@ -742,13 +746,13 @@
       "korType": "산호 반지",
       "engType": "Coral Ring",
       "engText": "Bloodboil Coral Ring (Legacy)",
-      "korText": "끓는 피 산호 반지 (Legacy)",
+      "korText": "끓는 피 산호 반지 (유산)",
       "engName": "Bloodboil",
       "korName": "끓는 피",
+      "disc": "legacy",
       "flags": {
         "unique": true
-      },
-      "disc": "legacy"
+      }
     },
     {
       "korType": "대리석 목걸이",
@@ -765,13 +769,13 @@
       "korType": "산호 목걸이",
       "engType": "Coral Amulet",
       "engText": "Bloodgrip Coral Amulet (Legacy)",
-      "korText": "피의 지배 산호 목걸이 (Legacy)",
+      "korText": "피의 지배 산호 목걸이 (유산)",
       "engName": "Bloodgrip",
       "korName": "피의 지배",
+      "disc": "legacy",
       "flags": {
         "unique": true
-      },
-      "disc": "legacy"
+      }
     },
     {
       "korType": "호박 목걸이",
@@ -1533,6 +1537,28 @@
       }
     },
     {
+      "korType": "청금석 목걸이",
+      "engType": "Lapis Amulet",
+      "engText": "Khatal's Geyser Lapis Amulet",
+      "korText": "카탈의 간헐천 청금석 목걸이",
+      "engName": "Khatal's Geyser",
+      "korName": "카탈의 간헐천",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "청금석 목걸이",
+      "engType": "Lapis Amulet",
+      "engText": "Khatal's Weeping Lapis Amulet",
+      "korText": "카탈의 흐느낌 청금석 목걸이",
+      "engName": "Khatal's Weeping",
+      "korName": "카탈의 흐느낌",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "토파즈 반지",
       "engType": "Topaz Ring",
       "engText": "Kikazaru Topaz Ring",
@@ -2149,6 +2175,17 @@
       }
     },
     {
+      "korType": "다이아몬드 반지",
+      "engType": "Diamond Ring",
+      "engText": "Replica Gifts from Above Diamond Ring",
+      "korText": "하늘에서 내려준 모조품 선물 다이아몬드 반지",
+      "engName": "Replica Gifts from Above",
+      "korName": "하늘에서 내려준 모조품 선물",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "가죽 허리띠",
       "engType": "Leather Belt",
       "engText": "Replica Headhunter Leather Belt",
@@ -2347,6 +2384,28 @@
       }
     },
     {
+      "korType": "사슬 허리띠",
+      "engType": "Chain Belt",
+      "engText": "Saresh's Darkness Chain Belt",
+      "korText": "사레쉬의 어둠 사슬 허리띠",
+      "engName": "Saresh's Darkness",
+      "korName": "사레쉬의 어둠",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "가죽 허리띠",
+      "engType": "Leather Belt",
+      "engText": "Screams of the Desiccated Leather Belt",
+      "korText": "바싹 마른 자의 비명 가죽 허리띠",
+      "engName": "Screams of the Desiccated",
+      "korName": "바싹 마른 자의 비명",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "마노 목걸이",
       "engType": "Agate Amulet",
       "engText": "Shaper's Seed Agate Amulet",
@@ -2408,6 +2467,17 @@
       "korText": "뱀 구덩이 사파이어 반지",
       "engName": "Snakepit",
       "korName": "뱀 구덩이",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "사슬 허리띠",
+      "engType": "Chain Belt",
+      "engText": "Solerai's Radiance Chain Belt",
+      "korText": "솔레라이의 광휘 사슬 허리띠",
+      "engName": "Solerai's Radiance",
+      "korName": "솔레라이의 광휘",
       "flags": {
         "unique": true
       }
@@ -2661,6 +2731,17 @@
       "korText": "에일러덱스 마노 목걸이",
       "engName": "The Aylardex",
       "korName": "에일러덱스",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "황금 반지",
+      "engType": "Gold Ring",
+      "engText": "The Bandit Lord's Band Gold Ring",
+      "korText": "도적 두목의 띠 황금 반지",
+      "engName": "The Bandit Lord's Band",
+      "korName": "도적 두목의 띠",
       "flags": {
         "unique": true
       }

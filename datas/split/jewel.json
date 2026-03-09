@@ -121,13 +121,13 @@
       "korType": "코발트색 주얼",
       "engType": "Cobalt Jewel",
       "engText": "To Dust Cobalt Jewel (Legacy)",
-      "korText": "먼지처럼 사라져라 코발트색 주얼 (Legacy)",
+      "korText": "먼지처럼 사라져라 코발트색 주얼 (유산)",
       "engName": "To Dust",
       "korName": "먼지처럼 사라져라",
+      "disc": "legacy",
       "flags": {
         "unique": true
-      },
-      "disc": "legacy"
+      }
     },
     {
       "korType": "코발트색 주얼",
@@ -807,6 +807,17 @@
       "korText": "건강한 마음 코발트색 주얼",
       "engName": "Healthy Mind",
       "korName": "건강한 마음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "무궁한 주얼",
+      "engType": "Timeless Jewel",
+      "engText": "Heroic Tragedy Timeless Jewel",
+      "korText": "영웅적인 비극 무궁한 주얼",
+      "engName": "Heroic Tragedy",
+      "korName": "영웅적인 비극",
       "flags": {
         "unique": true
       }
