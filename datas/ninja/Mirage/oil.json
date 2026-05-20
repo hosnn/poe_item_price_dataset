@@ -4,7 +4,13 @@
             "id": "azure-oil",
             "name": "Azure Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BenVyZU9pbCIsInNjYWxlIjoxfV0/a68235e8e8/AzureOil.png",
-            "chaosValue": 0.2432
+            "chaosValue": 0.2292
+        },
+        {
+            "id": "black-oil",
+            "name": "Black Oil",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9CbGFja09pbCIsInNjYWxlIjoxfV0/ce6830b309/BlackOil.png",
+            "chaosValue": 10.36
         },
         {
             "id": "amber-oil",
@@ -13,88 +19,82 @@
             "chaosValue": 0.1914
         },
         {
-            "id": "black-oil",
-            "name": "Black Oil",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9CbGFja09pbCIsInNjYWxlIjoxfV0/ce6830b309/BlackOil.png",
-            "chaosValue": 11.31
-        },
-        {
             "id": "clear-oil",
             "name": "Clear Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInNjYWxlIjoxfV0/0a7f30cc3b/ClearOil.png",
-            "chaosValue": 0.08625
+            "chaosValue": 0.06186
         },
         {
             "id": "crimson-oil",
             "name": "Crimson Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Dcmltc29uT2lsIiwic2NhbGUiOjF9XQ/5e5f62ac0e/CrimsonOil.png",
-            "chaosValue": 3.85
+            "chaosValue": 3.16
         },
         {
             "id": "indigo-oil",
             "name": "Indigo Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JbmRpZ29PaWwiLCJzY2FsZSI6MX1d/d11c298ca8/IndigoOil.png",
-            "chaosValue": 0.7652
+            "chaosValue": 0.9369
         },
         {
             "id": "opalescent-oil",
             "name": "Opalescent Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9PcGFsZXNjZW50T2lsIiwic2NhbGUiOjF9XQ/abd419a154/OpalescentOil.png",
-            "chaosValue": 48.51
+            "chaosValue": 45.89
         },
         {
             "id": "reflective-oil",
             "name": "Reflective Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9NaXJyb3JPaWwiLCJzY2FsZSI6MX1d/eca4a49588/MirrorOil.png",
-            "chaosValue": 22.26
+            "chaosValue": 25.85
         },
         {
             "id": "sepia-oil",
             "name": "Sepia Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TZXBpYU9pbCIsInNjYWxlIjoxfV0/9114927bcc/SepiaOil.png",
-            "chaosValue": 0.07236
+            "chaosValue": 0.0719
         },
         {
             "id": "silver-oil",
             "name": "Silver Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TaWx2ZXJPaWwiLCJzY2FsZSI6MX1d/d6ad829c2f/SilverOil.png",
-            "chaosValue": 147.5
+            "chaosValue": 146.2
         },
         {
             "id": "violet-oil",
             "name": "Violet Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WaW9sZXRPaWwiLCJzY2FsZSI6MX1d/76c3dc06f8/VioletOil.png",
-            "chaosValue": 1.25
+            "chaosValue": 1.17
         },
         {
             "id": "golden-oil",
             "name": "Golden Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Hb2xkZW5PaWwiLCJzY2FsZSI6MX1d/263a5d73da/GoldenOil.png",
-            "chaosValue": 403.5
+            "chaosValue": 425.4
         },
         {
             "id": "prismatic-oil",
             "name": "Prismatic Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9QcmlzbWF0aWNPaWwiLCJzY2FsZSI6MX1d/271183afbe/PrismaticOil.png",
-            "chaosValue": 196.6
+            "chaosValue": 206.1
         },
         {
             "id": "tainted-oil",
             "name": "Tainted Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WYWFsT2lsIiwic2NhbGUiOjF9XQ/ac4ceb0430/VaalOil.png",
-            "chaosValue": 1745
+            "chaosValue": 1728
         },
         {
             "id": "teal-oil",
             "name": "Teal Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9UZWFsT2lsIiwic2NhbGUiOjF9XQ/d90d65a90b/TealOil.png",
-            "chaosValue": 0.3893
+            "chaosValue": 0.3063
         },
         {
             "id": "verdant-oil",
             "name": "Verdant Oil",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WZXJkYW50T2lsIiwic2NhbGUiOjF9XQ/efeac217c1/VerdantOil.png",
-            "chaosValue": 0.4996
+            "chaosValue": 0.5001
         }
     ]
 }
