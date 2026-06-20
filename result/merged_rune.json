@@ -9,19 +9,25 @@
     "korType": "요새의 룬 접목",
     "engType": "Runegraft of the Fortress",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxIiwic2NhbGUiOjF9XQ/98d663edbd/VillageRune1.png",
-    "chaosValue": 440.8
+    "chaosValue": 422.7
   },
   {
     "korType": "속박의 룬 접목",
     "engType": "Runegraft of the Bound",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzIiwic2NhbGUiOjF9XQ/7e7fa2cc52/VillageRune3.png",
-    "chaosValue": 9.5
+    "chaosValue": 8.18
   },
   {
     "korType": "왜곡의 룬 접목",
     "engType": "Runegraft of the Warp",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMSIsInNjYWxlIjoxfV0/3a56530c4f/VillageRune11.png",
-    "chaosValue": 1118
+    "chaosValue": 1082
+  },
+  {
+    "korType": "굴절의 룬 접목",
+    "engType": "Runegraft of Refraction",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU3Iiwic2NhbGUiOjF9XQ/953733102b/VillageRune7.png",
+    "chaosValue": 1
   },
   {
     "korType": "연결의 룬 접목",
@@ -45,7 +51,7 @@
     "korType": "날렵한 자의 룬 접목",
     "engType": "Runegraft of the Agile",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMiIsInNjYWxlIjoxfV0/20d6340a74/VillageRune32.png",
-    "chaosValue": 2
+    "chaosValue": 3.5
   },
   {
     "korType": "좌측의 룬 접목",
@@ -54,16 +60,10 @@
     "chaosValue": 14
   },
   {
-    "korType": "들이마심의 룬 접목",
-    "engType": "Runegraft of Quaffing",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMSIsInNjYWxlIjoxfV0/d9dc5f6d05/VillageRune21.png",
-    "chaosValue": 1
-  },
-  {
     "korType": "폭발징표의 룬 접목",
     "engType": "Runegraft of the Novamark",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNSIsInNjYWxlIjoxfV0/fb0f9a5935/VillageRune25.png",
-    "chaosValue": 5
+    "chaosValue": 1.67
   },
   {
     "korType": "신성 모독의 룬 접목",
@@ -78,45 +78,27 @@
     "chaosValue": 7
   },
   {
-    "korType": "영혼심지의 룬 접목",
-    "engType": "Runegraft of the Soulwick",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMiIsInNjYWxlIjoxfV0/6a9ec770d5/VillageRune12.png",
-    "chaosValue": 12
-  },
-  {
-    "korType": "마녀징표의 룬 접목",
-    "engType": "Runegraft of the Witchmark",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNCIsInNjYWxlIjoxfV0/b83d8d141d/VillageRune24.png",
-    "chaosValue": 10
-  },
-  {
-    "korType": "고통의 룬 접목",
-    "engType": "Runegraft of Suffering",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNyIsInNjYWxlIjoxfV0/4095f212ff/VillageRune27.png",
-    "chaosValue": 7
-  },
-  {
     "korType": "마석 제작의 룬 접목",
     "engType": "Runegraft of Gemcraft",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNCIsInNjYWxlIjoxfV0/6288329dc0/VillageRune14.png",
-    "chaosValue": 92.75
+    "chaosValue": 195
   },
   {
     "korType": "힘을 부여받은 자의 룬 접목",
     "engType": "Runegraft of the Imbued",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMCIsInNjYWxlIjoxfV0/63d0c522fb/VillageRune30.png",
-    "chaosValue": 5
+    "chaosValue": 4
   },
   {
     "korType": "배반의 룬 접목",
     "engType": "Runegraft of Treachery",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMCIsInNjYWxlIjoxfV0/6f462c33f6/VillageRune20.png",
-    "chaosValue": 18.64
+    "chaosValue": 14.25
   },
   {
     "korType": "안정성의 룬 접목",
     "engType": "Runegraft of Stability",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyIiwic2NhbGUiOjF9XQ/c0bfc39082/VillageRune2.png",
-    "chaosValue": 30
+    "chaosValue": 52.5
   }
 ]
