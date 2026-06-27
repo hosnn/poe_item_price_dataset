@@ -22,7 +22,7 @@
             "id": "runegraft-of-the-imbued",
             "name": "Runegraft of the Imbued",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMCIsInNjYWxlIjoxfV0/63d0c522fb/VillageRune30.png",
-            "chaosValue": 4
+            "chaosValue": 5.2
         },
         {
             "id": "runegraft-of-the-jeweller",
@@ -49,16 +49,16 @@
             "chaosValue": 1
         },
         {
-            "id": "runegraft-of-time",
-            "name": "Runegraft of Time",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxOSIsInNjYWxlIjoxfV0/9c1836484c/VillageRune19.png",
-            "chaosValue": 66
-        },
-        {
             "id": "runegraft-of-treachery",
             "name": "Runegraft of Treachery",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMCIsInNjYWxlIjoxfV0/6f462c33f6/VillageRune20.png",
-            "chaosValue": 17.57
+            "chaosValue": 17.25
+        },
+        {
+            "id": "runegraft-of-gemcraft",
+            "name": "Runegraft of Gemcraft",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNCIsInNjYWxlIjoxfV0/6288329dc0/VillageRune14.png",
+            "chaosValue": 1159
         },
         {
             "id": "runegraft-of-connection",
@@ -88,13 +88,7 @@
             "id": "runegraft-of-the-warp",
             "name": "Runegraft of the Warp",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMSIsInNjYWxlIjoxfV0/3a56530c4f/VillageRune11.png",
-            "chaosValue": 1160
-        },
-        {
-            "id": "runegraft-of-gemcraft",
-            "name": "Runegraft of Gemcraft",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNCIsInNjYWxlIjoxfV0/6288329dc0/VillageRune14.png",
-            "chaosValue": 91
+            "chaosValue": 1159
         }
     ]
 }
