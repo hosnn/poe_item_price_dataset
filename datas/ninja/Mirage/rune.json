@@ -1,10 +1,10 @@
 {
     "lines": [
         {
-            "id": "runegraft-of-blasphemy",
-            "name": "Runegraft of Blasphemy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNSIsInNjYWxlIjoxfV0/a2bc8d267f/VillageRune15.png",
-            "chaosValue": 5
+            "id": "runegraft-of-gemcraft",
+            "name": "Runegraft of Gemcraft",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNCIsInNjYWxlIjoxfV0/6288329dc0/VillageRune14.png",
+            "chaosValue": 500
         },
         {
             "id": "runegraft-of-stability",
@@ -17,12 +17,6 @@
             "name": "Runegraft of the Agile",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMiIsInNjYWxlIjoxfV0/20d6340a74/VillageRune32.png",
             "chaosValue": 3.71
-        },
-        {
-            "id": "runegraft-of-the-combatant",
-            "name": "Runegraft of the Combatant",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU0Iiwic2NhbGUiOjF9XQ/81bdd89a32/VillageRune4.png",
-            "chaosValue": 4
         },
         {
             "id": "runegraft-of-the-imbued",
@@ -46,31 +40,19 @@
             "id": "runegraft-of-treachery",
             "name": "Runegraft of Treachery",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMCIsInNjYWxlIjoxfV0/6f462c33f6/VillageRune20.png",
-            "chaosValue": 19.17
-        },
-        {
-            "id": "runegraft-of-gemcraft",
-            "name": "Runegraft of Gemcraft",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNCIsInNjYWxlIjoxfV0/6288329dc0/VillageRune14.png",
-            "chaosValue": 1175
+            "chaosValue": 98.0
         },
         {
             "id": "runegraft-of-connection",
             "name": "Runegraft of Connection",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyOSIsInNjYWxlIjoxfV0/741ebd3bc3/VillageRune29.png",
-            "chaosValue": 3
+            "chaosValue": 2
         },
         {
             "id": "runegraft-of-loyalty",
             "name": "Runegraft of Loyalty",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMyIsInNjYWxlIjoxfV0/b856c79baa/VillageRune23.png",
             "chaosValue": 1
-        },
-        {
-            "id": "runegraft-of-refraction",
-            "name": "Runegraft of Refraction",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU3Iiwic2NhbGUiOjF9XQ/953733102b/VillageRune7.png",
-            "chaosValue": 10
         },
         {
             "id": "runegraft-of-resurgence",
@@ -82,31 +64,43 @@
             "id": "runegraft-of-the-angler",
             "name": "Runegraft of the Angler",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMCIsInNjYWxlIjoxfV0/7a75e42c42/VillageRune10.png",
-            "chaosValue": 25253
-        },
-        {
-            "id": "runegraft-of-the-fortress",
-            "name": "Runegraft of the Fortress",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxIiwic2NhbGUiOjF9XQ/98d663edbd/VillageRune1.png",
-            "chaosValue": 715.8
-        },
-        {
-            "id": "runegraft-of-the-warp",
-            "name": "Runegraft of the Warp",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMSIsInNjYWxlIjoxfV0/3a56530c4f/VillageRune11.png",
-            "chaosValue": 1175
-        },
-        {
-            "id": "runegraft-of-suffering",
-            "name": "Runegraft of Suffering",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNyIsInNjYWxlIjoxfV0/4095f212ff/VillageRune27.png",
-            "chaosValue": 1
+            "chaosValue": 25284
         },
         {
             "id": "runegraft-of-the-bound",
             "name": "Runegraft of the Bound",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzIiwic2NhbGUiOjF9XQ/7e7fa2cc52/VillageRune3.png",
             "chaosValue": 15
+        },
+        {
+            "id": "runegraft-of-the-fortress",
+            "name": "Runegraft of the Fortress",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxIiwic2NhbGUiOjF9XQ/98d663edbd/VillageRune1.png",
+            "chaosValue": 796.9
+        },
+        {
+            "id": "runegraft-of-the-warp",
+            "name": "Runegraft of the Warp",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMSIsInNjYWxlIjoxfV0/3a56530c4f/VillageRune11.png",
+            "chaosValue": 1176
+        },
+        {
+            "id": "runegraft-of-blasphemy",
+            "name": "Runegraft of Blasphemy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNSIsInNjYWxlIjoxfV0/a2bc8d267f/VillageRune15.png",
+            "chaosValue": 5
+        },
+        {
+            "id": "runegraft-of-the-combatant",
+            "name": "Runegraft of the Combatant",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU0Iiwic2NhbGUiOjF9XQ/81bdd89a32/VillageRune4.png",
+            "chaosValue": 3
+        },
+        {
+            "id": "runegraft-of-refraction",
+            "name": "Runegraft of Refraction",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU3Iiwic2NhbGUiOjF9XQ/953733102b/VillageRune7.png",
+            "chaosValue": 10
         }
     ]
 }
