@@ -1,21 +1,27 @@
 [
   {
+    "korType": "충성의 룬 접목",
+    "engType": "Runegraft of Loyalty",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMyIsInNjYWxlIjoxfV0/b856c79baa/VillageRune23.png",
+    "chaosValue": 1
+  },
+  {
     "korType": "요새의 룬 접목",
     "engType": "Runegraft of the Fortress",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxIiwic2NhbGUiOjF9XQ/98d663edbd/VillageRune1.png",
-    "chaosValue": 829
+    "chaosValue": 936
   },
   {
     "korType": "속박의 룬 접목",
     "engType": "Runegraft of the Bound",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzIiwic2NhbGUiOjF9XQ/7e7fa2cc52/VillageRune3.png",
-    "chaosValue": 4.67
+    "chaosValue": 10
   },
   {
     "korType": "왜곡의 룬 접목",
     "engType": "Runegraft of the Warp",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMSIsInNjYWxlIjoxfV0/3a56530c4f/VillageRune11.png",
-    "chaosValue": 1089
+    "chaosValue": 1122
   },
   {
     "korType": "굴절의 룬 접목",
@@ -33,7 +39,13 @@
     "korType": "시간의 룬 접목",
     "engType": "Runegraft of Time",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxOSIsInNjYWxlIjoxfV0/9c1836484c/VillageRune19.png",
-    "chaosValue": 13.67
+    "chaosValue": 14.2
+  },
+  {
+    "korType": "재봉합의 룬 접목",
+    "engType": "Runegraft of Restitching",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMiIsInNjYWxlIjoxfV0/84a974b87d/VillageRune22.png",
+    "chaosValue": 3
   },
   {
     "korType": "보석상의 룬 접목",
@@ -51,19 +63,25 @@
     "korType": "좌측의 룬 접목",
     "engType": "Runegraft of the Sinistral",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU2Iiwic2NhbGUiOjF9XQ/2eed968220/VillageRune6.png",
-    "chaosValue": 4
+    "chaosValue": 3
   },
   {
     "korType": "들이마심의 룬 접목",
     "engType": "Runegraft of Quaffing",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMSIsInNjYWxlIjoxfV0/d9dc5f6d05/VillageRune21.png",
-    "chaosValue": 3.5
+    "chaosValue": 2.67
+  },
+  {
+    "korType": "강의 룬 접목",
+    "engType": "Runegraft of the River",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU1Iiwic2NhbGUiOjF9XQ/239b52bb4d/VillageRune5.png",
+    "chaosValue": 10
   },
   {
     "korType": "전투원의 룬 접목",
     "engType": "Runegraft of the Combatant",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU0Iiwic2NhbGUiOjF9XQ/81bdd89a32/VillageRune4.png",
-    "chaosValue": 4
+    "chaosValue": 1
   },
   {
     "korType": "폭발징표의 룬 접목",
@@ -78,16 +96,22 @@
     "chaosValue": 5
   },
   {
-    "korType": "고통의 룬 접목",
-    "engType": "Runegraft of Suffering",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNyIsInNjYWxlIjoxfV0/4095f212ff/VillageRune27.png",
-    "chaosValue": 15
+    "korType": "영혼심지의 룬 접목",
+    "engType": "Runegraft of the Soulwick",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMiIsInNjYWxlIjoxfV0/6a9ec770d5/VillageRune12.png",
+    "chaosValue": 12
+  },
+  {
+    "korType": "마녀징표의 룬 접목",
+    "engType": "Runegraft of the Witchmark",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNCIsInNjYWxlIjoxfV0/b83d8d141d/VillageRune24.png",
+    "chaosValue": 1
   },
   {
     "korType": "마석 제작의 룬 접목",
     "engType": "Runegraft of Gemcraft",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxNCIsInNjYWxlIjoxfV0/6288329dc0/VillageRune14.png",
-    "chaosValue": 854.9
+    "chaosValue": 1166
   },
   {
     "korType": "힘을 부여받은 자의 룬 접목",
@@ -99,7 +123,7 @@
     "korType": "배반의 룬 접목",
     "engType": "Runegraft of Treachery",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMCIsInNjYWxlIjoxfV0/6f462c33f6/VillageRune20.png",
-    "chaosValue": 17
+    "chaosValue": 10.35
   },
   {
     "korType": "안정성의 룬 접목",
