@@ -3,14 +3,14 @@
     "korType": "심연 갑충석",
     "engType": "Abyss Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJBYnlzcyIsInNjYWxlIjoxfV0/05f3ac3c5c/LesserScarabAbyss.png",
-    "chaosValue": 5.86,
+    "chaosValue": 2.84,
     "regex": "^심연"
   },
   {
     "korType": "군중의 심연 갑충석",
     "engType": "Abyss Scarab of Multitudes",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBYnlzcyIsInNjYWxlIjoxfV0/e28a53e1a0/NormalScarabAbyss.png",
-    "chaosValue": 8.21,
+    "chaosValue": 7.67,
     "regex": "군.*심"
   },
   {
@@ -24,14 +24,14 @@
     "korType": "건축물의 심연 갑충석",
     "engType": "Abyss Scarab of Edifice",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJzY2FsZSI6MX1d/84851bd122/GreaterScarabAbyss.png",
-    "chaosValue": 14,
+    "chaosValue": 13,
     "regex": "건.물"
   },
   {
     "korType": "심원한 깊이의 심연 갑충석",
     "engType": "Abyss Scarab of Profound Depth",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkFieXNzIiwic2NhbGUiOjF9XQ/b40fb2422b/AltTier4ScarabAbyss.png",
-    "chaosValue": 5.45,
+    "chaosValue": 5.78,
     "regex": "심원"
   },
   {
@@ -45,7 +45,7 @@
     "korType": "비대화의 혼란 갑충석",
     "engType": "Anarchy Scarab of Gigantification",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBbmFyY2h5Iiwic2NhbGUiOjF9XQ/d391e90e68/NormalScarabAnarchy.png",
-    "chaosValue": 0.2826,
+    "chaosValue": 0.7692,
     "regex": "비대"
   },
   {
@@ -73,14 +73,14 @@
     "korType": "떼의 야수 도감 갑충석",
     "engType": "Bestiary Scarab of the Herd",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZWFzdHMiLCJzY2FsZSI6MX1d/0d5c9d2d30/NormalScarabBeasts.png",
-    "chaosValue": 7.79,
+    "chaosValue": 7.96,
     "regex": "떼"
   },
   {
     "korType": "복제의 야수 도감 갑충석",
     "engType": "Bestiary Scarab of Duplicating",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmVhc3RzIiwic2NhbGUiOjF9XQ/09caa391c6/GreaterScarabBeasts.png",
-    "chaosValue": 8.87,
+    "chaosValue": 8.8,
     "regex": "복.*야"
   },
   {
@@ -94,14 +94,14 @@
     "korType": "올플레임의 배신 갑충석",
     "engType": "Betrayal Scarab of the Allflame",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInNjYWxlIjoxfV0/3e4a843098/NormalScarabBetrayal.png",
-    "chaosValue": 0.6614,
+    "chaosValue": 0.6639,
     "regex": "올플"
   },
   {
     "korType": "보강의 배신 갑충석",
     "engType": "Betrayal Scarab of Reinforcements",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmV0cmF5YWwiLCJzY2FsZSI6MX1d/7dd831f857/GreaterScarabBetrayal.png",
-    "chaosValue": 4.53,
+    "chaosValue": 4.76,
     "regex": "보강"
   },
   {
@@ -115,35 +115,35 @@
     "korType": "이계 갑충석",
     "engType": "Beyond Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZXlvbmQiLCJzY2FsZSI6MX1d/28f0c03cf7/LesserScarabBeyond.png",
-    "chaosValue": 0.9485,
+    "chaosValue": 17.82,
     "regex": "^이계"
   },
   {
     "korType": "혈우병의 이계 갑충석",
     "engType": "Beyond Scarab of Haemophilia",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXlvbmQiLCJzY2FsZSI6MX1d/6d3487e108/NormalScarabBeyond.png",
-    "chaosValue": 1.58,
+    "chaosValue": 1.65,
     "regex": "혈우"
   },
   {
     "korType": "재기의 이계 갑충석",
     "engType": "Beyond Scarab of Resurgence",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiQmV5b25kIiwic2NhbGUiOjF9XQ/4e3cafe44b/AltGreaterScarabBeyond.png",
-    "chaosValue": 1.87,
+    "chaosValue": 2.35,
     "regex": "재기"
   },
   {
     "korType": "침략의 이계 갑충석",
     "engType": "Beyond Scarab of the Invasion",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJleW9uZCIsInNjYWxlIjoxfV0/a1d0b3e27b/Tier4ScarabBeyond.png",
-    "chaosValue": 2.03,
+    "chaosValue": 1.91,
     "regex": "략.*이"
   },
   {
     "korType": "역병 갑충석",
     "engType": "Blight Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCbGlnaHQiLCJzY2FsZSI6MX1d/401222e4f4/LesserScarabBlight.png",
-    "chaosValue": 11.03,
+    "chaosValue": 10.91,
     "regex": "^역.*갑"
   },
   {
@@ -157,113 +157,120 @@
     "korType": "개화의 역병 갑충석",
     "engType": "Blight Scarab of Blooming",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInNjYWxlIjoxfV0/7ecd3dcebc/Tier4ScarabBlight.png",
-    "chaosValue": 49.13,
+    "chaosValue": 48.61,
     "regex": "개화"
   },
   {
     "korType": "고무의 역병 갑충석",
     "engType": "Blight Scarab of Invigoration",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJsaWdodCIsInNjYWxlIjoxfV0/34e07da01c/AltTier4ScarabBlight.png",
-    "chaosValue": 22.71,
+    "chaosValue": 22.32,
     "regex": "고무"
   },
   {
     "korType": "벌레집의 균열 갑충석",
     "engType": "Breach Scarab of the Hive",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJzY2FsZSI6MX1d/769139d13b/LesserScarabBreach.png",
-    "chaosValue": 0.6667,
+    "chaosValue": 0.7597,
     "regex": "집의"
   },
   {
     "korType": "불안정의 균열 갑충석",
     "engType": "Breach Scarab of Instability",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRMZXNzZXJTY2FyYWJCcmVhY2giLCJzY2FsZSI6MX1d/91af1cf6e9/AltLesserScarabBreach.png",
-    "chaosValue": 14.3,
+    "chaosValue": 14.97,
     "regex": "정의.균"
   },
   {
     "korType": "총사령관의 균열 갑충석",
     "engType": "Breach Scarab of the Marshal",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJCcmVhY2giLCJzY2FsZSI6MX1d/864e785561/AltNormalScarabBreach.png",
-    "chaosValue": 3.64,
+    "chaosValue": 3.91,
     "regex": "총사"
   },
   {
     "korType": "분개한 무리의 균열 갑충석",
     "engType": "Breach Scarab of the Incensed Swarm",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJyZWFjaCIsInNjYWxlIjoxfV0/2e4da41035/Tier4ScarabBreach.png",
-    "chaosValue": 7.19,
+    "chaosValue": 11.72,
     "regex": "분개"
   },
   {
     "korType": "공명하는 폭포의 균열 갑충석",
     "engType": "Breach Scarab of Resonant Cascade",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkJyZWFjaCIsInNjYWxlIjoxfV0/d6fe5cdce6/AltTier4ScarabBreach.png",
-    "chaosValue": 274.3,
+    "chaosValue": 268.2,
     "regex": "폭포"
   },
   {
     "korType": "환영 갑충석",
     "engType": "Delirium Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEZWxpcml1bSIsInNjYWxlIjoxfV0/0b8b887e88/LesserScarabDelirium.png",
-    "chaosValue": 1.03,
+    "chaosValue": 0.995,
     "regex": "^환"
   },
   {
     "korType": "광증의 환영 갑충석",
     "engType": "Delirium Scarab of Mania",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEZWxpcml1bSIsInNjYWxlIjoxfV0/9de6ce65c5/NormalScarabDelirium.png",
-    "chaosValue": 5.58,
+    "chaosValue": 5.61,
     "regex": "광증"
   },
   {
     "korType": "편집증의 환영 갑충석",
     "engType": "Delirium Scarab of Paranoia",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGVsaXJpdW0iLCJzY2FsZSI6MX1d/e6730494ae/GreaterScarabDelirium.png",
-    "chaosValue": 7.22,
+    "chaosValue": 7.19,
     "regex": "^편"
   },
   {
     "korType": "신경증의 환영 갑충석",
     "engType": "Delirium Scarab of Neuroses",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiRGVsaXJpdW0iLCJzY2FsZSI6MX1d/5690762715/AltGreaterScarabDelirium.png",
-    "chaosValue": 10.38,
+    "chaosValue": 10.7,
     "regex": "신경"
   },
   {
     "korType": "망상의 환영 갑충석",
     "engType": "Delirium Scarab of Delusions",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRlbGlyaXVtIiwic2NhbGUiOjF9XQ/aa8241bb6c/Tier4ScarabDelirium.png",
-    "chaosValue": 0.6243,
+    "chaosValue": 0.6628,
     "regex": "망"
   },
   {
     "korType": "회랑의 점술 갑충석",
     "engType": "Divination Scarab of The Cloister",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwic2NhbGUiOjF9XQ/20ff060a8d/LesserScarabDivination.png",
-    "chaosValue": 17.95,
+    "chaosValue": 17.1,
     "regex": "회랑"
   },
   {
     "korType": "풍부함의 점술 갑충석",
     "engType": "Divination Scarab of Plenty",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEaXZpbmF0aW9uIiwic2NhbGUiOjF9XQ/acb5d1754a/NormalScarabDivination.png",
-    "chaosValue": 5.27,
+    "chaosValue": 5.49,
     "regex": "풍.*점"
   },
   {
     "korType": "훔쳐냄의 점술 갑충석",
     "engType": "Divination Scarab of Pilfering",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGl2aW5hdGlvbiIsInNjYWxlIjoxfV0/73ab11f6bd/GreaterScarabDivination.png",
-    "chaosValue": 17.96,
+    "chaosValue": 16.48,
     "regex": "훔"
   },
   {
     "korType": "지배 갑충석",
     "engType": "Domination Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEb21pbmF0aW9uIiwic2NhbGUiOjF9XQ/76cedf832c/LesserScarabDomination.png",
-    "chaosValue": 1.6,
+    "chaosValue": 2.04,
     "regex": "^지배"
+  },
+  {
+    "korType": "유령의 지배 갑충석",
+    "engType": "Domination Scarab of Apparitions",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJEb21pbmF0aW9uIiwic2NhbGUiOjF9XQ/c907d44dec/NormalScarabDomination.png",
+    "chaosValue": 0.9103,
+    "regex": "령의"
   },
   {
     "korType": "진화의 지배 갑충석",
@@ -276,49 +283,49 @@
     "korType": "공포의 지배 갑충석",
     "engType": "Domination Scarab of Terrors",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRvbWluYXRpb24iLCJzY2FsZSI6MX1d/0d55e72414/Tier4ScarabDomination.png",
-    "chaosValue": 85.06,
+    "chaosValue": 84.33,
     "regex": "공포"
   },
   {
     "korType": "에센스 갑충석",
     "engType": "Essence Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFc3NlbmNlIiwic2NhbGUiOjF9XQ/4c99af0610/LesserScarabEssence.png",
-    "chaosValue": 1.25,
+    "chaosValue": 0.8115,
     "regex": "^에.*갑"
   },
   {
     "korType": "상승의 에센스 갑충석",
     "engType": "Essence Scarab of Ascent",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFc3NlbmNlIiwic2NhbGUiOjF9XQ/3a091b8052/NormalScarabEssence.png",
-    "chaosValue": 4.16,
+    "chaosValue": 4.06,
     "regex": "상승"
   },
   {
     "korType": "안정의 에센스 갑충석",
     "engType": "Essence Scarab of Stability",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRXNzZW5jZSIsInNjYWxlIjoxfV0/28e74041a5/GreaterScarabEssence.png",
-    "chaosValue": 0.5781,
+    "chaosValue": 0.5588,
     "regex": "안.*센"
   },
   {
     "korType": "석회화의 에센스 갑충석",
     "engType": "Essence Scarab of Calcification",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkVzc2VuY2UiLCJzY2FsZSI6MX1d/d7e7534a07/Tier4ScarabEssence.png",
-    "chaosValue": 22.84,
+    "chaosValue": 23.69,
     "regex": "석회"
   },
   {
     "korType": "적응의 에센스 갑충석",
     "engType": "Essence Scarab of Adaptation",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYkVzc2VuY2UiLCJzY2FsZSI6MX1d/56560d691e/AltTier4ScarabEssence.png",
-    "chaosValue": 10.4,
+    "chaosValue": 10.67,
     "regex": "적응"
   },
   {
     "korType": "탐험 갑충석",
     "engType": "Expedition Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFeHBlZGl0aW9uIiwic2NhbGUiOjF9XQ/fa49f53ac8/LesserScarabExpedition.png",
-    "chaosValue": 0.4783,
+    "chaosValue": 0.4556,
     "regex": "^탐험"
   },
   {
@@ -346,14 +353,14 @@
     "korType": "복제의 수확 갑충석",
     "engType": "Harvest Scarab of Doubling",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSGFydmVzdCIsInNjYWxlIjoxfV0/6077972903/GreaterScarabHarvest.png",
-    "chaosValue": 72.68,
+    "chaosValue": 73.15,
     "regex": "복.*확"
   },
   {
     "korType": "풍요의 뿔의 수확 갑충석",
     "engType": "Harvest Scarab of Cornucopia",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcnZlc3QiLCJzY2FsZSI6MX1d/35e8847de2/Tier4ScarabHarvest.png",
-    "chaosValue": 294.5,
+    "chaosValue": 299.2,
     "regex": "풍요"
   },
   {
@@ -367,63 +374,63 @@
     "korType": "침략의 기습 갑충석",
     "engType": "Incursion Scarab of Invasion",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJJbmN1cnNpb24iLCJzY2FsZSI6MX1d/a38b517f35/NormalScarabIncursion.png",
-    "chaosValue": 0.5612,
+    "chaosValue": 0.5587,
     "regex": "침.*습"
   },
   {
     "korType": "용사의 기습 갑충석",
     "engType": "Incursion Scarab of Champions",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiSW5jdXJzaW9uIiwic2NhbGUiOjF9XQ/ff92bda004/GreaterScarabIncursion.png",
-    "chaosValue": 1.2,
+    "chaosValue": 1.27,
     "regex": "용사"
   },
   {
     "korType": "시간선의 기습 갑충석",
     "engType": "Incursion Scarab of Timelines",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInNjYWxlIjoxfV0/748b10e2cf/Tier4ScarabIncursion.png",
-    "chaosValue": 26.01,
+    "chaosValue": 25.42,
     "regex": "간선"
   },
   {
     "korType": "쉐이퍼의 영향력 갑충석",
     "engType": "Influencing Scarab of the Shaper",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTaGFwZXIiLCJzY2FsZSI6MX1d/caf0ac9307/LesserScarabShaper.png",
-    "chaosValue": 0.5874,
+    "chaosValue": 0.587,
     "regex": "^쉐"
   },
   {
     "korType": "엘더의 영향력 갑충석",
     "engType": "Influencing Scarab of the Elder",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFbGRlciIsInNjYWxlIjoxfV0/8828d3f4eb/LesserScarabElder.png",
-    "chaosValue": 0.1401,
+    "chaosValue": 0.1211,
     "regex": "^엘"
   },
   {
     "korType": "군단의 영향력 갑충석",
     "engType": "Influencing Scarab of Hordes",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJzY2FsZSI6MX1d/660528eb40/GreaterScarabElder.png",
-    "chaosValue": 2.13,
+    "chaosValue": 2.25,
     "regex": "군.*향"
   },
   {
     "korType": "방해의 영향력 갑충석",
     "engType": "Influencing Scarab of Interference",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlNoYXBlciIsInNjYWxlIjoxfV0/320c05daeb/Tier4ScarabShaper.png",
-    "chaosValue": 1.16,
+    "chaosValue": 1.53,
     "regex": "방해"
   },
   {
     "korType": "군단 갑충석",
     "engType": "Legion Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJMZWdpb24iLCJzY2FsZSI6MX1d/e7b6e5659c/LesserScarabLegion.png",
-    "chaosValue": 6.86,
+    "chaosValue": 7.13,
     "regex": "^군..갑"
   },
   {
     "korType": "장교의 군단 갑충석",
     "engType": "Legion Scarab of Officers",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJzY2FsZSI6MX1d/986b842d3f/NormalScarabLegion.png",
-    "chaosValue": 4.19,
+    "chaosValue": 4.07,
     "regex": "장교"
   },
   {
@@ -437,35 +444,35 @@
     "korType": "영원한 분쟁의 군단 갑충석",
     "engType": "Legion Scarab of Eternal Conflict",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkxlZ2lvbiIsInNjYWxlIjoxfV0/4a56211137/Tier4ScarabLegion.png",
-    "chaosValue": 207.0,
+    "chaosValue": 191.9,
     "regex": "한.분"
   },
   {
     "korType": "증대의 지도 제작 갑충석",
     "engType": "Cartography Scarab of Escalation",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNYXBzIiwic2NhbGUiOjF9XQ/e7d11bcc5b/LesserScarabMaps.png",
-    "chaosValue": 0.7465,
+    "chaosValue": 0.7211,
     "regex": "^증대"
   },
   {
     "korType": "위험의 지도 제작 갑충석",
     "engType": "Cartography Scarab of Risk",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwic2NhbGUiOjF9XQ/b41df1ff07/NormalScarabMaps.png",
-    "chaosValue": 27.05,
+    "chaosValue": 26.76,
     "regex": "^위"
   },
   {
     "korType": "타락의 지도 제작 갑충석",
     "engType": "Cartography Scarab of Corruption",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInNjYWxlIjoxfV0/7c589dbe02/GreaterScarabMaps.png",
-    "chaosValue": 6.18,
+    "chaosValue": 6.25,
     "regex": "타.*지"
   },
   {
     "korType": "군중의 지도 제작 갑충석",
     "engType": "Cartography Scarab of the Multitude",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHROb3JtYWxTY2FyYWJNYXBzIiwic2NhbGUiOjF9XQ/41c689bbef/AltNormalScarabMaps.png",
-    "chaosValue": 1.98,
+    "chaosValue": 2.07,
     "regex": "중.*제"
   },
   {
@@ -479,49 +486,49 @@
     "korType": "우측의 갑충석",
     "engType": "Scarab of the Dextral",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRHcmVhdGVyU2NhcmFiTWlzYyIsInNjYWxlIjoxfV0/4b55da6494/AltGreaterScarabMisc.png",
-    "chaosValue": 1.83,
+    "chaosValue": 1.53,
     "regex": ""
   },
   {
     "korType": "찬란한 폭풍의 갑충석",
     "engType": "Scarab of Radiant Storms",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1pc2MyIiwic2NhbGUiOjF9XQ/d19b59b6b8/Tier4ScarabMisc2.png",
-    "chaosValue": 1.8,
+    "chaosValue": 2,
     "regex": "찬"
   },
   {
     "korType": "적수의 갑충석",
     "engType": "Scarab of Adversaries",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRMZXNzZXJTY2FyYWJNaXNjIiwic2NhbGUiOjF9XQ/ab24a34cd1/AltLesserScarabMisc.png",
-    "chaosValue": 0.7677,
+    "chaosValue": 0.8066,
     "regex": "적수"
   },
   {
     "korType": "신성의 갑충석",
     "engType": "Scarab of Divinity",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNaXNjIiwic2NhbGUiOjF9XQ/6d4755a692/NormalScarabMisc.png",
-    "chaosValue": 0.6133,
+    "chaosValue": 0.5545,
     "regex": "^신.의"
   },
   {
     "korType": "도깨비불의 갑충석",
     "engType": "Scarab of Wisps",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzEiLCJzY2FsZSI6MX1d/303001a475/GreaterScarabMisc1.png",
-    "chaosValue": 8.32,
+    "chaosValue": 7.81,
     "regex": "불의.갑"
   },
   {
     "korType": "좌측의 갑충석",
     "engType": "Scarab of the Sinistral",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWlzYzIiLCJzY2FsZSI6MX1d/6f752909bb/GreaterScarabMisc2.png",
-    "chaosValue": 7.4,
+    "chaosValue": 6.53,
     "regex": "좌"
   },
   {
     "korType": "선택의 의식 갑충석",
     "engType": "Ritual Scarab of Selectiveness",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJSaXR1YWwiLCJzY2FsZSI6MX1d/08f82dab28/LesserScarabRitual.png",
-    "chaosValue": 3.19,
+    "chaosValue": 2.61,
     "regex": "택의"
   },
   {
@@ -535,84 +542,84 @@
     "korType": "풍부함의 의식 갑충석",
     "engType": "Ritual Scarab of Abundance",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiUml0dWFsIiwic2NhbGUiOjF9XQ/a990c91de5/GreaterScarabRitual.png",
-    "chaosValue": 7.33,
+    "chaosValue": 8.68,
     "regex": "풍.*식"
   },
   {
     "korType": "시신의 의식 갑충석",
     "engType": "Ritual Scarab of Corpses",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlJpdHVhbCIsInNjYWxlIjoxfV0/323f689e68/Tier4ScarabRitual.png",
-    "chaosValue": 4.37,
+    "chaosValue": 4.41,
     "regex": "시신"
   },
   {
     "korType": "칼구르 갑충석",
     "engType": "Kalguuran Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTZXR0bGVycyIsInNjYWxlIjoxfV0/591426ae68/LesserScarabSettlers.png",
-    "chaosValue": 4.6,
+    "chaosValue": 3.89,
     "regex": "^칼"
   },
   {
     "korType": "보호받는 재물의 칼구르 갑충석",
     "engType": "Kalguuran Scarab of Guarded Riches",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTZXR0bGVycyIsInNjYWxlIjoxfV0/5ab4be93db/NormalScarabSettlers.png",
-    "chaosValue": 2.16,
+    "chaosValue": 2.14,
     "regex": "보호"
   },
   {
     "korType": "정제의 칼구르 갑충석",
     "engType": "Kalguuran Scarab of Refinement",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU2V0dGxlcnMiLCJzY2FsZSI6MX1d/24f57aa157/GreaterScarabSettlers.png",
-    "chaosValue": 155.8,
+    "chaosValue": 153.7,
     "regex": "정제"
   },
   {
     "korType": "윤택의 칼구르 갑충석",
     "engType": "Kalguuran Scarab of Enriching",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlNldHRsZXJzIiwic2NhbGUiOjF9XQ/62d3e05936/Tier4ScarabSettlers.png",
-    "chaosValue": 14.54,
+    "chaosValue": 15.73,
     "regex": "윤"
   },
   {
     "korType": "매복 갑충석",
     "engType": "Ambush Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInNjYWxlIjoxfV0/137917584a/LesserScarabStrongboxes.png",
-    "chaosValue": 4.0,
+    "chaosValue": 3.98,
     "regex": "^매복"
   },
   {
     "korType": "비밀 공간의 매복 갑충석",
     "engType": "Ambush Scarab of Hidden Compartments",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdHJvbmdib3hlcyIsInNjYWxlIjoxfV0/2654dacfee/NormalScarabStrongboxes.png",
-    "chaosValue": 1.51,
+    "chaosValue": 1.49,
     "regex": "공간"
   },
   {
     "korType": "잠재력의 매복 갑충석",
     "engType": "Ambush Scarab of Potency",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3Ryb25nYm94ZXMiLCJzY2FsZSI6MX1d/c2cb4efc18/GreaterScarabStrongboxes.png",
-    "chaosValue": 0.8571,
+    "chaosValue": 0.8919,
     "regex": "잠재"
   },
   {
     "korType": "봉쇄의 매복 갑충석",
     "engType": "Ambush Scarab of Containment",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwic2NhbGUiOjF9XQ/da665a65ee/Tier4ScarabStrongboxes.png",
-    "chaosValue": 439.9,
+    "chaosValue": 437.2,
     "regex": "봉쇄"
   },
   {
     "korType": "분별의 매복 갑충석",
     "engType": "Ambush Scarab of Discernment",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwic2NhbGUiOjF9XQ/72722370df/AltTier4ScarabStrongboxes.png",
-    "chaosValue": 2.2,
+    "chaosValue": 2.58,
     "regex": "분별"
   },
   {
     "korType": "아황산염 갑충석",
     "engType": "Sulphite Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdWxwaGl0ZSIsInNjYWxlIjoxfV0/9bdde2cec0/LesserScarabSulphite.png",
-    "chaosValue": 0.8303,
+    "chaosValue": 0.7801,
     "regex": "니코"
   },
   {
@@ -640,35 +647,35 @@
     "korType": "사로잡힘의 고통 갑충석",
     "engType": "Torment Scarab of Possession",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlRvcm1lbnQiLCJzY2FsZSI6MX1d/5b3bed9d3d/Tier4ScarabTorment.png",
-    "chaosValue": 0.93,
+    "chaosValue": 0.4525,
     "regex": "잡힘"
   },
   {
     "korType": "혈맹의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Bloodlines",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjEiLCJzY2FsZSI6MX1d/acc1b258a3/SuperScarab1.png",
-    "chaosValue": 1056,
+    "chaosValue": 1017,
     "regex": "혈맹"
   },
   {
     "korType": "천벌의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Nemeses",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjIiLCJzY2FsZSI6MX1d/c4f92c444d/SuperScarab2.png",
-    "chaosValue": 0.4948,
+    "chaosValue": 1.28,
     "regex": "^천"
   },
   {
     "korType": "보전의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Preservation",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjMiLCJzY2FsZSI6MX1d/64d9f06e78/SuperScarab3.png",
-    "chaosValue": 1367,
+    "chaosValue": 1500,
     "regex": "보전"
   },
   {
     "korType": "각성의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Awakening",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjQiLCJzY2FsZSI6MX1d/c939905663/SuperScarab4.png",
-    "chaosValue": 140.2,
+    "chaosValue": 139.8,
     "regex": "각성"
   },
   {
@@ -682,63 +689,63 @@
     "korType": "번쩍임의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Glittering",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjYiLCJzY2FsZSI6MX1d/f74c2fdd4f/SuperScarab6.png",
-    "chaosValue": 22,
+    "chaosValue": 21.74,
     "regex": "쩍임"
   },
   {
     "korType": "혼란 유발의 뿔 달린 갑충석",
     "engType": "Horned Scarab of Pandemonium",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9TdXBlclNjYXJhYjciLCJzY2FsZSI6MX1d/28b95bae7b/SuperScarab7.png",
-    "chaosValue": 38.08,
+    "chaosValue": 38.39,
     "regex": "발의"
   },
   {
     "korType": "결전 갑충석",
     "engType": "Ultimatum Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJzY2FsZSI6MX1d/b1b423625d/LesserScarabUltimatum.png",
-    "chaosValue": 0.4404,
+    "chaosValue": 0.42,
     "regex": "^결..갑"
   },
   {
     "korType": "매수의 결전 갑충석",
     "engType": "Ultimatum Scarab of Bribing",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJVbHRpbWF0dW0iLCJzY2FsZSI6MX1d/d688264f91/NormalScarabUltimatum.png",
-    "chaosValue": 1.56,
+    "chaosValue": 1.6,
     "regex": "매수"
   },
   {
     "korType": "결투의 결전 갑충석",
     "engType": "Ultimatum Scarab of Dueling",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVWx0aW1hdHVtIiwic2NhbGUiOjF9XQ/be3b513bfe/GreaterScarabUltimatum.png",
-    "chaosValue": 13.34,
+    "chaosValue": 14.82,
     "regex": "투"
   },
   {
     "korType": "기폭의 결전 갑충석",
     "engType": "Ultimatum Scarab of Catalysing",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlVsdGltYXR1bSIsInNjYWxlIjoxfV0/abfc80cf45/Tier4ScarabUltimatum.png",
-    "chaosValue": 314.8,
+    "chaosValue": 315.6,
     "regex": "폭의"
   },
   {
     "korType": "새김의 결전 갑충석",
     "engType": "Ultimatum Scarab of Inscription",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9BbHRUaWVyNFNjYXJhYlVsdGltYXR1bSIsInNjYWxlIjoxfV0/080e60e969/AltTier4ScarabUltimatum.png",
-    "chaosValue": 13.57,
+    "chaosValue": 14.89,
     "regex": "^새"
   },
   {
     "korType": "거대한 갑충석",
     "engType": "Titanic Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbmlxdWUiLCJzY2FsZSI6MX1d/9ed658ddba/LesserScarabUnique.png",
-    "chaosValue": 3.6,
+    "chaosValue": 3.56,
     "regex": "^거대"
   },
   {
     "korType": "전설의 거대한 갑충석",
     "engType": "Titanic Scarab of Legend",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVW5pcXVlIiwic2NhbGUiOjF9XQ/0194f878a0/GreaterScarabUnique.png",
-    "chaosValue": 18.02,
+    "chaosValue": 17.82,
     "regex": "설"
   }
 ]
