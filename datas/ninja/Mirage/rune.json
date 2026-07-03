@@ -16,7 +16,7 @@
             "id": "runegraft-of-restitching",
             "name": "Runegraft of Restitching",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMiIsInNjYWxlIjoxfV0/84a974b87d/VillageRune22.png",
-            "chaosValue": 1.75
+            "chaosValue": 1.5
         },
         {
             "id": "runegraft-of-stability",
@@ -34,7 +34,7 @@
             "id": "runegraft-of-the-imbued",
             "name": "Runegraft of the Imbued",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMCIsInNjYWxlIjoxfV0/63d0c522fb/VillageRune30.png",
-            "chaosValue": 4
+            "chaosValue": 2.13
         },
         {
             "id": "runegraft-of-the-jeweller",
@@ -58,13 +58,7 @@
             "id": "runegraft-of-the-sinistral",
             "name": "Runegraft of the Sinistral",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU2Iiwic2NhbGUiOjF9XQ/2eed968220/VillageRune6.png",
-            "chaosValue": 5
-        },
-        {
-            "id": "runegraft-of-the-spellbound",
-            "name": "Runegraft of the Spellbound",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyNiIsInNjYWxlIjoxfV0/e19a7e066a/VillageRune26.png",
-            "chaosValue": 195
+            "chaosValue": 2.85
         },
         {
             "id": "runegraft-of-the-witchmark",
@@ -73,10 +67,16 @@
             "chaosValue": 25.6
         },
         {
+            "id": "runegraft-of-time",
+            "name": "Runegraft of Time",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxOSIsInNjYWxlIjoxfV0/9c1836484c/VillageRune19.png",
+            "chaosValue": 50
+        },
+        {
             "id": "runegraft-of-treachery",
             "name": "Runegraft of Treachery",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUyMCIsInNjYWxlIjoxfV0/6f462c33f6/VillageRune20.png",
-            "chaosValue": 15.12
+            "chaosValue": 14.23
         },
         {
             "id": "runegraft-of-bellows",
@@ -88,19 +88,13 @@
             "id": "runegraft-of-refraction",
             "name": "Runegraft of Refraction",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmU3Iiwic2NhbGUiOjF9XQ/953733102b/VillageRune7.png",
-            "chaosValue": 7
-        },
-        {
-            "id": "runegraft-of-resurgence",
-            "name": "Runegraft of Resurgence",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMSIsInNjYWxlIjoxfV0/fd0ff25805/VillageRune31.png",
-            "chaosValue": 19
+            "chaosValue": 5.5
         },
         {
             "id": "runegraft-of-rotblood",
             "name": "Runegraft of Rotblood",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMyIsInNjYWxlIjoxfV0/57870db175/VillageRune33.png",
-            "chaosValue": 80
+            "chaosValue": 42.5
         },
         {
             "id": "runegraft-of-the-bound",
@@ -112,7 +106,7 @@
             "id": "runegraft-of-the-fortress",
             "name": "Runegraft of the Fortress",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxIiwic2NhbGUiOjF9XQ/98d663edbd/VillageRune1.png",
-            "chaosValue": 910.1
+            "chaosValue": 771.4
         },
         {
             "id": "runegraft-of-the-soulwick",
@@ -124,13 +118,13 @@
             "id": "runegraft-of-the-warp",
             "name": "Runegraft of the Warp",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxMSIsInNjYWxlIjoxfV0/3a56530c4f/VillageRune11.png",
-            "chaosValue": 1327
+            "chaosValue": 1698
         },
         {
-            "id": "runegraft-of-time",
-            "name": "Runegraft of Time",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUxOSIsInNjYWxlIjoxfV0/9c1836484c/VillageRune19.png",
-            "chaosValue": 60
+            "id": "runegraft-of-resurgence",
+            "name": "Runegraft of Resurgence",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2V0dGxlcnMvVmlsbGFnZVJ1bmUzMSIsInNjYWxlIjoxfV0/fd0ff25805/VillageRune31.png",
+            "chaosValue": 19
         }
     ]
 }
