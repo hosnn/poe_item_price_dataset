@@ -168,6 +168,10 @@
       "engType": "Infested Crawler"
     },
     {
+      "korType": "감염된 매복자",
+      "engType": "Infected Ambusher"
+    },
+    {
       "korType": "변종 곰",
       "engType": "Mutated Ursa"
     },
@@ -218,6 +222,10 @@
     {
       "korType": "감염된 큰턱개구리",
       "engType": "Infested Maw"
+    },
+    {
+      "korType": "야수 큰턱개구리",
+      "engType": "Bestial Maw"
     },
     {
       "korType": "파란 개구리",
@@ -432,8 +440,12 @@
       "engType": "Mother of the Swarm"
     },
     {
-      "korType": "변종 영충여왕",
+      "korType": "광포한 영충여왕",
       "engType": "The Sunburst Queen"
+    },
+    {
+      "korType": "변종 영충여왕",
+      "engType": "Rabid Broodqueen"
     },
     {
       "korType": "광포한 소환수",
@@ -508,12 +520,12 @@
       "engType": "Farric Ursa"
     },
     {
-      "korType": "크라칸의 키메랄",
+      "korType": "크라칸 물렁이",
       "engType": "Craicic Maw"
     },
     {
       "korType": "페룰 염소인간",
-      "engType": "Craicic Chimeral"
+      "engType": "Craicic Croaker"
     },
     {
       "korType": "페룰 화염 헬리온 우두머리",
@@ -888,8 +900,12 @@
       "engType": "Corrupted Rhoa"
     },
     {
-      "korType": "태고의 로아",
+      "korType": "좀비 로아",
       "engType": "Elder-Blessed Rhoa"
+    },
+    {
+      "korType": "태고의 로아",
+      "engType": "Zombie Rhoa"
     },
     {
       "korType": "신비한 포식자",
@@ -964,8 +980,12 @@
       "engType": "Rock Spitter"
     },
     {
-      "korType": "심연의 주인",
+      "korType": "갑각류 투척충",
       "engType": "Crustacean Sniper"
+    },
+    {
+      "korType": "심연의 주인",
+      "engType": "Crustacean Pelter"
     },
     {
       "korType": "화강암 포식자",
@@ -1088,8 +1108,12 @@
       "engType": "Cave Crustacean"
     },
     {
-      "korType": "은조가비",
+      "korType": "백색 갑각류",
       "engType": "Invading Crustacean"
+    },
+    {
+      "korType": "은조가비",
+      "engType": "Bleached Crustacean"
     },
     {
       "korType": "심층 갑각류",
@@ -1104,8 +1128,16 @@
       "engType": "Infested Crustacean"
     },
     {
-      "korType": "산성 미끄럼뱀",
+      "korType": "감염된 살무사",
       "engType": "Mutated Adder"
+    },
+    {
+      "korType": "구역질 나는 독사",
+      "engType": "Infected Adder"
+    },
+    {
+      "korType": "산성 미끄럼뱀",
+      "engType": "Putrid Serpent"
     },
     {
       "korType": "밤 살무사",
@@ -1252,8 +1284,12 @@
       "engType": "Brooding Tarantula"
     },
     {
-      "korType": "도취된 거미류",
+      "korType": "말리가로의 감화",
       "engType": "Buried Tarantula"
+    },
+    {
+      "korType": "도취된 거미류",
+      "engType": "Maligaro's Inspiration"
     },
     {
       "korType": "병독성 거미",

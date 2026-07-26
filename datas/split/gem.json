@@ -248,8 +248,8 @@
       "engType": "Malevolence"
     },
     {
-      "korType": "어둠의 서약",
-      "engType": "Dark Pact"
+      "korType": "어둠의 협상",
+      "engType": "Dark Bargain"
     },
     {
       "korType": "파멸",
@@ -692,6 +692,10 @@
       "engType": "Manabond"
     },
     {
+      "korType": "마나 주입 지팡이",
+      "engType": "Mana-Infused Staff"
+    },
+    {
       "korType": "선대의 수호자",
       "engType": "Ancestral Protector"
     },
@@ -714,6 +718,22 @@
     {
       "korType": "폭풍 보주",
       "engType": "Orb of Storms"
+    },
+    {
+      "korType": "베이다트의 맹약",
+      "engType": "Pact of Beidat"
+    },
+    {
+      "korType": "고르의 맹약",
+      "engType": "Pact of Ghorr"
+    },
+    {
+      "korType": "크타쉬의 맹약",
+      "engType": "Pact of K'Tash"
+    },
+    {
+      "korType": "리키아의 맹약",
+      "engType": "Pact of Lycia"
     },
     {
       "korType": "속죄의 낙인",
@@ -1632,6 +1652,10 @@
       "engType": "Cruelty Support"
     },
     {
+      "korType": "수정 낙하 보조",
+      "engType": "Crystalfall Support"
+    },
+    {
       "korType": "마무리 타격 보조",
       "engType": "Culling Strike Support"
     },
@@ -2100,8 +2124,8 @@
       "engType": "Minion Life Support"
     },
     {
-      "korType": "소환수 맹약 보조",
-      "engType": "Minion Pact Support"
+      "korType": "교감 보조",
+      "engType": "Communion Support"
     },
     {
       "korType": "소환수 속도 보조",
@@ -3053,6 +3077,13 @@
       "disc": "alt_x"
     },
     {
+      "korType": "낫질",
+      "engType": "Reap",
+      "engText": "Reap of Butchery",
+      "korText": "도살의 낫질",
+      "disc": "alt_x"
+    },
+    {
       "korType": "뼈 박살",
       "engType": "Boneshatter",
       "engText": "Boneshatter of Complex Trauma",
@@ -3064,6 +3095,13 @@
       "engType": "Burning Arrow",
       "engText": "Burning Arrow of Vigour",
       "korText": "활력의 불타는 화살",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "사슬 갈고리",
+      "engType": "Chain Hook",
+      "engText": "Chain Hook of Angling",
+      "korText": "낚시의 사슬 갈고리",
       "disc": "alt_x"
     },
     {
@@ -3137,10 +3175,10 @@
       "disc": "alt_x"
     },
     {
-      "korType": "어둠의 서약",
-      "engType": "Dark Pact",
-      "engText": "Dark Pact of Trarthus",
-      "korText": "트라투스의 어둠의 서약",
+      "korType": "어둠의 협상",
+      "engType": "Dark Bargain",
+      "engText": "Dark Bargain of Trarthus",
+      "korText": "트라투스의 어둠의 협상",
       "disc": "alt_x"
     },
     {
@@ -3162,6 +3200,13 @@
       "engType": "Discharge",
       "engText": "Discharge of Misery",
       "korText": "비참의 방출",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "신성한 폭발",
+      "engType": "Divine Blast",
+      "engText": "Divine Blast of Radiance",
+      "korText": "광휘의 신성한 폭발",
       "disc": "alt_x"
     },
     {
@@ -3400,6 +3445,13 @@
       "engType": "Hexblast",
       "engText": "Hexblast of Contradiction",
       "korText": "상반의 사술폭발",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "신성한 망치",
+      "engType": "Holy Hammers",
+      "engText": "Holy Hammers of Spirals",
+      "korText": "나선의 신성한 망치",
       "disc": "alt_x"
     },
     {
@@ -3893,6 +3945,13 @@
       "disc": "alt_x"
     },
     {
+      "korType": "신성한 휩쓸기",
+      "engType": "Holy Sweep",
+      "engText": "Holy Sweep of Hammerfalls",
+      "korText": "망치 낙하의 신성한 휩쓸기",
+      "disc": "alt_x"
+    },
+    {
       "korType": "지층 강타",
       "engType": "Tectonic Slam",
       "engText": "Tectonic Slam of Cataclysm",
@@ -4121,6 +4180,13 @@
       "engType": "Vaal Rain of Arrows",
       "engText": "Vaal Rain of Arrows (Rain of Arrows of Artillery)",
       "korText": "바알 화살비 (포대의 화살비)",
+      "disc": "alt_x"
+    },
+    {
+      "korType": "바알 낫질",
+      "engType": "Vaal Reap",
+      "engText": "Vaal Reap (Reap of Butchery)",
+      "korText": "바알 낫질 (도살의 낫질)",
       "disc": "alt_x"
     },
     {

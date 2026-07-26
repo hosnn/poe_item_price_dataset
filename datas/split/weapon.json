@@ -668,6 +668,10 @@
       "engType": "Charan's Sword"
     },
     {
+      "korType": "유령불꽃 칼날",
+      "engType": "Ghostflame Blade"
+    },
+    {
       "korType": "황금 검",
       "engType": "Golden Blade"
     },
@@ -2203,6 +2207,17 @@
       }
     },
     {
+      "korType": "유령불꽃 칼날",
+      "engType": "Ghostflame Blade",
+      "engText": "Dread Captain's Cutlass Ghostflame Blade",
+      "korText": "무시무시한 선장의 커틀라스 유령불꽃 칼날",
+      "engName": "Dread Captain's Cutlass",
+      "korName": "무시무시한 선장의 커틀라스",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "가로날도끼",
       "engType": "Cleaver",
       "engText": "Dreadsurge Cleaver",
@@ -3712,6 +3727,17 @@
       }
     },
     {
+      "korType": "카루이 셉터",
+      "engType": "Karui Sceptre",
+      "engText": "Replica Maata's Teaching Karui Sceptre",
+      "korText": "마아타의 가르침 모조품 카루이 셉터",
+      "engName": "Replica Maata's Teaching",
+      "korName": "마아타의 가르침 모조품",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "부름의 마법봉",
       "engType": "Calling Wand",
       "engText": "Replica Midnight Bargain Calling Wand",
@@ -4188,6 +4214,17 @@
       }
     },
     {
+      "korType": "살점 거열기",
+      "engType": "Fleshripper",
+      "engText": "Spinesnatch Fleshripper",
+      "korText": "척추강탈 살점 거열기",
+      "engName": "Spinesnatch",
+      "korName": "척추강탈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "표류목 마법봉",
       "engType": "Driftwood Wand",
       "engText": "Splinter of the Moon Driftwood Wand",
@@ -4416,6 +4453,17 @@
       "korText": "진홍색 태풍 강철목 활",
       "engName": "The Crimson Storm",
       "korName": "진홍색 태풍",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "태고의 지팡이",
+      "engType": "Primordial Staff",
+      "engText": "The Crustacean's Call Primordial Staff",
+      "korText": "갑각류의 부름 태고의 지팡이",
+      "engName": "The Crustacean's Call",
+      "korName": "갑각류의 부름",
       "flags": {
         "unique": true
       }

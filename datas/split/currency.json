@@ -28,8 +28,8 @@
       "engType": "Omen of Fortune"
     },
     {
-      "korType": "표백의 징조",
-      "engType": "Omen of Blanching"
+      "korType": "삼색성의 징조",
+      "engType": "Omen of Trichromatism"
     },
     {
       "korType": "죽음의 춤의 징조",
@@ -348,6 +348,34 @@
       "engType": "Journey Tattoo of Makanui"
     },
     {
+      "korType": "듀얼리스트의 금지된 문신",
+      "engType": "Forbidden Tattoo of the Duelist"
+    },
+    {
+      "korType": "머라우더의 금지된 문신",
+      "engType": "Forbidden Tattoo of the Marauder"
+    },
+    {
+      "korType": "레인저의 금지된 문신",
+      "engType": "Forbidden Tattoo of the Ranger"
+    },
+    {
+      "korType": "사이온의 금지된 문신",
+      "engType": "Forbidden Tattoo of the Scion"
+    },
+    {
+      "korType": "쉐도우의 금지된 문신",
+      "engType": "Forbidden Tattoo of the Shadow"
+    },
+    {
+      "korType": "템플러의 금지된 문신",
+      "engType": "Forbidden Tattoo of the Templar"
+    },
+    {
+      "korType": "위치의 금지된 문신",
+      "engType": "Forbidden Tattoo of the Witch"
+    },
+    {
       "korType": "타살리오 검의 무희의 문신",
       "engType": "Tattoo of the Tasalio Bladedancer"
     },
@@ -472,8 +500,8 @@
       "engType": "Grasping Astrolabe"
     },
     {
-      "korType": "휩싸인 관측기",
-      "engType": "Enshrouded Astrolabe"
+      "korType": "기만하는 관측기",
+      "engType": "Deceptive Astrolabe"
     },
     {
       "korType": "룬의 관측기",
@@ -498,6 +526,10 @@
     {
       "korType": "혼돈의 관측기",
       "engType": "Chaotic Astrolabe"
+    },
+    {
+      "korType": "숭배의 기억",
+      "engType": "Memory of Reverence"
     },
     {
       "korType": "단순한 밧줄 그물",
@@ -672,6 +704,14 @@
       "engType": "Simulacrum Splinter"
     },
     {
+      "korType": "흰 게 집게",
+      "engType": "Albino Crab Claw"
+    },
+    {
+      "korType": "실버 코인",
+      "engType": "Silver Coin"
+    },
+    {
       "korType": "방어구 장인의 고철",
       "engType": "Armourer's Scrap"
     },
@@ -738,6 +778,10 @@
     {
       "korType": "타락의 유물",
       "engType": "Remnant of Corruption"
+    },
+    {
+      "korType": "망자의 유황",
+      "engType": "Dead Man's Sulphur"
     },
     {
       "korType": "공허의 화석",
@@ -846,6 +890,10 @@
     {
       "korType": "거울 파편",
       "engType": "Mirror Shard"
+    },
+    {
+      "korType": "깨진 칼란드라의 거울",
+      "engType": "Broken Mirror of Kalandra"
     },
     {
       "korType": "섬뜩한 엑잘티드 오브",
@@ -1864,6 +1912,10 @@
       "engType": "Ritual Vessel"
     },
     {
+      "korType": "예지의 오브",
+      "engType": "Scrying Orb"
+    },
+    {
       "korType": "대가 지도제작자의 봉인",
       "engType": "Master Cartographer's Seal"
     },
@@ -1972,6 +2024,10 @@
       "engType": "Coin of Power"
     },
     {
+      "korType": "외상의 기억",
+      "engType": "Memory of Trauma"
+    },
+    {
       "korType": "골드",
       "engType": "Gold"
     },
@@ -1994,6 +2050,30 @@
     {
       "korType": "야생 생기 결정",
       "engType": "Wild Crystallised Lifeforce"
+    },
+    {
+      "korType": "고독의 기억",
+      "engType": "Memory of Loneliness"
+    },
+    {
+      "korType": "마라케스 휩싸는 수정",
+      "engType": "Maraketh Enshrouding Crystal"
+    },
+    {
+      "korType": "제국 휩싸는 수정",
+      "engType": "Imperial Enshrouding Crystal"
+    },
+    {
+      "korType": "카루이 휩싸는 수정",
+      "engType": "Karui Enshrouding Crystal"
+    },
+    {
+      "korType": "바알 휩싸는 수정",
+      "engType": "Vaal Enshrouding Crystal"
+    },
+    {
+      "korType": "템플러 휩싸는 수정",
+      "engType": "Templar Enshrouding Crystal"
     },
     {
       "korType": "투명한 성유",
@@ -2222,6 +2302,50 @@
     {
       "korType": "비범한 정찰 보고서",
       "engType": "Singular Scouting Report"
+    },
+    {
+      "korType": "메릭의 두카트",
+      "engType": "Merrick's Ducat"
+    },
+    {
+      "korType": "고상한 자의 두카트",
+      "engType": "The Genteel's Ducat"
+    },
+    {
+      "korType": "체인질링의 두카트",
+      "engType": "The Changeling's Ducat"
+    },
+    {
+      "korType": "병 안의 서신",
+      "engType": "Message in a Bottle"
+    },
+    {
+      "korType": "텔레시아의 두카트",
+      "engType": "Telesia's Ducat"
+    },
+    {
+      "korType": "자모토의 두카트",
+      "engType": "Tzamoto's Ducat"
+    },
+    {
+      "korType": "키샤라의 두카트",
+      "engType": "Kishara's Ducat"
+    },
+    {
+      "korType": "사이악산의 두카트",
+      "engType": "Cyaxan's Ducat"
+    },
+    {
+      "korType": "브라인훅의 두카트",
+      "engType": "Brinehook's Ducat"
+    },
+    {
+      "korType": "부패모의 두카트",
+      "engType": "Rotmother's Ducat"
+    },
+    {
+      "korType": "카타코히의 두카트",
+      "engType": "Katakohi's Ducat"
     },
     {
       "korType": "초기형 혼돈 공명기",
@@ -2550,6 +2674,798 @@
     {
       "korType": "군단 검 조각",
       "engType": "Legion Sword Piece"
+    },
+    {
+      "korType": "10021",
+      "engType": "10021",
+      "engText": "Scrying Orb (Strand)",
+      "korText": "예지의 오브 (해안)",
+      "disc": "scrying_orb",
+      "type": "10021"
+    },
+    {
+      "korType": "10211",
+      "engType": "10211",
+      "engText": "Scrying Orb (Desert Spring)",
+      "korText": "예지의 오브 (사막의 샘)",
+      "disc": "scrying_orb",
+      "type": "10211"
+    },
+    {
+      "korType": "11215",
+      "engType": "11215",
+      "engText": "Scrying Orb (Sunken City)",
+      "korText": "예지의 오브 (물에 잠긴 도시)",
+      "disc": "scrying_orb",
+      "type": "11215"
+    },
+    {
+      "korType": "11490",
+      "engType": "11490",
+      "engText": "Scrying Orb (Pit)",
+      "korText": "예지의 오브 (구덩이)",
+      "disc": "scrying_orb",
+      "type": "11490"
+    },
+    {
+      "korType": "11533",
+      "engType": "11533",
+      "engText": "Scrying Orb (Gardens)",
+      "korText": "예지의 오브 (정원)",
+      "disc": "scrying_orb",
+      "type": "11533"
+    },
+    {
+      "korType": "11724",
+      "engType": "11724",
+      "engText": "Scrying Orb (Shipyard)",
+      "korText": "예지의 오브 (조선소)",
+      "disc": "scrying_orb",
+      "type": "11724"
+    },
+    {
+      "korType": "1215",
+      "engType": "1215",
+      "engText": "Scrying Orb (Haunted Mansion)",
+      "korText": "예지의 오브 (으스스한 대저택)",
+      "disc": "scrying_orb",
+      "type": "1215"
+    },
+    {
+      "korType": "12635",
+      "engType": "12635",
+      "engText": "Scrying Orb (Cemetery)",
+      "korText": "예지의 오브 (공동묘지)",
+      "disc": "scrying_orb",
+      "type": "12635"
+    },
+    {
+      "korType": "14879",
+      "engType": "14879",
+      "engText": "Scrying Orb (Ghetto)",
+      "korText": "예지의 오브 (빈민촌)",
+      "disc": "scrying_orb",
+      "type": "14879"
+    },
+    {
+      "korType": "15595",
+      "engType": "15595",
+      "engText": "Scrying Orb (Primordial Blocks)",
+      "korText": "예지의 오브 (태고의 구역)",
+      "disc": "scrying_orb",
+      "type": "15595"
+    },
+    {
+      "korType": "16355",
+      "engType": "16355",
+      "engText": "Scrying Orb (Colosseum)",
+      "korText": "예지의 오브 (원형 경기장)",
+      "disc": "scrying_orb",
+      "type": "16355"
+    },
+    {
+      "korType": "16982",
+      "engType": "16982",
+      "engText": "Scrying Orb (Ivory Temple)",
+      "korText": "예지의 오브 (상아 사원)",
+      "disc": "scrying_orb",
+      "type": "16982"
+    },
+    {
+      "korType": "17684",
+      "engType": "17684",
+      "engText": "Scrying Orb (Crystal Ore)",
+      "korText": "예지의 오브 (수정 광석)",
+      "disc": "scrying_orb",
+      "type": "17684"
+    },
+    {
+      "korType": "19420",
+      "engType": "19420",
+      "engText": "Scrying Orb (Grotto)",
+      "korText": "예지의 오브 (석굴)",
+      "disc": "scrying_orb",
+      "type": "19420"
+    },
+    {
+      "korType": "19776",
+      "engType": "19776",
+      "engText": "Scrying Orb (Atoll)",
+      "korText": "예지의 오브 (산호섬)",
+      "disc": "scrying_orb",
+      "type": "19776"
+    },
+    {
+      "korType": "19999",
+      "engType": "19999",
+      "engText": "Scrying Orb (Mesa)",
+      "korText": "예지의 오브 (메사)",
+      "disc": "scrying_orb",
+      "type": "19999"
+    },
+    {
+      "korType": "20343",
+      "engType": "20343",
+      "engText": "Scrying Orb (Lava Lake)",
+      "korText": "예지의 오브 (용암 호수)",
+      "disc": "scrying_orb",
+      "type": "20343"
+    },
+    {
+      "korType": "22278",
+      "engType": "22278",
+      "engText": "Scrying Orb (Channel)",
+      "korText": "예지의 오브 (물길)",
+      "disc": "scrying_orb",
+      "type": "22278"
+    },
+    {
+      "korType": "24414",
+      "engType": "24414",
+      "engText": "Scrying Orb (Infested Valley)",
+      "korText": "예지의 오브 (감염된 계곡)",
+      "disc": "scrying_orb",
+      "type": "24414"
+    },
+    {
+      "korType": "24497",
+      "engType": "24497",
+      "engText": "Scrying Orb (Silo)",
+      "korText": "예지의 오브 (곡물 창고)",
+      "disc": "scrying_orb",
+      "type": "24497"
+    },
+    {
+      "korType": "25202",
+      "engType": "25202",
+      "engText": "Scrying Orb (Arsenal)",
+      "korText": "예지의 오브 (병기창)",
+      "disc": "scrying_orb",
+      "type": "25202"
+    },
+    {
+      "korType": "25302",
+      "engType": "25302",
+      "engText": "Scrying Orb (Primordial Pool)",
+      "korText": "예지의 오브 (태고의 웅덩이)",
+      "disc": "scrying_orb",
+      "type": "25302"
+    },
+    {
+      "korType": "25747",
+      "engType": "25747",
+      "engText": "Scrying Orb (Toxic Sewer)",
+      "korText": "예지의 오브 (맹독성 하수도)",
+      "disc": "scrying_orb",
+      "type": "25747"
+    },
+    {
+      "korType": "26156",
+      "engType": "26156",
+      "engText": "Scrying Orb (Forbidden Woods)",
+      "korText": "예지의 오브 (금단의 숲)",
+      "disc": "scrying_orb",
+      "type": "26156"
+    },
+    {
+      "korType": "26468",
+      "engType": "26468",
+      "engText": "Scrying Orb (Overgrown Shrine)",
+      "korText": "예지의 오브 (무성한 성소)",
+      "disc": "scrying_orb",
+      "type": "26468"
+    },
+    {
+      "korType": "27782",
+      "engType": "27782",
+      "engText": "Scrying Orb (Arid Lake)",
+      "korText": "예지의 오브 (메마른 호수)",
+      "disc": "scrying_orb",
+      "type": "27782"
+    },
+    {
+      "korType": "27821",
+      "engType": "27821",
+      "engText": "Scrying Orb (Basilica)",
+      "korText": "예지의 오브 (교회당)",
+      "disc": "scrying_orb",
+      "type": "27821"
+    },
+    {
+      "korType": "28018",
+      "engType": "28018",
+      "engText": "Scrying Orb (Vaal Pyramid)",
+      "korText": "예지의 오브 (바알 피라미드)",
+      "disc": "scrying_orb",
+      "type": "28018"
+    },
+    {
+      "korType": "28402",
+      "engType": "28402",
+      "engText": "Scrying Orb (Waterways)",
+      "korText": "예지의 오브 (수로)",
+      "disc": "scrying_orb",
+      "type": "28402"
+    },
+    {
+      "korType": "29382",
+      "engType": "29382",
+      "engText": "Scrying Orb (Forking River)",
+      "korText": "예지의 오브 (갈라지는 강)",
+      "disc": "scrying_orb",
+      "type": "29382"
+    },
+    {
+      "korType": "30639",
+      "engType": "30639",
+      "engText": "Scrying Orb (Volcano)",
+      "korText": "예지의 오브 (화산)",
+      "disc": "scrying_orb",
+      "type": "30639"
+    },
+    {
+      "korType": "31349",
+      "engType": "31349",
+      "engText": "Scrying Orb (Colonnade)",
+      "korText": "예지의 오브 (가로수)",
+      "disc": "scrying_orb",
+      "type": "31349"
+    },
+    {
+      "korType": "31509",
+      "engType": "31509",
+      "engText": "Scrying Orb (Foundry)",
+      "korText": "예지의 오브 (주조소)",
+      "disc": "scrying_orb",
+      "type": "31509"
+    },
+    {
+      "korType": "3182",
+      "engType": "3182",
+      "engText": "Scrying Orb (Stagnation)",
+      "korText": "예지의 오브 (침체지)",
+      "disc": "scrying_orb",
+      "type": "3182"
+    },
+    {
+      "korType": "32613",
+      "engType": "32613",
+      "engText": "Scrying Orb (Park)",
+      "korText": "예지의 오브 (공원)",
+      "disc": "scrying_orb",
+      "type": "32613"
+    },
+    {
+      "korType": "33025",
+      "engType": "33025",
+      "engText": "Scrying Orb (Excavation)",
+      "korText": "예지의 오브 (발굴터)",
+      "disc": "scrying_orb",
+      "type": "33025"
+    },
+    {
+      "korType": "33220",
+      "engType": "33220",
+      "engText": "Scrying Orb (Museum)",
+      "korText": "예지의 오브 (박물관)",
+      "disc": "scrying_orb",
+      "type": "33220"
+    },
+    {
+      "korType": "3421",
+      "engType": "3421",
+      "engText": "Scrying Orb (Malformation)",
+      "korText": "예지의 오브 (기형)",
+      "disc": "scrying_orb",
+      "type": "3421"
+    },
+    {
+      "korType": "34425",
+      "engType": "34425",
+      "engText": "Scrying Orb (Fungal Hollow)",
+      "korText": "예지의 오브 (곰팡이 동혈)",
+      "disc": "scrying_orb",
+      "type": "34425"
+    },
+    {
+      "korType": "34447",
+      "engType": "34447",
+      "engText": "Scrying Orb (Dark Forest)",
+      "korText": "예지의 오브 (어둠의 숲)",
+      "disc": "scrying_orb",
+      "type": "34447"
+    },
+    {
+      "korType": "34760",
+      "engType": "34760",
+      "engText": "Scrying Orb (Grave Trough)",
+      "korText": "예지의 오브 (무덤 고랑)",
+      "disc": "scrying_orb",
+      "type": "34760"
+    },
+    {
+      "korType": "34832",
+      "engType": "34832",
+      "engText": "Scrying Orb (Plateau)",
+      "korText": "예지의 오브 (고원)",
+      "disc": "scrying_orb",
+      "type": "34832"
+    },
+    {
+      "korType": "34997",
+      "engType": "34997",
+      "engText": "Scrying Orb (Desert)",
+      "korText": "예지의 오브 (사막)",
+      "disc": "scrying_orb",
+      "type": "34997"
+    },
+    {
+      "korType": "35076",
+      "engType": "35076",
+      "engText": "Scrying Orb (Plaza)",
+      "korText": "예지의 오브 (광장)",
+      "disc": "scrying_orb",
+      "type": "35076"
+    },
+    {
+      "korType": "35162",
+      "engType": "35162",
+      "engText": "Scrying Orb (Relic Chambers)",
+      "korText": "예지의 오브 (유물의 방)",
+      "disc": "scrying_orb",
+      "type": "35162"
+    },
+    {
+      "korType": "35484",
+      "engType": "35484",
+      "engText": "Scrying Orb (Core)",
+      "korText": "예지의 오브 (중심부)",
+      "disc": "scrying_orb",
+      "type": "35484"
+    },
+    {
+      "korType": "36207",
+      "engType": "36207",
+      "engText": "Scrying Orb (Fields)",
+      "korText": "예지의 오브 (들판)",
+      "disc": "scrying_orb",
+      "type": "36207"
+    },
+    {
+      "korType": "36556",
+      "engType": "36556",
+      "engText": "Scrying Orb (Bazaar)",
+      "korText": "예지의 오브 (장터)",
+      "disc": "scrying_orb",
+      "type": "36556"
+    },
+    {
+      "korType": "3756",
+      "engType": "3756",
+      "engText": "Scrying Orb (Siege)",
+      "korText": "예지의 오브 (공성 구역)",
+      "disc": "scrying_orb",
+      "type": "3756"
+    },
+    {
+      "korType": "3775",
+      "engType": "3775",
+      "engText": "Scrying Orb (Cells)",
+      "korText": "예지의 오브 (감방)",
+      "disc": "scrying_orb",
+      "type": "3775"
+    },
+    {
+      "korType": "38080",
+      "engType": "38080",
+      "engText": "Scrying Orb (Cold River)",
+      "korText": "예지의 오브 (차가운 강)",
+      "disc": "scrying_orb",
+      "type": "38080"
+    },
+    {
+      "korType": "3883",
+      "engType": "3883",
+      "engText": "Scrying Orb (Cage)",
+      "korText": "예지의 오브 (창살)",
+      "disc": "scrying_orb",
+      "type": "3883"
+    },
+    {
+      "korType": "38855",
+      "engType": "38855",
+      "engText": "Scrying Orb (Orchard)",
+      "korText": "예지의 오브 (과수원)",
+      "disc": "scrying_orb",
+      "type": "38855"
+    },
+    {
+      "korType": "39459",
+      "engType": "39459",
+      "engText": "Scrying Orb (Chateau)",
+      "korText": "예지의 오브 (대저택)",
+      "disc": "scrying_orb",
+      "type": "39459"
+    },
+    {
+      "korType": "4003",
+      "engType": "4003",
+      "engText": "Scrying Orb (Jungle Valley)",
+      "korText": "예지의 오브 (밀림 계곡)",
+      "disc": "scrying_orb",
+      "type": "4003"
+    },
+    {
+      "korType": "40753",
+      "engType": "40753",
+      "engText": "Scrying Orb (Estuary)",
+      "korText": "예지의 오브 (강어귀)",
+      "disc": "scrying_orb",
+      "type": "40753"
+    },
+    {
+      "korType": "41363",
+      "engType": "41363",
+      "engText": "Scrying Orb (Coral Ruins)",
+      "korText": "예지의 오브 (산호 유적)",
+      "disc": "scrying_orb",
+      "type": "41363"
+    },
+    {
+      "korType": "41763",
+      "engType": "41763",
+      "engText": "Scrying Orb (Factory)",
+      "korText": "예지의 오브 (공장)",
+      "disc": "scrying_orb",
+      "type": "41763"
+    },
+    {
+      "korType": "42115",
+      "engType": "42115",
+      "engText": "Scrying Orb (Marshes)",
+      "korText": "예지의 오브 (습지)",
+      "disc": "scrying_orb",
+      "type": "42115"
+    },
+    {
+      "korType": "42558",
+      "engType": "42558",
+      "engText": "Scrying Orb (Terrace)",
+      "korText": "예지의 오브 (테라스)",
+      "disc": "scrying_orb",
+      "type": "42558"
+    },
+    {
+      "korType": "42968",
+      "engType": "42968",
+      "engText": "Scrying Orb (Alleyways)",
+      "korText": "예지의 오브 (골목길)",
+      "disc": "scrying_orb",
+      "type": "42968"
+    },
+    {
+      "korType": "43016",
+      "engType": "43016",
+      "engText": "Scrying Orb (Burial Chambers)",
+      "korText": "예지의 오브 (묘실)",
+      "disc": "scrying_orb",
+      "type": "43016"
+    },
+    {
+      "korType": "43561",
+      "engType": "43561",
+      "engText": "Scrying Orb (Laboratory)",
+      "korText": "예지의 오브 (실험실)",
+      "disc": "scrying_orb",
+      "type": "43561"
+    },
+    {
+      "korType": "44170",
+      "engType": "44170",
+      "engText": "Scrying Orb (Bramble Valley)",
+      "korText": "예지의 오브 (가시나무 계곡)",
+      "disc": "scrying_orb",
+      "type": "44170"
+    },
+    {
+      "korType": "44259",
+      "engType": "44259",
+      "engText": "Scrying Orb (Arcade)",
+      "korText": "예지의 오브 (상점가)",
+      "disc": "scrying_orb",
+      "type": "44259"
+    },
+    {
+      "korType": "44313",
+      "engType": "44313",
+      "engText": "Scrying Orb (Mineral Pools)",
+      "korText": "예지의 오브 (광물층)",
+      "disc": "scrying_orb",
+      "type": "44313"
+    },
+    {
+      "korType": "44762",
+      "engType": "44762",
+      "engText": "Scrying Orb (City Square)",
+      "korText": "예지의 오브 (도시 광장)",
+      "disc": "scrying_orb",
+      "type": "44762"
+    },
+    {
+      "korType": "45792",
+      "engType": "45792",
+      "engText": "Scrying Orb (Temple)",
+      "korText": "예지의 오브 (사원)",
+      "disc": "scrying_orb",
+      "type": "45792"
+    },
+    {
+      "korType": "47088",
+      "engType": "47088",
+      "engText": "Scrying Orb (Port)",
+      "korText": "예지의 오브 (항만)",
+      "disc": "scrying_orb",
+      "type": "47088"
+    },
+    {
+      "korType": "4755",
+      "engType": "4755",
+      "engText": "Scrying Orb (Residence)",
+      "korText": "예지의 오브 (주택)",
+      "disc": "scrying_orb",
+      "type": "4755"
+    },
+    {
+      "korType": "47634",
+      "engType": "47634",
+      "engText": "Scrying Orb (Phantasmagoria)",
+      "korText": "예지의 오브 (환영)",
+      "disc": "scrying_orb",
+      "type": "47634"
+    },
+    {
+      "korType": "48831",
+      "engType": "48831",
+      "engText": "Scrying Orb (Lookout)",
+      "korText": "예지의 오브 (전망대)",
+      "disc": "scrying_orb",
+      "type": "48831"
+    },
+    {
+      "korType": "49777",
+      "engType": "49777",
+      "engText": "Scrying Orb (Courthouse)",
+      "korText": "예지의 오브 (법원)",
+      "disc": "scrying_orb",
+      "type": "49777"
+    },
+    {
+      "korType": "5132",
+      "engType": "5132",
+      "engText": "Scrying Orb (Crater)",
+      "korText": "예지의 오브 (분화구)",
+      "disc": "scrying_orb",
+      "type": "5132"
+    },
+    {
+      "korType": "51403",
+      "engType": "51403",
+      "engText": "Scrying Orb (Frozen Cabins)",
+      "korText": "예지의 오브 (얼어붙은 오막)",
+      "disc": "scrying_orb",
+      "type": "51403"
+    },
+    {
+      "korType": "51878",
+      "engType": "51878",
+      "engText": "Scrying Orb (Palace)",
+      "korText": "예지의 오브 (궁전)",
+      "disc": "scrying_orb",
+      "type": "51878"
+    },
+    {
+      "korType": "52736",
+      "engType": "52736",
+      "engText": "Scrying Orb (Ramparts)",
+      "korText": "예지의 오브 (성벽)",
+      "disc": "scrying_orb",
+      "type": "52736"
+    },
+    {
+      "korType": "53116",
+      "engType": "53116",
+      "engText": "Scrying Orb (Dunes)",
+      "korText": "예지의 오브 (사구)",
+      "disc": "scrying_orb",
+      "type": "53116"
+    },
+    {
+      "korType": "53902",
+      "engType": "53902",
+      "engText": "Scrying Orb (Graveyard)",
+      "korText": "예지의 오브 (묘지)",
+      "disc": "scrying_orb",
+      "type": "53902"
+    },
+    {
+      "korType": "53973",
+      "engType": "53973",
+      "engText": "Scrying Orb (Reef)",
+      "korText": "예지의 오브 (암초)",
+      "disc": "scrying_orb",
+      "type": "53973"
+    },
+    {
+      "korType": "54446",
+      "engType": "54446",
+      "engText": "Scrying Orb (Tower)",
+      "korText": "예지의 오브 (탑)",
+      "disc": "scrying_orb",
+      "type": "54446"
+    },
+    {
+      "korType": "54757",
+      "engType": "54757",
+      "engText": "Scrying Orb (Promenade)",
+      "korText": "예지의 오브 (산책로)",
+      "disc": "scrying_orb",
+      "type": "54757"
+    },
+    {
+      "korType": "5647",
+      "engType": "5647",
+      "engText": "Scrying Orb (Tropical Island)",
+      "korText": "예지의 오브 (열대 섬)",
+      "disc": "scrying_orb",
+      "type": "5647"
+    },
+    {
+      "korType": "57831",
+      "engType": "57831",
+      "engText": "Scrying Orb (Mausoleum)",
+      "korText": "예지의 오브 (능묘)",
+      "disc": "scrying_orb",
+      "type": "57831"
+    },
+    {
+      "korType": "57839",
+      "engType": "57839",
+      "engText": "Scrying Orb (Vault)",
+      "korText": "예지의 오브 (금고실)",
+      "disc": "scrying_orb",
+      "type": "57839"
+    },
+    {
+      "korType": "58981",
+      "engType": "58981",
+      "engText": "Scrying Orb (Geode)",
+      "korText": "예지의 오브 (정동석)",
+      "disc": "scrying_orb",
+      "type": "58981"
+    },
+    {
+      "korType": "59084",
+      "engType": "59084",
+      "engText": "Scrying Orb (Iceberg)",
+      "korText": "예지의 오브 (빙산)",
+      "disc": "scrying_orb",
+      "type": "59084"
+    },
+    {
+      "korType": "59460",
+      "engType": "59460",
+      "engText": "Scrying Orb (Belfry)",
+      "korText": "예지의 오브 (종탑)",
+      "disc": "scrying_orb",
+      "type": "59460"
+    },
+    {
+      "korType": "60607",
+      "engType": "60607",
+      "engText": "Scrying Orb (Spider Lair)",
+      "korText": "예지의 오브 (거미 소굴)",
+      "disc": "scrying_orb",
+      "type": "60607"
+    },
+    {
+      "korType": "60634",
+      "engType": "60634",
+      "engText": "Scrying Orb (Summit)",
+      "korText": "예지의 오브 (꼭대기)",
+      "disc": "scrying_orb",
+      "type": "60634"
+    },
+    {
+      "korType": "60732",
+      "engType": "60732",
+      "engText": "Scrying Orb (Pier)",
+      "korText": "예지의 오브 (선창)",
+      "disc": "scrying_orb",
+      "type": "60732"
+    },
+    {
+      "korType": "6074",
+      "engType": "6074",
+      "engText": "Scrying Orb (Sulphur Vents)",
+      "korText": "예지의 오브 (유황 분출구)",
+      "disc": "scrying_orb",
+      "type": "6074"
+    },
+    {
+      "korType": "62685",
+      "engType": "62685",
+      "engText": "Scrying Orb (Beach)",
+      "korText": "예지의 오브 (해변)",
+      "disc": "scrying_orb",
+      "type": "62685"
+    },
+    {
+      "korType": "63065",
+      "engType": "63065",
+      "engText": "Scrying Orb (Flooded Mine)",
+      "korText": "예지의 오브 (물에 잠긴 광산)",
+      "disc": "scrying_orb",
+      "type": "63065"
+    },
+    {
+      "korType": "64414",
+      "engType": "64414",
+      "engText": "Scrying Orb (Caldera)",
+      "korText": "예지의 오브 (칼데라)",
+      "disc": "scrying_orb",
+      "type": "64414"
+    },
+    {
+      "korType": "64812",
+      "engType": "64812",
+      "engText": "Scrying Orb (Shrine)",
+      "korText": "예지의 오브 (성소)",
+      "disc": "scrying_orb",
+      "type": "64812"
+    },
+    {
+      "korType": "6755",
+      "engType": "6755",
+      "engText": "Scrying Orb (Conservatory)",
+      "korText": "예지의 오브 (온실)",
+      "disc": "scrying_orb",
+      "type": "6755"
+    },
+    {
+      "korType": "7465",
+      "engType": "7465",
+      "engText": "Scrying Orb (Arachnid Tomb)",
+      "korText": "예지의 오브 (거미류 무덤)",
+      "disc": "scrying_orb",
+      "type": "7465"
+    },
+    {
+      "korType": "8823",
+      "engType": "8823",
+      "engText": "Scrying Orb (Lair)",
+      "korText": "예지의 오브 (소굴)",
+      "disc": "scrying_orb",
+      "type": "8823"
     },
     {
       "korType": "태고의 조각",

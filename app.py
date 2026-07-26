@@ -10,7 +10,7 @@ def main():
 
   LEAGUES = {
     # 'standard': 'Standard',
-    'Mirage' : 'Mirage',
+    'Allflame' : 'Allflame',
   }
 
   CATEGORIES = {
@@ -68,7 +68,7 @@ def main():
       },
   ]
 
-  league = 'Mirage'
+  league = 'Allflame'
 
   # 각 설정을 반복하며 병합 함수 호출
   for config in merge_configurations:

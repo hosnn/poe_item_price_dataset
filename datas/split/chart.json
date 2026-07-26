@@ -1,0 +1,131 @@
+{
+  "id": "chart",
+  "labelKor": "해도",
+  "labelEng": "Chart",
+  "entries": [
+    {
+      "korType": "산호 숲 해도",
+      "engType": "Coral Forest Chart"
+    },
+    {
+      "korType": "산호 암초 해도",
+      "engType": "Coral Reef Chart"
+    },
+    {
+      "korType": "모래 덮인 해저 해도",
+      "engType": "Sandy Seabed Chart"
+    },
+    {
+      "korType": "AbyssalPlain",
+      "engType": "AbyssalPlain",
+      "engText": "Sandy Seabed Chart (Abyssal Plain)",
+      "korText": "모래 덮인 해저 해도 (심연의 평야)",
+      "disc": "chart_sandy_seabed",
+      "type": "AbyssalPlain"
+    },
+    {
+      "korType": "Anchorfield",
+      "engType": "Anchorfield",
+      "engText": "Sandy Seabed Chart (Anchorfield)",
+      "korText": "모래 덮인 해저 해도 (정박장)",
+      "disc": "chart_sandy_seabed",
+      "type": "Anchorfield"
+    },
+    {
+      "korType": "BrineKingsDomain",
+      "engType": "BrineKingsDomain",
+      "engText": "Coral Reef Chart (Brine King's Domain)",
+      "korText": "산호 암초 해도 (염수왕의 영토)",
+      "disc": "chart_coral_reef",
+      "type": "BrineKingsDomain"
+    },
+    {
+      "korType": "ClamInfestedShelf",
+      "engType": "ClamInfestedShelf",
+      "engText": "Coral Reef Chart (Clam-infested Shelf)",
+      "korText": "산호 암초 해도 (조개투성이 선반)",
+      "disc": "chart_coral_reef",
+      "type": "ClamInfestedShelf"
+    },
+    {
+      "korType": "DivingShoals",
+      "engType": "DivingShoals",
+      "engText": "Coral Reef Chart (Diving Shoals)",
+      "korText": "산호 암초 해도 (잠수 모래톱)",
+      "disc": "chart_coral_reef",
+      "type": "DivingShoals"
+    },
+    {
+      "korType": "HazardousDepths",
+      "engType": "HazardousDepths",
+      "engText": "Sandy Seabed Chart (Hazardous Depths)",
+      "korText": "모래 덮인 해저 해도 (위태한 지하)",
+      "disc": "chart_sandy_seabed",
+      "type": "HazardousDepths"
+    },
+    {
+      "korType": "InfestedBathyspheres",
+      "engType": "InfestedBathyspheres",
+      "engText": "Sandy Seabed Chart (Infested Bathyspheres)",
+      "korText": "모래 덮인 해저 해도 (감염된 잠수구)",
+      "disc": "chart_sandy_seabed",
+      "type": "InfestedBathyspheres"
+    },
+    {
+      "korType": "KisharasRest",
+      "engType": "KisharasRest",
+      "engText": "Sandy Seabed Chart (Kishara's Rest)",
+      "korText": "모래 덮인 해저 해도 (키샤라의 안식처)",
+      "disc": "chart_sandy_seabed",
+      "type": "KisharasRest"
+    },
+    {
+      "korType": "LostRuins",
+      "engType": "LostRuins",
+      "engText": "Coral Forest Chart (Lost Ruins)",
+      "korText": "산호 숲 해도 (잃어버린 폐허)",
+      "disc": "chart_coral_forest",
+      "type": "LostRuins"
+    },
+    {
+      "korType": "PelagicAbyss",
+      "engType": "PelagicAbyss",
+      "engText": "Coral Forest Chart (Pelagic Abyss)",
+      "korText": "산호 숲 해도 (원양 심연)",
+      "disc": "chart_coral_forest",
+      "type": "PelagicAbyss"
+    },
+    {
+      "korType": "SeafloorRidges",
+      "engType": "SeafloorRidges",
+      "engText": "Coral Reef Chart (Seafloor Ridges)",
+      "korText": "산호 암초 해도 (해저 마루)",
+      "disc": "chart_coral_reef",
+      "type": "SeafloorRidges"
+    },
+    {
+      "korType": "SeaPillars",
+      "engType": "SeaPillars",
+      "engText": "Coral Forest Chart (Sea Pillars)",
+      "korText": "산호 숲 해도 (바다 기둥)",
+      "disc": "chart_coral_forest",
+      "type": "SeaPillars"
+    },
+    {
+      "korType": "SunkenTotems",
+      "engType": "SunkenTotems",
+      "engText": "Coral Reef Chart (Sunken Totems)",
+      "korText": "산호 암초 해도 (가라앉은 토템)",
+      "disc": "chart_coral_reef",
+      "type": "SunkenTotems"
+    },
+    {
+      "korType": "UnderseaGroves",
+      "engType": "UnderseaGroves",
+      "engText": "Coral Forest Chart (Undersea Groves)",
+      "korText": "산호 숲 해도 (바다 밑 숲)",
+      "disc": "chart_coral_forest",
+      "type": "UnderseaGroves"
+    }
+  ]
+}

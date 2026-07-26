@@ -2455,24 +2455,25 @@
       "korType": "보존된 화살통",
       "engType": "Blazing Arrow Quiver",
       "engText": "Blackgleam Blazing Arrow Quiver",
-      "korText": "검은 섬광 보존된 화살통",
-      "engName": "Blackgleam",
-      "korName": "검은 섬광",
-      "flags": {
-        "unique": true
-      }
-    },
-    {
-      "korType": "불화살통",
-      "engType": "Cured Quiver",
-      "engText": "Blackgleam Cured Quiver",
-      "korText": "검은 섬광 불화살통 (유산)",
+      "korText": "검은 섬광 보존된 화살통 (유산)",
       "engName": "Blackgleam",
       "korName": "검은 섬광",
       "flags": {
         "unique": true
       },
       "kor_disc": "legacy"
+    },
+    {
+      "korType": "불화살통",
+      "engType": "Cured Quiver",
+      "engText": "Blackgleam Cured Quiver (Legacy)",
+      "korText": "검은 섬광 불화살통 (유산)",
+      "engName": "Blackgleam",
+      "korName": "검은 섬광",
+      "disc": "legacy",
+      "flags": {
+        "unique": true
+      }
     },
     {
       "korType": "옻칠한 투구",
@@ -3366,10 +3367,10 @@
       }
     },
     {
-      "korType": "악령술사 장화",
+      "korType": "레비아탄 각반",
       "engType": "Sadist Garb",
       "engText": "Doppelgänger Guise Sadist Garb",
-      "korText": "도리아니의 기만 악령술사 장화",
+      "korText": "도리아니의 기만 레비아탄 각반",
       "engName": "Doppelgänger Guise",
       "korName": "도리아니의 기만",
       "flags": {
@@ -3377,10 +3378,10 @@
       }
     },
     {
-      "korType": "거신 각반",
-      "engType": "Sorcerer Boots",
-      "engText": "Doryani's Delusion Sorcerer Boots",
-      "korText": "도리아니의 기만 거신 각반",
+      "korType": "마법사 장화",
+      "engType": "Leviathan Greaves",
+      "engText": "Doryani's Delusion Leviathan Greaves",
+      "korText": "도리아니의 기만 마법사 장화",
       "engName": "Doryani's Delusion",
       "korName": "도리아니의 기만",
       "flags": {
@@ -3389,25 +3390,51 @@
     },
     {
       "korType": "송아지 가죽 장화",
-      "engType": "Titan Greaves",
-      "engText": "Doryani's Delusion Titan Greaves",
-      "korText": "도리아니의 기만 송아지 가죽 장화",
+      "engType": "Warlock Boots",
+      "engText": "Doryani's Delusion Warlock Boots",
+      "korText": "도리아니의 기만 송아지 가죽 장화 (유산)",
       "engName": "Doryani's Delusion",
       "korName": "도리아니의 기만",
+      "flags": {
+        "unique": true
+      },
+      "kor_disc": "legacy"
+    },
+    {
+      "korType": "악령술사 장화",
+      "engType": "Slink Boots",
+      "engText": "Doryani's Delusion Slink Boots (Legacy)",
+      "korText": "도리아니의 기만 악령술사 장화 (유산)",
+      "engName": "Doryani's Delusion",
+      "korName": "도리아니의 기만",
+      "disc": "legacy",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "거신 각반",
+      "engType": "Sorcerer Boots",
+      "engText": "Doryani's Delusion Sorcerer Boots (Legacy)",
+      "korText": "도리아니의 기만 거신 각반 (유산)",
+      "engName": "Doryani's Delusion",
+      "korName": "도리아니의 기만",
+      "disc": "legacy",
       "flags": {
         "unique": true
       }
     },
     {
       "korType": "바알 건틀릿",
-      "engType": "Slink Boots",
-      "engText": "Doryani's Delusion Slink Boots",
+      "engType": "Titan Greaves",
+      "engText": "Doryani's Delusion Titan Greaves (Legacy)",
       "korText": "도리아니의 주먹 바알 건틀릿",
       "engName": "Doryani's Delusion",
       "korName": "도리아니의 주먹",
       "flags": {
         "unique": true
-      }
+      },
+      "eng_disc": "legacy"
     },
     {
       "korType": "성인의 쇠사슬 갑옷",
@@ -6109,16 +6136,27 @@
       "kor_disc": "legacy"
     },
     {
-      "korType": "황동 영혼 방패",
+      "korType": "가시투성이 원형 방패",
       "engType": "Broadhead Arrow Quiver",
       "engText": "Scorpion's Call Broadhead Arrow Quiver (Legacy)",
-      "korText": "센타리의 응답 황동 영혼 방패",
+      "korText": "바다 물집 가시투성이 원형 방패",
       "engName": "Scorpion's Call",
-      "korName": "센타리의 응답",
+      "korName": "바다 물집",
       "flags": {
         "unique": true
       },
       "eng_disc": "legacy"
+    },
+    {
+      "korType": "황동 영혼 방패",
+      "engType": "Spiny Round Shield",
+      "engText": "Seablister Spiny Round Shield",
+      "korText": "센타리의 응답 황동 영혼 방패",
+      "engName": "Seablister",
+      "korName": "센타리의 응답",
+      "flags": {
+        "unique": true
+      }
     },
     {
       "korType": "고문자의 의복",
@@ -6565,11 +6603,22 @@
       }
     },
     {
-      "korType": "강철 관",
+      "korType": "충실한 투구",
       "engType": "Assassin's Mitts",
       "engText": "Storm's Gift Assassin's Mitts",
-      "korText": "개벽 강철 관",
+      "korText": "결합의 원천 충실한 투구",
       "engName": "Storm's Gift",
+      "korName": "결합의 원천",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "강철 관",
+      "engType": "Faithful Helmet",
+      "engText": "Subsume the Source Faithful Helmet",
+      "korText": "개벽 강철 관",
+      "engName": "Subsume the Source",
       "korName": "개벽",
       "flags": {
         "unique": true
@@ -7359,11 +7408,22 @@
       }
     },
     {
-      "korType": "집정관의 연모양 방패",
+      "korType": "할리퀸 가면",
       "engType": "Visored Sallet",
       "engText": "The Trickster's Smile Visored Sallet",
-      "korText": "불굴의 의지 집정관의 연모양 방패",
+      "korText": "깜박이지 않는 눈 할리퀸 가면",
       "engName": "The Trickster's Smile",
+      "korName": "깜박이지 않는 눈",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "집정관의 연모양 방패",
+      "engType": "Harlequin Mask",
+      "engText": "The Unblinking Eye Harlequin Mask",
+      "korText": "불굴의 의지 집정관의 연모양 방패",
+      "engName": "The Unblinking Eye",
       "korName": "불굴의 의지",
       "flags": {
         "unique": true
@@ -7702,10 +7762,10 @@
       }
     },
     {
-      "korType": "원시 화살통",
+      "korType": "화려한 화살통",
       "engType": "Conjurer Gloves",
       "engText": "Voidbringer Conjurer Gloves",
-      "korText": "공허 화살깃 원시 화살통",
+      "korText": "공허 화살깃 화려한 화살통",
       "engName": "Voidbringer",
       "korName": "공허 화살깃",
       "flags": {
@@ -7714,8 +7774,8 @@
     },
     {
       "korType": "관통 화살통",
-      "engType": "Primal Arrow Quiver",
-      "engText": "Voidfletcher Primal Arrow Quiver",
+      "engType": "Ornate Quiver",
+      "engText": "Voidfletcher Ornate Quiver",
       "korText": "공허 화살깃 관통 화살통 (유산)",
       "engName": "Voidfletcher",
       "korName": "공허 화살깃",
@@ -7725,9 +7785,21 @@
       "kor_disc": "legacy"
     },
     {
-      "korType": "살인자의 장화",
+      "korType": "원시 화살통",
       "engType": "Penetrating Arrow Quiver",
       "engText": "Voidfletcher Penetrating Arrow Quiver (Legacy)",
+      "korText": "공허 화살깃 원시 화살통 (유산)",
+      "engName": "Voidfletcher",
+      "korName": "공허 화살깃",
+      "disc": "legacy",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인자의 장화",
+      "engType": "Primal Arrow Quiver",
+      "engText": "Voidfletcher Primal Arrow Quiver (Legacy)",
       "korText": "공허 보행자 살인자의 장화",
       "engName": "Voidfletcher",
       "korName": "공허 보행자",
@@ -7814,11 +7886,22 @@
       }
     },
     {
-      "korType": "변색된 영혼 방패",
+      "korType": "성인의 쇠사슬 갑옷",
       "engType": "Wool Shoes",
       "engText": "Wanderlust Wool Shoes",
-      "korText": "와카투투키 오 마투아 변색된 영혼 방패",
+      "korText": "창백한 영혼 성인의 쇠사슬 갑옷",
       "engName": "Wanderlust",
+      "korName": "창백한 영혼",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "변색된 영혼 방패",
+      "engType": "Saint's Hauberk",
+      "engText": "Waxen Soul Saint's Hauberk",
+      "korText": "와카투투키 오 마투아 변색된 영혼 방패",
+      "engName": "Waxen Soul",
       "korName": "와카투투키 오 마투아",
       "flags": {
         "unique": true

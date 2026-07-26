@@ -152,6 +152,17 @@
       }
     },
     {
+      "korType": "최면 거는 눈 주얼",
+      "engType": "Hypnotic Eye Jewel",
+      "engText": "Baleful Dominion Hypnotic Eye Jewel",
+      "korText": "사악한 통치 최면 거는 눈 주얼",
+      "engName": "Baleful Dominion",
+      "korName": "사악한 통치",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "진홍색 주얼",
       "engType": "Crimson Jewel",
       "engText": "Bloodnotch Crimson Jewel",
@@ -427,6 +438,17 @@
       }
     },
     {
+      "korType": "무시무시한 눈 주얼",
+      "engType": "Ghastly Eye Jewel",
+      "engText": "Destructive Aspiration Ghastly Eye Jewel",
+      "korText": "파멸적인 열망 무시무시한 눈 주얼",
+      "engName": "Destructive Aspiration",
+      "korName": "파멸적인 열망",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "진홍색 주얼",
       "engType": "Crimson Jewel",
       "engText": "Dissolution of the Flesh Crimson Jewel",
@@ -570,12 +592,34 @@
       }
     },
     {
+      "korType": "탐색하는 눈 주얼",
+      "engType": "Searching Eye Jewel",
+      "engText": "Extinguishing Grasp Searching Eye Jewel",
+      "korText": "절망의 손아귀 탐색하는 눈 주얼",
+      "engName": "Extinguishing Grasp",
+      "korName": "절망의 손아귀",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
       "korType": "코발트색 주얼",
       "engType": "Cobalt Jewel",
       "engText": "Fertile Mind Cobalt Jewel",
       "korText": "풍요로운 마음 코발트색 주얼",
       "engName": "Fertile Mind",
       "korName": "풍요로운 마음",
+      "flags": {
+        "unique": true
+      }
+    },
+    {
+      "korType": "살인적인 눈 주얼",
+      "engType": "Murderous Eye Jewel",
+      "engText": "Festering Vengeance Murderous Eye Jewel",
+      "korText": "짓무르는 복수 살인적인 눈 주얼",
+      "engName": "Festering Vengeance",
+      "korName": "짓무르는 복수",
       "flags": {
         "unique": true
       }

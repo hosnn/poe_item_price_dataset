@@ -16,6 +16,22 @@
       "engType": "Timeworn Reliquary Key"
     },
     {
+      "korType": "조라스의 무한의 눈",
+      "engType": "Zorath's Eye of the Endless"
+    },
+    {
+      "korType": "조라스의 필연의 눈",
+      "engType": "Zorath's Eye of the Inevitable"
+    },
+    {
+      "korType": "조라스의 악의의 눈",
+      "engType": "Zorath's Eye of Malevolence"
+    },
+    {
+      "korType": "조라스의 권위의 눈",
+      "engType": "Zorath's Eye of Authority"
+    },
+    {
       "korType": "숭배의 메아리",
       "engType": "Echo of Reverence"
     },
@@ -328,6 +344,10 @@
       "engType": "Allflame Ember of Flesh"
     },
     {
+      "korType": "용병 소환장",
+      "engType": "Mercenary Warrant"
+    },
+    {
       "korType": "백열하는 초대",
       "engType": "Incandescent Invitation"
     },
@@ -428,10 +448,9 @@
       "engType": "Shaper Guardian Map"
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
-      "disc": "map",
-      "type": "Map"
+      "disc": "map"
     },
     {
       "korType": "바알 사원 지도",
@@ -466,12 +485,12 @@
       "engType": "Abyss Scarab of Descending"
     },
     {
-      "korType": "건축물의 심연 갑충석",
-      "engType": "Abyss Scarab of Edifice"
+      "korType": "수정의 심연 갑충석",
+      "engType": "Abyss Scarab of Crystals"
     },
     {
-      "korType": "심원한 깊이의 심연 갑충석",
-      "engType": "Abyss Scarab of Profound Depth"
+      "korType": "배우자의 심연 갑충석",
+      "engType": "Abyss Scarab of the Consort"
     },
     {
       "korType": "혼란 갑충석",
@@ -918,6 +937,22 @@
       "engType": "Cartography Scarab of the Multitude"
     },
     {
+      "korType": "트라투스 갑충석",
+      "engType": "Trarthan Scarab"
+    },
+    {
+      "korType": "악명의 트라투스 갑충석",
+      "engType": "Trarthan Scarab of Infamy"
+    },
+    {
+      "korType": "명성의 트라투스 갑충석",
+      "engType": "Trarthan Scarab of Renown"
+    },
+    {
+      "korType": "의외의 동맹의 트라투스 갑충석",
+      "engType": "Trarthan Scarab of Surprising Alliances"
+    },
+    {
       "korType": "녹슨 결전 갑충석",
       "engType": "Rusted Ultimatum Scarab"
     },
@@ -1213,7 +1248,7 @@
       "korType": "10021",
       "engType": "10021",
       "engText": "Blighted Map (Strand)",
-      "korText": "Blighted Map (해안)",
+      "korText": "역병 걸린 지도 (해안)",
       "disc": "blighted",
       "type": "10021"
     },
@@ -1221,7 +1256,7 @@
       "korType": "10021",
       "engType": "10021",
       "engText": "Blight-ravaged Map (Strand)",
-      "korText": "Blight-ravaged Map (해안)",
+      "korText": "역병에 유린당한 지도 (해안)",
       "disc": "uberblighted",
       "type": "10021"
     },
@@ -1229,7 +1264,7 @@
       "korType": "10211",
       "engType": "10211",
       "engText": "Blighted Map (Desert Spring)",
-      "korText": "Blighted Map (사막의 샘)",
+      "korText": "역병 걸린 지도 (사막의 샘)",
       "disc": "blighted",
       "type": "10211"
     },
@@ -1237,7 +1272,7 @@
       "korType": "10211",
       "engType": "10211",
       "engText": "Blight-ravaged Map (Desert Spring)",
-      "korText": "Blight-ravaged Map (사막의 샘)",
+      "korText": "역병에 유린당한 지도 (사막의 샘)",
       "disc": "uberblighted",
       "type": "10211"
     },
@@ -1245,7 +1280,7 @@
       "korType": "10687",
       "engType": "10687",
       "engText": "Blighted Map (Crimson Township)",
-      "korText": "Blighted Map (진홍색 마을)",
+      "korText": "역병 걸린 지도 (진홍색 마을)",
       "disc": "blighted",
       "type": "10687"
     },
@@ -1253,7 +1288,7 @@
       "korType": "10687",
       "engType": "10687",
       "engText": "Blight-ravaged Map (Crimson Township)",
-      "korText": "Blight-ravaged Map (진홍색 마을)",
+      "korText": "역병에 유린당한 지도 (진홍색 마을)",
       "disc": "uberblighted",
       "type": "10687"
     },
@@ -1261,7 +1296,7 @@
       "korType": "11215",
       "engType": "11215",
       "engText": "Blighted Map (Sunken City)",
-      "korText": "Blighted Map (물에 잠긴 도시)",
+      "korText": "역병 걸린 지도 (물에 잠긴 도시)",
       "disc": "blighted",
       "type": "11215"
     },
@@ -1269,7 +1304,7 @@
       "korType": "11215",
       "engType": "11215",
       "engText": "Blight-ravaged Map (Sunken City)",
-      "korText": "Blight-ravaged Map (물에 잠긴 도시)",
+      "korText": "역병에 유린당한 지도 (물에 잠긴 도시)",
       "disc": "uberblighted",
       "type": "11215"
     },
@@ -1277,7 +1312,7 @@
       "korType": "11490",
       "engType": "11490",
       "engText": "Blighted Map (Pit)",
-      "korText": "Blighted Map (구덩이)",
+      "korText": "역병 걸린 지도 (구덩이)",
       "disc": "blighted",
       "type": "11490"
     },
@@ -1285,7 +1320,7 @@
       "korType": "11490",
       "engType": "11490",
       "engText": "Blight-ravaged Map (Pit)",
-      "korText": "Blight-ravaged Map (구덩이)",
+      "korText": "역병에 유린당한 지도 (구덩이)",
       "disc": "uberblighted",
       "type": "11490"
     },
@@ -1293,7 +1328,7 @@
       "korType": "11533",
       "engType": "11533",
       "engText": "Blighted Map (Gardens)",
-      "korText": "Blighted Map (정원)",
+      "korText": "역병 걸린 지도 (정원)",
       "disc": "blighted",
       "type": "11533"
     },
@@ -1301,7 +1336,7 @@
       "korType": "11533",
       "engType": "11533",
       "engText": "Blight-ravaged Map (Gardens)",
-      "korText": "Blight-ravaged Map (정원)",
+      "korText": "역병에 유린당한 지도 (정원)",
       "disc": "uberblighted",
       "type": "11533"
     },
@@ -1309,7 +1344,7 @@
       "korType": "11724",
       "engType": "11724",
       "engText": "Blighted Map (Shipyard)",
-      "korText": "Blighted Map (조선소)",
+      "korText": "역병 걸린 지도 (조선소)",
       "disc": "blighted",
       "type": "11724"
     },
@@ -1317,7 +1352,7 @@
       "korType": "11724",
       "engType": "11724",
       "engText": "Blight-ravaged Map (Shipyard)",
-      "korText": "Blight-ravaged Map (조선소)",
+      "korText": "역병에 유린당한 지도 (조선소)",
       "disc": "uberblighted",
       "type": "11724"
     },
@@ -1325,7 +1360,7 @@
       "korType": "1215",
       "engType": "1215",
       "engText": "Blighted Map (Haunted Mansion)",
-      "korText": "Blighted Map (으스스한 대저택)",
+      "korText": "역병 걸린 지도 (으스스한 대저택)",
       "disc": "blighted",
       "type": "1215"
     },
@@ -1333,7 +1368,7 @@
       "korType": "1215",
       "engType": "1215",
       "engText": "Blight-ravaged Map (Haunted Mansion)",
-      "korText": "Blight-ravaged Map (으스스한 대저택)",
+      "korText": "역병에 유린당한 지도 (으스스한 대저택)",
       "disc": "uberblighted",
       "type": "1215"
     },
@@ -1341,7 +1376,7 @@
       "korType": "12635",
       "engType": "12635",
       "engText": "Blighted Map (Cemetery)",
-      "korText": "Blighted Map (공동묘지)",
+      "korText": "역병 걸린 지도 (공동묘지)",
       "disc": "blighted",
       "type": "12635"
     },
@@ -1349,7 +1384,7 @@
       "korType": "12635",
       "engType": "12635",
       "engText": "Blight-ravaged Map (Cemetery)",
-      "korText": "Blight-ravaged Map (공동묘지)",
+      "korText": "역병에 유린당한 지도 (공동묘지)",
       "disc": "uberblighted",
       "type": "12635"
     },
@@ -1357,7 +1392,7 @@
       "korType": "12937",
       "engType": "12937",
       "engText": "Blighted Map (Leyline)",
-      "korText": "Blighted Map (지맥)",
+      "korText": "역병 걸린 지도 (지맥)",
       "disc": "blighted",
       "type": "12937"
     },
@@ -1365,7 +1400,7 @@
       "korType": "12937",
       "engType": "12937",
       "engText": "Blight-ravaged Map (Leyline)",
-      "korText": "Blight-ravaged Map (지맥)",
+      "korText": "역병에 유린당한 지도 (지맥)",
       "disc": "uberblighted",
       "type": "12937"
     },
@@ -1373,7 +1408,7 @@
       "korType": "1371",
       "engType": "1371",
       "engText": "Blighted Map (Arena)",
-      "korText": "Blighted Map (투기장)",
+      "korText": "역병 걸린 지도 (투기장)",
       "disc": "blighted",
       "type": "1371"
     },
@@ -1381,7 +1416,7 @@
       "korType": "1371",
       "engType": "1371",
       "engText": "Blight-ravaged Map (Arena)",
-      "korText": "Blight-ravaged Map (투기장)",
+      "korText": "역병에 유린당한 지도 (투기장)",
       "disc": "uberblighted",
       "type": "1371"
     },
@@ -1389,7 +1424,7 @@
       "korType": "14879",
       "engType": "14879",
       "engText": "Blighted Map (Ghetto)",
-      "korText": "Blighted Map (빈민촌)",
+      "korText": "역병 걸린 지도 (빈민촌)",
       "disc": "blighted",
       "type": "14879"
     },
@@ -1397,7 +1432,7 @@
       "korType": "14879",
       "engType": "14879",
       "engText": "Blight-ravaged Map (Ghetto)",
-      "korText": "Blight-ravaged Map (빈민촌)",
+      "korText": "역병에 유린당한 지도 (빈민촌)",
       "disc": "uberblighted",
       "type": "14879"
     },
@@ -1405,7 +1440,7 @@
       "korType": "15108",
       "engType": "15108",
       "engText": "Blighted Map (Armoury)",
-      "korText": "Blighted Map (갑주 창고)",
+      "korText": "역병 걸린 지도 (갑주 창고)",
       "disc": "blighted",
       "type": "15108"
     },
@@ -1413,7 +1448,7 @@
       "korType": "15108",
       "engType": "15108",
       "engText": "Blight-ravaged Map (Armoury)",
-      "korText": "Blight-ravaged Map (갑주 창고)",
+      "korText": "역병에 유린당한 지도 (갑주 창고)",
       "disc": "uberblighted",
       "type": "15108"
     },
@@ -1421,7 +1456,7 @@
       "korType": "15595",
       "engType": "15595",
       "engText": "Blighted Map (Primordial Blocks)",
-      "korText": "Blighted Map (태고의 구역)",
+      "korText": "역병 걸린 지도 (태고의 구역)",
       "disc": "blighted",
       "type": "15595"
     },
@@ -1429,7 +1464,7 @@
       "korType": "15595",
       "engType": "15595",
       "engText": "Blight-ravaged Map (Primordial Blocks)",
-      "korText": "Blight-ravaged Map (태고의 구역)",
+      "korText": "역병에 유린당한 지도 (태고의 구역)",
       "disc": "uberblighted",
       "type": "15595"
     },
@@ -1437,7 +1472,7 @@
       "korType": "16355",
       "engType": "16355",
       "engText": "Blighted Map (Colosseum)",
-      "korText": "Blighted Map (원형 경기장)",
+      "korText": "역병 걸린 지도 (원형 경기장)",
       "disc": "blighted",
       "type": "16355"
     },
@@ -1445,7 +1480,7 @@
       "korType": "16355",
       "engType": "16355",
       "engText": "Blight-ravaged Map (Colosseum)",
-      "korText": "Blight-ravaged Map (원형 경기장)",
+      "korText": "역병에 유린당한 지도 (원형 경기장)",
       "disc": "uberblighted",
       "type": "16355"
     },
@@ -1453,7 +1488,7 @@
       "korType": "16982",
       "engType": "16982",
       "engText": "Blighted Map (Ivory Temple)",
-      "korText": "Blighted Map (상아 사원)",
+      "korText": "역병 걸린 지도 (상아 사원)",
       "disc": "blighted",
       "type": "16982"
     },
@@ -1461,7 +1496,7 @@
       "korType": "16982",
       "engType": "16982",
       "engText": "Blight-ravaged Map (Ivory Temple)",
-      "korText": "Blight-ravaged Map (상아 사원)",
+      "korText": "역병에 유린당한 지도 (상아 사원)",
       "disc": "uberblighted",
       "type": "16982"
     },
@@ -1469,7 +1504,7 @@
       "korType": "17533",
       "engType": "17533",
       "engText": "Blighted Map (Wasteland)",
-      "korText": "Blighted Map (황무지)",
+      "korText": "역병 걸린 지도 (황무지)",
       "disc": "blighted",
       "type": "17533"
     },
@@ -1477,7 +1512,7 @@
       "korType": "17533",
       "engType": "17533",
       "engText": "Blight-ravaged Map (Wasteland)",
-      "korText": "Blight-ravaged Map (황무지)",
+      "korText": "역병에 유린당한 지도 (황무지)",
       "disc": "uberblighted",
       "type": "17533"
     },
@@ -1485,7 +1520,7 @@
       "korType": "17684",
       "engType": "17684",
       "engText": "Blighted Map (Crystal Ore)",
-      "korText": "Blighted Map (수정 광석)",
+      "korText": "역병 걸린 지도 (수정 광석)",
       "disc": "blighted",
       "type": "17684"
     },
@@ -1493,7 +1528,7 @@
       "korType": "17684",
       "engType": "17684",
       "engText": "Blight-ravaged Map (Crystal Ore)",
-      "korText": "Blight-ravaged Map (수정 광석)",
+      "korText": "역병에 유린당한 지도 (수정 광석)",
       "disc": "uberblighted",
       "type": "17684"
     },
@@ -1501,7 +1536,7 @@
       "korType": "18545",
       "engType": "18545",
       "engText": "Blighted Map (Underground Sea)",
-      "korText": "Blighted Map (지하 해양)",
+      "korText": "역병 걸린 지도 (지하 해양)",
       "disc": "blighted",
       "type": "18545"
     },
@@ -1509,7 +1544,7 @@
       "korType": "18545",
       "engType": "18545",
       "engText": "Blight-ravaged Map (Underground Sea)",
-      "korText": "Blight-ravaged Map (지하 해양)",
+      "korText": "역병에 유린당한 지도 (지하 해양)",
       "disc": "uberblighted",
       "type": "18545"
     },
@@ -1517,7 +1552,7 @@
       "korType": "18547",
       "engType": "18547",
       "engText": "Blighted Map (Carcass)",
-      "korText": "Blighted Map (시체)",
+      "korText": "역병 걸린 지도 (시체)",
       "disc": "blighted",
       "type": "18547"
     },
@@ -1525,7 +1560,7 @@
       "korType": "18547",
       "engType": "18547",
       "engText": "Blight-ravaged Map (Carcass)",
-      "korText": "Blight-ravaged Map (시체)",
+      "korText": "역병에 유린당한 지도 (시체)",
       "disc": "uberblighted",
       "type": "18547"
     },
@@ -1533,7 +1568,7 @@
       "korType": "19420",
       "engType": "19420",
       "engText": "Blighted Map (Grotto)",
-      "korText": "Blighted Map (석굴)",
+      "korText": "역병 걸린 지도 (석굴)",
       "disc": "blighted",
       "type": "19420"
     },
@@ -1541,7 +1576,7 @@
       "korType": "19420",
       "engType": "19420",
       "engText": "Blight-ravaged Map (Grotto)",
-      "korText": "Blight-ravaged Map (석굴)",
+      "korText": "역병에 유린당한 지도 (석굴)",
       "disc": "uberblighted",
       "type": "19420"
     },
@@ -1549,7 +1584,7 @@
       "korType": "19776",
       "engType": "19776",
       "engText": "Blighted Map (Atoll)",
-      "korText": "Blighted Map (산호섬)",
+      "korText": "역병 걸린 지도 (산호섬)",
       "disc": "blighted",
       "type": "19776"
     },
@@ -1557,7 +1592,7 @@
       "korType": "19776",
       "engType": "19776",
       "engText": "Blight-ravaged Map (Atoll)",
-      "korText": "Blight-ravaged Map (산호섬)",
+      "korText": "역병에 유린당한 지도 (산호섬)",
       "disc": "uberblighted",
       "type": "19776"
     },
@@ -1565,7 +1600,7 @@
       "korType": "19828",
       "engType": "19828",
       "engText": "Blighted Map (Pen)",
-      "korText": "Blighted Map (우리)",
+      "korText": "역병 걸린 지도 (우리)",
       "disc": "blighted",
       "type": "19828"
     },
@@ -1573,7 +1608,7 @@
       "korType": "19828",
       "engType": "19828",
       "engText": "Blight-ravaged Map (Pen)",
-      "korText": "Blight-ravaged Map (우리)",
+      "korText": "역병에 유린당한 지도 (우리)",
       "disc": "uberblighted",
       "type": "19828"
     },
@@ -1581,7 +1616,7 @@
       "korType": "19999",
       "engType": "19999",
       "engText": "Blighted Map (Mesa)",
-      "korText": "Blighted Map (메사)",
+      "korText": "역병 걸린 지도 (메사)",
       "disc": "blighted",
       "type": "19999"
     },
@@ -1589,7 +1624,7 @@
       "korType": "19999",
       "engType": "19999",
       "engText": "Blight-ravaged Map (Mesa)",
-      "korText": "Blight-ravaged Map (메사)",
+      "korText": "역병에 유린당한 지도 (메사)",
       "disc": "uberblighted",
       "type": "19999"
     },
@@ -1597,7 +1632,7 @@
       "korType": "20216",
       "engType": "20216",
       "engText": "Blighted Map (Underground River)",
-      "korText": "Blighted Map (지하 강)",
+      "korText": "역병 걸린 지도 (지하 강)",
       "disc": "blighted",
       "type": "20216"
     },
@@ -1605,7 +1640,7 @@
       "korType": "20216",
       "engType": "20216",
       "engText": "Blight-ravaged Map (Underground River)",
-      "korText": "Blight-ravaged Map (지하 강)",
+      "korText": "역병에 유린당한 지도 (지하 강)",
       "disc": "uberblighted",
       "type": "20216"
     },
@@ -1613,7 +1648,7 @@
       "korType": "20343",
       "engType": "20343",
       "engText": "Blighted Map (Lava Lake)",
-      "korText": "Blighted Map (용암 호수)",
+      "korText": "역병 걸린 지도 (용암 호수)",
       "disc": "blighted",
       "type": "20343"
     },
@@ -1621,7 +1656,7 @@
       "korType": "20343",
       "engType": "20343",
       "engText": "Blight-ravaged Map (Lava Lake)",
-      "korText": "Blight-ravaged Map (용암 호수)",
+      "korText": "역병에 유린당한 지도 (용암 호수)",
       "disc": "uberblighted",
       "type": "20343"
     },
@@ -1629,7 +1664,7 @@
       "korType": "21257",
       "engType": "21257",
       "engText": "Blighted Map (Acid Caverns)",
-      "korText": "Blighted Map (산성 암굴)",
+      "korText": "역병 걸린 지도 (산성 암굴)",
       "disc": "blighted",
       "type": "21257"
     },
@@ -1637,7 +1672,7 @@
       "korType": "21257",
       "engType": "21257",
       "engText": "Blight-ravaged Map (Acid Caverns)",
-      "korText": "Blight-ravaged Map (산성 암굴)",
+      "korText": "역병에 유린당한 지도 (산성 암굴)",
       "disc": "uberblighted",
       "type": "21257"
     },
@@ -1645,7 +1680,7 @@
       "korType": "2144",
       "engType": "2144",
       "engText": "Blighted Map (Villa)",
-      "korText": "Blighted Map (빌라)",
+      "korText": "역병 걸린 지도 (빌라)",
       "disc": "blighted",
       "type": "2144"
     },
@@ -1653,7 +1688,7 @@
       "korType": "2144",
       "engType": "2144",
       "engText": "Blight-ravaged Map (Villa)",
-      "korText": "Blight-ravaged Map (빌라)",
+      "korText": "역병에 유린당한 지도 (빌라)",
       "disc": "uberblighted",
       "type": "2144"
     },
@@ -1661,7 +1696,7 @@
       "korType": "22278",
       "engType": "22278",
       "engText": "Blighted Map (Channel)",
-      "korText": "Blighted Map (물길)",
+      "korText": "역병 걸린 지도 (물길)",
       "disc": "blighted",
       "type": "22278"
     },
@@ -1669,7 +1704,7 @@
       "korType": "22278",
       "engType": "22278",
       "engText": "Blight-ravaged Map (Channel)",
-      "korText": "Blight-ravaged Map (물길)",
+      "korText": "역병에 유린당한 지도 (물길)",
       "disc": "uberblighted",
       "type": "22278"
     },
@@ -1677,7 +1712,7 @@
       "korType": "22593",
       "engType": "22593",
       "engText": "Blighted Map (Shore)",
-      "korText": "Blighted Map (바닷가)",
+      "korText": "역병 걸린 지도 (바닷가)",
       "disc": "blighted",
       "type": "22593"
     },
@@ -1685,7 +1720,7 @@
       "korType": "22593",
       "engType": "22593",
       "engText": "Blight-ravaged Map (Shore)",
-      "korText": "Blight-ravaged Map (바닷가)",
+      "korText": "역병에 유린당한 지도 (바닷가)",
       "disc": "uberblighted",
       "type": "22593"
     },
@@ -1693,7 +1728,7 @@
       "korType": "2279",
       "engType": "2279",
       "engText": "Blighted Map (Necropolis)",
-      "korText": "Blighted Map (매장지)",
+      "korText": "역병 걸린 지도 (매장지)",
       "disc": "blighted",
       "type": "2279"
     },
@@ -1701,7 +1736,7 @@
       "korType": "2279",
       "engType": "2279",
       "engText": "Blight-ravaged Map (Necropolis)",
-      "korText": "Blight-ravaged Map (매장지)",
+      "korText": "역병에 유린당한 지도 (매장지)",
       "disc": "uberblighted",
       "type": "2279"
     },
@@ -1709,7 +1744,7 @@
       "korType": "23253",
       "engType": "23253",
       "engText": "Blighted Map (Bone Crypt)",
-      "korText": "Blighted Map (뼈 지하실)",
+      "korText": "역병 걸린 지도 (뼈 지하실)",
       "disc": "blighted",
       "type": "23253"
     },
@@ -1717,7 +1752,7 @@
       "korType": "23253",
       "engType": "23253",
       "engText": "Blight-ravaged Map (Bone Crypt)",
-      "korText": "Blight-ravaged Map (뼈 지하실)",
+      "korText": "역병에 유린당한 지도 (뼈 지하실)",
       "disc": "uberblighted",
       "type": "23253"
     },
@@ -1725,7 +1760,7 @@
       "korType": "2336",
       "engType": "2336",
       "engText": "Blighted Map (Canyon)",
-      "korText": "Blighted Map (협곡)",
+      "korText": "역병 걸린 지도 (협곡)",
       "disc": "blighted",
       "type": "2336"
     },
@@ -1733,7 +1768,7 @@
       "korType": "2336",
       "engType": "2336",
       "engText": "Blight-ravaged Map (Canyon)",
-      "korText": "Blight-ravaged Map (협곡)",
+      "korText": "역병에 유린당한 지도 (협곡)",
       "disc": "uberblighted",
       "type": "2336"
     },
@@ -1741,7 +1776,7 @@
       "korType": "24414",
       "engType": "24414",
       "engText": "Blighted Map (Infested Valley)",
-      "korText": "Blighted Map (감염된 계곡)",
+      "korText": "역병 걸린 지도 (감염된 계곡)",
       "disc": "blighted",
       "type": "24414"
     },
@@ -1749,7 +1784,7 @@
       "korType": "24414",
       "engType": "24414",
       "engText": "Blight-ravaged Map (Infested Valley)",
-      "korText": "Blight-ravaged Map (감염된 계곡)",
+      "korText": "역병에 유린당한 지도 (감염된 계곡)",
       "disc": "uberblighted",
       "type": "24414"
     },
@@ -1757,7 +1792,7 @@
       "korType": "24497",
       "engType": "24497",
       "engText": "Blighted Map (Silo)",
-      "korText": "Blighted Map (곡물 창고)",
+      "korText": "역병 걸린 지도 (곡물 창고)",
       "disc": "blighted",
       "type": "24497"
     },
@@ -1765,7 +1800,7 @@
       "korType": "24497",
       "engType": "24497",
       "engText": "Blight-ravaged Map (Silo)",
-      "korText": "Blight-ravaged Map (곡물 창고)",
+      "korText": "역병에 유린당한 지도 (곡물 창고)",
       "disc": "uberblighted",
       "type": "24497"
     },
@@ -1773,7 +1808,7 @@
       "korType": "25202",
       "engType": "25202",
       "engText": "Blighted Map (Arsenal)",
-      "korText": "Blighted Map (병기창)",
+      "korText": "역병 걸린 지도 (병기창)",
       "disc": "blighted",
       "type": "25202"
     },
@@ -1781,7 +1816,7 @@
       "korType": "25202",
       "engType": "25202",
       "engText": "Blight-ravaged Map (Arsenal)",
-      "korText": "Blight-ravaged Map (병기창)",
+      "korText": "역병에 유린당한 지도 (병기창)",
       "disc": "uberblighted",
       "type": "25202"
     },
@@ -1789,7 +1824,7 @@
       "korType": "25302",
       "engType": "25302",
       "engText": "Blighted Map (Primordial Pool)",
-      "korText": "Blighted Map (태고의 웅덩이)",
+      "korText": "역병 걸린 지도 (태고의 웅덩이)",
       "disc": "blighted",
       "type": "25302"
     },
@@ -1797,7 +1832,7 @@
       "korType": "25302",
       "engType": "25302",
       "engText": "Blight-ravaged Map (Primordial Pool)",
-      "korText": "Blight-ravaged Map (태고의 웅덩이)",
+      "korText": "역병에 유린당한 지도 (태고의 웅덩이)",
       "disc": "uberblighted",
       "type": "25302"
     },
@@ -1805,7 +1840,7 @@
       "korType": "25370",
       "engType": "25370",
       "engText": "Blighted Map (Courtyard)",
-      "korText": "Blighted Map (안뜰)",
+      "korText": "역병 걸린 지도 (안뜰)",
       "disc": "blighted",
       "type": "25370"
     },
@@ -1813,7 +1848,7 @@
       "korType": "25370",
       "engType": "25370",
       "engText": "Blight-ravaged Map (Courtyard)",
-      "korText": "Blight-ravaged Map (안뜰)",
+      "korText": "역병에 유린당한 지도 (안뜰)",
       "disc": "uberblighted",
       "type": "25370"
     },
@@ -1821,7 +1856,7 @@
       "korType": "2545",
       "engType": "2545",
       "engText": "Blighted Map (Ancient City)",
-      "korText": "Blighted Map (고대 도시)",
+      "korText": "역병 걸린 지도 (고대 도시)",
       "disc": "blighted",
       "type": "2545"
     },
@@ -1829,7 +1864,7 @@
       "korType": "2545",
       "engType": "2545",
       "engText": "Blight-ravaged Map (Ancient City)",
-      "korText": "Blight-ravaged Map (고대 도시)",
+      "korText": "역병에 유린당한 지도 (고대 도시)",
       "disc": "uberblighted",
       "type": "2545"
     },
@@ -1837,7 +1872,7 @@
       "korType": "25747",
       "engType": "25747",
       "engText": "Blighted Map (Toxic Sewer)",
-      "korText": "Blighted Map (맹독성 하수도)",
+      "korText": "역병 걸린 지도 (맹독성 하수도)",
       "disc": "blighted",
       "type": "25747"
     },
@@ -1845,7 +1880,7 @@
       "korType": "25747",
       "engType": "25747",
       "engText": "Blight-ravaged Map (Toxic Sewer)",
-      "korText": "Blight-ravaged Map (맹독성 하수도)",
+      "korText": "역병에 유린당한 지도 (맹독성 하수도)",
       "disc": "uberblighted",
       "type": "25747"
     },
@@ -1853,7 +1888,7 @@
       "korType": "26156",
       "engType": "26156",
       "engText": "Blighted Map (Forbidden Woods)",
-      "korText": "Blighted Map (금단의 숲)",
+      "korText": "역병 걸린 지도 (금단의 숲)",
       "disc": "blighted",
       "type": "26156"
     },
@@ -1861,7 +1896,7 @@
       "korType": "26156",
       "engType": "26156",
       "engText": "Blight-ravaged Map (Forbidden Woods)",
-      "korText": "Blight-ravaged Map (금단의 숲)",
+      "korText": "역병에 유린당한 지도 (금단의 숲)",
       "disc": "uberblighted",
       "type": "26156"
     },
@@ -1869,7 +1904,7 @@
       "korType": "26468",
       "engType": "26468",
       "engText": "Blighted Map (Overgrown Shrine)",
-      "korText": "Blighted Map (무성한 성소)",
+      "korText": "역병 걸린 지도 (무성한 성소)",
       "disc": "blighted",
       "type": "26468"
     },
@@ -1877,7 +1912,7 @@
       "korType": "26468",
       "engType": "26468",
       "engText": "Blight-ravaged Map (Overgrown Shrine)",
-      "korText": "Blight-ravaged Map (무성한 성소)",
+      "korText": "역병에 유린당한 지도 (무성한 성소)",
       "disc": "uberblighted",
       "type": "26468"
     },
@@ -1885,7 +1920,7 @@
       "korType": "26732",
       "engType": "26732",
       "engText": "Blighted Map (Overgrown Ruin)",
-      "korText": "Blighted Map (무성한 유적)",
+      "korText": "역병 걸린 지도 (무성한 유적)",
       "disc": "blighted",
       "type": "26732"
     },
@@ -1893,7 +1928,7 @@
       "korType": "26732",
       "engType": "26732",
       "engText": "Blight-ravaged Map (Overgrown Ruin)",
-      "korText": "Blight-ravaged Map (무성한 유적)",
+      "korText": "역병에 유린당한 지도 (무성한 유적)",
       "disc": "uberblighted",
       "type": "26732"
     },
@@ -1901,7 +1936,7 @@
       "korType": "27716",
       "engType": "27716",
       "engText": "Blighted Map (Sepulchre)",
-      "korText": "Blighted Map (매장소)",
+      "korText": "역병 걸린 지도 (매장소)",
       "disc": "blighted",
       "type": "27716"
     },
@@ -1909,7 +1944,7 @@
       "korType": "27716",
       "engType": "27716",
       "engText": "Blight-ravaged Map (Sepulchre)",
-      "korText": "Blight-ravaged Map (매장소)",
+      "korText": "역병에 유린당한 지도 (매장소)",
       "disc": "uberblighted",
       "type": "27716"
     },
@@ -1917,7 +1952,7 @@
       "korType": "27782",
       "engType": "27782",
       "engText": "Blighted Map (Arid Lake)",
-      "korText": "Blighted Map (메마른 호수)",
+      "korText": "역병 걸린 지도 (메마른 호수)",
       "disc": "blighted",
       "type": "27782"
     },
@@ -1925,7 +1960,7 @@
       "korType": "27782",
       "engType": "27782",
       "engText": "Blight-ravaged Map (Arid Lake)",
-      "korText": "Blight-ravaged Map (메마른 호수)",
+      "korText": "역병에 유린당한 지도 (메마른 호수)",
       "disc": "uberblighted",
       "type": "27782"
     },
@@ -1933,7 +1968,7 @@
       "korType": "27821",
       "engType": "27821",
       "engText": "Blighted Map (Basilica)",
-      "korText": "Blighted Map (교회당)",
+      "korText": "역병 걸린 지도 (교회당)",
       "disc": "blighted",
       "type": "27821"
     },
@@ -1941,7 +1976,7 @@
       "korType": "27821",
       "engType": "27821",
       "engText": "Blight-ravaged Map (Basilica)",
-      "korText": "Blight-ravaged Map (교회당)",
+      "korText": "역병에 유린당한 지도 (교회당)",
       "disc": "uberblighted",
       "type": "27821"
     },
@@ -1949,7 +1984,7 @@
       "korType": "28018",
       "engType": "28018",
       "engText": "Blighted Map (Vaal Pyramid)",
-      "korText": "Blighted Map (바알 피라미드)",
+      "korText": "역병 걸린 지도 (바알 피라미드)",
       "disc": "blighted",
       "type": "28018"
     },
@@ -1957,7 +1992,7 @@
       "korType": "28402",
       "engType": "28402",
       "engText": "Blighted Map (Waterways)",
-      "korText": "Blighted Map (수로)",
+      "korText": "역병 걸린 지도 (수로)",
       "disc": "blighted",
       "type": "28402"
     },
@@ -1965,7 +2000,7 @@
       "korType": "29382",
       "engType": "29382",
       "engText": "Blighted Map (Forking River)",
-      "korText": "Blighted Map (갈라지는 강)",
+      "korText": "역병 걸린 지도 (갈라지는 강)",
       "disc": "blighted",
       "type": "29382"
     },
@@ -1973,7 +2008,7 @@
       "korType": "29382",
       "engType": "29382",
       "engText": "Blight-ravaged Map (Forking River)",
-      "korText": "Blight-ravaged Map (갈라지는 강)",
+      "korText": "역병에 유린당한 지도 (갈라지는 강)",
       "disc": "uberblighted",
       "type": "29382"
     },
@@ -1981,7 +2016,7 @@
       "korType": "30639",
       "engType": "30639",
       "engText": "Blighted Map (Volcano)",
-      "korText": "Blighted Map (화산)",
+      "korText": "역병 걸린 지도 (화산)",
       "disc": "blighted",
       "type": "30639"
     },
@@ -1989,7 +2024,7 @@
       "korType": "30639",
       "engType": "30639",
       "engText": "Blight-ravaged Map (Volcano)",
-      "korText": "Blight-ravaged Map (화산)",
+      "korText": "역병에 유린당한 지도 (화산)",
       "disc": "uberblighted",
       "type": "30639"
     },
@@ -1997,7 +2032,7 @@
       "korType": "31349",
       "engType": "31349",
       "engText": "Blighted Map (Colonnade)",
-      "korText": "Blighted Map (가로수)",
+      "korText": "역병 걸린 지도 (가로수)",
       "disc": "blighted",
       "type": "31349"
     },
@@ -2005,7 +2040,7 @@
       "korType": "31349",
       "engType": "31349",
       "engText": "Blight-ravaged Map (Colonnade)",
-      "korText": "Blight-ravaged Map (가로수)",
+      "korText": "역병에 유린당한 지도 (가로수)",
       "disc": "uberblighted",
       "type": "31349"
     },
@@ -2013,7 +2048,7 @@
       "korType": "31509",
       "engType": "31509",
       "engText": "Blighted Map (Foundry)",
-      "korText": "Blighted Map (주조소)",
+      "korText": "역병 걸린 지도 (주조소)",
       "disc": "blighted",
       "type": "31509"
     },
@@ -2021,7 +2056,7 @@
       "korType": "31509",
       "engType": "31509",
       "engText": "Blight-ravaged Map (Foundry)",
-      "korText": "Blight-ravaged Map (주조소)",
+      "korText": "역병에 유린당한 지도 (주조소)",
       "disc": "uberblighted",
       "type": "31509"
     },
@@ -2029,7 +2064,7 @@
       "korType": "3182",
       "engType": "3182",
       "engText": "Blighted Map (Stagnation)",
-      "korText": "Blighted Map (침체지)",
+      "korText": "역병 걸린 지도 (침체지)",
       "disc": "blighted",
       "type": "3182"
     },
@@ -2037,7 +2072,7 @@
       "korType": "3182",
       "engType": "3182",
       "engText": "Blight-ravaged Map (Stagnation)",
-      "korText": "Blight-ravaged Map (침체지)",
+      "korText": "역병에 유린당한 지도 (침체지)",
       "disc": "uberblighted",
       "type": "3182"
     },
@@ -2045,7 +2080,7 @@
       "korType": "32613",
       "engType": "32613",
       "engText": "Blighted Map (Park)",
-      "korText": "Blighted Map (공원)",
+      "korText": "역병 걸린 지도 (공원)",
       "disc": "blighted",
       "type": "32613"
     },
@@ -2053,7 +2088,7 @@
       "korType": "32613",
       "engType": "32613",
       "engText": "Blight-ravaged Map (Park)",
-      "korText": "Blight-ravaged Map (공원)",
+      "korText": "역병에 유린당한 지도 (공원)",
       "disc": "uberblighted",
       "type": "32613"
     },
@@ -2061,7 +2096,7 @@
       "korType": "33025",
       "engType": "33025",
       "engText": "Blighted Map (Excavation)",
-      "korText": "Blighted Map (발굴터)",
+      "korText": "역병 걸린 지도 (발굴터)",
       "disc": "blighted",
       "type": "33025"
     },
@@ -2069,7 +2104,7 @@
       "korType": "33220",
       "engType": "33220",
       "engText": "Blighted Map (Museum)",
-      "korText": "Blighted Map (박물관)",
+      "korText": "역병 걸린 지도 (박물관)",
       "disc": "blighted",
       "type": "33220"
     },
@@ -2077,7 +2112,7 @@
       "korType": "33220",
       "engType": "33220",
       "engText": "Blight-ravaged Map (Museum)",
-      "korText": "Blight-ravaged Map (박물관)",
+      "korText": "역병에 유린당한 지도 (박물관)",
       "disc": "uberblighted",
       "type": "33220"
     },
@@ -2085,7 +2120,7 @@
       "korType": "3421",
       "engType": "3421",
       "engText": "Blighted Map (Malformation)",
-      "korText": "Blighted Map (기형)",
+      "korText": "역병 걸린 지도 (기형)",
       "disc": "blighted",
       "type": "3421"
     },
@@ -2093,7 +2128,7 @@
       "korType": "3421",
       "engType": "3421",
       "engText": "Blight-ravaged Map (Malformation)",
-      "korText": "Blight-ravaged Map (기형)",
+      "korText": "역병에 유린당한 지도 (기형)",
       "disc": "uberblighted",
       "type": "3421"
     },
@@ -2101,7 +2136,7 @@
       "korType": "34425",
       "engType": "34425",
       "engText": "Blighted Map (Fungal Hollow)",
-      "korText": "Blighted Map (곰팡이 동혈)",
+      "korText": "역병 걸린 지도 (곰팡이 동혈)",
       "disc": "blighted",
       "type": "34425"
     },
@@ -2109,7 +2144,7 @@
       "korType": "34425",
       "engType": "34425",
       "engText": "Blight-ravaged Map (Fungal Hollow)",
-      "korText": "Blight-ravaged Map (곰팡이 동혈)",
+      "korText": "역병에 유린당한 지도 (곰팡이 동혈)",
       "disc": "uberblighted",
       "type": "34425"
     },
@@ -2117,7 +2152,7 @@
       "korType": "34447",
       "engType": "34447",
       "engText": "Blighted Map (Dark Forest)",
-      "korText": "Blighted Map (어둠의 숲)",
+      "korText": "역병 걸린 지도 (어둠의 숲)",
       "disc": "blighted",
       "type": "34447"
     },
@@ -2125,7 +2160,7 @@
       "korType": "34447",
       "engType": "34447",
       "engText": "Blight-ravaged Map (Dark Forest)",
-      "korText": "Blight-ravaged Map (어둠의 숲)",
+      "korText": "역병에 유린당한 지도 (어둠의 숲)",
       "disc": "uberblighted",
       "type": "34447"
     },
@@ -2133,7 +2168,7 @@
       "korType": "34760",
       "engType": "34760",
       "engText": "Blighted Map (Grave Trough)",
-      "korText": "Blighted Map (무덤 고랑)",
+      "korText": "역병 걸린 지도 (무덤 고랑)",
       "disc": "blighted",
       "type": "34760"
     },
@@ -2141,7 +2176,7 @@
       "korType": "34760",
       "engType": "34760",
       "engText": "Blight-ravaged Map (Grave Trough)",
-      "korText": "Blight-ravaged Map (무덤 고랑)",
+      "korText": "역병에 유린당한 지도 (무덤 고랑)",
       "disc": "uberblighted",
       "type": "34760"
     },
@@ -2149,7 +2184,7 @@
       "korType": "34832",
       "engType": "34832",
       "engText": "Blighted Map (Plateau)",
-      "korText": "Blighted Map (고원)",
+      "korText": "역병 걸린 지도 (고원)",
       "disc": "blighted",
       "type": "34832"
     },
@@ -2157,7 +2192,7 @@
       "korType": "34832",
       "engType": "34832",
       "engText": "Blight-ravaged Map (Plateau)",
-      "korText": "Blight-ravaged Map (고원)",
+      "korText": "역병에 유린당한 지도 (고원)",
       "disc": "uberblighted",
       "type": "34832"
     },
@@ -2165,7 +2200,7 @@
       "korType": "34997",
       "engType": "34997",
       "engText": "Blighted Map (Desert)",
-      "korText": "Blighted Map (사막)",
+      "korText": "역병 걸린 지도 (사막)",
       "disc": "blighted",
       "type": "34997"
     },
@@ -2173,7 +2208,7 @@
       "korType": "34997",
       "engType": "34997",
       "engText": "Blight-ravaged Map (Desert)",
-      "korText": "Blight-ravaged Map (사막)",
+      "korText": "역병에 유린당한 지도 (사막)",
       "disc": "uberblighted",
       "type": "34997"
     },
@@ -2181,7 +2216,7 @@
       "korType": "35076",
       "engType": "35076",
       "engText": "Blighted Map (Plaza)",
-      "korText": "Blighted Map (광장)",
+      "korText": "역병 걸린 지도 (광장)",
       "disc": "blighted",
       "type": "35076"
     },
@@ -2189,7 +2224,7 @@
       "korType": "35076",
       "engType": "35076",
       "engText": "Blight-ravaged Map (Plaza)",
-      "korText": "Blight-ravaged Map (광장)",
+      "korText": "역병에 유린당한 지도 (광장)",
       "disc": "uberblighted",
       "type": "35076"
     },
@@ -2197,7 +2232,7 @@
       "korType": "35162",
       "engType": "35162",
       "engText": "Blighted Map (Relic Chambers)",
-      "korText": "Blighted Map (유물의 방)",
+      "korText": "역병 걸린 지도 (유물의 방)",
       "disc": "blighted",
       "type": "35162"
     },
@@ -2205,7 +2240,7 @@
       "korType": "35162",
       "engType": "35162",
       "engText": "Blight-ravaged Map (Relic Chambers)",
-      "korText": "Blight-ravaged Map (유물의 방)",
+      "korText": "역병에 유린당한 지도 (유물의 방)",
       "disc": "uberblighted",
       "type": "35162"
     },
@@ -2213,7 +2248,7 @@
       "korType": "35484",
       "engType": "35484",
       "engText": "Blighted Map (Core)",
-      "korText": "Blighted Map (중심부)",
+      "korText": "역병 걸린 지도 (중심부)",
       "disc": "blighted",
       "type": "35484"
     },
@@ -2221,7 +2256,7 @@
       "korType": "35484",
       "engType": "35484",
       "engText": "Blight-ravaged Map (Core)",
-      "korText": "Blight-ravaged Map (중심부)",
+      "korText": "역병에 유린당한 지도 (중심부)",
       "disc": "uberblighted",
       "type": "35484"
     },
@@ -2229,7 +2264,7 @@
       "korType": "36207",
       "engType": "36207",
       "engText": "Blighted Map (Fields)",
-      "korText": "Blighted Map (들판)",
+      "korText": "역병 걸린 지도 (들판)",
       "disc": "blighted",
       "type": "36207"
     },
@@ -2237,7 +2272,7 @@
       "korType": "36207",
       "engType": "36207",
       "engText": "Blight-ravaged Map (Fields)",
-      "korText": "Blight-ravaged Map (들판)",
+      "korText": "역병에 유린당한 지도 (들판)",
       "disc": "uberblighted",
       "type": "36207"
     },
@@ -2245,7 +2280,7 @@
       "korType": "36357",
       "engType": "36357",
       "engText": "Blighted Map (Castle Ruins)",
-      "korText": "Blighted Map (성곽 유적)",
+      "korText": "역병 걸린 지도 (성곽 유적)",
       "disc": "blighted",
       "type": "36357"
     },
@@ -2253,7 +2288,7 @@
       "korType": "36357",
       "engType": "36357",
       "engText": "Blight-ravaged Map (Castle Ruins)",
-      "korText": "Blight-ravaged Map (성곽 유적)",
+      "korText": "역병에 유린당한 지도 (성곽 유적)",
       "disc": "uberblighted",
       "type": "36357"
     },
@@ -2261,7 +2296,7 @@
       "korType": "36556",
       "engType": "36556",
       "engText": "Blighted Map (Bazaar)",
-      "korText": "Blighted Map (장터)",
+      "korText": "역병 걸린 지도 (장터)",
       "disc": "blighted",
       "type": "36556"
     },
@@ -2269,7 +2304,7 @@
       "korType": "36556",
       "engType": "36556",
       "engText": "Blight-ravaged Map (Bazaar)",
-      "korText": "Blight-ravaged Map (장터)",
+      "korText": "역병에 유린당한 지도 (장터)",
       "disc": "uberblighted",
       "type": "36556"
     },
@@ -2277,7 +2312,7 @@
       "korType": "36866",
       "engType": "36866",
       "engText": "Blighted Map (Arachnid Nest)",
-      "korText": "Blighted Map (거미류 둥지)",
+      "korText": "역병 걸린 지도 (거미류 둥지)",
       "disc": "blighted",
       "type": "36866"
     },
@@ -2285,7 +2320,7 @@
       "korType": "36866",
       "engType": "36866",
       "engText": "Blight-ravaged Map (Arachnid Nest)",
-      "korText": "Blight-ravaged Map (거미류 둥지)",
+      "korText": "역병에 유린당한 지도 (거미류 둥지)",
       "disc": "uberblighted",
       "type": "36866"
     },
@@ -2293,7 +2328,7 @@
       "korType": "36946",
       "engType": "36946",
       "engText": "Blighted Map (Mud Geyser)",
-      "korText": "Blighted Map (진흙 간헐천)",
+      "korText": "역병 걸린 지도 (진흙 간헐천)",
       "disc": "blighted",
       "type": "36946"
     },
@@ -2301,7 +2336,7 @@
       "korType": "36946",
       "engType": "36946",
       "engText": "Blight-ravaged Map (Mud Geyser)",
-      "korText": "Blight-ravaged Map (진흙 간헐천)",
+      "korText": "역병에 유린당한 지도 (진흙 간헐천)",
       "disc": "uberblighted",
       "type": "36946"
     },
@@ -2309,7 +2344,7 @@
       "korType": "3756",
       "engType": "3756",
       "engText": "Blighted Map (Siege)",
-      "korText": "Blighted Map (공성 구역)",
+      "korText": "역병 걸린 지도 (공성 구역)",
       "disc": "blighted",
       "type": "3756"
     },
@@ -2317,7 +2352,7 @@
       "korType": "3756",
       "engType": "3756",
       "engText": "Blight-ravaged Map (Siege)",
-      "korText": "Blight-ravaged Map (공성 구역)",
+      "korText": "역병에 유린당한 지도 (공성 구역)",
       "disc": "uberblighted",
       "type": "3756"
     },
@@ -2325,7 +2360,7 @@
       "korType": "3775",
       "engType": "3775",
       "engText": "Blighted Map (Cells)",
-      "korText": "Blighted Map (감방)",
+      "korText": "역병 걸린 지도 (감방)",
       "disc": "blighted",
       "type": "3775"
     },
@@ -2333,7 +2368,7 @@
       "korType": "3775",
       "engType": "3775",
       "engText": "Blight-ravaged Map (Cells)",
-      "korText": "Blight-ravaged Map (감방)",
+      "korText": "역병에 유린당한 지도 (감방)",
       "disc": "uberblighted",
       "type": "3775"
     },
@@ -2341,7 +2376,7 @@
       "korType": "38080",
       "engType": "38080",
       "engText": "Blighted Map (Cold River)",
-      "korText": "Blighted Map (차가운 강)",
+      "korText": "역병 걸린 지도 (차가운 강)",
       "disc": "blighted",
       "type": "38080"
     },
@@ -2349,7 +2384,7 @@
       "korType": "38080",
       "engType": "38080",
       "engText": "Blight-ravaged Map (Cold River)",
-      "korText": "Blight-ravaged Map (차가운 강)",
+      "korText": "역병에 유린당한 지도 (차가운 강)",
       "disc": "uberblighted",
       "type": "38080"
     },
@@ -2357,7 +2392,7 @@
       "korType": "3883",
       "engType": "3883",
       "engText": "Blighted Map (Cage)",
-      "korText": "Blighted Map (창살)",
+      "korText": "역병 걸린 지도 (창살)",
       "disc": "blighted",
       "type": "3883"
     },
@@ -2365,7 +2400,7 @@
       "korType": "3883",
       "engType": "3883",
       "engText": "Blight-ravaged Map (Cage)",
-      "korText": "Blight-ravaged Map (창살)",
+      "korText": "역병에 유린당한 지도 (창살)",
       "disc": "uberblighted",
       "type": "3883"
     },
@@ -2373,7 +2408,7 @@
       "korType": "38855",
       "engType": "38855",
       "engText": "Blighted Map (Orchard)",
-      "korText": "Blighted Map (과수원)",
+      "korText": "역병 걸린 지도 (과수원)",
       "disc": "blighted",
       "type": "38855"
     },
@@ -2381,7 +2416,7 @@
       "korType": "38855",
       "engType": "38855",
       "engText": "Blight-ravaged Map (Orchard)",
-      "korText": "Blight-ravaged Map (과수원)",
+      "korText": "역병에 유린당한 지도 (과수원)",
       "disc": "uberblighted",
       "type": "38855"
     },
@@ -2389,7 +2424,7 @@
       "korType": "39459",
       "engType": "39459",
       "engText": "Blighted Map (Chateau)",
-      "korText": "Blighted Map (대저택)",
+      "korText": "역병 걸린 지도 (대저택)",
       "disc": "blighted",
       "type": "39459"
     },
@@ -2397,7 +2432,7 @@
       "korType": "39459",
       "engType": "39459",
       "engText": "Blight-ravaged Map (Chateau)",
-      "korText": "Blight-ravaged Map (대저택)",
+      "korText": "역병에 유린당한 지도 (대저택)",
       "disc": "uberblighted",
       "type": "39459"
     },
@@ -2405,7 +2440,7 @@
       "korType": "4003",
       "engType": "4003",
       "engText": "Blighted Map (Jungle Valley)",
-      "korText": "Blighted Map (밀림 계곡)",
+      "korText": "역병 걸린 지도 (밀림 계곡)",
       "disc": "blighted",
       "type": "4003"
     },
@@ -2413,7 +2448,7 @@
       "korType": "4003",
       "engType": "4003",
       "engText": "Blight-ravaged Map (Jungle Valley)",
-      "korText": "Blight-ravaged Map (밀림 계곡)",
+      "korText": "역병에 유린당한 지도 (밀림 계곡)",
       "disc": "uberblighted",
       "type": "4003"
     },
@@ -2421,7 +2456,7 @@
       "korType": "40753",
       "engType": "40753",
       "engText": "Blighted Map (Estuary)",
-      "korText": "Blighted Map (강어귀)",
+      "korText": "역병 걸린 지도 (강어귀)",
       "disc": "blighted",
       "type": "40753"
     },
@@ -2429,7 +2464,7 @@
       "korType": "40753",
       "engType": "40753",
       "engText": "Blight-ravaged Map (Estuary)",
-      "korText": "Blight-ravaged Map (강어귀)",
+      "korText": "역병에 유린당한 지도 (강어귀)",
       "disc": "uberblighted",
       "type": "40753"
     },
@@ -2437,7 +2472,7 @@
       "korType": "41363",
       "engType": "41363",
       "engText": "Blighted Map (Coral Ruins)",
-      "korText": "Blighted Map (산호 유적)",
+      "korText": "역병 걸린 지도 (산호 유적)",
       "disc": "blighted",
       "type": "41363"
     },
@@ -2445,7 +2480,7 @@
       "korType": "41363",
       "engType": "41363",
       "engText": "Blight-ravaged Map (Coral Ruins)",
-      "korText": "Blight-ravaged Map (산호 유적)",
+      "korText": "역병에 유린당한 지도 (산호 유적)",
       "disc": "uberblighted",
       "type": "41363"
     },
@@ -2453,7 +2488,7 @@
       "korType": "41751",
       "engType": "41751",
       "engText": "Blighted Map (Moon Temple)",
-      "korText": "Blighted Map (달의 사원)",
+      "korText": "역병 걸린 지도 (달의 사원)",
       "disc": "blighted",
       "type": "41751"
     },
@@ -2461,7 +2496,7 @@
       "korType": "41751",
       "engType": "41751",
       "engText": "Blight-ravaged Map (Moon Temple)",
-      "korText": "Blight-ravaged Map (달의 사원)",
+      "korText": "역병에 유린당한 지도 (달의 사원)",
       "disc": "uberblighted",
       "type": "41751"
     },
@@ -2469,7 +2504,7 @@
       "korType": "41763",
       "engType": "41763",
       "engText": "Blighted Map (Factory)",
-      "korText": "Blighted Map (공장)",
+      "korText": "역병 걸린 지도 (공장)",
       "disc": "blighted",
       "type": "41763"
     },
@@ -2477,7 +2512,7 @@
       "korType": "42115",
       "engType": "42115",
       "engText": "Blighted Map (Marshes)",
-      "korText": "Blighted Map (습지)",
+      "korText": "역병 걸린 지도 (습지)",
       "disc": "blighted",
       "type": "42115"
     },
@@ -2485,7 +2520,7 @@
       "korType": "42115",
       "engType": "42115",
       "engText": "Blight-ravaged Map (Marshes)",
-      "korText": "Blight-ravaged Map (습지)",
+      "korText": "역병에 유린당한 지도 (습지)",
       "disc": "uberblighted",
       "type": "42115"
     },
@@ -2493,7 +2528,7 @@
       "korType": "42556",
       "engType": "42556",
       "engText": "Blighted Map (Waste Pool)",
-      "korText": "Blighted Map (황폐한 웅덩이)",
+      "korText": "역병 걸린 지도 (황폐한 웅덩이)",
       "disc": "blighted",
       "type": "42556"
     },
@@ -2501,7 +2536,7 @@
       "korType": "42556",
       "engType": "42556",
       "engText": "Blight-ravaged Map (Waste Pool)",
-      "korText": "Blight-ravaged Map (황폐한 웅덩이)",
+      "korText": "역병에 유린당한 지도 (황폐한 웅덩이)",
       "disc": "uberblighted",
       "type": "42556"
     },
@@ -2509,7 +2544,7 @@
       "korType": "42558",
       "engType": "42558",
       "engText": "Blighted Map (Terrace)",
-      "korText": "Blighted Map (테라스)",
+      "korText": "역병 걸린 지도 (테라스)",
       "disc": "blighted",
       "type": "42558"
     },
@@ -2517,7 +2552,7 @@
       "korType": "42558",
       "engType": "42558",
       "engText": "Blight-ravaged Map (Terrace)",
-      "korText": "Blight-ravaged Map (테라스)",
+      "korText": "역병에 유린당한 지도 (테라스)",
       "disc": "uberblighted",
       "type": "42558"
     },
@@ -2525,7 +2560,7 @@
       "korType": "42968",
       "engType": "42968",
       "engText": "Blighted Map (Alleyways)",
-      "korText": "Blighted Map (골목길)",
+      "korText": "역병 걸린 지도 (골목길)",
       "disc": "blighted",
       "type": "42968"
     },
@@ -2533,7 +2568,7 @@
       "korType": "42968",
       "engType": "42968",
       "engText": "Blight-ravaged Map (Alleyways)",
-      "korText": "Blight-ravaged Map (골목길)",
+      "korText": "역병에 유린당한 지도 (골목길)",
       "disc": "uberblighted",
       "type": "42968"
     },
@@ -2541,7 +2576,7 @@
       "korType": "43016",
       "engType": "43016",
       "engText": "Blighted Map (Burial Chambers)",
-      "korText": "Blighted Map (묘실)",
+      "korText": "역병 걸린 지도 (묘실)",
       "disc": "blighted",
       "type": "43016"
     },
@@ -2549,7 +2584,7 @@
       "korType": "43016",
       "engType": "43016",
       "engText": "Blight-ravaged Map (Burial Chambers)",
-      "korText": "Blight-ravaged Map (묘실)",
+      "korText": "역병에 유린당한 지도 (묘실)",
       "disc": "uberblighted",
       "type": "43016"
     },
@@ -2557,7 +2592,7 @@
       "korType": "43308",
       "engType": "43308",
       "engText": "Blighted Map (Lighthouse)",
-      "korText": "Blighted Map (등대)",
+      "korText": "역병 걸린 지도 (등대)",
       "disc": "blighted",
       "type": "43308"
     },
@@ -2565,7 +2600,7 @@
       "korType": "43308",
       "engType": "43308",
       "engText": "Blight-ravaged Map (Lighthouse)",
-      "korText": "Blight-ravaged Map (등대)",
+      "korText": "역병에 유린당한 지도 (등대)",
       "disc": "uberblighted",
       "type": "43308"
     },
@@ -2573,7 +2608,7 @@
       "korType": "43432",
       "engType": "43432",
       "engText": "Blighted Map (Dig)",
-      "korText": "Blighted Map (발굴지)",
+      "korText": "역병 걸린 지도 (발굴지)",
       "disc": "blighted",
       "type": "43432"
     },
@@ -2581,7 +2616,7 @@
       "korType": "43432",
       "engType": "43432",
       "engText": "Blight-ravaged Map (Dig)",
-      "korText": "Blight-ravaged Map (발굴지)",
+      "korText": "역병에 유린당한 지도 (발굴지)",
       "disc": "uberblighted",
       "type": "43432"
     },
@@ -2589,7 +2624,7 @@
       "korType": "43561",
       "engType": "43561",
       "engText": "Blighted Map (Laboratory)",
-      "korText": "Blighted Map (실험실)",
+      "korText": "역병 걸린 지도 (실험실)",
       "disc": "blighted",
       "type": "43561"
     },
@@ -2597,7 +2632,7 @@
       "korType": "43561",
       "engType": "43561",
       "engText": "Blight-ravaged Map (Laboratory)",
-      "korText": "Blight-ravaged Map (실험실)",
+      "korText": "역병에 유린당한 지도 (실험실)",
       "disc": "uberblighted",
       "type": "43561"
     },
@@ -2605,7 +2640,7 @@
       "korType": "43927",
       "engType": "43927",
       "engText": "Blighted Map (Ashen Wood)",
-      "korText": "Blighted Map (잿빛 숲)",
+      "korText": "역병 걸린 지도 (잿빛 숲)",
       "disc": "blighted",
       "type": "43927"
     },
@@ -2613,7 +2648,7 @@
       "korType": "43927",
       "engType": "43927",
       "engText": "Blight-ravaged Map (Ashen Wood)",
-      "korText": "Blight-ravaged Map (잿빛 숲)",
+      "korText": "역병에 유린당한 지도 (잿빛 숲)",
       "disc": "uberblighted",
       "type": "43927"
     },
@@ -2621,7 +2656,7 @@
       "korType": "44170",
       "engType": "44170",
       "engText": "Blighted Map (Bramble Valley)",
-      "korText": "Blighted Map (가시나무 계곡)",
+      "korText": "역병 걸린 지도 (가시나무 계곡)",
       "disc": "blighted",
       "type": "44170"
     },
@@ -2629,7 +2664,7 @@
       "korType": "44170",
       "engType": "44170",
       "engText": "Blight-ravaged Map (Bramble Valley)",
-      "korText": "Blight-ravaged Map (가시나무 계곡)",
+      "korText": "역병에 유린당한 지도 (가시나무 계곡)",
       "disc": "uberblighted",
       "type": "44170"
     },
@@ -2637,7 +2672,7 @@
       "korType": "44259",
       "engType": "44259",
       "engText": "Blighted Map (Arcade)",
-      "korText": "Blighted Map (상점가)",
+      "korText": "역병 걸린 지도 (상점가)",
       "disc": "blighted",
       "type": "44259"
     },
@@ -2645,7 +2680,7 @@
       "korType": "44259",
       "engType": "44259",
       "engText": "Blight-ravaged Map (Arcade)",
-      "korText": "Blight-ravaged Map (상점가)",
+      "korText": "역병에 유린당한 지도 (상점가)",
       "disc": "uberblighted",
       "type": "44259"
     },
@@ -2653,7 +2688,7 @@
       "korType": "44313",
       "engType": "44313",
       "engText": "Blighted Map (Mineral Pools)",
-      "korText": "Blighted Map (광물층)",
+      "korText": "역병 걸린 지도 (광물층)",
       "disc": "blighted",
       "type": "44313"
     },
@@ -2661,7 +2696,7 @@
       "korType": "44313",
       "engType": "44313",
       "engText": "Blight-ravaged Map (Mineral Pools)",
-      "korText": "Blight-ravaged Map (광물층)",
+      "korText": "역병에 유린당한 지도 (광물층)",
       "disc": "uberblighted",
       "type": "44313"
     },
@@ -2669,7 +2704,7 @@
       "korType": "44762",
       "engType": "44762",
       "engText": "Blighted Map (City Square)",
-      "korText": "Blighted Map (도시 광장)",
+      "korText": "역병 걸린 지도 (도시 광장)",
       "disc": "blighted",
       "type": "44762"
     },
@@ -2677,7 +2712,7 @@
       "korType": "44762",
       "engType": "44762",
       "engText": "Blight-ravaged Map (City Square)",
-      "korText": "Blight-ravaged Map (도시 광장)",
+      "korText": "역병에 유린당한 지도 (도시 광장)",
       "disc": "uberblighted",
       "type": "44762"
     },
@@ -2685,7 +2720,7 @@
       "korType": "45792",
       "engType": "45792",
       "engText": "Blighted Map (Temple)",
-      "korText": "Blighted Map (사원)",
+      "korText": "역병 걸린 지도 (사원)",
       "disc": "blighted",
       "type": "45792"
     },
@@ -2693,7 +2728,7 @@
       "korType": "45792",
       "engType": "45792",
       "engText": "Blight-ravaged Map (Temple)",
-      "korText": "Blight-ravaged Map (사원)",
+      "korText": "역병에 유린당한 지도 (사원)",
       "disc": "uberblighted",
       "type": "45792"
     },
@@ -2701,7 +2736,7 @@
       "korType": "4592",
       "engType": "4592",
       "engText": "Blighted Map (Glacier)",
-      "korText": "Blighted Map (빙하)",
+      "korText": "역병 걸린 지도 (빙하)",
       "disc": "blighted",
       "type": "4592"
     },
@@ -2709,7 +2744,7 @@
       "korType": "4592",
       "engType": "4592",
       "engText": "Blight-ravaged Map (Glacier)",
-      "korText": "Blight-ravaged Map (빙하)",
+      "korText": "역병에 유린당한 지도 (빙하)",
       "disc": "uberblighted",
       "type": "4592"
     },
@@ -2717,7 +2752,7 @@
       "korType": "4651",
       "engType": "4651",
       "engText": "Blighted Map (Spider Forest)",
-      "korText": "Blighted Map (거미 숲)",
+      "korText": "역병 걸린 지도 (거미 숲)",
       "disc": "blighted",
       "type": "4651"
     },
@@ -2725,7 +2760,7 @@
       "korType": "4651",
       "engType": "4651",
       "engText": "Blight-ravaged Map (Spider Forest)",
-      "korText": "Blight-ravaged Map (거미 숲)",
+      "korText": "역병에 유린당한 지도 (거미 숲)",
       "disc": "uberblighted",
       "type": "4651"
     },
@@ -2733,7 +2768,7 @@
       "korType": "46524",
       "engType": "46524",
       "engText": "Blighted Map (Maze)",
-      "korText": "Blighted Map (미로)",
+      "korText": "역병 걸린 지도 (미로)",
       "disc": "blighted",
       "type": "46524"
     },
@@ -2741,7 +2776,7 @@
       "korType": "46524",
       "engType": "46524",
       "engText": "Blight-ravaged Map (Maze)",
-      "korText": "Blight-ravaged Map (미로)",
+      "korText": "역병에 유린당한 지도 (미로)",
       "disc": "uberblighted",
       "type": "46524"
     },
@@ -2749,7 +2784,7 @@
       "korType": "46612",
       "engType": "46612",
       "engText": "Blighted Map (Crimson Temple)",
-      "korText": "Blighted Map (진홍색 사원)",
+      "korText": "역병 걸린 지도 (진홍색 사원)",
       "disc": "blighted",
       "type": "46612"
     },
@@ -2757,7 +2792,7 @@
       "korType": "46612",
       "engType": "46612",
       "engText": "Blight-ravaged Map (Crimson Temple)",
-      "korText": "Blight-ravaged Map (진홍색 사원)",
+      "korText": "역병에 유린당한 지도 (진홍색 사원)",
       "disc": "uberblighted",
       "type": "46612"
     },
@@ -2765,7 +2800,7 @@
       "korType": "47088",
       "engType": "47088",
       "engText": "Blighted Map (Port)",
-      "korText": "Blighted Map (항만)",
+      "korText": "역병 걸린 지도 (항만)",
       "disc": "blighted",
       "type": "47088"
     },
@@ -2773,7 +2808,7 @@
       "korType": "47088",
       "engType": "47088",
       "engText": "Blight-ravaged Map (Port)",
-      "korText": "Blight-ravaged Map (항만)",
+      "korText": "역병에 유린당한 지도 (항만)",
       "disc": "uberblighted",
       "type": "47088"
     },
@@ -2781,7 +2816,7 @@
       "korType": "4755",
       "engType": "4755",
       "engText": "Blighted Map (Residence)",
-      "korText": "Blighted Map (주택)",
+      "korText": "역병 걸린 지도 (주택)",
       "disc": "blighted",
       "type": "4755"
     },
@@ -2789,7 +2824,7 @@
       "korType": "4755",
       "engType": "4755",
       "engText": "Blight-ravaged Map (Residence)",
-      "korText": "Blight-ravaged Map (주택)",
+      "korText": "역병에 유린당한 지도 (주택)",
       "disc": "uberblighted",
       "type": "4755"
     },
@@ -2797,7 +2832,7 @@
       "korType": "47614",
       "engType": "47614",
       "engText": "Blighted Map (Bog)",
-      "korText": "Blighted Map (습지대)",
+      "korText": "역병 걸린 지도 (습지대)",
       "disc": "blighted",
       "type": "47614"
     },
@@ -2805,7 +2840,7 @@
       "korType": "47614",
       "engType": "47614",
       "engText": "Blight-ravaged Map (Bog)",
-      "korText": "Blight-ravaged Map (습지대)",
+      "korText": "역병에 유린당한 지도 (습지대)",
       "disc": "uberblighted",
       "type": "47614"
     },
@@ -2813,7 +2848,7 @@
       "korType": "47634",
       "engType": "47634",
       "engText": "Blighted Map (Phantasmagoria)",
-      "korText": "Blighted Map (환영)",
+      "korText": "역병 걸린 지도 (환영)",
       "disc": "blighted",
       "type": "47634"
     },
@@ -2821,7 +2856,7 @@
       "korType": "47634",
       "engType": "47634",
       "engText": "Blight-ravaged Map (Phantasmagoria)",
-      "korText": "Blight-ravaged Map (환영)",
+      "korText": "역병에 유린당한 지도 (환영)",
       "disc": "uberblighted",
       "type": "47634"
     },
@@ -2829,7 +2864,7 @@
       "korType": "47897",
       "engType": "47897",
       "engText": "Blighted Map (Defiled Cathedral)",
-      "korText": "Blighted Map (더럽혀진 대성당)",
+      "korText": "역병 걸린 지도 (더럽혀진 대성당)",
       "disc": "blighted",
       "type": "47897"
     },
@@ -2837,7 +2872,7 @@
       "korType": "47897",
       "engType": "47897",
       "engText": "Blight-ravaged Map (Defiled Cathedral)",
-      "korText": "Blight-ravaged Map (더럽혀진 대성당)",
+      "korText": "역병에 유린당한 지도 (더럽혀진 대성당)",
       "disc": "uberblighted",
       "type": "47897"
     },
@@ -2845,7 +2880,7 @@
       "korType": "48831",
       "engType": "48831",
       "engText": "Blighted Map (Lookout)",
-      "korText": "Blighted Map (전망대)",
+      "korText": "역병 걸린 지도 (전망대)",
       "disc": "blighted",
       "type": "48831"
     },
@@ -2853,7 +2888,7 @@
       "korType": "48831",
       "engType": "48831",
       "engText": "Blight-ravaged Map (Lookout)",
-      "korText": "Blight-ravaged Map (전망대)",
+      "korText": "역병에 유린당한 지도 (전망대)",
       "disc": "uberblighted",
       "type": "48831"
     },
@@ -2861,7 +2896,7 @@
       "korType": "49159",
       "engType": "49159",
       "engText": "Blighted Map (Coves)",
-      "korText": "Blighted Map (만)",
+      "korText": "역병 걸린 지도 (만)",
       "disc": "blighted",
       "type": "49159"
     },
@@ -2869,7 +2904,7 @@
       "korType": "49159",
       "engType": "49159",
       "engText": "Blight-ravaged Map (Coves)",
-      "korText": "Blight-ravaged Map (만)",
+      "korText": "역병에 유린당한 지도 (만)",
       "disc": "uberblighted",
       "type": "49159"
     },
@@ -2877,7 +2912,7 @@
       "korType": "49687",
       "engType": "49687",
       "engText": "Blighted Map (Barrows)",
-      "korText": "Blighted Map (고분)",
+      "korText": "역병 걸린 지도 (고분)",
       "disc": "blighted",
       "type": "49687"
     },
@@ -2885,7 +2920,7 @@
       "korType": "49687",
       "engType": "49687",
       "engText": "Blight-ravaged Map (Barrows)",
-      "korText": "Blight-ravaged Map (고분)",
+      "korText": "역병에 유린당한 지도 (고분)",
       "disc": "uberblighted",
       "type": "49687"
     },
@@ -2893,7 +2928,7 @@
       "korType": "49777",
       "engType": "49777",
       "engText": "Blighted Map (Courthouse)",
-      "korText": "Blighted Map (법원)",
+      "korText": "역병 걸린 지도 (법원)",
       "disc": "blighted",
       "type": "49777"
     },
@@ -2901,7 +2936,7 @@
       "korType": "49777",
       "engType": "49777",
       "engText": "Blight-ravaged Map (Courthouse)",
-      "korText": "Blight-ravaged Map (법원)",
+      "korText": "역병에 유린당한 지도 (법원)",
       "disc": "uberblighted",
       "type": "49777"
     },
@@ -2909,7 +2944,7 @@
       "korType": "5132",
       "engType": "5132",
       "engText": "Blighted Map (Crater)",
-      "korText": "Blighted Map (분화구)",
+      "korText": "역병 걸린 지도 (분화구)",
       "disc": "blighted",
       "type": "5132"
     },
@@ -2917,7 +2952,7 @@
       "korType": "51403",
       "engType": "51403",
       "engText": "Blighted Map (Frozen Cabins)",
-      "korText": "Blighted Map (얼어붙은 오막)",
+      "korText": "역병 걸린 지도 (얼어붙은 오막)",
       "disc": "blighted",
       "type": "51403"
     },
@@ -2925,7 +2960,7 @@
       "korType": "51878",
       "engType": "51878",
       "engText": "Blighted Map (Palace)",
-      "korText": "Blighted Map (궁전)",
+      "korText": "역병 걸린 지도 (궁전)",
       "disc": "blighted",
       "type": "51878"
     },
@@ -2933,7 +2968,7 @@
       "korType": "51878",
       "engType": "51878",
       "engText": "Blight-ravaged Map (Palace)",
-      "korText": "Blight-ravaged Map (궁전)",
+      "korText": "역병에 유린당한 지도 (궁전)",
       "disc": "uberblighted",
       "type": "51878"
     },
@@ -2941,7 +2976,7 @@
       "korType": "52736",
       "engType": "52736",
       "engText": "Blighted Map (Ramparts)",
-      "korText": "Blighted Map (성벽)",
+      "korText": "역병 걸린 지도 (성벽)",
       "disc": "blighted",
       "type": "52736"
     },
@@ -2949,7 +2984,7 @@
       "korType": "52736",
       "engType": "52736",
       "engText": "Blight-ravaged Map (Ramparts)",
-      "korText": "Blight-ravaged Map (성벽)",
+      "korText": "역병에 유린당한 지도 (성벽)",
       "disc": "uberblighted",
       "type": "52736"
     },
@@ -2957,7 +2992,7 @@
       "korType": "53075",
       "engType": "53075",
       "engText": "Blighted Map (Scriptorium)",
-      "korText": "Blighted Map (필사실)",
+      "korText": "역병 걸린 지도 (필사실)",
       "disc": "blighted",
       "type": "53075"
     },
@@ -2965,7 +3000,7 @@
       "korType": "53116",
       "engType": "53116",
       "engText": "Blighted Map (Dunes)",
-      "korText": "Blighted Map (사구)",
+      "korText": "역병 걸린 지도 (사구)",
       "disc": "blighted",
       "type": "53116"
     },
@@ -2973,7 +3008,7 @@
       "korType": "53116",
       "engType": "53116",
       "engText": "Blight-ravaged Map (Dunes)",
-      "korText": "Blight-ravaged Map (사구)",
+      "korText": "역병에 유린당한 지도 (사구)",
       "disc": "uberblighted",
       "type": "53116"
     },
@@ -2981,7 +3016,7 @@
       "korType": "53637",
       "engType": "53637",
       "engText": "Blighted Map (Dry Sea)",
-      "korText": "Blighted Map (메마른 바다)",
+      "korText": "역병 걸린 지도 (메마른 바다)",
       "disc": "blighted",
       "type": "53637"
     },
@@ -2989,7 +3024,7 @@
       "korType": "53637",
       "engType": "53637",
       "engText": "Blight-ravaged Map (Dry Sea)",
-      "korText": "Blight-ravaged Map (메마른 바다)",
+      "korText": "역병에 유린당한 지도 (메마른 바다)",
       "disc": "uberblighted",
       "type": "53637"
     },
@@ -2997,7 +3032,7 @@
       "korType": "53902",
       "engType": "53902",
       "engText": "Blighted Map (Graveyard)",
-      "korText": "Blighted Map (묘지)",
+      "korText": "역병 걸린 지도 (묘지)",
       "disc": "blighted",
       "type": "53902"
     },
@@ -3005,7 +3040,7 @@
       "korType": "53902",
       "engType": "53902",
       "engText": "Blight-ravaged Map (Graveyard)",
-      "korText": "Blight-ravaged Map (묘지)",
+      "korText": "역병에 유린당한 지도 (묘지)",
       "disc": "uberblighted",
       "type": "53902"
     },
@@ -3013,7 +3048,7 @@
       "korType": "53973",
       "engType": "53973",
       "engText": "Blighted Map (Reef)",
-      "korText": "Blighted Map (암초)",
+      "korText": "역병 걸린 지도 (암초)",
       "disc": "blighted",
       "type": "53973"
     },
@@ -3021,7 +3056,7 @@
       "korType": "53973",
       "engType": "53973",
       "engText": "Blight-ravaged Map (Reef)",
-      "korText": "Blight-ravaged Map (암초)",
+      "korText": "역병에 유린당한 지도 (암초)",
       "disc": "uberblighted",
       "type": "53973"
     },
@@ -3029,7 +3064,7 @@
       "korType": "54239",
       "engType": "54239",
       "engText": "Blighted Map (Wharf)",
-      "korText": "Blighted Map (부두)",
+      "korText": "역병 걸린 지도 (부두)",
       "disc": "blighted",
       "type": "54239"
     },
@@ -3037,7 +3072,7 @@
       "korType": "54239",
       "engType": "54239",
       "engText": "Blight-ravaged Map (Wharf)",
-      "korText": "Blight-ravaged Map (부두)",
+      "korText": "역병에 유린당한 지도 (부두)",
       "disc": "uberblighted",
       "type": "54239"
     },
@@ -3045,7 +3080,7 @@
       "korType": "54446",
       "engType": "54446",
       "engText": "Blighted Map (Tower)",
-      "korText": "Blighted Map (탑)",
+      "korText": "역병 걸린 지도 (탑)",
       "disc": "blighted",
       "type": "54446"
     },
@@ -3053,7 +3088,7 @@
       "korType": "54446",
       "engType": "54446",
       "engText": "Blight-ravaged Map (Tower)",
-      "korText": "Blight-ravaged Map (탑)",
+      "korText": "역병에 유린당한 지도 (탑)",
       "disc": "uberblighted",
       "type": "54446"
     },
@@ -3061,7 +3096,7 @@
       "korType": "54575",
       "engType": "54575",
       "engText": "Blighted Map (Academy)",
-      "korText": "Blighted Map (학술원)",
+      "korText": "역병 걸린 지도 (학술원)",
       "disc": "blighted",
       "type": "54575"
     },
@@ -3069,7 +3104,7 @@
       "korType": "54575",
       "engType": "54575",
       "engText": "Blight-ravaged Map (Academy)",
-      "korText": "Blight-ravaged Map (학술원)",
+      "korText": "역병에 유린당한 지도 (학술원)",
       "disc": "uberblighted",
       "type": "54575"
     },
@@ -3077,7 +3112,7 @@
       "korType": "54757",
       "engType": "54757",
       "engText": "Blighted Map (Promenade)",
-      "korText": "Blighted Map (산책로)",
+      "korText": "역병 걸린 지도 (산책로)",
       "disc": "blighted",
       "type": "54757"
     },
@@ -3085,7 +3120,7 @@
       "korType": "54757",
       "engType": "54757",
       "engText": "Blight-ravaged Map (Promenade)",
-      "korText": "Blight-ravaged Map (산책로)",
+      "korText": "역병에 유린당한 지도 (산책로)",
       "disc": "uberblighted",
       "type": "54757"
     },
@@ -3093,7 +3128,7 @@
       "korType": "5647",
       "engType": "5647",
       "engText": "Blighted Map (Tropical Island)",
-      "korText": "Blighted Map (열대 섬)",
+      "korText": "역병 걸린 지도 (열대 섬)",
       "disc": "blighted",
       "type": "5647"
     },
@@ -3101,7 +3136,7 @@
       "korType": "5647",
       "engType": "5647",
       "engText": "Blight-ravaged Map (Tropical Island)",
-      "korText": "Blight-ravaged Map (열대 섬)",
+      "korText": "역병에 유린당한 지도 (열대 섬)",
       "disc": "uberblighted",
       "type": "5647"
     },
@@ -3109,7 +3144,7 @@
       "korType": "57536",
       "engType": "57536",
       "engText": "Blighted Map (Racecourse)",
-      "korText": "Blighted Map (경주장)",
+      "korText": "역병 걸린 지도 (경주장)",
       "disc": "blighted",
       "type": "57536"
     },
@@ -3117,7 +3152,7 @@
       "korType": "57536",
       "engType": "57536",
       "engText": "Blight-ravaged Map (Racecourse)",
-      "korText": "Blight-ravaged Map (경주장)",
+      "korText": "역병에 유린당한 지도 (경주장)",
       "disc": "uberblighted",
       "type": "57536"
     },
@@ -3125,7 +3160,7 @@
       "korType": "57690",
       "engType": "57690",
       "engText": "Blighted Map (Peninsula)",
-      "korText": "Blighted Map (반도)",
+      "korText": "역병 걸린 지도 (반도)",
       "disc": "blighted",
       "type": "57690"
     },
@@ -3133,7 +3168,7 @@
       "korType": "57690",
       "engType": "57690",
       "engText": "Blight-ravaged Map (Peninsula)",
-      "korText": "Blight-ravaged Map (반도)",
+      "korText": "역병에 유린당한 지도 (반도)",
       "disc": "uberblighted",
       "type": "57690"
     },
@@ -3141,7 +3176,7 @@
       "korType": "57831",
       "engType": "57831",
       "engText": "Blighted Map (Mausoleum)",
-      "korText": "Blighted Map (능묘)",
+      "korText": "역병 걸린 지도 (능묘)",
       "disc": "blighted",
       "type": "57831"
     },
@@ -3149,7 +3184,7 @@
       "korType": "57831",
       "engType": "57831",
       "engText": "Blight-ravaged Map (Mausoleum)",
-      "korText": "Blight-ravaged Map (능묘)",
+      "korText": "역병에 유린당한 지도 (능묘)",
       "disc": "uberblighted",
       "type": "57831"
     },
@@ -3157,7 +3192,7 @@
       "korType": "57839",
       "engType": "57839",
       "engText": "Blighted Map (Vault)",
-      "korText": "Blighted Map (금고실)",
+      "korText": "역병 걸린 지도 (금고실)",
       "disc": "blighted",
       "type": "57839"
     },
@@ -3165,7 +3200,7 @@
       "korType": "57839",
       "engType": "57839",
       "engText": "Blight-ravaged Map (Vault)",
-      "korText": "Blight-ravaged Map (금고실)",
+      "korText": "역병에 유린당한 지도 (금고실)",
       "disc": "uberblighted",
       "type": "57839"
     },
@@ -3173,7 +3208,7 @@
       "korType": "58250",
       "engType": "58250",
       "engText": "Blighted Map (Precinct)",
-      "korText": "Blighted Map (구획)",
+      "korText": "역병 걸린 지도 (구획)",
       "disc": "blighted",
       "type": "58250"
     },
@@ -3181,7 +3216,7 @@
       "korType": "58250",
       "engType": "58250",
       "engText": "Blight-ravaged Map (Precinct)",
-      "korText": "Blight-ravaged Map (구획)",
+      "korText": "역병에 유린당한 지도 (구획)",
       "disc": "uberblighted",
       "type": "58250"
     },
@@ -3189,7 +3224,7 @@
       "korType": "58981",
       "engType": "58981",
       "engText": "Blighted Map (Geode)",
-      "korText": "Blighted Map (정동석)",
+      "korText": "역병 걸린 지도 (정동석)",
       "disc": "blighted",
       "type": "58981"
     },
@@ -3197,7 +3232,7 @@
       "korType": "58981",
       "engType": "58981",
       "engText": "Blight-ravaged Map (Geode)",
-      "korText": "Blight-ravaged Map (정동석)",
+      "korText": "역병에 유린당한 지도 (정동석)",
       "disc": "uberblighted",
       "type": "58981"
     },
@@ -3205,7 +3240,7 @@
       "korType": "59084",
       "engType": "59084",
       "engText": "Blighted Map (Iceberg)",
-      "korText": "Blighted Map (빙산)",
+      "korText": "역병 걸린 지도 (빙산)",
       "disc": "blighted",
       "type": "59084"
     },
@@ -3213,7 +3248,7 @@
       "korType": "59084",
       "engType": "59084",
       "engText": "Blight-ravaged Map (Iceberg)",
-      "korText": "Blight-ravaged Map (빙산)",
+      "korText": "역병에 유린당한 지도 (빙산)",
       "disc": "uberblighted",
       "type": "59084"
     },
@@ -3221,7 +3256,7 @@
       "korType": "59460",
       "engType": "59460",
       "engText": "Blighted Map (Belfry)",
-      "korText": "Blighted Map (종탑)",
+      "korText": "역병 걸린 지도 (종탑)",
       "disc": "blighted",
       "type": "59460"
     },
@@ -3229,7 +3264,7 @@
       "korType": "59460",
       "engType": "59460",
       "engText": "Blight-ravaged Map (Belfry)",
-      "korText": "Blight-ravaged Map (종탑)",
+      "korText": "역병에 유린당한 지도 (종탑)",
       "disc": "uberblighted",
       "type": "59460"
     },
@@ -3237,7 +3272,7 @@
       "korType": "60607",
       "engType": "60607",
       "engText": "Blighted Map (Spider Lair)",
-      "korText": "Blighted Map (거미 소굴)",
+      "korText": "역병 걸린 지도 (거미 소굴)",
       "disc": "blighted",
       "type": "60607"
     },
@@ -3245,7 +3280,7 @@
       "korType": "60607",
       "engType": "60607",
       "engText": "Blight-ravaged Map (Spider Lair)",
-      "korText": "Blight-ravaged Map (거미 소굴)",
+      "korText": "역병에 유린당한 지도 (거미 소굴)",
       "disc": "uberblighted",
       "type": "60607"
     },
@@ -3253,7 +3288,7 @@
       "korType": "60634",
       "engType": "60634",
       "engText": "Blighted Map (Summit)",
-      "korText": "Blighted Map (꼭대기)",
+      "korText": "역병 걸린 지도 (꼭대기)",
       "disc": "blighted",
       "type": "60634"
     },
@@ -3261,7 +3296,7 @@
       "korType": "60634",
       "engType": "60634",
       "engText": "Blight-ravaged Map (Summit)",
-      "korText": "Blight-ravaged Map (꼭대기)",
+      "korText": "역병에 유린당한 지도 (꼭대기)",
       "disc": "uberblighted",
       "type": "60634"
     },
@@ -3269,7 +3304,7 @@
       "korType": "60732",
       "engType": "60732",
       "engText": "Blighted Map (Pier)",
-      "korText": "Blighted Map (선창)",
+      "korText": "역병 걸린 지도 (선창)",
       "disc": "blighted",
       "type": "60732"
     },
@@ -3277,7 +3312,7 @@
       "korType": "6074",
       "engType": "6074",
       "engText": "Blighted Map (Sulphur Vents)",
-      "korText": "Blighted Map (유황 분출구)",
+      "korText": "역병 걸린 지도 (유황 분출구)",
       "disc": "blighted",
       "type": "6074"
     },
@@ -3285,7 +3320,7 @@
       "korType": "6074",
       "engType": "6074",
       "engText": "Blight-ravaged Map (Sulphur Vents)",
-      "korText": "Blight-ravaged Map (유황 분출구)",
+      "korText": "역병에 유린당한 지도 (유황 분출구)",
       "disc": "uberblighted",
       "type": "6074"
     },
@@ -3293,7 +3328,7 @@
       "korType": "62685",
       "engType": "62685",
       "engText": "Blighted Map (Beach)",
-      "korText": "Blighted Map (해변)",
+      "korText": "역병 걸린 지도 (해변)",
       "disc": "blighted",
       "type": "62685"
     },
@@ -3301,7 +3336,7 @@
       "korType": "62685",
       "engType": "62685",
       "engText": "Blight-ravaged Map (Beach)",
-      "korText": "Blight-ravaged Map (해변)",
+      "korText": "역병에 유린당한 지도 (해변)",
       "disc": "uberblighted",
       "type": "62685"
     },
@@ -3309,7 +3344,7 @@
       "korType": "63065",
       "engType": "63065",
       "engText": "Blighted Map (Flooded Mine)",
-      "korText": "Blighted Map (물에 잠긴 광산)",
+      "korText": "역병 걸린 지도 (물에 잠긴 광산)",
       "disc": "blighted",
       "type": "63065"
     },
@@ -3317,7 +3352,7 @@
       "korType": "63065",
       "engType": "63065",
       "engText": "Blight-ravaged Map (Flooded Mine)",
-      "korText": "Blight-ravaged Map (물에 잠긴 광산)",
+      "korText": "역병에 유린당한 지도 (물에 잠긴 광산)",
       "disc": "uberblighted",
       "type": "63065"
     },
@@ -3325,7 +3360,7 @@
       "korType": "64256",
       "engType": "64256",
       "engText": "Blighted Map (Dungeon)",
-      "korText": "Blighted Map (던전)",
+      "korText": "역병 걸린 지도 (던전)",
       "disc": "blighted",
       "type": "64256"
     },
@@ -3333,7 +3368,7 @@
       "korType": "64256",
       "engType": "64256",
       "engText": "Blight-ravaged Map (Dungeon)",
-      "korText": "Blight-ravaged Map (던전)",
+      "korText": "역병에 유린당한 지도 (던전)",
       "disc": "uberblighted",
       "type": "64256"
     },
@@ -3341,7 +3376,7 @@
       "korType": "64414",
       "engType": "64414",
       "engText": "Blighted Map (Caldera)",
-      "korText": "Blighted Map (칼데라)",
+      "korText": "역병 걸린 지도 (칼데라)",
       "disc": "blighted",
       "type": "64414"
     },
@@ -3349,7 +3384,7 @@
       "korType": "64414",
       "engType": "64414",
       "engText": "Blight-ravaged Map (Caldera)",
-      "korText": "Blight-ravaged Map (칼데라)",
+      "korText": "역병에 유린당한 지도 (칼데라)",
       "disc": "uberblighted",
       "type": "64414"
     },
@@ -3357,7 +3392,7 @@
       "korType": "64812",
       "engType": "64812",
       "engText": "Blighted Map (Shrine)",
-      "korText": "Blighted Map (성소)",
+      "korText": "역병 걸린 지도 (성소)",
       "disc": "blighted",
       "type": "64812"
     },
@@ -3365,7 +3400,7 @@
       "korType": "64812",
       "engType": "64812",
       "engText": "Blight-ravaged Map (Shrine)",
-      "korText": "Blight-ravaged Map (성소)",
+      "korText": "역병에 유린당한 지도 (성소)",
       "disc": "uberblighted",
       "type": "64812"
     },
@@ -3373,7 +3408,7 @@
       "korType": "6755",
       "engType": "6755",
       "engText": "Blighted Map (Conservatory)",
-      "korText": "Blighted Map (온실)",
+      "korText": "역병 걸린 지도 (온실)",
       "disc": "blighted",
       "type": "6755"
     },
@@ -3381,7 +3416,7 @@
       "korType": "6755",
       "engType": "6755",
       "engText": "Blight-ravaged Map (Conservatory)",
-      "korText": "Blight-ravaged Map (온실)",
+      "korText": "역병에 유린당한 지도 (온실)",
       "disc": "uberblighted",
       "type": "6755"
     },
@@ -3389,7 +3424,7 @@
       "korType": "7088",
       "engType": "7088",
       "engText": "Blighted Map (Lava Chamber)",
-      "korText": "Blighted Map (용암의 방)",
+      "korText": "역병 걸린 지도 (용암의 방)",
       "disc": "blighted",
       "type": "7088"
     },
@@ -3397,7 +3432,7 @@
       "korType": "7088",
       "engType": "7088",
       "engText": "Blight-ravaged Map (Lava Chamber)",
-      "korText": "Blight-ravaged Map (용암의 방)",
+      "korText": "역병에 유린당한 지도 (용암의 방)",
       "disc": "uberblighted",
       "type": "7088"
     },
@@ -3405,7 +3440,7 @@
       "korType": "737",
       "engType": "737",
       "engText": "Blighted Map (Thicket)",
-      "korText": "Blighted Map (잡목림)",
+      "korText": "역병 걸린 지도 (잡목림)",
       "disc": "blighted",
       "type": "737"
     },
@@ -3413,7 +3448,7 @@
       "korType": "737",
       "engType": "737",
       "engText": "Blight-ravaged Map (Thicket)",
-      "korText": "Blight-ravaged Map (잡목림)",
+      "korText": "역병에 유린당한 지도 (잡목림)",
       "disc": "uberblighted",
       "type": "737"
     },
@@ -3421,7 +3456,7 @@
       "korType": "7465",
       "engType": "7465",
       "engText": "Blighted Map (Arachnid Tomb)",
-      "korText": "Blighted Map (거미류 무덤)",
+      "korText": "역병 걸린 지도 (거미류 무덤)",
       "disc": "blighted",
       "type": "7465"
     },
@@ -3429,7 +3464,7 @@
       "korType": "7465",
       "engType": "7465",
       "engText": "Blight-ravaged Map (Arachnid Tomb)",
-      "korText": "Blight-ravaged Map (거미류 무덤)",
+      "korText": "역병에 유린당한 지도 (거미류 무덤)",
       "disc": "uberblighted",
       "type": "7465"
     },
@@ -3437,7 +3472,7 @@
       "korType": "8544",
       "engType": "8544",
       "engText": "Blighted Map (Cursed Crypt)",
-      "korText": "Blighted Map (저주받은 지하실)",
+      "korText": "역병 걸린 지도 (저주받은 지하실)",
       "disc": "blighted",
       "type": "8544"
     },
@@ -3445,7 +3480,7 @@
       "korType": "8544",
       "engType": "8544",
       "engText": "Blight-ravaged Map (Cursed Crypt)",
-      "korText": "Blight-ravaged Map (저주받은 지하실)",
+      "korText": "역병에 유린당한 지도 (저주받은 지하실)",
       "disc": "uberblighted",
       "type": "8544"
     },
@@ -3453,7 +3488,7 @@
       "korType": "8823",
       "engType": "8823",
       "engText": "Blighted Map (Lair)",
-      "korText": "Blighted Map (소굴)",
+      "korText": "역병 걸린 지도 (소굴)",
       "disc": "blighted",
       "type": "8823"
     },
@@ -3461,304 +3496,745 @@
       "korType": "8823",
       "engType": "8823",
       "engText": "Blight-ravaged Map (Lair)",
-      "korText": "Blight-ravaged Map (소굴)",
+      "korText": "역병에 유린당한 지도 (소굴)",
       "disc": "uberblighted",
       "type": "8823"
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Acton's Nightmare Map",
-      "korText": "액턴의 악몽 Map",
+      "korText": "액턴의 악몽 지도",
       "engName": "Acton's Nightmare",
       "korName": "액턴의 악몽",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Altered Distant Memory Map",
-      "korText": "뒤바뀐 희미한 기억 Map",
+      "korText": "뒤바뀐 희미한 기억 지도",
       "engName": "Altered Distant Memory",
       "korName": "뒤바뀐 희미한 기억",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Augmented Distant Memory Map",
-      "korText": "강화된 희미한 기억 Map",
+      "korText": "강화된 희미한 기억 지도",
       "engName": "Augmented Distant Memory",
       "korName": "강화된 희미한 기억",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "AurasMinionsTemplarSmite",
+      "engType": "AurasMinionsTemplarSmite",
+      "engText": "Mercenary Warrant (Warpriest)",
+      "korText": "용병 소환장 (전쟁사제)",
+      "disc": "mercenary_warrant",
+      "type": "AurasMinionsTemplarSmite"
+    },
+    {
+      "korType": "AurasMinionsTemplarSmiteNoble",
+      "engType": "AurasMinionsTemplarSmiteNoble",
+      "engText": "Mercenary Warrant (Infamous Warpriest)",
+      "korText": "용병 소환장 (악명 높은 전쟁사제)",
+      "disc": "mercenary_warrant",
+      "type": "AurasMinionsTemplarSmiteNoble"
+    },
+    {
+      "korType": "AurasMinionsTemplarSpectres",
+      "engType": "AurasMinionsTemplarSpectres",
+      "engText": "Mercenary Warrant (Fallen Reverend)",
+      "korText": "용병 소환장 (몰락한 목사)",
+      "disc": "mercenary_warrant",
+      "type": "AurasMinionsTemplarSpectres"
+    },
+    {
+      "korType": "AurasMinionsTemplarSpectresNoble",
+      "engType": "AurasMinionsTemplarSpectresNoble",
+      "engText": "Mercenary Warrant (Infamous Fallen Reverend)",
+      "korText": "용병 소환장 (악명 높은 몰락한 목사)",
+      "disc": "mercenary_warrant",
+      "type": "AurasMinionsTemplarSpectresNoble"
+    },
+    {
+      "korType": "AurasMinionsTemplarStaff",
+      "engType": "AurasMinionsTemplarStaff",
+      "engText": "Mercenary Warrant (Cardinal)",
+      "korText": "용병 소환장 (추기경)",
+      "disc": "mercenary_warrant",
+      "type": "AurasMinionsTemplarStaff"
+    },
+    {
+      "korType": "AurasMinionsTemplarStaffNoble",
+      "engType": "AurasMinionsTemplarStaffNoble",
+      "engText": "Mercenary Warrant (Infamous Cardinal)",
+      "korText": "용병 소환장 (악명 높은 추기경)",
+      "disc": "mercenary_warrant",
+      "type": "AurasMinionsTemplarStaffNoble"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Caer Blaidd, Wolfpack's Den Map",
-      "korText": "캐어블레이드 늑대의 소굴 Map",
+      "korText": "캐어블레이드 늑대의 소굴 지도",
       "engName": "Caer Blaidd, Wolfpack's Den",
       "korName": "캐어블레이드 늑대의 소굴",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "ChaosMinionWitchChaosHit",
+      "engType": "ChaosMinionWitchChaosHit",
+      "engText": "Mercenary Warrant (Cruel Mistress)",
+      "korText": "용병 소환장 (잔혹한 여주인)",
+      "disc": "mercenary_warrant",
+      "type": "ChaosMinionWitchChaosHit"
+    },
+    {
+      "korType": "ChaosMinionWitchChaosHitNoble",
+      "engType": "ChaosMinionWitchChaosHitNoble",
+      "engText": "Mercenary Warrant (Infamous Cruel Mistress)",
+      "korText": "용병 소환장 (악명 높은 잔혹한 여주인)",
+      "disc": "mercenary_warrant",
+      "type": "ChaosMinionWitchChaosHitNoble"
+    },
+    {
+      "korType": "ChaosMinionWitchDot",
+      "engType": "ChaosMinionWitchDot",
+      "engText": "Mercenary Warrant (Withertouch)",
+      "korText": "용병 소환장 (고사의 손길)",
+      "disc": "mercenary_warrant",
+      "type": "ChaosMinionWitchDot"
+    },
+    {
+      "korType": "ChaosMinionWitchDotNoble",
+      "engType": "ChaosMinionWitchDotNoble",
+      "engText": "Mercenary Warrant (Infamous Withertouch)",
+      "korText": "용병 소환장 (악명 높은 고사의 손길)",
+      "disc": "mercenary_warrant",
+      "type": "ChaosMinionWitchDotNoble"
+    },
+    {
+      "korType": "ChaosMinionWitchInstability",
+      "engType": "ChaosMinionWitchInstability",
+      "engText": "Mercenary Warrant (Reanimator)",
+      "korText": "용병 소환장 (소생술사)",
+      "disc": "mercenary_warrant",
+      "type": "ChaosMinionWitchInstability"
+    },
+    {
+      "korType": "ChaosMinionWitchInstabilityNoble",
+      "engType": "ChaosMinionWitchInstabilityNoble",
+      "engText": "Mercenary Warrant (Infamous Reanimator)",
+      "korText": "용병 소환장 (악명 높은 소생술사)",
+      "disc": "mercenary_warrant",
+      "type": "ChaosMinionWitchInstabilityNoble"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Cortex Map",
-      "korText": "코텍스 Map",
+      "korText": "코텍스 지도",
       "engName": "Cortex",
       "korName": "코텍스",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "Crit1HShadowPhysSpell",
+      "engType": "Crit1HShadowPhysSpell",
+      "engText": "Mercenary Warrant (Bladecaster)",
+      "korText": "용병 소환장 (칼날시전자)",
+      "disc": "mercenary_warrant",
+      "type": "Crit1HShadowPhysSpell"
+    },
+    {
+      "korType": "Crit1HShadowPhysSpellNoble",
+      "engType": "Crit1HShadowPhysSpellNoble",
+      "engText": "Mercenary Warrant (Infamous Bladecaster)",
+      "korText": "용병 소환장 (악명 높은 칼날시전자)",
+      "disc": "mercenary_warrant",
+      "type": "Crit1HShadowPhysSpellNoble"
+    },
+    {
+      "korType": "Crit1HShadowPoison",
+      "engType": "Crit1HShadowPoison",
+      "engText": "Mercenary Warrant (Bladebitter)",
+      "korText": "용병 소환장 (쓰라린검)",
+      "disc": "mercenary_warrant",
+      "type": "Crit1HShadowPoison"
+    },
+    {
+      "korType": "Crit1HShadowPoisonNoble",
+      "engType": "Crit1HShadowPoisonNoble",
+      "engText": "Mercenary Warrant (Infamous Bladebitter)",
+      "korText": "용병 소환장 (악명 높은 쓰라린검)",
+      "disc": "mercenary_warrant",
+      "type": "Crit1HShadowPoisonNoble"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Death and Taxes Map",
-      "korText": "죽음과 의무 Map",
+      "korText": "죽음과 의무 지도",
       "engName": "Death and Taxes",
       "korName": "죽음과 의무",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "DivingDuelist",
+      "engType": "DivingDuelist",
+      "engText": "Mercenary Warrant (Mysterious Diver)",
+      "korText": "용병 소환장 (수수께끼의 잠수부)",
+      "disc": "mercenary_warrant",
+      "type": "DivingDuelist"
+    },
+    {
+      "korType": "DivingDuelistNoble",
+      "engType": "DivingDuelistNoble",
+      "engText": "Mercenary Warrant (Infamous Mysterious Diver)",
+      "korText": "용병 소환장 (악명 높은 수수께끼의 잠수부)",
+      "disc": "mercenary_warrant",
+      "type": "DivingDuelistNoble"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Doryani's Machinarium Map",
-      "korText": "도리아니의 기계실 Map",
+      "korText": "도리아니의 기계실 지도",
       "engName": "Doryani's Machinarium",
       "korName": "도리아니의 기계실",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "EleBowRangerClones",
+      "engType": "EleBowRangerClones",
+      "engText": "Mercenary Warrant (Manyshot)",
+      "korText": "용병 소환장 (사격난무)",
+      "disc": "mercenary_warrant",
+      "type": "EleBowRangerClones"
+    },
+    {
+      "korType": "EleBowRangerClonesNoble",
+      "engType": "EleBowRangerClonesNoble",
+      "engText": "Mercenary Warrant (Infamous Manyshot)",
+      "korText": "용병 소환장 (악명 높은 사격난무)",
+      "disc": "mercenary_warrant",
+      "type": "EleBowRangerClonesNoble"
+    },
+    {
+      "korType": "EleBowRangerFire",
+      "engType": "EleBowRangerFire",
+      "engText": "Mercenary Warrant (Flamequiver)",
+      "korText": "용병 소환장 (화염화살통)",
+      "disc": "mercenary_warrant",
+      "type": "EleBowRangerFire"
+    },
+    {
+      "korType": "EleBowRangerFireNoble",
+      "engType": "EleBowRangerFireNoble",
+      "engText": "Mercenary Warrant (Infamous Flamequiver)",
+      "korText": "용병 소환장 (악명 높은 화염화살통)",
+      "disc": "mercenary_warrant",
+      "type": "EleBowRangerFireNoble"
+    },
+    {
+      "korType": "EleBowRangerLightning",
+      "engType": "EleBowRangerLightning",
+      "engText": "Mercenary Warrant (Thunderquiver)",
+      "korText": "용병 소환장 (천둥화살통)",
+      "disc": "mercenary_warrant",
+      "type": "EleBowRangerLightning"
+    },
+    {
+      "korType": "ElementalWitchCold",
+      "engType": "ElementalWitchCold",
+      "engText": "Mercenary Warrant (Frosthand)",
+      "korText": "용병 소환장 (서리손길)",
+      "disc": "mercenary_warrant",
+      "type": "ElementalWitchCold"
+    },
+    {
+      "korType": "ElementalWitchColdNoble",
+      "engType": "ElementalWitchColdNoble",
+      "engText": "Mercenary Warrant (Infamous Frosthand)",
+      "korText": "용병 소환장 (악명 높은 서리손길)",
+      "disc": "mercenary_warrant",
+      "type": "ElementalWitchColdNoble"
+    },
+    {
+      "korType": "ElementalWitchFire",
+      "engType": "ElementalWitchFire",
+      "engText": "Mercenary Warrant (Flamehand)",
+      "korText": "용병 소환장 (화염손길)",
+      "disc": "mercenary_warrant",
+      "type": "ElementalWitchFire"
+    },
+    {
+      "korType": "ElementalWitchLightning",
+      "engType": "ElementalWitchLightning",
+      "engText": "Mercenary Warrant (Stormhand)",
+      "korText": "용병 소환장 (태풍손길)",
+      "disc": "mercenary_warrant",
+      "type": "ElementalWitchLightning"
+    },
+    {
+      "korType": "ElementalWitchLightningNoble",
+      "engType": "ElementalWitchLightningNoble",
+      "engText": "Mercenary Warrant (Infamous Stormhand)",
+      "korText": "용병 소환장 (악명 높은 태풍손길)",
+      "disc": "mercenary_warrant",
+      "type": "ElementalWitchLightningNoble"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Hall of Grandmasters Map",
-      "korText": "명인의 전당 Map",
+      "korText": "명인의 전당 지도",
       "engName": "Hall of Grandmasters",
       "korName": "명인의 전당",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Hallowed Ground Map",
-      "korText": "거룩한 대지 Map",
+      "korText": "거룩한 대지 지도",
       "engName": "Hallowed Ground",
       "korName": "거룩한 대지",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Infused Beachhead Map",
-      "korText": "주입된 교두보 Map",
+      "korText": "주입된 교두보 지도",
       "engName": "Infused Beachhead",
       "korName": "주입된 교두보",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Maelström of Chaos Map",
-      "korText": "혼돈의 마엘스트롬 Map",
+      "korText": "혼돈의 마엘스트롬 지도",
       "engName": "Maelström of Chaos",
       "korName": "혼돈의 마엘스트롬",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Mao Kun Map",
-      "korText": "마오 쿤 Map",
+      "korText": "마오 쿤 지도",
       "engName": "Mao Kun",
       "korName": "마오 쿤",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "MeleeAOEMarauderFireSlam",
+      "engType": "MeleeAOEMarauderFireSlam",
+      "engText": "Mercenary Warrant (Eruptor)",
+      "korText": "용병 소환장 (분출자)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEMarauderFireSlam"
+    },
+    {
+      "korType": "MeleeAOEMarauderFireSlamNoble",
+      "engType": "MeleeAOEMarauderFireSlamNoble",
+      "engText": "Mercenary Warrant (Infamous Eruptor)",
+      "korText": "용병 소환장 (악명 높은 분출자)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEMarauderFireSlamNoble"
+    },
+    {
+      "korType": "MeleeAOEMarauderNonSlam",
+      "engType": "MeleeAOEMarauderNonSlam",
+      "engText": "Mercenary Warrant (Ripper)",
+      "korText": "용병 소환장 (거열자)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEMarauderNonSlam"
+    },
+    {
+      "korType": "MeleeAOEMarauderNonSlamNoble",
+      "engType": "MeleeAOEMarauderNonSlamNoble",
+      "engText": "Mercenary Warrant (Infamous Ripper)",
+      "korText": "용병 소환장 (악명 높은 거열자)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEMarauderNonSlamNoble"
+    },
+    {
+      "korType": "MeleeAOEMarauderPhysSlam",
+      "engType": "MeleeAOEMarauderPhysSlam",
+      "engText": "Mercenary Warrant (Earthshaker)",
+      "korText": "용병 소환장 (경천지동)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEMarauderPhysSlam"
+    },
+    {
+      "korType": "MeleeAOEMarauderPhysSlamNoble",
+      "engType": "MeleeAOEMarauderPhysSlamNoble",
+      "engText": "Mercenary Warrant (Infamous Earthshaker)",
+      "korText": "용병 소환장 (악명 높은 경천지동)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEMarauderPhysSlamNoble"
+    },
+    {
+      "korType": "MeleeAOEStrikeDuelistCyclone",
+      "engType": "MeleeAOEStrikeDuelistCyclone",
+      "engText": "Mercenary Warrant (Swiftblade)",
+      "korText": "용병 소환장 (빠른칼날)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEStrikeDuelistCyclone"
+    },
+    {
+      "korType": "MeleeAOEStrikeDuelistCycloneNoble",
+      "engType": "MeleeAOEStrikeDuelistCycloneNoble",
+      "engText": "Mercenary Warrant (Infamous Swiftblade)",
+      "korText": "용병 소환장 (악명 높은 빠른칼날)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEStrikeDuelistCycloneNoble"
+    },
+    {
+      "korType": "MeleeAOEStrikeDuelistRangeStrikes",
+      "engType": "MeleeAOEStrikeDuelistRangeStrikes",
+      "engText": "Mercenary Warrant (Combatant)",
+      "korText": "용병 소환장 (전투원)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEStrikeDuelistRangeStrikes"
+    },
+    {
+      "korType": "MeleeAOEStrikeDuelistRangeStrikesNoble",
+      "engType": "MeleeAOEStrikeDuelistRangeStrikesNoble",
+      "engText": "Mercenary Warrant (Infamous Combatant)",
+      "korText": "용병 소환장 (악명 높은 전투원)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeAOEStrikeDuelistRangeStrikesNoble"
+    },
+    {
+      "korType": "MeleeStrikesMaraduerPhys",
+      "engType": "MeleeStrikesMaraduerPhys",
+      "engText": "Mercenary Warrant (Striker)",
+      "korText": "용병 소환장 (타격자)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeStrikesMaraduerPhys"
+    },
+    {
+      "korType": "MeleeStrikesMaraduerPhysNoble",
+      "engType": "MeleeStrikesMaraduerPhysNoble",
+      "engText": "Mercenary Warrant (Infamous Striker)",
+      "korText": "용병 소환장 (악명 높은 타격자)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeStrikesMaraduerPhysNoble"
+    },
+    {
+      "korType": "MeleeStrikesMarauderFire",
+      "engType": "MeleeStrikesMarauderFire",
+      "engText": "Mercenary Warrant (Smoulderstrike)",
+      "korText": "용병 소환장 (타오르는 타격)",
+      "disc": "mercenary_warrant",
+      "type": "MeleeStrikesMarauderFire"
+    },
+    {
+      "korType": "MiscScionPhysDot",
+      "engType": "MiscScionPhysDot",
+      "engText": "Mercenary Warrant (Sanguimancer)",
+      "korText": "용병 소환장 (혈액술사)",
+      "disc": "mercenary_warrant",
+      "type": "MiscScionPhysDot"
+    },
+    {
+      "korType": "MiscScionPhysDotNoble",
+      "engType": "MiscScionPhysDotNoble",
+      "engText": "Mercenary Warrant (Infamous Sanguimancer)",
+      "korText": "용병 소환장 (악명 높은 혈액술사)",
+      "disc": "mercenary_warrant",
+      "type": "MiscScionPhysDotNoble"
+    },
+    {
+      "korType": "MiscScionWandAttacks",
+      "engType": "MiscScionWandAttacks",
+      "engText": "Mercenary Warrant (Kineticist)",
+      "korText": "용병 소환장 (역학술사)",
+      "disc": "mercenary_warrant",
+      "type": "MiscScionWandAttacks"
+    },
+    {
+      "korType": "MiscScionWandAttacksNoble",
+      "engType": "MiscScionWandAttacksNoble",
+      "engText": "Mercenary Warrant (Infamous Kineticist)",
+      "korText": "용병 소환장 (악명 높은 역학술사)",
+      "disc": "mercenary_warrant",
+      "type": "MiscScionWandAttacksNoble"
+    },
+    {
+      "korType": "NonEleBowRangerChaos",
+      "engType": "NonEleBowRangerChaos",
+      "engText": "Mercenary Warrant (Toxicologist)",
+      "korText": "용병 소환장 (독성학자)",
+      "disc": "mercenary_warrant",
+      "type": "NonEleBowRangerChaos"
+    },
+    {
+      "korType": "NonEleBowRangerChaosNoble",
+      "engType": "NonEleBowRangerChaosNoble",
+      "engText": "Mercenary Warrant (Infamous Toxicologist)",
+      "korText": "용병 소환장 (악명 높은 독성학자)",
+      "disc": "mercenary_warrant",
+      "type": "NonEleBowRangerChaosNoble"
+    },
+    {
+      "korType": "NonEleBowRangerPhys",
+      "engType": "NonEleBowRangerPhys",
+      "engText": "Mercenary Warrant (Sniper)",
+      "korText": "용병 소환장 (저격수)",
+      "disc": "mercenary_warrant",
+      "type": "NonEleBowRangerPhys"
+    },
+    {
+      "korType": "NonEleBowRangerPhysNoble",
+      "engType": "NonEleBowRangerPhysNoble",
+      "engText": "Mercenary Warrant (Infamous Sniper)",
+      "korText": "용병 소환장 (악명 높은 저격수)",
+      "disc": "mercenary_warrant",
+      "type": "NonEleBowRangerPhysNoble"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Oba's Cursed Trove Map",
-      "korText": "오바의 저주받은 전리품 Map",
+      "korText": "오바의 저주받은 전리품 지도",
       "engName": "Oba's Cursed Trove",
       "korName": "오바의 저주받은 전리품",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Olmec's Sanctum Map",
-      "korText": "올멕의 지성소 Map",
+      "korText": "올멕의 지성소 지도",
       "engName": "Olmec's Sanctum",
       "korName": "올멕의 지성소",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "PhysConvertTemplarCold",
+      "engType": "PhysConvertTemplarCold",
+      "engText": "Mercenary Warrant (Winter Deacon)",
+      "korText": "용병 소환장 (겨울 집사)",
+      "disc": "mercenary_warrant",
+      "type": "PhysConvertTemplarCold"
+    },
+    {
+      "korType": "PhysConvertTemplarFire",
+      "engType": "PhysConvertTemplarFire",
+      "engText": "Mercenary Warrant (Flaming Charlatan)",
+      "korText": "용병 소환장 (불을 뿜는 사기꾼)",
+      "disc": "mercenary_warrant",
+      "type": "PhysConvertTemplarFire"
+    },
+    {
+      "korType": "PhysConvertTemplarLightning",
+      "engType": "PhysConvertTemplarLightning",
+      "engText": "Mercenary Warrant (Storming Zealot)",
+      "korText": "용병 소환장 (몰아치는 맹신자)",
+      "disc": "mercenary_warrant",
+      "type": "PhysConvertTemplarLightning"
+    },
+    {
+      "korType": "PhysConvertTemplarLightningNoble",
+      "engType": "PhysConvertTemplarLightningNoble",
+      "engText": "Mercenary Warrant (Infamous Storming Zealot)",
+      "korText": "용병 소환장 (악명 높은 몰아치는 맹신자)",
+      "disc": "mercenary_warrant",
+      "type": "PhysConvertTemplarLightningNoble"
+    },
+    {
+      "korType": "PhysicalDuelistBleed",
+      "engType": "PhysicalDuelistBleed",
+      "engText": "Mercenary Warrant (Bloodletter)",
+      "korText": "용병 소환장 (사혈자)",
+      "disc": "mercenary_warrant",
+      "type": "PhysicalDuelistBleed"
+    },
+    {
+      "korType": "PhysicalDuelistBleedNoble",
+      "engType": "PhysicalDuelistBleedNoble",
+      "engText": "Mercenary Warrant (Infamous Bloodletter)",
+      "korText": "용병 소환장 (악명 높은 사혈자)",
+      "disc": "mercenary_warrant",
+      "type": "PhysicalDuelistBleedNoble"
+    },
+    {
+      "korType": "PhysicalDuelistShields",
+      "engType": "PhysicalDuelistShields",
+      "engText": "Mercenary Warrant (Bastion)",
+      "korText": "용병 소환장 (보루)",
+      "disc": "mercenary_warrant",
+      "type": "PhysicalDuelistShields"
+    },
+    {
+      "korType": "PhysicalDuelistShieldsNoble",
+      "engType": "PhysicalDuelistShieldsNoble",
+      "engText": "Mercenary Warrant (Infamous Bastion)",
+      "korText": "용병 소환장 (악명 높은 보루)",
+      "disc": "mercenary_warrant",
+      "type": "PhysicalDuelistShieldsNoble"
+    },
+    {
+      "korType": "PhysicalDuelistSteel",
+      "engType": "PhysicalDuelistSteel",
+      "engText": "Mercenary Warrant (Shattersword)",
+      "korText": "용병 소환장 (검파괴자)",
+      "disc": "mercenary_warrant",
+      "type": "PhysicalDuelistSteel"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Pillars of Arun Map",
-      "korText": "아룬의 기둥 Map",
+      "korText": "아룬의 기둥 지도",
       "engName": "Pillars of Arun",
       "korName": "아룬의 기둥",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Poorjoy's Asylum Map",
-      "korText": "푸어조이의 은신처 Map",
+      "korText": "푸어조이의 은신처 지도",
       "engName": "Poorjoy's Asylum",
       "korName": "푸어조이의 은신처",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Replica Cortex Map",
-      "korText": "코텍스 모조품 Map",
+      "korText": "코텍스 모조품 지도",
       "engName": "Replica Cortex",
       "korName": "코텍스 모조품",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Replica Pillars of Arun Map",
-      "korText": "아룬의 기둥 모조품 Map",
+      "korText": "아룬의 기둥 모조품 지도",
       "engName": "Replica Pillars of Arun",
       "korName": "아룬의 기둥 모조품",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Replica Poorjoy's Asylum Map",
-      "korText": "푸어조이의 은신처 모조품 Map",
+      "korText": "푸어조이의 은신처 모조품 지도",
       "engName": "Replica Poorjoy's Asylum",
       "korName": "푸어조이의 은신처 모조품",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Rewritten Distant Memory Map",
-      "korText": "다시 쓰인 희미한 기억 Map",
+      "korText": "다시 쓰인 희미한 기억 지도",
       "engName": "Rewritten Distant Memory",
       "korName": "다시 쓰인 희미한 기억",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "The Beachhead Map",
-      "korText": "교두보 Map",
+      "korText": "교두보 지도",
       "engName": "The Beachhead",
       "korName": "교두보",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "The Coward's Trial Map",
-      "korText": "겁쟁이의 시험 Map",
+      "korText": "겁쟁이의 시험 지도",
       "engName": "The Coward's Trial",
       "korName": "겁쟁이의 시험",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "The Perandus Manor Map",
-      "korText": "페란두스 저택 Map",
+      "korText": "페란두스 저택 지도",
       "engName": "The Perandus Manor",
       "korName": "페란두스 저택",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
@@ -3776,104 +4252,136 @@
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "The Putrid Cloister Map",
-      "korText": "악취 나는 수도원 Map",
+      "korText": "악취 나는 수도원 지도",
       "engName": "The Putrid Cloister",
       "korName": "악취 나는 수도원",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "The Tower of Ordeals Map",
-      "korText": "시련의 탑 Map",
+      "korText": "시련의 탑 지도",
       "engName": "The Tower of Ordeals",
       "korName": "시련의 탑",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "The Twilight Temple Map",
-      "korText": "황혼의 사원 Map",
+      "korText": "황혼의 사원 지도",
       "engName": "The Twilight Temple",
       "korName": "황혼의 사원",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "The Vinktar Square Map",
-      "korText": "빙타 광장 Map",
+      "korText": "빙타 광장 지도",
       "engName": "The Vinktar Square",
       "korName": "빙타 광장",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "TrapsMinesShadowAttack",
+      "engType": "TrapsMinesShadowAttack",
+      "engText": "Mercenary Warrant (Blade Ambusher)",
+      "korText": "용병 소환장 (칼날 매복자)",
+      "disc": "mercenary_warrant",
+      "type": "TrapsMinesShadowAttack"
+    },
+    {
+      "korType": "TrapsMinesShadowAttackNoble",
+      "engType": "TrapsMinesShadowAttackNoble",
+      "engText": "Mercenary Warrant (Infamous Blade Ambusher)",
+      "korText": "용병 소환장 (악명 높은 칼날 매복자)",
+      "disc": "mercenary_warrant",
+      "type": "TrapsMinesShadowAttackNoble"
+    },
+    {
+      "korType": "TrapsMinesShadowCold",
+      "engType": "TrapsMinesShadowCold",
+      "engText": "Mercenary Warrant (Frost Ambusher)",
+      "korText": "용병 소환장 (서리 매복자)",
+      "disc": "mercenary_warrant",
+      "type": "TrapsMinesShadowCold"
+    },
+    {
+      "korType": "TrapsMinesShadowLightning",
+      "engType": "TrapsMinesShadowLightning",
+      "engText": "Mercenary Warrant (Shock Ambusher)",
+      "korText": "용병 소환장 (감전 매복자)",
+      "disc": "mercenary_warrant",
+      "type": "TrapsMinesShadowLightning"
+    },
+    {
+      "korType": "TrapsMinesShadowLightningNoble",
+      "engType": "TrapsMinesShadowLightningNoble",
+      "engText": "Mercenary Warrant (Infamous Shock Ambusher)",
+      "korText": "용병 소환장 (악명 높은 감전 매복자)",
+      "disc": "mercenary_warrant",
+      "type": "TrapsMinesShadowLightningNoble"
+    },
+    {
+      "korType": "지도",
       "engType": "Map",
       "engText": "Twisted Distant Memory Map",
-      "korText": "뒤틀린 희미한 기억 Map",
+      "korText": "뒤틀린 희미한 기억 지도",
       "engName": "Twisted Distant Memory",
       "korName": "뒤틀린 희미한 기억",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Untainted Paradise Map",
-      "korText": "때묻지 않은 낙원 Map",
+      "korText": "때묻지 않은 낙원 지도",
       "engName": "Untainted Paradise",
       "korName": "때묻지 않은 낙원",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Vaults of Atziri Map",
-      "korText": "앗지리의 금고실 Map",
+      "korText": "앗지리의 금고실 지도",
       "engName": "Vaults of Atziri",
       "korName": "앗지리의 금고실",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
       }
     },
     {
-      "korType": "Map",
+      "korType": "지도",
       "engType": "Map",
       "engText": "Whakawairua Tuahu Map",
-      "korText": "와카와 투아후 Map",
+      "korText": "와카와 투아후 지도",
       "engName": "Whakawairua Tuahu",
       "korName": "와카와 투아후",
-      "type": "Map",
       "disc": "map",
       "flags": {
         "unique": true
