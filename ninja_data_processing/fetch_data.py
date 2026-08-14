@@ -60,3 +60,42 @@ def fetch_and_save_data(domain, leagues, categories, save_folder):
         print(f"Failed to fetch data from {full_url}: {e}")
 
 
+# stash overview API: lines에 name, icon, chaosValue가 이미 포함되어 있다.
+def fetch_and_save_stash_items(domain, leagues, categories, save_folder):
+  for leagues_key, leagues_url in leagues.items():
+    leagues_folder = os.path.join(save_folder, leagues_key)
+    os.makedirs(leagues_folder, exist_ok=True)
+
+    for categories_key, categories_path in categories.items():
+      try:
+        full_url = f"{domain}?league={leagues_url}&type={categories_path}"
+        headers = {
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+
+        response = requests.get(full_url, headers=headers)
+        response.raise_for_status()
+        data = response.json()
+
+        filtered_data = {
+            "lines": [
+                {
+                    "id": line.get("id"),
+                    "name": line.get("name"),
+                    "icon": line.get("icon"),
+                    "chaosValue": line.get("chaosValue") or 0,
+                }
+                for line in data.get("lines", [])
+                if line.get("name")
+            ]
+        }
+
+        file_path = os.path.join(leagues_folder, f"{categories_key}.json")
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(filtered_data, f, ensure_ascii=False, indent=4)
+        print(f"Data saved: {file_path}")
+      except requests.exceptions.RequestException as e:
+        print(f"Failed to fetch data from {full_url}: {e}")
+
+

@@ -1,11 +1,12 @@
-from ninja_data_processing.fetch_data import fetch_and_save_data
-from ninja_data_processing.merged_ninja_poe import merge_single_pair
+from ninja_data_processing.fetch_data import fetch_and_save_data, fetch_and_save_stash_items
+from ninja_data_processing.merged_ninja_poe import merge_single_pair, merge_regex_with_ninja
 from make_regex_form import merge_regex_to_scarabs
 
 def main():
   DOMAIN = {
     'currency': 'https://poe.ninja/api/data/currencyoverview',
     'item': 'https://poe.ninja/poe1/api/economy/exchange/current/overview',
+    'other': 'https://poe.ninja/poe1/api/economy/stash/current/item/overview' # 야수
   }
 
   LEAGUES = {
@@ -21,8 +22,13 @@ def main():
     'oil': 'Oil',
   }
 
+  OTHER_CATEGORIES = {
+    'beast': 'Beast',
+  }
+
   save_folder = "datas/ninja"  # 저장 폴더 이름
   fetch_and_save_data(DOMAIN['item'], LEAGUES, CATEGORIES, save_folder)
+  fetch_and_save_stash_items(DOMAIN['other'], LEAGUES, OTHER_CATEGORIES, save_folder)
 
   # 병합할 파일 쌍 정의
     # 각 딕셔너리는 하나의 병합 작업을 나타냅니다.
@@ -87,6 +93,14 @@ def main():
 
   # 'korType'을 기준으로 두 파일을 합침
   merge_regex_to_scarabs(scarabs_file, regex_source_file, scarabs_file, match_key='korType')
+
+  merge_regex_with_ninja(
+      'regex/beast_regex.json',
+      f'datas/ninja/{league}/beast.json',
+      'merged_beast.json',
+  )
+
+  
 
 if __name__ == "__main__":
     main()

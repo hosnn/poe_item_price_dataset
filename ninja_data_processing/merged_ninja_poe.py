@@ -82,3 +82,57 @@ def merge_single_pair(korean_data_file, english_data_file, output_file, kor_eng_
         print(f"Successfully merged data into '{full_output_path}'")
     except IOError:
         print(f"Error: Could not write to file '{full_output_path}'. Check permissions.")
+
+
+def merge_regex_with_ninja(regex_file, ninja_file, output_file):
+    """
+    regex 파일의 engType과 닌자 lines.name을 매칭해 icon, chaosValue를 붙인다.
+    regex에 없거나 닌자에 없는 항목은 결과에 넣지 않는다.
+    """
+    print(f"\n--- Merging '{regex_file}' with '{ninja_file}' ---")
+    try:
+        with open(regex_file, 'r', encoding='utf-8') as f:
+            regex_data = json.load(f)
+
+        with open(ninja_file, 'r', encoding='utf-8') as f:
+            ninja_data = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: One or both files not found: '{regex_file}', '{ninja_file}'")
+        return
+    except json.JSONDecodeError:
+        print(f"Error: Failed to decode JSON from one of the files: '{regex_file}', '{ninja_file}'. Check file validity.")
+        return
+
+    if not isinstance(regex_data, list):
+        print(f"Warning: '{regex_file}' is not a list. Skipping.")
+        return
+
+    ninja_list = ninja_data.get('lines', ninja_data)
+    if not isinstance(ninja_list, list):
+        print(f"Warning: '{ninja_file}' does not contain a 'lines' list or a direct list. Skipping.")
+        return
+
+    ninja_map = {item.get('name'): item for item in ninja_list if item.get('name')}
+
+    merged = []
+    for item in regex_data:
+        eng = item.get('engType')
+        if not eng or eng not in ninja_map:
+            continue
+        ninja = ninja_map[eng]
+        merged.append({
+            'korType': item.get('korType'),
+            'engType': eng,
+            'icon': ninja.get('icon'),
+            'chaosValue': ninja.get('chaosValue'),
+            'regex': item.get('regex', ''),
+        })
+
+    os.makedirs("result", exist_ok=True)
+    full_output_path = os.path.join("result", output_file)
+    try:
+        with open(full_output_path, 'w', encoding='utf-8') as f:
+            json.dump(merged, f, indent=2, ensure_ascii=False)
+        print(f"Successfully merged data into '{full_output_path}'")
+    except IOError:
+        print(f"Error: Could not write to file '{full_output_path}'. Check permissions.")
