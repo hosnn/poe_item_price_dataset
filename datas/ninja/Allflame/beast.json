@@ -7,16 +7,16 @@
             "chaosValue": 300.0
         },
         {
-            "id": 5258,
-            "name": "Fenumal Plagued Arachnid",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 135.3
-        },
-        {
             "id": 167631,
             "name": "Craicic Croaker",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 134.3
+            "chaosValue": 136.0
+        },
+        {
+            "id": 5258,
+            "name": "Fenumal Plagued Arachnid",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+            "chaosValue": 135.9
         },
         {
             "id": 20386,
@@ -34,7 +34,7 @@
             "id": 101094,
             "name": "Wild Bristle Matron",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 99.4
+            "chaosValue": 99.0
         },
         {
             "id": 20338,
@@ -52,13 +52,7 @@
             "id": 101081,
             "name": "Wild Hellion Alpha",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 56.0
-        },
-        {
-            "id": 5116,
-            "name": "Craiceann, First of the Deep",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 41.2
+            "chaosValue": 45.0
         },
         {
             "id": 5111,
@@ -70,7 +64,13 @@
             "id": 101096,
             "name": "Vivid Vulture",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 34.1
+            "chaosValue": 35.0
+        },
+        {
+            "id": 5116,
+            "name": "Craiceann, First of the Deep",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+            "chaosValue": 30.0
         },
         {
             "id": 101093,
@@ -82,17 +82,11 @@
             "id": 5113,
             "name": "Fenumus, First of the Night",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 29.8
+            "chaosValue": 29.0
         },
         {
             "id": 101073,
             "name": "Wild Brambleback",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 29.0
-        },
-        {
-            "id": 101149,
-            "name": "Primal Crushclaw",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
             "chaosValue": 28.0
         },
@@ -103,28 +97,34 @@
             "chaosValue": 25.0
         },
         {
+            "id": 101149,
+            "name": "Primal Crushclaw",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+            "chaosValue": 25.0
+        },
+        {
             "id": 5114,
             "name": "Saqawal, First of the Sky",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 12.0
+            "chaosValue": 18.0
         },
         {
             "id": 20434,
             "name": "Stygian Silverback",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 7.0
-        },
-        {
-            "id": 20279,
-            "name": "Sand Scorpion",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 6.5
+            "chaosValue": 7.9
         },
         {
             "id": 101095,
             "name": "Vivid Watcher",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 6.1
+            "chaosValue": 7.0
+        },
+        {
+            "id": 167863,
+            "name": "Primal Beast",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+            "chaosValue": 6.5
         },
         {
             "id": 37724,
@@ -145,16 +145,16 @@
             "chaosValue": 5.0
         },
         {
+            "id": 20407,
+            "name": "Vicious Hound",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+            "chaosValue": 5.0
+        },
+        {
             "id": 20285,
             "name": "Infested Vulture",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
             "chaosValue": 4.9
-        },
-        {
-            "id": 20407,
-            "name": "Vicious Hound",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 4.3
         },
         {
             "id": 20201,
@@ -173,6 +173,12 @@
             "name": "Rooster Demon",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
             "chaosValue": 4.0
+        },
+        {
+            "id": 20279,
+            "name": "Sand Scorpion",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+            "chaosValue": 3.8
         },
         {
             "id": 20355,
@@ -1087,12 +1093,6 @@
             "chaosValue": 3.0
         },
         {
-            "id": 167863,
-            "name": "Primal Beast",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 3.0
-        },
-        {
             "id": 167869,
             "name": "Bestial Maw",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
@@ -1111,8 +1111,8 @@
             "chaosValue": 2.0
         },
         {
-            "id": 5223,
-            "name": "Fenumal Hybrid Arachnid",
+            "id": 5283,
+            "name": "Farric Wolf Alpha",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
             "chaosValue": 2.0
         },
@@ -1135,10 +1135,10 @@
             "chaosValue": 2.0
         },
         {
-            "id": 5283,
-            "name": "Farric Wolf Alpha",
+            "id": 5223,
+            "name": "Fenumal Hybrid Arachnid",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-            "chaosValue": 1.9
+            "chaosValue": 1.7
         },
         {
             "id": 5200,
