@@ -59,7 +59,7 @@
     "korType": "페룰 부족장",
     "engType": "Farric Chieftain",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 0.8,
+    "chaosValue": 1.0,
     "regex": "룰.부"
   },
   {
@@ -73,7 +73,7 @@
     "korType": "페룰 염소인간",
     "engType": "Farric Goatman",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 0.85,
+    "chaosValue": 1.0,
     "regex": "룰.염"
   },
   {
@@ -157,7 +157,7 @@
     "korType": "검은 모리건",
     "engType": "Black Mórrigan",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 278.0,
+    "chaosValue": 300.0,
     "regex": "리건"
   },
   {
@@ -171,35 +171,35 @@
     "korType": "야생 가시나무등",
     "engType": "Wild Brambleback",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 43.0,
+    "chaosValue": 44.6,
     "regex": "무등"
   },
   {
     "korType": "혈기 시체매",
     "engType": "Vivid Vulture",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 25.4,
+    "chaosValue": 23.2,
     "regex": "기.시체"
   },
   {
     "korType": "혈기 감시자",
     "engType": "Vivid Watcher",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 4.1,
+    "chaosValue": 4.0,
     "regex": "기.감"
   },
   {
     "korType": "크라칸 물렁이",
     "engType": "Craicic Croaker",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 120.0,
+    "chaosValue": 125.0,
     "regex": "칸.물"
   },
   {
     "korType": "페누무스 역병 걸린 거미류",
     "engType": "Fenumal Plagued Arachnid",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 125.5,
+    "chaosValue": 116.0,
     "regex": "스.역"
   },
   {
@@ -241,14 +241,14 @@
     "korType": "원시 박살발톱",
     "engType": "Primal Crushclaw",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 24.3,
+    "chaosValue": 19.6,
     "regex": "박살"
   },
   {
     "korType": "원시 낭종소환사",
     "engType": "Primal Cystcaller",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 28.8,
+    "chaosValue": 30.0,
     "regex": "낭종"
   },
   {
@@ -283,14 +283,14 @@
     "korType": "크라칸의 큰턱개구리",
     "engType": "Craicic Maw",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 6.9,
+    "chaosValue": 5.0,
     "regex": "의.큰"
   },
   {
     "korType": "야생 털짐승 어미",
     "engType": "Wild Bristle Matron",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 125.0,
+    "chaosValue": 123.7,
     "regex": "털짐"
   },
   {
@@ -353,7 +353,7 @@
     "korType": "심해의 최초, 크라칸",
     "engType": "Craiceann, First of the Deep",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 20.0,
+    "chaosValue": 19.7,
     "regex": "해의.최"
   }
 ]
