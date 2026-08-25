@@ -45,21 +45,21 @@
     "korType": "크라칸의 사나운 게",
     "engType": "Craicic Savage Crab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 1.0,
+    "chaosValue": 0.97,
     "regex": "운.게"
   },
   {
     "korType": "페룰 화염 헬리온 우두머리",
     "engType": "Farric Flame Hellion Alpha",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 0.7,
+    "chaosValue": 0.68,
     "regex": "염.헬.*우"
   },
   {
     "korType": "페룰 부족장",
     "engType": "Farric Chieftain",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 0.94,
+    "chaosValue": 1.0,
     "regex": "룰.부"
   },
   {
@@ -80,7 +80,7 @@
     "korType": "페룰 곰",
     "engType": "Farric Ursa",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 0.82,
+    "chaosValue": 0.79,
     "regex": "룰.곰"
   },
   {
@@ -157,7 +157,7 @@
     "korType": "검은 모리건",
     "engType": "Black Mórrigan",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 293.9,
+    "chaosValue": 290.0,
     "regex": "리건"
   },
   {
@@ -171,14 +171,14 @@
     "korType": "야생 가시나무등",
     "engType": "Wild Brambleback",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 39.0,
+    "chaosValue": 35.0,
     "regex": "무등"
   },
   {
     "korType": "혈기 시체매",
     "engType": "Vivid Vulture",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 29.1,
+    "chaosValue": 30.0,
     "regex": "기.시체"
   },
   {
@@ -199,7 +199,7 @@
     "korType": "페누무스 역병 걸린 거미류",
     "engType": "Fenumal Plagued Arachnid",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 207.4,
+    "chaosValue": 207.0,
     "regex": "스.역"
   },
   {
@@ -241,7 +241,7 @@
     "korType": "원시 박살발톱",
     "engType": "Primal Crushclaw",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 14.0,
+    "chaosValue": 12.3,
     "regex": "박살"
   },
   {
@@ -283,21 +283,21 @@
     "korType": "크라칸의 큰턱개구리",
     "engType": "Craicic Maw",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 4.0,
+    "chaosValue": 5.0,
     "regex": "의.큰"
   },
   {
     "korType": "야생 털짐승 어미",
     "engType": "Wild Bristle Matron",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 115.4,
+    "chaosValue": 130.0,
     "regex": "털짐"
   },
   {
     "korType": "야생 헬리온 우두머리",
     "engType": "Wild Hellion Alpha",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-    "chaosValue": 37.0,
+    "chaosValue": 45.0,
     "regex": "생.헬"
   },
   {
