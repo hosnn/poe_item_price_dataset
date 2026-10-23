@@ -1,5 +1,6 @@
-from ninja_data_processing.fetch_data import fetch_and_save_data, fetch_and_save_stash_items
+from ninja_data_processing.fetch_data import fetch_and_save_data, fetch_and_save_stash_items, fetch_and_save_unique_items
 from ninja_data_processing.merged_ninja_poe import merge_single_pair, merge_regex_with_ninja
+from ninja_data_processing.merged_unique_card import merge_unique, merge_card
 from make_regex_form import merge_regex_to_scarabs
 
 def main():
@@ -20,15 +21,26 @@ def main():
     'omen': 'Omen',
     'rune': 'Runegraft',
     'oil': 'Oil',
+    'card': 'DivinationCard',
   }
 
   OTHER_CATEGORIES = {
     'beast': 'Beast',
   }
 
+  UNIQUE_CATEGORIES = {
+    'accessory': 'UniqueAccessory',
+    'armour': 'UniqueArmour',
+    'weapon': 'UniqueWeapon',
+    'flask': 'UniqueFlask',
+    'jewel': 'UniqueJewel',
+    'map': 'UniqueMap',
+  }
+
   save_folder = "datas/ninja"  # 저장 폴더 이름
   fetch_and_save_data(DOMAIN['item'], LEAGUES, CATEGORIES, save_folder)
   fetch_and_save_stash_items(DOMAIN['other'], LEAGUES, OTHER_CATEGORIES, save_folder)
+  fetch_and_save_unique_items(DOMAIN['other'], LEAGUES, UNIQUE_CATEGORIES, save_folder)
 
   # 병합할 파일 쌍 정의
     # 각 딕셔너리는 하나의 병합 작업을 나타냅니다.
@@ -101,6 +113,13 @@ def main():
   )
 
   
+  # 고유 아이템/카드 시세(한글 이름 병합). 실패해도 위의 기존 결과물 생성에는 영향 없도록 분리
+  try:
+    merge_unique(league)
+    merge_card(league)
+  except Exception as e:
+    print(f"unique/card 병합 실패: {e}")
+
 
 if __name__ == "__main__":
     main()

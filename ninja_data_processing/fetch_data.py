@@ -41,7 +41,8 @@ def fetch_and_save_data(domain, leagues, categories, save_folder):
                     'id': line.get('id'),
                     'name': items_by_id.get(line['id'], {}).get('name'),
                     'icon': (ICON_BASE + items_by_id[line['id']]['image']) if line.get('id') in items_by_id and items_by_id[line['id']].get('image') else None,
-                    'chaosValue': line.get('primaryValue') or 0
+                    'chaosValue': line.get('primaryValue') or 0,
+                    'volume': line.get('volumePrimaryValue') or 0
                 }
                 for line in lines_raw
                 if line.get('id')
@@ -99,3 +100,44 @@ def fetch_and_save_stash_items(domain, leagues, categories, save_folder):
         print(f"Failed to fetch data from {full_url}: {e}")
 
 
+# 고유 아이템(stash overview API): 이름이 중복되는 변형/Foulborn 구분과 매물 수 필터에 쓰려고
+# baseType, variant, listingCount 까지 같이 저장한다.
+def fetch_and_save_unique_items(domain, leagues, categories, save_folder):
+  for leagues_key, leagues_url in leagues.items():
+    leagues_folder = os.path.join(save_folder, leagues_key)
+    os.makedirs(leagues_folder, exist_ok=True)
+
+    for categories_key, categories_path in categories.items():
+      try:
+        full_url = f"{domain}?league={leagues_url}&type={categories_path}"
+        headers = {
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        }
+
+        response = requests.get(full_url, headers=headers)
+        response.raise_for_status()
+        data = response.json()
+
+        filtered_data = {
+            "lines": [
+                {
+                    "id": line.get("id"),
+                    "name": line.get("name"),
+                    "icon": line.get("icon"),
+                    "baseType": line.get("baseType"),
+                    "variant": line.get("variant"),
+                    "chaosValue": line.get("chaosValue") or 0,
+                    "listingCount": line.get("listingCount") or 0,
+                }
+                for line in data.get("lines", [])
+                if line.get("name")
+            ]
+        }
+
+        file_path = os.path.join(leagues_folder, f"unique_{categories_key}.json")
+        with open(file_path, "w", encoding="utf-8") as f:
+            json.dump(filtered_data, f, ensure_ascii=False, indent=4)
+        print(f"Data saved: {file_path}")
+      except requests.exceptions.RequestException as e:
+        print(f"Failed to fetch data from {full_url}: {e}")
