@@ -55,6 +55,12 @@ def fetch_and_save_data(domain, leagues, categories, save_folder):
         # 파일 저장
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(filtered_data, f, ensure_ascii=False, indent=4)
+
+        # 카오스 -> 디바인 환율(core.rates). 디바인 단위 표시가 필요한 곳에서 사용
+        rates = (data.get('core') or {}).get('rates') or {}
+        if rates:
+            with open(os.path.join(leagues_folder, 'rates.json'), 'w', encoding='utf-8') as f:
+                json.dump(rates, f, ensure_ascii=False, indent=4)
         
         print(f"Data saved: {file_path}")
       except requests.exceptions.RequestException as e:

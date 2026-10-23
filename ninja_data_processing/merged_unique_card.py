@@ -83,6 +83,12 @@ def merge_card(league, output_file='result/merged_card.json'):
         if e.get('engType') and e.get('korType')
     }
 
+    # 카오스 1개당 디바인 비율 (예: 0.003). 없으면 divineValue 는 비워둔다.
+    divine_rate = None
+    rates_path = f'datas/ninja/{league}/rates.json'
+    if os.path.exists(rates_path):
+        divine_rate = _load_json(rates_path).get('divine')
+
     result = []
     unmapped = 0
     for line in _load_json(ninja_path).get('lines', []):
@@ -91,11 +97,13 @@ def merge_card(league, output_file='result/merged_card.json'):
         if not eng_name or not kor_name:
             unmapped += 1
             continue
+        chaos_value = line.get('chaosValue') or 0
         result.append({
             'korType': kor_name,
             'engType': eng_name,
             'icon': line.get('icon'),
-            'chaosValue': line.get('chaosValue') or 0,
+            'chaosValue': chaos_value,
+            'divineValue': round(chaos_value * divine_rate, 6) if divine_rate else None,
             'volume': line.get('volume') or 0,
         })
 
