@@ -6,7 +6,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TeW50aGVzaXNCb3NzR3VhcmRpYW5NYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MH1d/bbd69e73c8/SynthesisBossGuardianMap.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 275.4,
+            "chaosValue": 275.0,
             "listingCount": 110
         },
         {
@@ -24,7 +24,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Eb3J5YW5pcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowfV0/ba4df2e497/Doryanis.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 157.1,
+            "chaosValue": 158.0,
             "listingCount": 347
         },
         {
@@ -33,8 +33,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VbmRlYWRTaWVnZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjowfV0/52501aba07/UndeadSiege.png",
             "baseType": "Map (Tier 15)",
             "variant": null,
-            "chaosValue": 97.0,
-            "listingCount": 109
+            "chaosValue": 90.0,
+            "listingCount": 125
         },
         {
             "id": 135559,
@@ -43,7 +43,7 @@
             "baseType": "Map (Tier 14)",
             "variant": null,
             "chaosValue": 90.0,
-            "listingCount": 391
+            "listingCount": 400
         },
         {
             "id": 118251,
@@ -51,8 +51,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9QdXRyaWRDbG9pc3RlciIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowfV0/51f3f79997/PutridCloister.png",
             "baseType": "Map (Tier 13)",
             "variant": null,
-            "chaosValue": 25.0,
-            "listingCount": 174
+            "chaosValue": 28.0,
+            "listingCount": 171
         },
         {
             "id": 98239,
@@ -61,7 +61,16 @@
             "baseType": "Map (Tier 16)",
             "variant": null,
             "chaosValue": 20.0,
-            "listingCount": 208
+            "listingCount": 204
+        },
+        {
+            "id": 118259,
+            "name": "Vaults of Atziri",
+            "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VbmlxdWVNYXAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyNCwibXQiOjB9XQ/d042ce3df2/UniqueMap1.png",
+            "baseType": "Map (Tier 16)",
+            "variant": null,
+            "chaosValue": 18.0,
+            "listingCount": 146
         },
         {
             "id": 135906,
@@ -78,35 +87,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DZWxlc3RpYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MH1d/f5166d981e/Celestial.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 14.0,
-            "listingCount": 91
-        },
-        {
-            "id": 118259,
-            "name": "Vaults of Atziri",
-            "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VbmlxdWVNYXAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyNCwibXQiOjB9XQ/d042ce3df2/UniqueMap1.png",
-            "baseType": "Map (Tier 16)",
-            "variant": null,
-            "chaosValue": 13.0,
-            "listingCount": 141
-        },
-        {
-            "id": 118242,
-            "name": "Twisted Distant Memory",
-            "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TeW50aGVzaXNMaWdodG5pbmdHdWFyZGlhbk1hcCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowfV0/6c70284cc4/SynthesisLightningGuardianMap.png",
-            "baseType": "Map (Tier 16)",
-            "variant": null,
-            "chaosValue": 8.6,
-            "listingCount": 382
-        },
-        {
-            "id": 135318,
-            "name": "Rewritten Distant Memory",
-            "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TeW50aGVzaXNHb2xlbUd1YXJkaWFuTWFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyNCwibXQiOjB9XQ/f31a999e79/SynthesisGolemGuardianMap.png",
-            "baseType": "Map (Tier 16)",
-            "variant": null,
-            "chaosValue": 8.2,
-            "listingCount": 298
+            "chaosValue": 13.8,
+            "listingCount": 93
         },
         {
             "id": 118247,
@@ -114,8 +96,26 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TeW50aGVzaXNDb2xkR3VhcmRpYW5NYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MH1d/605ef3f51c/SynthesisColdGuardianMap.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 8.0,
-            "listingCount": 392
+            "chaosValue": 12.0,
+            "listingCount": 313
+        },
+        {
+            "id": 135318,
+            "name": "Rewritten Distant Memory",
+            "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TeW50aGVzaXNHb2xlbUd1YXJkaWFuTWFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyNCwibXQiOjB9XQ/f31a999e79/SynthesisGolemGuardianMap.png",
+            "baseType": "Map (Tier 16)",
+            "variant": null,
+            "chaosValue": 10.0,
+            "listingCount": 259
+        },
+        {
+            "id": 118242,
+            "name": "Twisted Distant Memory",
+            "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TeW50aGVzaXNMaWdodG5pbmdHdWFyZGlhbk1hcCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowfV0/6c70284cc4/SynthesisLightningGuardianMap.png",
+            "baseType": "Map (Tier 16)",
+            "variant": null,
+            "chaosValue": 6.5,
+            "listingCount": 349
         },
         {
             "id": 118250,
@@ -124,7 +124,7 @@
             "baseType": "Map (Tier 16)",
             "variant": null,
             "chaosValue": 3.0,
-            "listingCount": 3187
+            "listingCount": 3144
         },
         {
             "id": 118256,
@@ -132,8 +132,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9Qb29yam95c0FzeWx1bSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowfV0/87575db134/PoorjoysAsylum.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 2.4,
-            "listingCount": 376
+            "chaosValue": 2.0,
+            "listingCount": 385
         },
         {
             "id": 118245,
@@ -142,7 +142,7 @@
             "baseType": "Map (Tier 16)",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 3480
+            "listingCount": 3485
         },
         {
             "id": 118248,
@@ -151,7 +151,7 @@
             "baseType": "Map (Tier 16)",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1426
+            "listingCount": 1412
         },
         {
             "id": 118257,
@@ -160,7 +160,7 @@
             "baseType": "Map (Tier 16)",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1085
+            "listingCount": 1086
         },
         {
             "id": 118258,
@@ -169,7 +169,7 @@
             "baseType": "Map (Tier 16)",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1523
+            "listingCount": 1533
         },
         {
             "id": 135089,
@@ -186,8 +186,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9tdXNpY2JveCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowfV0/2eb6b89311/musicbox.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 0.37,
-            "listingCount": 7301
+            "chaosValue": 0.36,
+            "listingCount": 7297
         },
         {
             "id": 118252,
@@ -195,8 +195,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYWVsc3Ryb21vZkNoYW9zIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyNCwibXQiOjB9XQ/5f59e895c9/MaelstromofChaos.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 0.37,
-            "listingCount": 5008
+            "chaosValue": 0.36,
+            "listingCount": 5025
         },
         {
             "id": 118253,
@@ -204,8 +204,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9QaWxsYXJzT2ZWYXN0aXJpIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoyNCwibXQiOjB9XQ/70c5f7ccce/PillarsOfVastiri.png",
             "baseType": "Map (Tier 16)",
             "variant": null,
-            "chaosValue": 0.37,
-            "listingCount": 6898
+            "chaosValue": 0.36,
+            "listingCount": 6906
         },
         {
             "id": 118254,
@@ -213,8 +213,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9vYmEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MH1d/78a07b14c6/oba.png",
             "baseType": "Map (Tier 1)",
             "variant": null,
-            "chaosValue": 0.37,
-            "listingCount": 5536
+            "chaosValue": 0.36,
+            "listingCount": 5520
         },
         {
             "id": 134973,
@@ -222,8 +222,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9vbG1lYyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MjQsIm10IjowfV0/061791da75/olmec.png",
             "baseType": "Map (Tier 11)",
             "variant": null,
-            "chaosValue": 0.37,
-            "listingCount": 7729
+            "chaosValue": 0.36,
+            "listingCount": 7744
         },
         {
             "id": 135193,
@@ -231,8 +231,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VbmlxdWVNYXBFeWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MH1d/4c106d0ed6/UniqueMapEye.png",
             "baseType": "Map (Tier 15)",
             "variant": null,
-            "chaosValue": 0.37,
-            "listingCount": 6576
+            "chaosValue": 0.36,
+            "listingCount": 6575
         }
     ]
 }
