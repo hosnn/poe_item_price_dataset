@@ -1,12 +1,21 @@
 {
     "lines": [
         {
+            "id": 2028,
+            "name": "Uul-Netol's Embrace",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8c4738c8a9/UulNetolsKissUpgraded.png",
+            "baseType": "Vaal Axe",
+            "variant": null,
+            "chaosValue": 99900,
+            "listingCount": 1
+        },
+        {
             "id": 715,
             "name": "Kingmaker",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BbGV4YXhlYW5kaGVhcnRicmVha2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/fb47351eee/Alexaxeandheartbreaker.png",
             "baseType": "Despot Axe",
             "variant": null,
-            "chaosValue": 68020,
+            "chaosValue": 66600,
             "listingCount": 2
         },
         {
@@ -15,7 +24,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1N0YXJmb3JnZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/86b81685e1/Starforge.png",
             "baseType": "Infernal Sword",
             "variant": null,
-            "chaosValue": 68020,
+            "chaosValue": 66600,
             "listingCount": 7
         },
         {
@@ -24,7 +33,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BbGV4YXhlYW5kaGVhcnRicmVha2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/fb47351eee/Alexaxeandheartbreaker.png",
             "baseType": "Despot Axe",
             "variant": null,
-            "chaosValue": 27684,
+            "chaosValue": 27106,
             "listingCount": 9
         },
         {
@@ -33,7 +42,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0Nvc21pY0ZvcmdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/df82c06267/CosmicForge.png",
             "baseType": "Infernal Sword",
             "variant": null,
-            "chaosValue": 26868,
+            "chaosValue": 22977,
             "listingCount": 5
         },
         {
@@ -42,7 +51,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BdHppcmlzRGlzZmF2b3VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsInJlbGljIjowfV0/9c29e2e567/AtzirisDisfavour.png",
             "baseType": "Vaal Axe",
             "variant": null,
-            "chaosValue": 17005,
+            "chaosValue": 16650,
             "listingCount": 1
         },
         {
@@ -51,7 +60,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY4dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/04e7459f43/Staff8unique.png",
             "baseType": "Vile Staff",
             "variant": null,
-            "chaosValue": 17005,
+            "chaosValue": 16650,
             "listingCount": 19
         },
         {
@@ -60,17 +69,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY4dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/da4f9d55a8/Staff8unique.png",
             "baseType": "Vile Staff",
             "variant": "Int AoE",
-            "chaosValue": 17005,
+            "chaosValue": 16650,
             "listingCount": 7
         },
         {
-            "id": 130101,
-            "name": "Foulborn Xoph's Inception",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
-            "baseType": "Citadel Bow",
-            "variant": "Returning Projectiles, Fast Ignite",
-            "chaosValue": 15645,
-            "listingCount": 55
+            "id": 4951,
+            "name": "Voidforge",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1N0YXJmb3JnZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/86b81685e1/Starforge.png",
+            "baseType": "Infernal Sword",
+            "variant": null,
+            "chaosValue": 15318,
+            "listingCount": 9
         },
         {
             "id": 129648,
@@ -78,8 +87,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0ZhaXRoc3RlYWxlciIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/18f49b0446/Faithstealer.png",
             "baseType": "Lion Sword",
             "variant": null,
-            "chaosValue": 13604,
-            "listingCount": 204
+            "chaosValue": 13320,
+            "listingCount": 206
         },
         {
             "id": 128879,
@@ -87,7 +96,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQmF0dGVyeW9mWWl4YXZpbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fe2ff82537/BatteryofYixavim.png",
             "baseType": "Imperial Staff",
             "variant": null,
-            "chaosValue": 13264,
+            "chaosValue": 12987,
             "listingCount": 12
         },
         {
@@ -96,26 +105,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0ZhaXRoc3RlYWxlciIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/18f49b0446/Faithstealer.png",
             "baseType": "Lion Sword",
             "variant": null,
-            "chaosValue": 12618,
+            "chaosValue": 12354,
             "listingCount": 109
-        },
-        {
-            "id": 714,
-            "name": "Kingmaker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BbGV4YXhlYW5kaGVhcnRicmVha2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/fb47351eee/Alexaxeandheartbreaker.png",
-            "baseType": "Despot Axe",
-            "variant": null,
-            "chaosValue": 6666,
-            "listingCount": 87
-        },
-        {
-            "id": 4951,
-            "name": "Voidforge",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1N0YXJmb3JnZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/86b81685e1/Starforge.png",
-            "baseType": "Infernal Sword",
-            "variant": null,
-            "chaosValue": 6530,
-            "listingCount": 10
         },
         {
             "id": 1335,
@@ -123,8 +114,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9BbGV4YXhlIiwidyI6MiwiaCI6Mywic2NhbGUiOjEsInJlbGljIjo3fV0/5cc3bd45ff/Alexaxe.png",
             "baseType": "Siege Axe",
             "variant": null,
-            "chaosValue": 6122,
-            "listingCount": 111
+            "chaosValue": 6660,
+            "listingCount": 97
+        },
+        {
+            "id": 714,
+            "name": "Kingmaker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BbGV4YXhlYW5kaGVhcnRicmVha2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/fb47351eee/Alexaxeandheartbreaker.png",
+            "baseType": "Despot Axe",
+            "variant": null,
+            "chaosValue": 6460,
+            "listingCount": 65
         },
         {
             "id": 130092,
@@ -132,7 +132,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
             "baseType": "Citadel Bow",
             "variant": "Returning Projectiles, Fast Ignite",
-            "chaosValue": 5782,
+            "chaosValue": 5661,
             "listingCount": 19
         },
         {
@@ -141,7 +141,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9GaXNoaW5nUm9kcy9SZWVmYmFuZSIsInciOjEsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/7ca32d21f4/Reefbane.png",
             "baseType": "Fishing Rod",
             "variant": "Cast Stun",
-            "chaosValue": 5102,
+            "chaosValue": 4995,
             "listingCount": 12
         },
         {
@@ -150,8 +150,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1N0YXJmb3JnZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/86b81685e1/Starforge.png",
             "baseType": "Infernal Sword",
             "variant": null,
-            "chaosValue": 4421,
-            "listingCount": 38
+            "chaosValue": 4329,
+            "listingCount": 39
         },
         {
             "id": 130147,
@@ -159,7 +159,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9GaXNoaW5nUm9kcy9SZWVmYmFuZSIsInciOjEsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/7ca32d21f4/Reefbane.png",
             "baseType": "Fishing Rod",
             "variant": "Otherworldly Lure",
-            "chaosValue": 4421,
+            "chaosValue": 4329,
             "listingCount": 8
         },
         {
@@ -168,8 +168,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1RoZUdvZGRlc3NVbmxlYXNoZWQiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/37ecd7541b/TheGoddessUnleashed.png",
             "baseType": "Charan's Sword",
             "variant": null,
-            "chaosValue": 3877,
+            "chaosValue": 3796,
             "listingCount": 11
+        },
+        {
+            "id": 130063,
+            "name": "Foulborn Kongor's Undying Rage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/4eedbb427e/KongorsUndyingRage.png",
+            "baseType": "Terror Maul",
+            "variant": "Battlemage",
+            "chaosValue": 3331,
+            "listingCount": 81
         },
         {
             "id": 130321,
@@ -177,8 +186,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9Wb2lkQmF0dGVyeSIsInciOjEsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/2e8e4502f5/VoidBattery.png",
             "baseType": "Prophecy Wand",
             "variant": "Power AoE",
-            "chaosValue": 3469,
-            "listingCount": 91
+            "chaosValue": 3330,
+            "listingCount": 90
         },
         {
             "id": 130148,
@@ -186,7 +195,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
             "baseType": "Citadel Bow",
             "variant": "Fast Ignite",
-            "chaosValue": 2993,
+            "chaosValue": 2930,
             "listingCount": 16
         },
         {
@@ -195,7 +204,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQW53ZW5zU3RhZmYiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e26a5d3c65/AnwensStaff.png",
             "baseType": "Foul Staff",
             "variant": null,
-            "chaosValue": 2823,
+            "chaosValue": 2764,
             "listingCount": 14
         },
         {
@@ -204,7 +213,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQW53ZW5zU3RhZmYiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e26a5d3c65/AnwensStaff.png",
             "baseType": "Foul Staff",
             "variant": null,
-            "chaosValue": 2823,
+            "chaosValue": 2764,
             "listingCount": 6
         },
         {
@@ -213,7 +222,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BdHppcmlzRGlzZmF2b3VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/1ffab716f8/AtzirisDisfavour.png",
             "baseType": "Vaal Axe",
             "variant": null,
-            "chaosValue": 2721,
+            "chaosValue": 2664,
             "listingCount": 4
         },
         {
@@ -222,7 +231,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/7856c171f7/BloodPerigree.png",
             "baseType": "Citadel Bow",
             "variant": null,
-            "chaosValue": 2381,
+            "chaosValue": 2331,
             "listingCount": 34
         },
         {
@@ -231,7 +240,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSW50cmVwaWR1c0RvbG9yZW0iLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8244c5f079/IntrepidusDolorem.png",
             "baseType": "Quarterstaff",
             "variant": null,
-            "chaosValue": 2041,
+            "chaosValue": 1998,
             "listingCount": 14
         },
         {
@@ -240,7 +249,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/01534b300e/UulNetolsKissUpgraded.png",
             "baseType": "Vaal Axe",
             "variant": "Fast Bleed",
-            "chaosValue": 2041,
+            "chaosValue": 1998,
             "listingCount": 4
         },
         {
@@ -249,17 +258,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9UaG91Z2h0TW90aW9uMSIsInciOjIsImgiOjIsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/8bc9acabb1/ThoughtMotion1.png",
             "baseType": "Imperial Claw",
             "variant": "Strength, Int Accuracy",
-            "chaosValue": 1905,
+            "chaosValue": 1832,
             "listingCount": 38
-        },
-        {
-            "id": 130008,
-            "name": "Foulborn Uul-Netol's Kiss",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/1b5f279dbd/UulNetolsKiss.png",
-            "baseType": "Vaal Axe",
-            "variant": "Cooldown",
-            "chaosValue": 1837,
-            "listingCount": 28
         },
         {
             "id": 130024,
@@ -267,7 +267,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSm9ycmhhc3RzQmxhY2tzdGVlbCIsInciOjIsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/4c1dbe7235/JorrhastsBlacksteel.png",
             "baseType": "Steelhead",
             "variant": "Double Weapons",
-            "chaosValue": 1710,
+            "chaosValue": 1674,
             "listingCount": 90
         },
         {
@@ -276,7 +276,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1N0YXJmb3JnZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/86b81685e1/Starforge.png",
             "baseType": "Infernal Sword",
             "variant": null,
-            "chaosValue": 1700,
+            "chaosValue": 1665,
             "listingCount": 21
         },
         {
@@ -285,8 +285,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU29sYXJpc0x1bmFyaXNTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/e5e9df18a4/SolarisLunarisStaff.png",
             "baseType": "Maelström Staff",
             "variant": null,
-            "chaosValue": 1700,
+            "chaosValue": 1665,
             "listingCount": 12
+        },
+        {
+            "id": 130008,
+            "name": "Foulborn Uul-Netol's Kiss",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/1b5f279dbd/UulNetolsKiss.png",
+            "baseType": "Vaal Axe",
+            "variant": "Cooldown",
+            "chaosValue": 1665,
+            "listingCount": 28
         },
         {
             "id": 130104,
@@ -294,7 +303,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0962feb029/Bow2unique.png",
             "baseType": "Short Bow",
             "variant": "Mana Bow",
-            "chaosValue": 1700,
+            "chaosValue": 1665,
             "listingCount": 19
         },
         {
@@ -303,7 +312,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvTWpvbG5lciIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/45bc5ff0ab/Mjolner.png",
             "baseType": "Gavel",
             "variant": "Area",
-            "chaosValue": 1598,
+            "chaosValue": 1565,
             "listingCount": 23
         },
         {
@@ -312,7 +321,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2UydW5pcXVlMiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/6ae0a56923/TwoHandMace2unique2.png",
             "baseType": "Karui Maul",
             "variant": null,
-            "chaosValue": 1360,
+            "chaosValue": 1332,
             "listingCount": 6
         },
         {
@@ -321,7 +330,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051cm9zUHVyaWZ5aW5nSGFycCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/36ac89806c/NurosPurifyingHarp.png",
             "baseType": "Harbinger Bow",
             "variant": null,
-            "chaosValue": 1360,
+            "chaosValue": 1332,
             "listingCount": 90
         },
         {
@@ -330,7 +339,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL09yb3NTYWNyaWZpY2UiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/82b813f27d/OrosSacrifice.png",
             "baseType": "Infernal Sword",
             "variant": null,
-            "chaosValue": 1360,
+            "chaosValue": 1332,
             "listingCount": 23
         },
         {
@@ -339,7 +348,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1Jha2lhdGFTd29yZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ec593eeaa8/RakiataSword.png",
             "baseType": "Engraved Greatsword",
             "variant": null,
-            "chaosValue": 1360,
+            "chaosValue": 1332,
             "listingCount": 23
         },
         {
@@ -348,7 +357,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1Jha2lhdGFTd29yZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ec593eeaa8/RakiataSword.png",
             "baseType": "Engraved Greatsword",
             "variant": null,
-            "chaosValue": 1326,
+            "chaosValue": 1299,
             "listingCount": 7
         },
         {
@@ -357,7 +366,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0Nvc21pY0ZvcmdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsInJlbGljIjo3fV0/a0b5723bd1/CosmicForge.png",
             "baseType": "Infernal Sword",
             "variant": null,
-            "chaosValue": 1258,
+            "chaosValue": 1199,
             "listingCount": 44
         },
         {
@@ -366,7 +375,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9Qcmltb3JkaWFsQ2FuZSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/f0fab6b902/PrimordialCane.png",
             "baseType": "Platinum Sceptre",
             "variant": null,
-            "chaosValue": 1200,
+            "chaosValue": 1186,
             "listingCount": 64
         },
         {
@@ -375,17 +384,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvRWxlbWVudGFsSGFybW9ueSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/912f60acd7/ElementalHarmony.png",
             "baseType": "Ezomyte Staff",
             "variant": null,
-            "chaosValue": 1190,
+            "chaosValue": 1166,
             "listingCount": 78
         },
         {
-            "id": 128743,
-            "name": "Jiquani's Potential",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQmF0dGVyeW9mWWl4YXZpbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fe2ff82537/BatteryofYixavim.png",
-            "baseType": "Imperial Staff",
-            "variant": null,
-            "chaosValue": 1054,
-            "listingCount": 83
+            "id": 130101,
+            "name": "Foulborn Xoph's Inception",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
+            "baseType": "Citadel Bow",
+            "variant": "Returning Projectiles, Fast Ignite",
+            "chaosValue": 1016,
+            "listingCount": 56
         },
         {
             "id": 1815,
@@ -393,8 +402,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1ZvaWRzaGFmdCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/aaa5cfdba1/Voidshaft.png",
             "baseType": "Spine Bow",
             "variant": null,
-            "chaosValue": 1020,
-            "listingCount": 23
+            "chaosValue": 999.0,
+            "listingCount": 22
         },
         {
             "id": 60106,
@@ -402,7 +411,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUG9ydGVudE9mQUZhbHNlR29kIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/a3949ac141/PortentOfAFalseGod.png",
             "baseType": "Judgement Staff",
             "variant": null,
-            "chaosValue": 1020,
+            "chaosValue": 999.0,
             "listingCount": 5
         },
         {
@@ -411,8 +420,26 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/300d5ffe23/UulNetolsKiss.png",
             "baseType": "Vaal Axe",
             "variant": null,
-            "chaosValue": 1020,
+            "chaosValue": 999.0,
             "listingCount": 4
+        },
+        {
+            "id": 124529,
+            "name": "Reefbane",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9GaXNoaW5nUm9kcy9SZWVmYmFuZSIsInciOjEsImgiOjQsInNjYWxlIjoxfV0/fb59feb3cd/Reefbane.png",
+            "baseType": "Fishing Rod",
+            "variant": null,
+            "chaosValue": 999.0,
+            "listingCount": 105
+        },
+        {
+            "id": 128743,
+            "name": "Jiquani's Potential",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQmF0dGVyeW9mWWl4YXZpbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fe2ff82537/BatteryofYixavim.png",
+            "baseType": "Imperial Staff",
+            "variant": null,
+            "chaosValue": 999.0,
+            "listingCount": 84
         },
         {
             "id": 130012,
@@ -420,7 +447,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/1b5f279dbd/UulNetolsKiss.png",
             "baseType": "Vaal Axe",
             "variant": "Cooldown, Exert",
-            "chaosValue": 1020,
+            "chaosValue": 999.0,
             "listingCount": 5
         },
         {
@@ -429,7 +456,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/01534b300e/UulNetolsKissUpgraded.png",
             "baseType": "Vaal Axe",
             "variant": "Fast Bleed",
-            "chaosValue": 1020,
+            "chaosValue": 999.0,
             "listingCount": 25
         },
         {
@@ -438,7 +465,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWVCUkVBQ0giLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/21cfde45f2/BloodPerigreeBREACH.png",
             "baseType": "Citadel Bow",
             "variant": "Immolate",
-            "chaosValue": 1020,
+            "chaosValue": 999.0,
             "listingCount": 11
         },
         {
@@ -447,26 +474,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9Qb2V0c1BlbiIsInciOjEsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/e42e6a919a/PoetsPen.png",
             "baseType": "Somatic Wand",
             "variant": "Physical Spell Damage",
-            "chaosValue": 1020,
+            "chaosValue": 999.0,
             "listingCount": 33
-        },
-        {
-            "id": 44669,
-            "name": "Replica Iron Commander",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0lyb25Db21tZW5kYW50IiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/001ca245e3/IronCommendant.png",
-            "baseType": "Death Bow",
-            "variant": null,
-            "chaosValue": 986.3,
-            "listingCount": 70
-        },
-        {
-            "id": 124529,
-            "name": "Reefbane",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9GaXNoaW5nUm9kcy9SZWVmYmFuZSIsInciOjEsImgiOjQsInNjYWxlIjoxfV0/fb59feb3cd/Reefbane.png",
-            "baseType": "Fishing Rod",
-            "variant": null,
-            "chaosValue": 918.3,
-            "listingCount": 106
         },
         {
             "id": 125801,
@@ -474,8 +483,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvV2hpc3BlcmluZ05lYnVsYSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fff9168cf2/WhisperingNebula.png",
             "baseType": "Judgement Staff",
             "variant": null,
-            "chaosValue": 748.2,
-            "listingCount": 16
+            "chaosValue": 732.6,
+            "listingCount": 17
         },
         {
             "id": 872,
@@ -483,7 +492,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051bGxCb3ciLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/067d0e5884/NullBow.png",
             "baseType": "Ranger Bow",
             "variant": null,
-            "chaosValue": 711.7,
+            "chaosValue": 697.5,
             "listingCount": 11
         },
         {
@@ -492,8 +501,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0RhZ2dlcjd1bmlxdWUiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/3deec3773b/Dagger7unique.png",
             "baseType": "Imperial Skean",
             "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 209
+            "chaosValue": 666.0,
+            "listingCount": 207
         },
         {
             "id": 755,
@@ -501,8 +510,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jvdzh1bmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/29fc966523/Bow8unique.png",
             "baseType": "Imperial Bow",
             "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 102
+            "chaosValue": 666.0,
+            "listingCount": 103
         },
         {
             "id": 790,
@@ -510,17 +519,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2UydW5pcXVlMiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/6ae0a56923/TwoHandMace2unique2.png",
             "baseType": "Karui Maul",
             "variant": null,
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 34
-        },
-        {
-            "id": 1813,
-            "name": "Voltaxic Rift",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1ZvaWRzaGFmdCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/aaa5cfdba1/Voidshaft.png",
-            "baseType": "Spine Bow",
-            "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 145
         },
         {
             "id": 1814,
@@ -528,7 +528,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1ZvaWRzaGFmdCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/aaa5cfdba1/Voidshaft.png",
             "baseType": "Spine Bow",
             "variant": null,
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 5
         },
         {
@@ -537,7 +537,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU29sYXJpc0x1bmFyaXNTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/e5e9df18a4/SolarisLunarisStaff.png",
             "baseType": "Maelström Staff",
             "variant": null,
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 70
         },
         {
@@ -546,8 +546,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9DbGF3NVVuaXF1ZTIiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/8041876a9e/Claw5Unique2.png",
             "baseType": "Vaal Claw",
             "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 176
+            "chaosValue": 666.0,
+            "listingCount": 182
         },
         {
             "id": 25769,
@@ -555,8 +555,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL01pcmFnZUJsYWRlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/c84975781c/MirageBlade.png",
             "baseType": "Legion Sword",
             "variant": null,
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 147
+        },
+        {
+            "id": 44669,
+            "name": "Replica Iron Commander",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0lyb25Db21tZW5kYW50IiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/001ca245e3/IronCommendant.png",
+            "baseType": "Death Bow",
+            "variant": null,
+            "chaosValue": 666.0,
+            "listingCount": 71
         },
         {
             "id": 45363,
@@ -564,8 +573,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU29sYXJpc0x1bmFyaXNTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/e5e9df18a4/SolarisLunarisStaff.png",
             "baseType": "Maelström Staff",
             "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 71
+            "chaosValue": 666.0,
+            "listingCount": 73
         },
         {
             "id": 93556,
@@ -573,7 +582,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSW50cmVwaWR1c0RvbG9yZW0iLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8244c5f079/IntrepidusDolorem.png",
             "baseType": "Quarterstaff",
             "variant": null,
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 26
         },
         {
@@ -582,17 +591,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0Nvc21pY0ZvcmdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/df82c06267/CosmicForge.png",
             "baseType": "Infernal Sword",
             "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 143
-        },
-        {
-            "id": 103436,
-            "name": "Widowhail",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1dpZG93aGFpbEJvdyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/1f31742277/WidowhailBow.png",
-            "baseType": "Crude Bow",
-            "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 74
+            "chaosValue": 666.0,
+            "listingCount": 140
         },
         {
             "id": 107035,
@@ -600,8 +600,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1Jha2lhdGFTd29yZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ec593eeaa8/RakiataSword.png",
             "baseType": "Engraved Greatsword",
             "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 104
+            "chaosValue": 666.0,
+            "listingCount": 95
         },
         {
             "id": 125713,
@@ -609,7 +609,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9TdGFyZmVsbCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/72f3fc9a20/Starfell.png",
             "baseType": "Abyssal Axe",
             "variant": null,
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 4
         },
         {
@@ -618,8 +618,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQmF0dGVyeW9mWWl4YXZpbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fe2ff82537/BatteryofYixavim.png",
             "baseType": "Imperial Staff",
             "variant": null,
-            "chaosValue": 680.2,
-            "listingCount": 270
+            "chaosValue": 666.0,
+            "listingCount": 264
         },
         {
             "id": 129658,
@@ -627,7 +627,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0ZlYXJvZnRoZUZhbGwiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/1bfa2147c3/FearoftheFall.png",
             "baseType": "Imperial Bow",
             "variant": null,
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 3
         },
         {
@@ -636,7 +636,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvTWpvbG5lciIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/45bc5ff0ab/Mjolner.png",
             "baseType": "Gavel",
             "variant": "Lightning Bolt",
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 20
         },
         {
@@ -645,17 +645,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0RyZWFtZmVhdGhlciIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/aef5224cf8/Dreamfeather.png",
             "baseType": "Eternal Sword",
             "variant": "Accuracy Attack Speed",
-            "chaosValue": 680.2,
+            "chaosValue": 666.0,
             "listingCount": 530
-        },
-        {
-            "id": 160,
-            "name": "Bino's Kitchen Knife",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0Jpbm9zS2l0Y2hlbktuaWZlIiwidyI6MSwiaCI6Mywic2NhbGUiOjF9XQ/499d39d615/BinosKitchenKnife.png",
-            "baseType": "Slaughter Knife",
-            "variant": null,
-            "chaosValue": 665.1,
-            "listingCount": 397
         },
         {
             "id": 124530,
@@ -663,17 +654,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9GaXNoaW5nUm9kcy9VbmlxdWVGaXNoaW5nUm9kMSIsInciOjEsImgiOjQsInNjYWxlIjoxfV0/4e9d67b927/UniqueFishingRod1.png",
             "baseType": "Fishing Rod",
             "variant": null,
-            "chaosValue": 644.2,
+            "chaosValue": 616.2,
             "listingCount": 90
-        },
-        {
-            "id": 1765,
-            "name": "Varunastra",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1ZhcnVuYXN0cmEiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/ce779b1e41/Varunastra.png",
-            "baseType": "Vaal Blade",
-            "variant": null,
-            "chaosValue": 600.0,
-            "listingCount": 183
         },
         {
             "id": 130338,
@@ -682,7 +664,16 @@
             "baseType": "Death Bow",
             "variant": "Physical as Chaos",
             "chaosValue": 600.0,
-            "listingCount": 13
+            "listingCount": 12
+        },
+        {
+            "id": 120,
+            "name": "Atziri's Disfavour",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BdHppcmlzRGlzZmF2b3VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/1ffab716f8/AtzirisDisfavour.png",
+            "baseType": "Vaal Axe",
+            "variant": null,
+            "chaosValue": 599.0,
+            "listingCount": 66
         },
         {
             "id": 44710,
@@ -691,16 +682,25 @@
             "baseType": "Terror Maul",
             "variant": null,
             "chaosValue": 590.0,
-            "listingCount": 35
+            "listingCount": 31
         },
         {
-            "id": 120,
-            "name": "Atziri's Disfavour",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9BdHppcmlzRGlzZmF2b3VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/1ffab716f8/AtzirisDisfavour.png",
-            "baseType": "Vaal Axe",
+            "id": 1813,
+            "name": "Voltaxic Rift",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1ZvaWRzaGFmdCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/aaa5cfdba1/Voidshaft.png",
+            "baseType": "Spine Bow",
             "variant": null,
-            "chaosValue": 589.1,
-            "listingCount": 64
+            "chaosValue": 584.8,
+            "listingCount": 148
+        },
+        {
+            "id": 103436,
+            "name": "Widowhail",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1dpZG93aGFpbEJvdyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/1f31742277/WidowhailBow.png",
+            "baseType": "Crude Bow",
+            "variant": null,
+            "chaosValue": 566.4,
+            "listingCount": 75
         },
         {
             "id": 1898,
@@ -708,7 +708,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY3dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/2437d7498a/Staff7unique.png",
             "baseType": "Coiled Staff",
             "variant": null,
-            "chaosValue": 544.2,
+            "chaosValue": 532.8,
             "listingCount": 18
         },
         {
@@ -717,8 +717,26 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVGFyeW5zc2hpdmVyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/b11b3dffb7/Tarynsshiver.png",
             "baseType": "Maelström Staff",
             "variant": null,
-            "chaosValue": 534.1,
+            "chaosValue": 525.6,
             "listingCount": 118
+        },
+        {
+            "id": 1765,
+            "name": "Varunastra",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1ZhcnVuYXN0cmEiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/ce779b1e41/Varunastra.png",
+            "baseType": "Vaal Blade",
+            "variant": null,
+            "chaosValue": 517.2,
+            "listingCount": 188
+        },
+        {
+            "id": 160,
+            "name": "Bino's Kitchen Knife",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0Jpbm9zS2l0Y2hlbktuaWZlIiwidyI6MSwiaCI6Mywic2NhbGUiOjF9XQ/499d39d615/BinosKitchenKnife.png",
+            "baseType": "Slaughter Knife",
+            "variant": null,
+            "chaosValue": 513.0,
+            "listingCount": 401
         },
         {
             "id": 179,
@@ -726,8 +744,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9CbG9vZHNlZWtlciIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/0b888c4189/Bloodseeker.png",
             "baseType": "Hellion's Paw",
             "variant": null,
-            "chaosValue": 493.3,
-            "listingCount": 107
+            "chaosValue": 500.0,
+            "listingCount": 104
         },
         {
             "id": 31,
@@ -735,17 +753,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY2dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/8b60f5a033/Staff6unique.png",
             "baseType": "Imperial Staff",
             "variant": null,
-            "chaosValue": 476.1,
+            "chaosValue": 466.2,
             "listingCount": 94
         },
         {
-            "id": 60305,
-            "name": "Cane of Kulemak",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQ2F0YXJpbmFTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/9e79ed63e5/CatarinaStaff.png",
-            "baseType": "Serpentine Staff",
-            "variant": null,
-            "chaosValue": 442.1,
-            "listingCount": 116
+            "id": 130033,
+            "name": "Foulborn Kongor's Undying Rage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/4eedbb427e/KongorsUndyingRage.png",
+            "baseType": "Terror Maul",
+            "variant": "Crit Life Loss",
+            "chaosValue": 466.2,
+            "listingCount": 72
         },
         {
             "id": 788,
@@ -753,8 +771,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2UydW5pcXVlMiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/6ae0a56923/TwoHandMace2unique2.png",
             "baseType": "Karui Maul",
             "variant": null,
-            "chaosValue": 430.0,
-            "listingCount": 219
+            "chaosValue": 450.0,
+            "listingCount": 216
+        },
+        {
+            "id": 60305,
+            "name": "Cane of Kulemak",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQ2F0YXJpbmFTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/9e79ed63e5/CatarinaStaff.png",
+            "baseType": "Serpentine Staff",
+            "variant": null,
+            "chaosValue": 432.9,
+            "listingCount": 116
         },
         {
             "id": 60333,
@@ -762,17 +789,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQ2F0YXJpbmFTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxLCJyZWxpYyI6MTJ9XQ/8604e40256/CatarinaStaff.png",
             "baseType": "Serpentine Staff",
             "variant": null,
-            "chaosValue": 408.1,
-            "listingCount": 463
-        },
-        {
-            "id": 44193,
-            "name": "Replica Harvest",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9UaGVFeHRyYWN0b3IiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8452349a24/TheExtractor.png",
-            "baseType": "Jasper Chopper",
-            "variant": null,
-            "chaosValue": 349.1,
-            "listingCount": 25
+            "chaosValue": 399.6,
+            "listingCount": 461
         },
         {
             "id": 46033,
@@ -784,12 +802,21 @@
             "listingCount": 7
         },
         {
+            "id": 44193,
+            "name": "Replica Harvest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9UaGVFeHRyYWN0b3IiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8452349a24/TheExtractor.png",
+            "baseType": "Jasper Chopper",
+            "variant": null,
+            "chaosValue": 342.0,
+            "listingCount": 25
+        },
+        {
             "id": 396,
             "name": "Death's Harp",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0RlYXRoc2hhcnAiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/488e5f6267/Deathsharp.png",
             "baseType": "Death Bow",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 16
         },
         {
@@ -798,7 +825,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Rvb21GbGV0Y2giLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/a284f1cdab/DoomFletch.png",
             "baseType": "Royal Bow",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 19
         },
         {
@@ -807,8 +834,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL09uZUhhbmRTd29yZDhVbmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwicmVsaWMiOjB9XQ/b36c255071/OneHandSword8Unique.png",
             "baseType": "Dusk Blade",
             "variant": null,
-            "chaosValue": 340.1,
-            "listingCount": 221
+            "chaosValue": 333.0,
+            "listingCount": 227
         },
         {
             "id": 874,
@@ -816,8 +843,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051cm9zUHVyaWZ5aW5nSGFycCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/36ac89806c/NurosPurifyingHarp.png",
             "baseType": "Harbinger Bow",
             "variant": null,
-            "chaosValue": 340.1,
-            "listingCount": 21
+            "chaosValue": 333.0,
+            "listingCount": 20
         },
         {
             "id": 957,
@@ -825,7 +852,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUGxlZGdlb2ZIYW5kcyIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/1da7239060/PledgeofHands.png",
             "baseType": "Judgement Staff",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 77
         },
         {
@@ -834,8 +861,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9Wb2lkR2F6ZSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/e24a55cd27/VoidGaze.png",
             "baseType": "Shadow Sceptre",
             "variant": null,
-            "chaosValue": 340.1,
-            "listingCount": 156
+            "chaosValue": 333.0,
+            "listingCount": 151
         },
         {
             "id": 2012,
@@ -843,17 +870,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9LaXRhdmFzSHVuZ2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/7e0b7ac41a/KitavasHunger.png",
             "baseType": "Void Axe",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 32
-        },
-        {
-            "id": 2028,
-            "name": "Uul-Netol's Embrace",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8c4738c8a9/UulNetolsKissUpgraded.png",
-            "baseType": "Vaal Axe",
-            "variant": null,
-            "chaosValue": 340.1,
-            "listingCount": 1
         },
         {
             "id": 2148,
@@ -861,8 +879,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVGlkZWJyZWFrZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/25b69a132f/Tidebreaker.png",
             "baseType": "Imperial Maul",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 10
+        },
+        {
+            "id": 7632,
+            "name": "Soulwrest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVG9wRG93blN0YXZlSWNvbiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/f62cfea775/TopDownStaveIcon.png",
+            "baseType": "Ezomyte Staff",
+            "variant": null,
+            "chaosValue": 333.0,
+            "listingCount": 304
         },
         {
             "id": 19061,
@@ -870,8 +897,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9SYXBpZXJzL0Fzc2Fzc2luYXRpb25VbmlxdWUyIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/b84147fcbd/AssassinationUnique2.png",
             "baseType": "Vaal Rapier",
             "variant": null,
-            "chaosValue": 340.1,
-            "listingCount": 2859
+            "chaosValue": 333.0,
+            "listingCount": 2857
         },
         {
             "id": 42726,
@@ -879,7 +906,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSGFyYmluZ2VyU3RhZmZVcGdyYWRlZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/76cf7c8cb7/HarbingerStaffUpgraded.png",
             "baseType": "Imperial Staff",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 96
         },
         {
@@ -888,17 +915,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/1b5f279dbd/UulNetolsKiss.png",
             "baseType": "Vaal Axe",
             "variant": "Exert",
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 10
-        },
-        {
-            "id": 130033,
-            "name": "Foulborn Kongor's Undying Rage",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/4eedbb427e/KongorsUndyingRage.png",
-            "baseType": "Terror Maul",
-            "variant": "Crit Life Loss",
-            "chaosValue": 340.1,
-            "listingCount": 71
         },
         {
             "id": 130319,
@@ -906,8 +924,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9NYWF0YVNjZXB0cmUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/35454b3c79/MaataSceptre.png",
             "baseType": "Karui Sceptre",
             "variant": "Minion Crit Multi",
-            "chaosValue": 340.1,
-            "listingCount": 55
+            "chaosValue": 333.0,
+            "listingCount": 54
         },
         {
             "id": 167594,
@@ -915,7 +933,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQ2xhd2Nhc3RlciIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ee90a52733/Clawcaster.png",
             "baseType": "Primordial Staff",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 56
         },
         {
@@ -924,7 +942,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQ2xhd2Nhc3RlciIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ee90a52733/Clawcaster.png",
             "baseType": "Primordial Staff",
             "variant": null,
-            "chaosValue": 340.1,
+            "chaosValue": 333.0,
             "listingCount": 199
         },
         {
@@ -933,26 +951,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9NYWF0YVNjZXB0cmUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/27dd9da5a6/MaataSceptre.png",
             "baseType": "Karui Sceptre",
             "variant": null,
-            "chaosValue": 328.1,
-            "listingCount": 85
-        },
-        {
-            "id": 7632,
-            "name": "Soulwrest",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVG9wRG93blN0YXZlSWNvbiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/f62cfea775/TopDownStaveIcon.png",
-            "baseType": "Ezomyte Staff",
-            "variant": null,
-            "chaosValue": 304.0,
-            "listingCount": 305
-        },
-        {
-            "id": 130128,
-            "name": "Foulborn Null's Inclination",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051bGxCb3ciLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/6610536a61/NullBow.png",
-            "baseType": "Ranger Bow",
-            "variant": "Summon Phantasm, Minion Chaos",
-            "chaosValue": 301.8,
-            "listingCount": 13
+            "chaosValue": 319.8,
+            "listingCount": 84
         },
         {
             "id": 130135,
@@ -964,13 +964,31 @@
             "listingCount": 56
         },
         {
+            "id": 130128,
+            "name": "Foulborn Null's Inclination",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051bGxCb3ciLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/6610536a61/NullBow.png",
+            "baseType": "Ranger Bow",
+            "variant": "Summon Phantasm, Minion Chaos",
+            "chaosValue": 299.7,
+            "listingCount": 13
+        },
+        {
             "id": 128423,
             "name": "Festering Resentment",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1ZpcnVsZW5jZSIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/2ac68fe77e/Virulence.png",
             "baseType": "Demon Dagger",
             "variant": null,
-            "chaosValue": 266.0,
-            "listingCount": 288
+            "chaosValue": 264.0,
+            "listingCount": 286
+        },
+        {
+            "id": 44929,
+            "name": "Replica Nebulis",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9TY2VwdHJlT2ZNZW1vcmllcyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/a627a19fc4/SceptreOfMemories.png",
+            "baseType": "Void Sceptre",
+            "variant": null,
+            "chaosValue": 251.5,
+            "listingCount": 207
         },
         {
             "id": 4923,
@@ -982,22 +1000,13 @@
             "listingCount": 17
         },
         {
-            "id": 44929,
-            "name": "Replica Nebulis",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9TY2VwdHJlT2ZNZW1vcmllcyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/a627a19fc4/SceptreOfMemories.png",
-            "baseType": "Void Sceptre",
-            "variant": null,
-            "chaosValue": 249.0,
-            "listingCount": 205
-        },
-        {
             "id": 1003,
             "name": "Quill Rain",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/5c5cad82e8/Bow2unique.png",
             "baseType": "Short Bow",
             "variant": null,
-            "chaosValue": 228.0,
-            "listingCount": 149
+            "chaosValue": 239.9,
+            "listingCount": 148
         },
         {
             "id": 2161,
@@ -1014,7 +1023,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0ZyZW56aWVkVGVudGFjbGVzIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/6dc3218af0/FrenziedTentacles.png",
             "baseType": "Citadel Bow",
             "variant": null,
-            "chaosValue": 214.0,
+            "chaosValue": 213.3,
             "listingCount": 26
         },
         {
@@ -1023,7 +1032,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWVCUkVBQ0giLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/21cfde45f2/BloodPerigreeBREACH.png",
             "baseType": "Citadel Bow",
             "variant": "Immolate",
-            "chaosValue": 205.0,
+            "chaosValue": 200.7,
             "listingCount": 230
         },
         {
@@ -1059,7 +1068,7 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/1ef923f173/EternalSleep2.png",
             "baseType": "Cutlass",
             "variant": "Minion Unholy, Minion Quality",
-            "chaosValue": 184.0,
+            "chaosValue": 181.2,
             "listingCount": 38
         },
         {
@@ -1068,17 +1077,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzFVbmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/73d6f96075/Bow1Unique.png",
             "baseType": "Crude Bow",
             "variant": null,
-            "chaosValue": 170.6,
+            "chaosValue": 167.8,
             "listingCount": 28
-        },
-        {
-            "id": 103962,
-            "name": "Widowhail",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1dpZG93aGFpbEJvdyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/1f31742277/WidowhailBow.png",
-            "baseType": "Crude Bow",
-            "variant": null,
-            "chaosValue": 170.0,
-            "listingCount": 18
         },
         {
             "id": 130328,
@@ -1090,12 +1090,21 @@
             "listingCount": 71
         },
         {
+            "id": 44365,
+            "name": "Replica Wings of Entropy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9FbnRyb3B5d2luZ3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/86e128789a/Entropywings.png",
+            "baseType": "Ezomyte Axe",
+            "variant": null,
+            "chaosValue": 144.0,
+            "listingCount": 132
+        },
+        {
             "id": 130022,
             "name": "Foulborn Rive",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9CbGVlZENsYXciLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/d94d477d4b/BleedClaw.png",
             "baseType": "Terror Claw",
             "variant": "Physical Duration",
-            "chaosValue": 144.0,
+            "chaosValue": 141.9,
             "listingCount": 73
         },
         {
@@ -1122,17 +1131,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0VhZ2xlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/01fdf37ac0/Eagle.png",
             "baseType": "Imperial Bow",
             "variant": null,
-            "chaosValue": 124.0,
+            "chaosValue": 122.6,
             "listingCount": 8
-        },
-        {
-            "id": 44365,
-            "name": "Replica Wings of Entropy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9FbnRyb3B5d2luZ3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/86e128789a/Entropywings.png",
-            "baseType": "Ezomyte Axe",
-            "variant": null,
-            "chaosValue": 121.5,
-            "listingCount": 132
         },
         {
             "id": 2160,
@@ -1150,7 +1150,7 @@
             "baseType": "Opal Wand",
             "variant": null,
             "chaosValue": 120.0,
-            "listingCount": 176
+            "listingCount": 174
         },
         {
             "id": 130091,
@@ -1162,21 +1162,12 @@
             "listingCount": 19
         },
         {
-            "id": 1997,
-            "name": "Duskdawn",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU29sYXJpc0x1bmFyaXNTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/e5e9df18a4/SolarisLunarisStaff.png",
-            "baseType": "Maelström Staff",
-            "variant": null,
-            "chaosValue": 110.0,
-            "listingCount": 407
-        },
-        {
             "id": 1026,
             "name": "Realmshaper",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY1dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/33929e1979/Staff5unique.png",
             "baseType": "Iron Staff",
             "variant": null,
-            "chaosValue": 108.0,
+            "chaosValue": 106.6,
             "listingCount": 38
         },
         {
@@ -1204,7 +1195,16 @@
             "baseType": "Serpentine Staff",
             "variant": null,
             "chaosValue": 100.0,
-            "listingCount": 10295
+            "listingCount": 10299
+        },
+        {
+            "id": 103962,
+            "name": "Widowhail",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1dpZG93aGFpbEJvdyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/1f31742277/WidowhailBow.png",
+            "baseType": "Crude Bow",
+            "variant": null,
+            "chaosValue": 100.0,
+            "listingCount": 18
         },
         {
             "id": 130071,
@@ -1213,16 +1213,25 @@
             "baseType": "Imperial Claw",
             "variant": "Strength, Dex Multi",
             "chaosValue": 100.0,
-            "listingCount": 94
+            "listingCount": 95
         },
         {
-            "id": 44540,
-            "name": "Replica Trypanon",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHJ5cGFub24iLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/3152ab4124/Trypanon.png",
-            "baseType": "Great Mallet",
+            "id": 1997,
+            "name": "Duskdawn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU29sYXJpc0x1bmFyaXNTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/e5e9df18a4/SolarisLunarisStaff.png",
+            "baseType": "Maelström Staff",
             "variant": null,
-            "chaosValue": 99.2,
-            "listingCount": 11
+            "chaosValue": 99.3,
+            "listingCount": 409
+        },
+        {
+            "id": 130311,
+            "name": "Foulborn Razor of the Seventh Sun",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1Jhem9yT2ZUaGVTZXZlbnRoU3VuIiwidyI6MiwiaCI6Mywic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/06e362c6de/RazorOfTheSeventhSun.png",
+            "baseType": "Midnight Blade",
+            "variant": "Weapon Ignite",
+            "chaosValue": 88.0,
+            "listingCount": 63
         },
         {
             "id": 45129,
@@ -1230,17 +1239,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvRWxlbWVudGFsSGFybW9ueSIsInciOjIsImgiOjQsInNjYWxlIjoxLCJyZWxpYyI6M31d/03a8b4e25b/ElementalHarmony.png",
             "baseType": "Ezomyte Staff",
             "variant": null,
-            "chaosValue": 90.6,
-            "listingCount": 558
-        },
-        {
-            "id": 1974,
-            "name": "Kitava's Feast",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9LaXRhdmFzSHVuZ2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/7e0b7ac41a/KitavasHunger.png",
-            "baseType": "Void Axe",
-            "variant": null,
-            "chaosValue": 85.0,
-            "listingCount": 167
+            "chaosValue": 84.0,
+            "listingCount": 560
         },
         {
             "id": 1911,
@@ -1248,17 +1248,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1JoeXNibGFkZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/3ed974e708/Rhysblade.png",
             "baseType": "Reaver Sword",
             "variant": null,
-            "chaosValue": 81.52,
+            "chaosValue": 80.1,
             "listingCount": 51
-        },
-        {
-            "id": 2089,
-            "name": "Tidebreaker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVGlkZWJyZWFrZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/25b69a132f/Tidebreaker.png",
-            "baseType": "Imperial Maul",
-            "variant": null,
-            "chaosValue": 81.0,
-            "listingCount": 209
         },
         {
             "id": 996,
@@ -1294,7 +1285,7 @@
             "baseType": "Imperial Bow",
             "variant": null,
             "chaosValue": 80.0,
-            "listingCount": 145
+            "listingCount": 144
         },
         {
             "id": 130074,
@@ -1306,12 +1297,39 @@
             "listingCount": 51
         },
         {
+            "id": 1974,
+            "name": "Kitava's Feast",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9LaXRhdmFzSHVuZ2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/7e0b7ac41a/KitavasHunger.png",
+            "baseType": "Void Axe",
+            "variant": null,
+            "chaosValue": 79.7,
+            "listingCount": 171
+        },
+        {
+            "id": 2089,
+            "name": "Tidebreaker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVGlkZWJyZWFrZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/25b69a132f/Tidebreaker.png",
+            "baseType": "Imperial Maul",
+            "variant": null,
+            "chaosValue": 79.2,
+            "listingCount": 214
+        },
+        {
+            "id": 1975,
+            "name": "Arakaali's Fang",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0ZhbmdVbmlxdWUiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/de6e51652e/FangUnique.png",
+            "baseType": "Fiend Dagger",
+            "variant": null,
+            "chaosValue": 79.0,
+            "listingCount": 173
+        },
+        {
             "id": 1674,
             "name": "The Whispering Ice",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY4dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/04e7459f43/Staff8unique.png",
             "baseType": "Vile Staff",
             "variant": null,
-            "chaosValue": 79.01,
+            "chaosValue": 78.3,
             "listingCount": 12
         },
         {
@@ -1333,13 +1351,13 @@
             "listingCount": 12
         },
         {
-            "id": 130311,
-            "name": "Foulborn Razor of the Seventh Sun",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1Jhem9yT2ZUaGVTZXZlbnRoU3VuIiwidyI6MiwiaCI6Mywic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/06e362c6de/RazorOfTheSeventhSun.png",
-            "baseType": "Midnight Blade",
-            "variant": "Weapon Ignite",
-            "chaosValue": 75.0,
-            "listingCount": 64
+            "id": 125004,
+            "name": "Legacy of the Rose",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvV2hpc3BlcmluZ05lYnVsYSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fff9168cf2/WhisperingNebula.png",
+            "baseType": "Judgement Staff",
+            "variant": null,
+            "chaosValue": 74.4,
+            "listingCount": 198
         },
         {
             "id": 130009,
@@ -1347,26 +1365,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/1b5f279dbd/UulNetolsKiss.png",
             "baseType": "Vaal Axe",
             "variant": "Cooldown, Exert",
-            "chaosValue": 74.51,
+            "chaosValue": 73.8,
             "listingCount": 26
-        },
-        {
-            "id": 1975,
-            "name": "Arakaali's Fang",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0ZhbmdVbmlxdWUiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/de6e51652e/FangUnique.png",
-            "baseType": "Fiend Dagger",
-            "variant": null,
-            "chaosValue": 73.2,
-            "listingCount": 174
-        },
-        {
-            "id": 692,
-            "name": "Jorrhast's Blacksteel",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSm9ycmhhc3RzQmxhY2tzdGVlbCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/a1ee3a6a3c/JorrhastsBlacksteel.png",
-            "baseType": "Steelhead",
-            "variant": null,
-            "chaosValue": 72.02,
-            "listingCount": 98
         },
         {
             "id": 44433,
@@ -1378,6 +1378,15 @@
             "listingCount": 16
         },
         {
+            "id": 692,
+            "name": "Jorrhast's Blacksteel",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSm9ycmhhc3RzQmxhY2tzdGVlbCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/a1ee3a6a3c/JorrhastsBlacksteel.png",
+            "baseType": "Steelhead",
+            "variant": null,
+            "chaosValue": 70.6,
+            "listingCount": 97
+        },
+        {
             "id": 1999,
             "name": "Ngamahu's Flame",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvUmlyaVRlTmdhbWFodSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/55c2a170af/RiriTeNgamahu.png",
@@ -1387,13 +1396,22 @@
             "listingCount": 29
         },
         {
-            "id": 125004,
-            "name": "Legacy of the Rose",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvV2hpc3BlcmluZ05lYnVsYSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fff9168cf2/WhisperingNebula.png",
-            "baseType": "Judgement Staff",
+            "id": 130029,
+            "name": "Foulborn The Dancing Dervish",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1JoeXNibGFkZSIsInciOjIsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/3760a66254/Rhysblade.png",
+            "baseType": "Reaver Sword",
+            "variant": "Lightning",
+            "chaosValue": 68.4,
+            "listingCount": 113
+        },
+        {
+            "id": 44540,
+            "name": "Replica Trypanon",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHJ5cGFub24iLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/3152ab4124/Trypanon.png",
+            "baseType": "Great Mallet",
             "variant": null,
-            "chaosValue": 70.0,
-            "listingCount": 200
+            "chaosValue": 68.0,
+            "listingCount": 11
         },
         {
             "id": 125035,
@@ -1401,17 +1419,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9TdGFyZmVsbCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/72f3fc9a20/Starfell.png",
             "baseType": "Abyssal Axe",
             "variant": null,
-            "chaosValue": 70.0,
-            "listingCount": 387
-        },
-        {
-            "id": 130029,
-            "name": "Foulborn The Dancing Dervish",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1JoeXNibGFkZSIsInciOjIsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/3760a66254/Rhysblade.png",
-            "baseType": "Reaver Sword",
-            "variant": "Lightning",
-            "chaosValue": 69.82,
-            "listingCount": 113
+            "chaosValue": 68.0,
+            "listingCount": 388
         },
         {
             "id": 130279,
@@ -1429,16 +1438,7 @@
             "baseType": "Opal Wand",
             "variant": "Mana Power",
             "chaosValue": 59.0,
-            "listingCount": 347
-        },
-        {
-            "id": 476,
-            "name": "Edge of Madness",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0VkZ2VPZk1hZG5lc3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/5ab6c808b5/EdgeOfMadness.png",
-            "baseType": "Etched Greatsword",
-            "variant": null,
-            "chaosValue": 56.51,
-            "listingCount": 53
+            "listingCount": 351
         },
         {
             "id": 40,
@@ -1447,7 +1447,25 @@
             "baseType": "Imperial Staff",
             "variant": null,
             "chaosValue": 56.0,
-            "listingCount": 158
+            "listingCount": 157
+        },
+        {
+            "id": 21664,
+            "name": "Pillar of the Caged God",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUGlsbGFyb2Z0aGVDYWdlZEdvZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/0451281624/PillaroftheCagedGod.png",
+            "baseType": "Iron Staff",
+            "variant": null,
+            "chaosValue": 56.0,
+            "listingCount": 11
+        },
+        {
+            "id": 476,
+            "name": "Edge of Madness",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0VkZ2VPZk1hZG5lc3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/5ab6c808b5/EdgeOfMadness.png",
+            "baseType": "Etched Greatsword",
+            "variant": null,
+            "chaosValue": 55.8,
+            "listingCount": 53
         },
         {
             "id": 130322,
@@ -1468,15 +1486,6 @@
             "listingCount": 47
         },
         {
-            "id": 130333,
-            "name": "Foulborn Doon Cuebiyari",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRG9vbkN1ZWJpeWFyaSIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/d170e4c1c7/DoonCuebiyari.png",
-            "baseType": "Vaal Sceptre",
-            "variant": "Offhand Shield, Mainhand Mana",
-            "chaosValue": 52.01,
-            "listingCount": 16
-        },
-        {
             "id": 130111,
             "name": "Foulborn Tulborn",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9UdWxib3JuIiwidyI6MSwiaCI6Mywic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/5656701aa1/Tulborn.png",
@@ -1484,6 +1493,15 @@
             "variant": "Cold Spell Level, Mana Power",
             "chaosValue": 51.5,
             "listingCount": 108
+        },
+        {
+            "id": 130333,
+            "name": "Foulborn Doon Cuebiyari",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRG9vbkN1ZWJpeWFyaSIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/d170e4c1c7/DoonCuebiyari.png",
+            "baseType": "Vaal Sceptre",
+            "variant": "Offhand Shield, Mainhand Mana",
+            "chaosValue": 51.3,
+            "listingCount": 16
         },
         {
             "id": 1884,
@@ -1519,7 +1537,7 @@
             "baseType": "Faun's Horn",
             "variant": null,
             "chaosValue": 50.0,
-            "listingCount": 552
+            "listingCount": 549
         },
         {
             "id": 130017,
@@ -1528,7 +1546,7 @@
             "baseType": "Tomahawk",
             "variant": "Attack Speed",
             "chaosValue": 50.0,
-            "listingCount": 786
+            "listingCount": 785
         },
         {
             "id": 2022,
@@ -1546,7 +1564,7 @@
             "baseType": "Prophecy Wand",
             "variant": null,
             "chaosValue": 45.0,
-            "listingCount": 9012
+            "listingCount": 9002
         },
         {
             "id": 130093,
@@ -1558,13 +1576,22 @@
             "listingCount": 7
         },
         {
-            "id": 21664,
-            "name": "Pillar of the Caged God",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUGlsbGFyb2Z0aGVDYWdlZEdvZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/0451281624/PillaroftheCagedGod.png",
-            "baseType": "Iron Staff",
+            "id": 876,
+            "name": "Nycta's Lantern",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9MeWNobnVzbHlhZWkiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/c69b77ef8a/Lychnuslyaei.png",
+            "baseType": "Crystal Sceptre",
             "variant": null,
             "chaosValue": 44.0,
-            "listingCount": 11
+            "listingCount": 499
+        },
+        {
+            "id": 2293,
+            "name": "Cane of Unravelling",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQ2FuZU9mVW5yYXZlbGxpbmciLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/99b4e7e44e/CaneOfUnravelling.png",
+            "baseType": "Ezomyte Staff",
+            "variant": null,
+            "chaosValue": 42.5,
+            "listingCount": 182
         },
         {
             "id": 1715,
@@ -1574,15 +1601,6 @@
             "variant": null,
             "chaosValue": 42.0,
             "listingCount": 20
-        },
-        {
-            "id": 2293,
-            "name": "Cane of Unravelling",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQ2FuZU9mVW5yYXZlbGxpbmciLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/99b4e7e44e/CaneOfUnravelling.png",
-            "baseType": "Ezomyte Staff",
-            "variant": null,
-            "chaosValue": 41.0,
-            "listingCount": 182
         },
         {
             "id": 273,
@@ -1600,7 +1618,7 @@
             "baseType": "Highborn Staff",
             "variant": null,
             "chaosValue": 40.0,
-            "listingCount": 189
+            "listingCount": 191
         },
         {
             "id": 44503,
@@ -1609,7 +1627,7 @@
             "baseType": "Eternal Sword",
             "variant": null,
             "chaosValue": 40.0,
-            "listingCount": 644
+            "listingCount": 650
         },
         {
             "id": 45279,
@@ -1657,6 +1675,24 @@
             "listingCount": 16
         },
         {
+            "id": 42739,
+            "name": "The Yielding Mortality",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSGFyYmluZ2VyU3RhZmZVcGdyYWRlZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/76cf7c8cb7/HarbingerStaffUpgraded.png",
+            "baseType": "Imperial Staff",
+            "variant": null,
+            "chaosValue": 37.5,
+            "listingCount": 125
+        },
+        {
+            "id": 118617,
+            "name": "Tawhoa's Felling",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSmFkZU1hcm9oaUVycWlIYW1tZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/c0c1952927/JadeMarohiErqiHammer.png",
+            "baseType": "Piledriver",
+            "variant": null,
+            "chaosValue": 37.0,
+            "listingCount": 121
+        },
+        {
             "id": 130325,
             "name": "Foulborn Darkscorn",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0RhcmtzY29ybiIsInciOjIsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/7845db8d55/Darkscorn.png",
@@ -1664,15 +1700,6 @@
             "variant": "Crit Unholy Might",
             "chaosValue": 37.0,
             "listingCount": 39
-        },
-        {
-            "id": 130070,
-            "name": "Foulborn Uul-Netol's Embrace",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/01534b300e/UulNetolsKissUpgraded.png",
-            "baseType": "Vaal Axe",
-            "variant": "Low Intelligence",
-            "chaosValue": 36.8,
-            "listingCount": 44
         },
         {
             "id": 130335,
@@ -1690,7 +1717,7 @@
             "baseType": "Gemstone Sword",
             "variant": null,
             "chaosValue": 34.5,
-            "listingCount": 21
+            "listingCount": 22
         },
         {
             "id": 130097,
@@ -1711,13 +1738,13 @@
             "listingCount": 812
         },
         {
-            "id": 876,
-            "name": "Nycta's Lantern",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9MeWNobnVzbHlhZWkiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/c69b77ef8a/Lychnuslyaei.png",
-            "baseType": "Crystal Sceptre",
-            "variant": null,
-            "chaosValue": 34.0,
-            "listingCount": 528
+            "id": 130070,
+            "name": "Foulborn Uul-Netol's Embrace",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/01534b300e/UulNetolsKissUpgraded.png",
+            "baseType": "Vaal Axe",
+            "variant": "Low Intelligence",
+            "chaosValue": 32.0,
+            "listingCount": 44
         },
         {
             "id": 4892,
@@ -1729,13 +1756,31 @@
             "listingCount": 65
         },
         {
+            "id": 1972,
+            "name": "Shade of Solaris",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9Tb2xhcmlzV2FuZCIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/8f2f75ad2e/SolarisWand.png",
+            "baseType": "Sage Wand",
+            "variant": null,
+            "chaosValue": 30.0,
+            "listingCount": 95
+        },
+        {
+            "id": 23105,
+            "name": "Nebulis",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9TY2VwdHJlT2ZNZW1vcmllcyIsInciOjIsImgiOjMsInNjYWxlIjoxLCJzeW50aGVzaXNlZCI6dHJ1ZX1d/42c37f31d6/SceptreOfMemories.png",
+            "baseType": "Void Sceptre",
+            "variant": null,
+            "chaosValue": 30.0,
+            "listingCount": 35052
+        },
+        {
             "id": 130005,
             "name": "Foulborn Uul-Netol's Kiss",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/1b5f279dbd/UulNetolsKiss.png",
             "baseType": "Vaal Axe",
             "variant": "Cooldown",
             "chaosValue": 30.0,
-            "listingCount": 54
+            "listingCount": 53
         },
         {
             "id": 130007,
@@ -1747,22 +1792,13 @@
             "listingCount": 306
         },
         {
-            "id": 1972,
-            "name": "Shade of Solaris",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9Tb2xhcmlzV2FuZCIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/8f2f75ad2e/SolarisWand.png",
-            "baseType": "Sage Wand",
-            "variant": null,
-            "chaosValue": 29.5,
-            "listingCount": 97
-        },
-        {
             "id": 130034,
             "name": "Foulborn Al Dhih",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9BbGRoaWgiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/7980ed9b3c/Aldhih.png",
             "baseType": "Timeworn Claw",
             "variant": "Chaos Damage",
-            "chaosValue": 29.0,
-            "listingCount": 116
+            "chaosValue": 29.5,
+            "listingCount": 117
         },
         {
             "id": 130113,
@@ -1780,16 +1816,7 @@
             "baseType": "Iron Staff",
             "variant": null,
             "chaosValue": 28.0,
-            "listingCount": 19
-        },
-        {
-            "id": 23105,
-            "name": "Nebulis",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9TY2VwdHJlT2ZNZW1vcmllcyIsInciOjIsImgiOjMsInNjYWxlIjoxLCJzeW50aGVzaXNlZCI6dHJ1ZX1d/42c37f31d6/SceptreOfMemories.png",
-            "baseType": "Void Sceptre",
-            "variant": null,
-            "chaosValue": 27.0,
-            "listingCount": 35058
+            "listingCount": 18
         },
         {
             "id": 1391,
@@ -1828,15 +1855,6 @@
             "listingCount": 72
         },
         {
-            "id": 44487,
-            "name": "Replica Paradoxica",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9SYXBpZXJzL0Fzc2Fzc2luYXRpb25VbmlxdWUyIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/b84147fcbd/AssassinationUnique2.png",
-            "baseType": "Vaal Rapier",
-            "variant": null,
-            "chaosValue": 25.0,
-            "listingCount": 2309
-        },
-        {
             "id": 103485,
             "name": "Xoph's Inception",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/7856c171f7/BloodPerigree.png",
@@ -1855,6 +1873,15 @@
             "listingCount": 22
         },
         {
+            "id": 44487,
+            "name": "Replica Paradoxica",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9SYXBpZXJzL0Fzc2Fzc2luYXRpb25VbmlxdWUyIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/b84147fcbd/AssassinationUnique2.png",
+            "baseType": "Vaal Rapier",
+            "variant": null,
+            "chaosValue": 23.5,
+            "listingCount": 2307
+        },
+        {
             "id": 1370,
             "name": "Storm Cloud",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1N0b3JtY2xvdWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/003957da0c/Stormcloud.png",
@@ -1870,16 +1897,7 @@
             "baseType": "Lathi",
             "variant": null,
             "chaosValue": 23.0,
-            "listingCount": 56
-        },
-        {
-            "id": 118617,
-            "name": "Tawhoa's Felling",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSmFkZU1hcm9oaUVycWlIYW1tZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/c0c1952927/JadeMarohiErqiHammer.png",
-            "baseType": "Piledriver",
-            "variant": null,
-            "chaosValue": 22.4,
-            "listingCount": 122
+            "listingCount": 55
         },
         {
             "id": 1029,
@@ -1888,7 +1906,7 @@
             "baseType": "Shadow Axe",
             "variant": null,
             "chaosValue": 22.0,
-            "listingCount": 46
+            "listingCount": 45
         },
         {
             "id": 130030,
@@ -1898,6 +1916,15 @@
             "variant": "Battlemage",
             "chaosValue": 22.0,
             "listingCount": 36
+        },
+        {
+            "id": 130047,
+            "name": "Foulborn United in Dream",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/1ef923f173/EternalSleep2.png",
+            "baseType": "Cutlass",
+            "variant": "Minion Quality",
+            "chaosValue": 22.0,
+            "listingCount": 164
         },
         {
             "id": 130096,
@@ -1916,24 +1943,6 @@
             "variant": null,
             "chaosValue": 21.0,
             "listingCount": 62
-        },
-        {
-            "id": 130047,
-            "name": "Foulborn United in Dream",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/1ef923f173/EternalSleep2.png",
-            "baseType": "Cutlass",
-            "variant": "Minion Quality",
-            "chaosValue": 21.0,
-            "listingCount": 162
-        },
-        {
-            "id": 128502,
-            "name": "Replica Midnight Bargain",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XYW5kVW5pcXVlMyIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/1db4fb5dbf/WandUnique3.png",
-            "baseType": "Calling Wand",
-            "variant": null,
-            "chaosValue": 20.4,
-            "listingCount": 111
         },
         {
             "id": 167551,
@@ -1987,7 +1996,7 @@
             "baseType": "Prophecy Wand",
             "variant": null,
             "chaosValue": 20.0,
-            "listingCount": 2126
+            "listingCount": 2117
         },
         {
             "id": 2016,
@@ -2050,7 +2059,7 @@
             "baseType": "Tiger Sword",
             "variant": null,
             "chaosValue": 19.3,
-            "listingCount": 61
+            "listingCount": 60
         },
         {
             "id": 44630,
@@ -2094,17 +2103,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0VhZ2xlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/01fdf37ac0/Eagle.png",
             "baseType": "Imperial Bow",
             "variant": null,
-            "chaosValue": 17.2,
-            "listingCount": 211
-        },
-        {
-            "id": 42739,
-            "name": "The Yielding Mortality",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSGFyYmluZ2VyU3RhZmZVcGdyYWRlZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/76cf7c8cb7/HarbingerStaffUpgraded.png",
-            "baseType": "Imperial Staff",
-            "variant": null,
-            "chaosValue": 17.0,
-            "listingCount": 126
+            "chaosValue": 17.3,
+            "listingCount": 212
         },
         {
             "id": 130049,
@@ -2161,6 +2161,15 @@
             "listingCount": 15
         },
         {
+            "id": 130031,
+            "name": "Foulborn Quill Rain",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0962feb029/Bow2unique.png",
+            "baseType": "Short Bow",
+            "variant": "Mana Bow",
+            "chaosValue": 16.0,
+            "listingCount": 109
+        },
+        {
             "id": 60045,
             "name": "Atziri's Rule",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUG9ydGVudE9mQUZhbHNlR29kIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/a3949ac141/PortentOfAFalseGod.png",
@@ -2179,15 +2188,6 @@
             "listingCount": 27
         },
         {
-            "id": 821,
-            "name": "Mjölner",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvTWpvbG5lciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/3e6fc15b26/Mjolner.png",
-            "baseType": "Gavel",
-            "variant": null,
-            "chaosValue": 15.0,
-            "listingCount": 121
-        },
-        {
             "id": 1878,
             "name": "Wideswing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9XaWRlc3dpbmciLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e9dfcf58df/Wideswing.png",
@@ -2195,6 +2195,15 @@
             "variant": null,
             "chaosValue": 15.0,
             "listingCount": 16
+        },
+        {
+            "id": 2305,
+            "name": "Grelwood Shank",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1ZlcmRhbnRHdWFyZGlhblN3b3JkMSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/b085f741a5/VerdantGuardianSword1.png",
+            "baseType": "Eternal Sword",
+            "variant": null,
+            "chaosValue": 15.0,
+            "listingCount": 150
         },
         {
             "id": 44461,
@@ -2212,7 +2221,7 @@
             "baseType": "Somatic Wand",
             "variant": null,
             "chaosValue": 15.0,
-            "listingCount": 324
+            "listingCount": 327
         },
         {
             "id": 128681,
@@ -2221,16 +2230,7 @@
             "baseType": "Spectral Axe",
             "variant": null,
             "chaosValue": 15.0,
-            "listingCount": 402
-        },
-        {
-            "id": 130031,
-            "name": "Foulborn Quill Rain",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0962feb029/Bow2unique.png",
-            "baseType": "Short Bow",
-            "variant": "Mana Bow",
-            "chaosValue": 15.0,
-            "listingCount": 111
+            "listingCount": 401
         },
         {
             "id": 130129,
@@ -2242,22 +2242,31 @@
             "listingCount": 17
         },
         {
+            "id": 821,
+            "name": "Mjölner",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvTWpvbG5lciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/3e6fc15b26/Mjolner.png",
+            "baseType": "Gavel",
+            "variant": null,
+            "chaosValue": 14.4,
+            "listingCount": 120
+        },
+        {
+            "id": 128502,
+            "name": "Replica Midnight Bargain",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XYW5kVW5pcXVlMyIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/1db4fb5dbf/WandUnique3.png",
+            "baseType": "Calling Wand",
+            "variant": null,
+            "chaosValue": 14.4,
+            "listingCount": 112
+        },
+        {
             "id": 1897,
             "name": "Xirgil's Crank",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY3dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/2437d7498a/Staff7unique.png",
             "baseType": "Coiled Staff",
             "variant": null,
-            "chaosValue": 14.4,
-            "listingCount": 479
-        },
-        {
-            "id": 103363,
-            "name": "Widowhail",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1dpZG93aGFpbEJvdyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/1f31742277/WidowhailBow.png",
-            "baseType": "Crude Bow",
-            "variant": null,
-            "chaosValue": 14.0,
-            "listingCount": 311
+            "chaosValue": 14.2,
+            "listingCount": 474
         },
         {
             "id": 104107,
@@ -2284,7 +2293,16 @@
             "baseType": "Death Bow",
             "variant": "Physical as Chaos",
             "chaosValue": 13.8,
-            "listingCount": 199
+            "listingCount": 198
+        },
+        {
+            "id": 103363,
+            "name": "Widowhail",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1dpZG93aGFpbEJvdyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/1f31742277/WidowhailBow.png",
+            "baseType": "Crude Bow",
+            "variant": null,
+            "chaosValue": 13.0,
+            "listingCount": 316
         },
         {
             "id": 103679,
@@ -2292,8 +2310,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9UdWxib3JuVXBncmFkZWQiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/575d6058a2/TulbornUpgraded.png",
             "baseType": "Opal Wand",
             "variant": null,
-            "chaosValue": 13.5,
+            "chaosValue": 13.0,
             "listingCount": 177
+        },
+        {
+            "id": 42634,
+            "name": "The Yielding Mortality",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSGFyYmluZ2VyU3RhZmZVcGdyYWRlZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/76cf7c8cb7/HarbingerStaffUpgraded.png",
+            "baseType": "Imperial Staff",
+            "variant": null,
+            "chaosValue": 12.8,
+            "listingCount": 924
         },
         {
             "id": 130340,
@@ -2329,7 +2356,7 @@
             "baseType": "Jewelled Foil",
             "variant": null,
             "chaosValue": 12.0,
-            "listingCount": 327
+            "listingCount": 329
         },
         {
             "id": 674,
@@ -2347,7 +2374,7 @@
             "baseType": "Eternal Sword",
             "variant": null,
             "chaosValue": 12.0,
-            "listingCount": 88
+            "listingCount": 84
         },
         {
             "id": 680,
@@ -2359,15 +2386,6 @@
             "listingCount": 33
         },
         {
-            "id": 130056,
-            "name": "Foulborn Frostbreath",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRnJvc3RCcmVhdGgiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/c69df4d962/FrostBreath.png",
-            "baseType": "Ornate Mace",
-            "variant": "Crit Chance",
-            "chaosValue": 11.8,
-            "listingCount": 438
-        },
-        {
             "id": 130314,
             "name": "Foulborn The Searing Touch",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY0dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/83cc8a39dc/Staff4unique.png",
@@ -2377,15 +2395,6 @@
             "listingCount": 105
         },
         {
-            "id": 523,
-            "name": "Femurs of the Saints",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvRmVtdXJzb2Z0aGVTYWludHMiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e275f87366/FemursoftheSaints.png",
-            "baseType": "Primordial Staff",
-            "variant": null,
-            "chaosValue": 11.5,
-            "listingCount": 37
-        },
-        {
             "id": 45082,
             "name": "Actum",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9IYW5sb25zUmF6b3IiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/a81f0f6259/HanlonsRazor.png",
@@ -2393,6 +2402,15 @@
             "variant": null,
             "chaosValue": 11.5,
             "listingCount": 73
+        },
+        {
+            "id": 523,
+            "name": "Femurs of the Saints",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvRmVtdXJzb2Z0aGVTYWludHMiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e275f87366/FemursoftheSaints.png",
+            "baseType": "Primordial Staff",
+            "variant": null,
+            "chaosValue": 11.0,
+            "listingCount": 37
         },
         {
             "id": 1316,
@@ -2418,26 +2436,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVG9wRG93blN0YXZlSWNvbiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/f62cfea775/TopDownStaveIcon.png",
             "baseType": "Ezomyte Staff",
             "variant": null,
-            "chaosValue": 10.8,
-            "listingCount": 107
+            "chaosValue": 10.6,
+            "listingCount": 106
         },
         {
-            "id": 130019,
-            "name": "Foulborn Severed in Sleep",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDEiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/97a85894d1/EternalSleep1.png",
-            "baseType": "Cutlass",
-            "variant": "Minion Crit",
-            "chaosValue": 10.8,
-            "listingCount": 151
-        },
-        {
-            "id": 1310,
-            "name": "Silverbranch",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzFVbmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/73d6f96075/Bow1Unique.png",
-            "baseType": "Crude Bow",
+            "id": 44355,
+            "name": "Replica Blood Thorn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVGhlQmxvb2RUaG9ybiIsInciOjEsImgiOjQsInNjYWxlIjoxfV0/3dac5ee34b/TheBloodThorn.png",
+            "baseType": "Gnarled Branch",
             "variant": null,
-            "chaosValue": 10.4,
-            "listingCount": 17
+            "chaosValue": 10.2,
+            "listingCount": 54
         },
         {
             "id": 37,
@@ -2509,7 +2518,7 @@
             "baseType": "Tornado Wand",
             "variant": null,
             "chaosValue": 10.0,
-            "listingCount": 224
+            "listingCount": 230
         },
         {
             "id": 42576,
@@ -2518,16 +2527,7 @@
             "baseType": "Legion Sword",
             "variant": null,
             "chaosValue": 10.0,
-            "listingCount": 785
-        },
-        {
-            "id": 42634,
-            "name": "The Yielding Mortality",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSGFyYmluZ2VyU3RhZmZVcGdyYWRlZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/76cf7c8cb7/HarbingerStaffUpgraded.png",
-            "baseType": "Imperial Staff",
-            "variant": null,
-            "chaosValue": 10.0,
-            "listingCount": 942
+            "listingCount": 786
         },
         {
             "id": 60320,
@@ -2554,7 +2554,7 @@
             "baseType": "Sage Wand",
             "variant": null,
             "chaosValue": 10.0,
-            "listingCount": 83
+            "listingCount": 82
         },
         {
             "id": 130048,
@@ -2563,7 +2563,7 @@
             "baseType": "Opal Wand",
             "variant": "Cold Multi",
             "chaosValue": 10.0,
-            "listingCount": 730
+            "listingCount": 729
         },
         {
             "id": 130072,
@@ -2593,13 +2593,22 @@
             "listingCount": 28
         },
         {
-            "id": 103519,
-            "name": "Tulborn",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9UdWxib3JuIiwidyI6MSwiaCI6Mywic2NhbGUiOjF9XQ/7c7cf3e1f2/Tulborn.png",
-            "baseType": "Opal Wand",
-            "variant": null,
+            "id": 130056,
+            "name": "Foulborn Frostbreath",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRnJvc3RCcmVhdGgiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/c69df4d962/FrostBreath.png",
+            "baseType": "Ornate Mace",
+            "variant": "Crit Chance",
             "chaosValue": 9.8,
-            "listingCount": 483
+            "listingCount": 439
+        },
+        {
+            "id": 130019,
+            "name": "Foulborn Severed in Sleep",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDEiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/97a85894d1/EternalSleep1.png",
+            "baseType": "Cutlass",
+            "variant": "Minion Crit",
+            "chaosValue": 9.6,
+            "listingCount": 150
         },
         {
             "id": 2522,
@@ -2638,22 +2647,13 @@
             "listingCount": 25
         },
         {
-            "id": 130061,
-            "name": "Foulborn Uul-Netol's Embrace",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/01534b300e/UulNetolsKissUpgraded.png",
-            "baseType": "Vaal Axe",
-            "variant": "Fast Bleed",
-            "chaosValue": 9.0,
-            "listingCount": 149
-        },
-        {
-            "id": 212,
-            "name": "Brutus' Lead Sprinkler",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvVGhlTGVhZFNwcmlua2xlciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/9a9217f832/TheLeadSprinkler.png",
-            "baseType": "Ritual Sceptre",
+            "id": 44313,
+            "name": "Replica Bitterdream",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9zY2VwdGVyOHVuaXF1ZTIiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/085f7726de/scepter8unique2.png",
+            "baseType": "Shadow Sceptre",
             "variant": null,
-            "chaosValue": 8.9,
-            "listingCount": 278
+            "chaosValue": 9.0,
+            "listingCount": 92
         },
         {
             "id": 1071,
@@ -2665,13 +2665,22 @@
             "listingCount": 33
         },
         {
-            "id": 2305,
-            "name": "Grelwood Shank",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1ZlcmRhbnRHdWFyZGlhblN3b3JkMSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/b085f741a5/VerdantGuardianSword1.png",
-            "baseType": "Eternal Sword",
-            "variant": null,
-            "chaosValue": 8.5,
-            "listingCount": 153
+            "id": 130039,
+            "name": "Foulborn United in Dream",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/1ef923f173/EternalSleep2.png",
+            "baseType": "Cutlass",
+            "variant": "Minion Unholy",
+            "chaosValue": 8.6,
+            "listingCount": 124
+        },
+        {
+            "id": 130042,
+            "name": "Foulborn Quill Rain",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0962feb029/Bow2unique.png",
+            "baseType": "Short Bow",
+            "variant": "Area",
+            "chaosValue": 8.4,
+            "listingCount": 107
         },
         {
             "id": 725,
@@ -2701,13 +2710,49 @@
             "listingCount": 12
         },
         {
+            "id": 212,
+            "name": "Brutus' Lead Sprinkler",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvVGhlTGVhZFNwcmlua2xlciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/9a9217f832/TheLeadSprinkler.png",
+            "baseType": "Ritual Sceptre",
+            "variant": null,
+            "chaosValue": 8.0,
+            "listingCount": 278
+        },
+        {
+            "id": 704,
+            "name": "Kaom's Primacy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9Ud29IYW5kQXhlMTFVbmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/544409d7f6/TwoHandAxe11Unique.png",
+            "baseType": "Karui Chopper",
+            "variant": null,
+            "chaosValue": 8.0,
+            "listingCount": 145
+        },
+        {
             "id": 2061,
             "name": "Dying Breath",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvRHlpbmdCcmVhdGgiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/3b7be0c935/DyingBreath.png",
             "baseType": "Iron Staff",
             "variant": null,
             "chaosValue": 8.0,
-            "listingCount": 744
+            "listingCount": 742
+        },
+        {
+            "id": 2304,
+            "name": "Nebuloch",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRWxkZXJNYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/f381b102f8/ElderMace.png",
+            "baseType": "Nightmare Mace",
+            "variant": null,
+            "chaosValue": 8.0,
+            "listingCount": 157
+        },
+        {
+            "id": 103519,
+            "name": "Tulborn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9UdWxib3JuIiwidyI6MSwiaCI6Mywic2NhbGUiOjF9XQ/7c7cf3e1f2/Tulborn.png",
+            "baseType": "Opal Wand",
+            "variant": null,
+            "chaosValue": 8.0,
+            "listingCount": 484
         },
         {
             "id": 130112,
@@ -2724,26 +2769,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvUmlyaVRlTmdhbWFodSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/55c2a170af/RiriTeNgamahu.png",
             "baseType": "Abyssal Axe",
             "variant": null,
-            "chaosValue": 7.96,
+            "chaosValue": 7.92,
             "listingCount": 15
-        },
-        {
-            "id": 2304,
-            "name": "Nebuloch",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRWxkZXJNYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/f381b102f8/ElderMace.png",
-            "baseType": "Nightmare Mace",
-            "variant": null,
-            "chaosValue": 7.8,
-            "listingCount": 158
-        },
-        {
-            "id": 130042,
-            "name": "Foulborn Quill Rain",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0962feb029/Bow2unique.png",
-            "baseType": "Short Bow",
-            "variant": "Area",
-            "chaosValue": 7.7,
-            "listingCount": 106
         },
         {
             "id": 109110,
@@ -2753,33 +2780,6 @@
             "variant": null,
             "chaosValue": 7.6,
             "listingCount": 40
-        },
-        {
-            "id": 130039,
-            "name": "Foulborn United in Dream",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/1ef923f173/EternalSleep2.png",
-            "baseType": "Cutlass",
-            "variant": "Minion Unholy",
-            "chaosValue": 7.4,
-            "listingCount": 125
-        },
-        {
-            "id": 44313,
-            "name": "Replica Bitterdream",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9zY2VwdGVyOHVuaXF1ZTIiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/085f7726de/scepter8unique2.png",
-            "baseType": "Shadow Sceptre",
-            "variant": null,
-            "chaosValue": 6.8,
-            "listingCount": 105
-        },
-        {
-            "id": 704,
-            "name": "Kaom's Primacy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9Ud29IYW5kQXhlMTFVbmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/544409d7f6/TwoHandAxe11Unique.png",
-            "baseType": "Karui Chopper",
-            "variant": null,
-            "chaosValue": 6.6,
-            "listingCount": 146
         },
         {
             "id": 130053,
@@ -2800,6 +2800,15 @@
             "listingCount": 35
         },
         {
+            "id": 1310,
+            "name": "Silverbranch",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzFVbmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/73d6f96075/Bow1Unique.png",
+            "baseType": "Crude Bow",
+            "variant": null,
+            "chaosValue": 6.4,
+            "listingCount": 17
+        },
+        {
             "id": 130066,
             "name": "Foulborn Edge of Madness",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0VkZ2VPZk1hZG5lc3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/25bbed2db3/EdgeOfMadness.png",
@@ -2807,6 +2816,24 @@
             "variant": "Accuracy per Level",
             "chaosValue": 6.3,
             "listingCount": 30
+        },
+        {
+            "id": 1990,
+            "name": "Severed in Sleep",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDEiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/60deeaccc5/EternalSleep1.png",
+            "baseType": "Cutlass",
+            "variant": null,
+            "chaosValue": 6.0,
+            "listingCount": 63
+        },
+        {
+            "id": 130026,
+            "name": "Foulborn Hand of Thought and Motion",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9UaG91Z2h0TW90aW9uMSIsInciOjIsImgiOjIsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/8bc9acabb1/ThoughtMotion1.png",
+            "baseType": "Imperial Claw",
+            "variant": "Int Accuracy",
+            "chaosValue": 6.0,
+            "listingCount": 450
         },
         {
             "id": 44218,
@@ -2827,13 +2854,13 @@
             "listingCount": 30
         },
         {
-            "id": 1990,
-            "name": "Severed in Sleep",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0V0ZXJuYWxTbGVlcDEiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/60deeaccc5/EternalSleep1.png",
-            "baseType": "Cutlass",
+            "id": 1017,
+            "name": "Razor of the Seventh Sun",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1Jhem9yT2ZUaGVTZXZlbnRoU3VuIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/ef21dd7f97/RazorOfTheSeventhSun.png",
+            "baseType": "Midnight Blade",
             "variant": null,
             "chaosValue": 5.6,
-            "listingCount": 63
+            "listingCount": 447
         },
         {
             "id": 2463,
@@ -2851,7 +2878,7 @@
             "baseType": "War Sword",
             "variant": null,
             "chaosValue": 5.6,
-            "listingCount": 146
+            "listingCount": 145
         },
         {
             "id": 1723,
@@ -2869,7 +2896,7 @@
             "baseType": "Calling Wand",
             "variant": "Golems, Minion Drain",
             "chaosValue": 5.5,
-            "listingCount": 141
+            "listingCount": 140
         },
         {
             "id": 130329,
@@ -2879,15 +2906,6 @@
             "variant": "Searing Bond Totems",
             "chaosValue": 5.5,
             "listingCount": 27
-        },
-        {
-            "id": 44355,
-            "name": "Replica Blood Thorn",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVGhlQmxvb2RUaG9ybiIsInciOjEsImgiOjQsInNjYWxlIjoxfV0/3dac5ee34b/TheBloodThorn.png",
-            "baseType": "Gnarled Branch",
-            "variant": null,
-            "chaosValue": 5.4,
-            "listingCount": 55
         },
         {
             "id": 130317,
@@ -2915,6 +2933,15 @@
             "variant": null,
             "chaosValue": 5.0,
             "listingCount": 61
+        },
+        {
+            "id": 162,
+            "name": "Bitterdream",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9zY2VwdGVyOHVuaXF1ZTIiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/085f7726de/scepter8unique2.png",
+            "baseType": "Shadow Sceptre",
+            "variant": null,
+            "chaosValue": 5.0,
+            "listingCount": 149
         },
         {
             "id": 438,
@@ -2959,7 +2986,7 @@
             "baseType": "Pagan Wand",
             "variant": null,
             "chaosValue": 5.0,
-            "listingCount": 5050
+            "listingCount": 5032
         },
         {
             "id": 128182,
@@ -2980,13 +3007,13 @@
             "listingCount": 287
         },
         {
-            "id": 130026,
-            "name": "Foulborn Hand of Thought and Motion",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9UaG91Z2h0TW90aW9uMSIsInciOjIsImgiOjIsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/8bc9acabb1/ThoughtMotion1.png",
-            "baseType": "Imperial Claw",
-            "variant": "Int Accuracy",
+            "id": 130050,
+            "name": "Foulborn Midnight Bargain",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XYW5kVW5pcXVlMyIsInciOjEsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/73bc716a11/WandUnique3.png",
+            "baseType": "Calling Wand",
+            "variant": "Golems",
             "chaosValue": 5.0,
-            "listingCount": 450
+            "listingCount": 147
         },
         {
             "id": 167518,
@@ -3004,16 +3031,7 @@
             "baseType": "Vaal Blade",
             "variant": null,
             "chaosValue": 4.9,
-            "listingCount": 1853
-        },
-        {
-            "id": 1017,
-            "name": "Razor of the Seventh Sun",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1Jhem9yT2ZUaGVTZXZlbnRoU3VuIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/ef21dd7f97/RazorOfTheSeventhSun.png",
-            "baseType": "Midnight Blade",
-            "variant": null,
-            "chaosValue": 4.8,
-            "listingCount": 447
+            "listingCount": 1850
         },
         {
             "id": 44351,
@@ -3022,7 +3040,7 @@
             "baseType": "Elder Sword",
             "variant": null,
             "chaosValue": 4.8,
-            "listingCount": 76
+            "listingCount": 74
         },
         {
             "id": 44308,
@@ -3030,26 +3048,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmYxdW5pcXVlIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/cff9022931/Staff1unique.png",
             "baseType": "Gnarled Branch",
             "variant": null,
-            "chaosValue": 4.77,
+            "chaosValue": 4.62,
             "listingCount": 130
-        },
-        {
-            "id": 130050,
-            "name": "Foulborn Midnight Bargain",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XYW5kVW5pcXVlMyIsInciOjEsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/73bc716a11/WandUnique3.png",
-            "baseType": "Calling Wand",
-            "variant": "Golems",
-            "chaosValue": 4.7,
-            "listingCount": 148
-        },
-        {
-            "id": 2204,
-            "name": "Debeon's Dirge",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9TdHJpbmdBeGUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/c3289a678a/StringAxe.png",
-            "baseType": "Despot Axe",
-            "variant": null,
-            "chaosValue": 4.4,
-            "listingCount": 18
         },
         {
             "id": 44326,
@@ -3067,7 +3067,7 @@
             "baseType": "Gemstone Sword",
             "variant": null,
             "chaosValue": 4.4,
-            "listingCount": 235
+            "listingCount": 234
         },
         {
             "id": 1978,
@@ -3079,30 +3079,21 @@
             "listingCount": 68
         },
         {
-            "id": 1390,
-            "name": "Taryn's Shiver",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVGFyeW5zc2hpdmVyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/b11b3dffb7/Tarynsshiver.png",
-            "baseType": "Maelström Staff",
-            "variant": null,
-            "chaosValue": 4.28,
-            "listingCount": 2141
-        },
-        {
             "id": 130016,
             "name": "Foulborn Tulborn",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9UdWxib3JuIiwidyI6MSwiaCI6Mywic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/5656701aa1/Tulborn.png",
             "baseType": "Opal Wand",
             "variant": "Cold Spell Level",
-            "chaosValue": 4.2,
+            "chaosValue": 4.3,
             "listingCount": 1355
         },
         {
-            "id": 162,
-            "name": "Bitterdream",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9zY2VwdGVyOHVuaXF1ZTIiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/085f7726de/scepter8unique2.png",
-            "baseType": "Shadow Sceptre",
-            "variant": null,
-            "chaosValue": 4.0,
+            "id": 130061,
+            "name": "Foulborn Uul-Netol's Embrace",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9VdWxOZXRvbHNLaXNzVXBncmFkZWQiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/01534b300e/UulNetolsKissUpgraded.png",
+            "baseType": "Vaal Axe",
+            "variant": "Fast Bleed",
+            "chaosValue": 4.2,
             "listingCount": 150
         },
         {
@@ -3112,7 +3103,7 @@
             "baseType": "Royal Skean",
             "variant": null,
             "chaosValue": 4.0,
-            "listingCount": 1290
+            "listingCount": 1289
         },
         {
             "id": 687,
@@ -3139,7 +3130,7 @@
             "baseType": "Terror Claw",
             "variant": null,
             "chaosValue": 4.0,
-            "listingCount": 340
+            "listingCount": 339
         },
         {
             "id": 2481,
@@ -3148,7 +3139,7 @@
             "baseType": "Void Sceptre",
             "variant": null,
             "chaosValue": 4.0,
-            "listingCount": 1137
+            "listingCount": 1132
         },
         {
             "id": 19049,
@@ -3169,13 +3160,22 @@
             "listingCount": 23
         },
         {
+            "id": 1390,
+            "name": "Taryn's Shiver",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVGFyeW5zc2hpdmVyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/b11b3dffb7/Tarynsshiver.png",
+            "baseType": "Maelström Staff",
+            "variant": null,
+            "chaosValue": 3.88,
+            "listingCount": 2141
+        },
+        {
             "id": 103412,
             "name": "Hand of Thought and Motion",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9UaG91Z2h0TW90aW9uMSIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/cc443b5108/ThoughtMotion1.png",
             "baseType": "Imperial Claw",
             "variant": null,
             "chaosValue": 3.8,
-            "listingCount": 81
+            "listingCount": 80
         },
         {
             "id": 130040,
@@ -3205,6 +3205,15 @@
             "listingCount": 37
         },
         {
+            "id": 2204,
+            "name": "Debeon's Dirge",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9TdHJpbmdBeGUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/c3289a678a/StringAxe.png",
+            "baseType": "Despot Axe",
+            "variant": null,
+            "chaosValue": 3.6,
+            "listingCount": 18
+        },
+        {
             "id": 44262,
             "name": "Replica Advancing Fortress",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9DbGF3c2hpZWxkMyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/a04190ca2b/Clawshield3.png",
@@ -3229,7 +3238,25 @@
             "baseType": "Imperial Staff",
             "variant": null,
             "chaosValue": 3.0,
-            "listingCount": 940
+            "listingCount": 941
+        },
+        {
+            "id": 38,
+            "name": "Agnerod West",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY2dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/8b60f5a033/Staff6unique.png",
+            "baseType": "Imperial Staff",
+            "variant": null,
+            "chaosValue": 3.0,
+            "listingCount": 1332
+        },
+        {
+            "id": 189,
+            "name": "Brain Rattler",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvQnJhaW5TY3JhbWJsZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/0749c07fa6/BrainScrambler.png",
+            "baseType": "Meatgrinder",
+            "variant": null,
+            "chaosValue": 3.0,
+            "listingCount": 135
         },
         {
             "id": 394,
@@ -3238,16 +3265,7 @@
             "baseType": "Death Bow",
             "variant": null,
             "chaosValue": 3.0,
-            "listingCount": 108
-        },
-        {
-            "id": 440,
-            "name": "Doon Cuebiyari",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRG9vbkN1ZWJpeWFyaSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/8a4a0ccb6b/DoonCuebiyari.png",
-            "baseType": "Vaal Sceptre",
-            "variant": null,
-            "chaosValue": 3.0,
-            "listingCount": 296
+            "listingCount": 107
         },
         {
             "id": 743,
@@ -3256,7 +3274,7 @@
             "baseType": "Driftwood Wand",
             "variant": null,
             "chaosValue": 3.0,
-            "listingCount": 1490
+            "listingCount": 1488
         },
         {
             "id": 1323,
@@ -3301,7 +3319,7 @@
             "baseType": "Short Bow",
             "variant": null,
             "chaosValue": 3.0,
-            "listingCount": 209
+            "listingCount": 208
         },
         {
             "id": 44389,
@@ -3328,7 +3346,7 @@
             "baseType": "Goat's Horn",
             "variant": "Minion Fire",
             "chaosValue": 3.0,
-            "listingCount": 263
+            "listingCount": 264
         },
         {
             "id": 130055,
@@ -3349,6 +3367,42 @@
             "listingCount": 97
         },
         {
+            "id": 35,
+            "name": "Agnerod South",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY2dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/8b60f5a033/Staff6unique.png",
+            "baseType": "Imperial Staff",
+            "variant": null,
+            "chaosValue": 2.83,
+            "listingCount": 840
+        },
+        {
+            "id": 1470,
+            "name": "The Dancing Dervish",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1JoeXNibGFkZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/3ed974e708/Rhysblade.png",
+            "baseType": "Reaver Sword",
+            "variant": null,
+            "chaosValue": 2.8,
+            "listingCount": 27
+        },
+        {
+            "id": 44227,
+            "name": "Replica Last Resort",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9OZXJhc0xhc3RSZXNvcnQiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/5f5a6bd205/NerasLastResort.png",
+            "baseType": "Nailed Fist",
+            "variant": null,
+            "chaosValue": 2.6,
+            "listingCount": 32
+        },
+        {
+            "id": 440,
+            "name": "Doon Cuebiyari",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvRG9vbkN1ZWJpeWFyaSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/8a4a0ccb6b/DoonCuebiyari.png",
+            "baseType": "Vaal Sceptre",
+            "variant": null,
+            "chaosValue": 2.5,
+            "listingCount": 299
+        },
+        {
             "id": 130077,
             "name": "Foulborn Midnight Bargain",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XYW5kVW5pcXVlMyIsInciOjEsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/73bc716a11/WandUnique3.png",
@@ -3358,40 +3412,13 @@
             "listingCount": 186
         },
         {
-            "id": 44203,
-            "name": "Replica Bloodplay",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0Jsb29kUGxheSIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/3c8258f393/BloodPlay.png",
-            "baseType": "Stiletto",
-            "variant": null,
-            "chaosValue": 2.28,
-            "listingCount": 60
-        },
-        {
             "id": 32,
             "name": "Agnerod North",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY2dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/8b60f5a033/Staff6unique.png",
             "baseType": "Imperial Staff",
             "variant": null,
-            "chaosValue": 2.0,
-            "listingCount": 913
-        },
-        {
-            "id": 35,
-            "name": "Agnerod South",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY2dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/8b60f5a033/Staff6unique.png",
-            "baseType": "Imperial Staff",
-            "variant": null,
-            "chaosValue": 2.0,
-            "listingCount": 849
-        },
-        {
-            "id": 38,
-            "name": "Agnerod West",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY2dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/8b60f5a033/Staff6unique.png",
-            "baseType": "Imperial Staff",
-            "variant": null,
-            "chaosValue": 2.0,
-            "listingCount": 1336
+            "chaosValue": 2.2,
+            "listingCount": 908
         },
         {
             "id": 135,
@@ -3400,16 +3427,7 @@
             "baseType": "Bronze Sceptre",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 636
-        },
-        {
-            "id": 189,
-            "name": "Brain Rattler",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvQnJhaW5TY3JhbWJsZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/0749c07fa6/BrainScrambler.png",
-            "baseType": "Meatgrinder",
-            "variant": null,
-            "chaosValue": 2.0,
-            "listingCount": 137
+            "listingCount": 637
         },
         {
             "id": 431,
@@ -3418,7 +3436,7 @@
             "baseType": "Royal Bow",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 120
+            "listingCount": 119
         },
         {
             "id": 437,
@@ -3430,13 +3448,13 @@
             "listingCount": 198
         },
         {
-            "id": 614,
-            "name": "Hegemony's Era",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSGVnZW1vbnlzRXJhIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/85929506ae/HegemonysEra.png",
-            "baseType": "Judgement Staff",
+            "id": 558,
+            "name": "Geofri's Baptism",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2U3VW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/378419527e/TwoHandMace7Unique.png",
+            "baseType": "Brass Maul",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 354
+            "listingCount": 26
         },
         {
             "id": 824,
@@ -3445,7 +3463,7 @@
             "baseType": "Void Sceptre",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 230
+            "listingCount": 229
         },
         {
             "id": 1001,
@@ -3454,7 +3472,7 @@
             "baseType": "Short Bow",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 1026
+            "listingCount": 1022
         },
         {
             "id": 1596,
@@ -3464,6 +3482,24 @@
             "variant": null,
             "chaosValue": 2.0,
             "listingCount": 316
+        },
+        {
+            "id": 1722,
+            "name": "Trypanon",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHJ5cGFub24iLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/3152ab4124/Trypanon.png",
+            "baseType": "Great Mallet",
+            "variant": null,
+            "chaosValue": 2.0,
+            "listingCount": 151
+        },
+        {
+            "id": 7377,
+            "name": "Soulwrest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVG9wRG93blN0YXZlSWNvbiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/f62cfea775/TopDownStaveIcon.png",
+            "baseType": "Ezomyte Staff",
+            "variant": null,
+            "chaosValue": 2.0,
+            "listingCount": 3869
         },
         {
             "id": 7418,
@@ -3481,16 +3517,16 @@
             "baseType": "Ezomyte Dagger",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 547
+            "listingCount": 548
         },
         {
-            "id": 44227,
-            "name": "Replica Last Resort",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9OZXJhc0xhc3RSZXNvcnQiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/5f5a6bd205/NerasLastResort.png",
-            "baseType": "Nailed Fist",
+            "id": 42635,
+            "name": "Law of the Wilds",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Xb2xmQ2xhdyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/8dd39cb98e/WolfClaw.png",
+            "baseType": "Hellion's Paw",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 34
+            "listingCount": 250
         },
         {
             "id": 128168,
@@ -3499,7 +3535,7 @@
             "baseType": "Goat's Horn",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 466
+            "listingCount": 465
         },
         {
             "id": 128308,
@@ -3508,7 +3544,7 @@
             "baseType": "Omen Wand",
             "variant": null,
             "chaosValue": 2.0,
-            "listingCount": 1263
+            "listingCount": 1268
         },
         {
             "id": 130020,
@@ -3535,16 +3571,25 @@
             "baseType": "Cutlass",
             "variant": "Minion Unholy",
             "chaosValue": 2.0,
-            "listingCount": 389
+            "listingCount": 387
         },
         {
-            "id": 1470,
-            "name": "The Dancing Dervish",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1JoeXNibGFkZSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/3ed974e708/Rhysblade.png",
-            "baseType": "Reaver Sword",
+            "id": 44203,
+            "name": "Replica Bloodplay",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0Jsb29kUGxheSIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/3c8258f393/BloodPlay.png",
+            "baseType": "Stiletto",
+            "variant": null,
+            "chaosValue": 1.96,
+            "listingCount": 60
+        },
+        {
+            "id": 446,
+            "name": "Dreamfeather",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0RyZWFtZmVhdGhlciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/89a3a7588c/Dreamfeather.png",
+            "baseType": "Eternal Sword",
             "variant": null,
             "chaosValue": 1.9,
-            "listingCount": 26
+            "listingCount": 616
         },
         {
             "id": 1597,
@@ -3554,24 +3599,6 @@
             "variant": null,
             "chaosValue": 1.9,
             "listingCount": 353
-        },
-        {
-            "id": 446,
-            "name": "Dreamfeather",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0RyZWFtZmVhdGhlciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/89a3a7588c/Dreamfeather.png",
-            "baseType": "Eternal Sword",
-            "variant": null,
-            "chaosValue": 1.8,
-            "listingCount": 615
-        },
-        {
-            "id": 1722,
-            "name": "Trypanon",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHJ5cGFub24iLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/3152ab4124/Trypanon.png",
-            "baseType": "Great Mallet",
-            "variant": null,
-            "chaosValue": 1.8,
-            "listingCount": 151
         },
         {
             "id": 120845,
@@ -3592,6 +3619,15 @@
             "listingCount": 74
         },
         {
+            "id": 1061,
+            "name": "Rigwald's Savagery",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9SaWd3YXJsQXhlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/e2ee95737e/RigwarlAxe.png",
+            "baseType": "Royal Axe",
+            "variant": null,
+            "chaosValue": 1.7,
+            "listingCount": 240
+        },
+        {
             "id": 1992,
             "name": "Hand of Wisdom and Action",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9UaG91Z2h0TW90aW9uMiIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/69f2b430d0/ThoughtMotion2.png",
@@ -3608,15 +3644,6 @@
             "variant": "Spell Damage",
             "chaosValue": 1.5,
             "listingCount": 86
-        },
-        {
-            "id": 7377,
-            "name": "Soulwrest",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVG9wRG93blN0YXZlSWNvbiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/f62cfea775/TopDownStaveIcon.png",
-            "baseType": "Ezomyte Staff",
-            "variant": null,
-            "chaosValue": 1.4,
-            "listingCount": 3872
         },
         {
             "id": 130052,
@@ -3646,6 +3673,15 @@
             "listingCount": 86
         },
         {
+            "id": 621,
+            "name": "Hezmana's Bloodlust",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9IZXptYW5hc0Jsb29kbHVzdCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fdbd48147f/HezmanasBloodlust.png",
+            "baseType": "Vaal Axe",
+            "variant": null,
+            "chaosValue": 1.1,
+            "listingCount": 164
+        },
+        {
             "id": 12,
             "name": "Abberath's Horn",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XeWNodmVyZ2UiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/ea4dd8a801/Wychverge.png",
@@ -3661,7 +3697,7 @@
             "baseType": "Gut Ripper",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 693
+            "listingCount": 692
         },
         {
             "id": 45,
@@ -3670,7 +3706,7 @@
             "baseType": "Vaal Claw",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 2893
+            "listingCount": 2891
         },
         {
             "id": 196,
@@ -3679,7 +3715,7 @@
             "baseType": "Carnal Sceptre",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1437
+            "listingCount": 1438
         },
         {
             "id": 197,
@@ -3706,16 +3742,7 @@
             "baseType": "Gavel",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1233
-        },
-        {
-            "id": 272,
-            "name": "Chober Chaber",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvQ2hvYmVyQ2hhYmVyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/77d9d3e30a/ChoberChaber.png",
-            "baseType": "Great Mallet",
-            "variant": null,
-            "chaosValue": 1.0,
-            "listingCount": 1564
+            "listingCount": 1232
         },
         {
             "id": 276,
@@ -3724,7 +3751,7 @@
             "baseType": "Rock Breaker",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1136
+            "listingCount": 1137
         },
         {
             "id": 343,
@@ -3733,7 +3760,7 @@
             "baseType": "Thresher Claw",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1991
+            "listingCount": 1987
         },
         {
             "id": 348,
@@ -3751,7 +3778,7 @@
             "baseType": "Karui Sceptre",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1294
+            "listingCount": 1293
         },
         {
             "id": 444,
@@ -3760,7 +3787,7 @@
             "baseType": "Cleaver",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1314
+            "listingCount": 1313
         },
         {
             "id": 461,
@@ -3778,7 +3805,7 @@
             "baseType": "Etched Greatsword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1155
+            "listingCount": 1153
         },
         {
             "id": 527,
@@ -3787,7 +3814,7 @@
             "baseType": "Jagged Foil",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1221
+            "listingCount": 1218
         },
         {
             "id": 553,
@@ -3796,16 +3823,7 @@
             "baseType": "Ornate Mace",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 905
-        },
-        {
-            "id": 577,
-            "name": "Gorebreaker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvT25lSGFuZE1hY2UzVW5pcXVlIiwidyI6MSwiaCI6Mywic2NhbGUiOjF9XQ/c3ca02cad8/OneHandMace3Unique.png",
-            "baseType": "Spiked Club",
-            "variant": null,
-            "chaosValue": 1.0,
-            "listingCount": 1328
+            "listingCount": 904
         },
         {
             "id": 578,
@@ -3814,16 +3832,16 @@
             "baseType": "Skinning Knife",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1242
+            "listingCount": 1226
         },
         {
-            "id": 621,
-            "name": "Hezmana's Bloodlust",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9IZXptYW5hc0Jsb29kbHVzdCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/fdbd48147f/HezmanasBloodlust.png",
-            "baseType": "Vaal Axe",
+            "id": 614,
+            "name": "Hegemony's Era",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvSGVnZW1vbnlzRXJhIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/85929506ae/HegemonysEra.png",
+            "baseType": "Judgement Staff",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 163
+            "listingCount": 359
         },
         {
             "id": 650,
@@ -3832,7 +3850,7 @@
             "baseType": "Legion Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1891
+            "listingCount": 1890
         },
         {
             "id": 659,
@@ -3841,7 +3859,7 @@
             "baseType": "Corsair Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 643
+            "listingCount": 642
         },
         {
             "id": 675,
@@ -3850,7 +3868,7 @@
             "baseType": "Elder Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1107
+            "listingCount": 1105
         },
         {
             "id": 734,
@@ -3859,7 +3877,7 @@
             "baseType": "Elegant Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1254
+            "listingCount": 1252
         },
         {
             "id": 737,
@@ -3868,7 +3886,7 @@
             "baseType": "Nailed Fist",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 225
+            "listingCount": 222
         },
         {
             "id": 752,
@@ -3886,7 +3904,7 @@
             "baseType": "Platinum Kris",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 2096
+            "listingCount": 2095
         },
         {
             "id": 814,
@@ -3895,7 +3913,7 @@
             "baseType": "Flaying Knife",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1129
+            "listingCount": 1128
         },
         {
             "id": 825,
@@ -3913,7 +3931,7 @@
             "baseType": "Fright Claw",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 611
+            "listingCount": 603
         },
         {
             "id": 870,
@@ -3931,7 +3949,7 @@
             "baseType": "Infernal Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 2560
+            "listingCount": 2557
         },
         {
             "id": 975,
@@ -3940,7 +3958,7 @@
             "baseType": "Twilight Blade",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1550
+            "listingCount": 1553
         },
         {
             "id": 995,
@@ -3949,7 +3967,7 @@
             "baseType": "Ornate Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1270
+            "listingCount": 1268
         },
         {
             "id": 1018,
@@ -3958,7 +3976,7 @@
             "baseType": "Spine Bow",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 334
+            "listingCount": 333
         },
         {
             "id": 1027,
@@ -3967,7 +3985,7 @@
             "baseType": "Shadow Axe",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1098
+            "listingCount": 1099
         },
         {
             "id": 1034,
@@ -3976,7 +3994,7 @@
             "baseType": "Rusted Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 326
+            "listingCount": 322
         },
         {
             "id": 1045,
@@ -4003,16 +4021,7 @@
             "baseType": "Midnight Blade",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 355
-        },
-        {
-            "id": 1061,
-            "name": "Rigwald's Savagery",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9SaWd3YXJsQXhlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/e2ee95737e/RigwarlAxe.png",
-            "baseType": "Royal Axe",
-            "variant": null,
-            "chaosValue": 1.0,
-            "listingCount": 240
+            "listingCount": 356
         },
         {
             "id": 1065,
@@ -4021,16 +4030,7 @@
             "baseType": "Terror Claw",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1161
-        },
-        {
-            "id": 1082,
-            "name": "Scaeva",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1NjYWV2YSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/320c7247e3/Scaeva.png",
-            "baseType": "Gladius",
-            "variant": null,
-            "chaosValue": 1.0,
-            "listingCount": 1223
+            "listingCount": 1164
         },
         {
             "id": 1273,
@@ -4039,7 +4039,7 @@
             "baseType": "Bastard Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 857
+            "listingCount": 860
         },
         {
             "id": 1309,
@@ -4057,7 +4057,7 @@
             "baseType": "Platinum Sceptre",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1359
+            "listingCount": 1357
         },
         {
             "id": 1321,
@@ -4066,7 +4066,7 @@
             "baseType": "Harbinger Bow",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 504
+            "listingCount": 505
         },
         {
             "id": 1368,
@@ -4075,7 +4075,7 @@
             "baseType": "Long Bow",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1356
+            "listingCount": 1355
         },
         {
             "id": 1401,
@@ -4084,7 +4084,7 @@
             "baseType": "Tiger Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1220
+            "listingCount": 1221
         },
         {
             "id": 1461,
@@ -4093,7 +4093,7 @@
             "baseType": "Fiend Dagger",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 3184
+            "listingCount": 3182
         },
         {
             "id": 1469,
@@ -4102,7 +4102,7 @@
             "baseType": "Reaver Sword",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1002
+            "listingCount": 1003
         },
         {
             "id": 1512,
@@ -4111,7 +4111,7 @@
             "baseType": "Whalebone Rapier",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 872
+            "listingCount": 867
         },
         {
             "id": 1575,
@@ -4129,7 +4129,7 @@
             "baseType": "Royal Staff",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1157
+            "listingCount": 1155
         },
         {
             "id": 1623,
@@ -4138,7 +4138,7 @@
             "baseType": "Crystal Sceptre",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1179
+            "listingCount": 1169
         },
         {
             "id": 1632,
@@ -4165,7 +4165,16 @@
             "baseType": "Poleaxe",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 991
+            "listingCount": 989
+        },
+        {
+            "id": 1880,
+            "name": "Wildslash",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9XaWxkc2xhc2giLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/9dc7260a86/Wildslash.png",
+            "baseType": "Awl",
+            "variant": null,
+            "chaosValue": 1.0,
+            "listingCount": 866
         },
         {
             "id": 1957,
@@ -4183,7 +4192,7 @@
             "baseType": "Ambusher",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1703
+            "listingCount": 1707
         },
         {
             "id": 2197,
@@ -4192,7 +4201,7 @@
             "baseType": "Throat Stabber",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1709
+            "listingCount": 1707
         },
         {
             "id": 2255,
@@ -4201,7 +4210,7 @@
             "baseType": "Imperial Skean",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 5983
+            "listingCount": 5985
         },
         {
             "id": 2256,
@@ -4222,22 +4231,13 @@
             "listingCount": 1634
         },
         {
-            "id": 2316,
-            "name": "Ahn's Might",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0FobnNNaWdodCIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/ee9d3b45a4/AhnsMight.png",
-            "baseType": "Midnight Blade",
-            "variant": null,
-            "chaosValue": 1.0,
-            "listingCount": 464
-        },
-        {
             "id": 6919,
             "name": "Sinvicta's Mettle",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9TaW52aWN0YXNNZXR0bGUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/f1eaf2346b/SinvictasMettle.png",
             "baseType": "Ezomyte Axe",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1344
+            "listingCount": 1341
         },
         {
             "id": 21588,
@@ -4246,7 +4246,7 @@
             "baseType": "Tyrant's Sekhem",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1335
+            "listingCount": 1337
         },
         {
             "id": 24449,
@@ -4256,15 +4256,6 @@
             "variant": null,
             "chaosValue": 1.0,
             "listingCount": 557
-        },
-        {
-            "id": 42635,
-            "name": "Law of the Wilds",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Xb2xmQ2xhdyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/8dd39cb98e/WolfClaw.png",
-            "baseType": "Hellion's Paw",
-            "variant": null,
-            "chaosValue": 1.0,
-            "listingCount": 252
         },
         {
             "id": 42640,
@@ -4282,7 +4273,7 @@
             "baseType": "Ambusher",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 2168
+            "listingCount": 2167
         },
         {
             "id": 92937,
@@ -4291,7 +4282,7 @@
             "baseType": "Citadel Bow",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1109
+            "listingCount": 1110
         },
         {
             "id": 103407,
@@ -4300,7 +4291,7 @@
             "baseType": "Spiraled Wand",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1011
+            "listingCount": 1009
         },
         {
             "id": 103547,
@@ -4327,7 +4318,7 @@
             "baseType": "Calling Wand",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 980
+            "listingCount": 977
         },
         {
             "id": 128229,
@@ -4336,7 +4327,7 @@
             "baseType": "Blasting Wand",
             "variant": null,
             "chaosValue": 1.0,
-            "listingCount": 1508
+            "listingCount": 1509
         },
         {
             "id": 128257,
@@ -4417,7 +4408,7 @@
             "baseType": "Platinum Sceptre",
             "variant": "Cold Multi",
             "chaosValue": 1.0,
-            "listingCount": 253
+            "listingCount": 255
         },
         {
             "id": 130060,
@@ -4427,15 +4418,6 @@
             "variant": "Chaos Ignite",
             "chaosValue": 1.0,
             "listingCount": 289
-        },
-        {
-            "id": 130063,
-            "name": "Foulborn Kongor's Undying Rage",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/4eedbb427e/KongorsUndyingRage.png",
-            "baseType": "Terror Maul",
-            "variant": "Battlemage",
-            "chaosValue": 1.0,
-            "listingCount": 80
         },
         {
             "id": 130320,
@@ -4456,58 +4438,40 @@
             "listingCount": 146
         },
         {
-            "id": 727,
-            "name": "Kongor's Undying Rage",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/5fa26110bc/KongorsUndyingRage.png",
-            "baseType": "Terror Maul",
+            "id": 272,
+            "name": "Chober Chaber",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvQ2hvYmVyQ2hhYmVyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/77d9d3e30a/ChoberChaber.png",
+            "baseType": "Great Mallet",
             "variant": null,
             "chaosValue": 0.99,
-            "listingCount": 995
+            "listingCount": 1565
         },
         {
-            "id": 1880,
-            "name": "Wildslash",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9XaWxkc2xhc2giLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/9dc7260a86/Wildslash.png",
-            "baseType": "Awl",
+            "id": 577,
+            "name": "Gorebreaker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvT25lSGFuZE1hY2UzVW5pcXVlIiwidyI6MSwiaCI6Mywic2NhbGUiOjF9XQ/c3ca02cad8/OneHandMace3Unique.png",
+            "baseType": "Spiked Club",
             "variant": null,
-            "chaosValue": 0.99,
-            "listingCount": 872
+            "chaosValue": 0.97,
+            "listingCount": 1325
         },
         {
-            "id": 521,
-            "name": "Femurs of the Saints",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvRmVtdXJzb2Z0aGVTYWludHMiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e275f87366/FemursoftheSaints.png",
-            "baseType": "Primordial Staff",
+            "id": 1082,
+            "name": "Scaeva",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL1NjYWV2YSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/320c7247e3/Scaeva.png",
+            "baseType": "Gladius",
             "variant": null,
-            "chaosValue": 0.98,
-            "listingCount": 1360
+            "chaosValue": 0.97,
+            "listingCount": 1223
         },
         {
-            "id": 1705,
-            "name": "Touch of Anguish",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Ub3VjaE9mQW5ndWlzaCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/c3b67bc0c2/TouchOfAnguish.png",
-            "baseType": "Imperial Claw",
+            "id": 2316,
+            "name": "Ahn's Might",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0FobnNNaWdodCIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/ee9d3b45a4/AhnsMight.png",
+            "baseType": "Midnight Blade",
             "variant": null,
-            "chaosValue": 0.96,
-            "listingCount": 337
-        },
-        {
-            "id": 679,
-            "name": "Iron Commander",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0lyb25Db21tZW5kYW50IiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/001ca245e3/IronCommendant.png",
-            "baseType": "Death Bow",
-            "variant": null,
-            "chaosValue": 0.94,
-            "listingCount": 1289
-        },
-        {
-            "id": 178,
-            "name": "Bloodplay",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0Jsb29kUGxheSIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/3c8258f393/BloodPlay.png",
-            "baseType": "Stiletto",
-            "variant": null,
-            "chaosValue": 0.92,
-            "listingCount": 1349
+            "chaosValue": 0.93,
+            "listingCount": 463
         },
         {
             "id": 629,
@@ -4515,197 +4479,35 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0hpbHRsZXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/04689b7d41/Hiltless.png",
             "baseType": "Reaver Sword",
             "variant": null,
-            "chaosValue": 0.91,
+            "chaosValue": 0.88,
             "listingCount": 809
         },
         {
-            "id": 723,
-            "name": "Kondo's Pride",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0tvbmRvc1ByaWRlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/59f41a868c/KondosPride.png",
-            "baseType": "Ezomyte Blade",
+            "id": 727,
+            "name": "Kongor's Undying Rage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/5fa26110bc/KongorsUndyingRage.png",
+            "baseType": "Terror Maul",
             "variant": null,
-            "chaosValue": 0.89,
-            "listingCount": 1011
+            "chaosValue": 0.86,
+            "listingCount": 993
         },
         {
-            "id": 6884,
-            "name": "Earendel's Embrace",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9FYXJlbmRlbHNFbWJyYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/7fbecdb2b3/EarendelsEmbrace.png",
-            "baseType": "Grinning Fetish",
+            "id": 521,
+            "name": "Femurs of the Saints",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvRmVtdXJzb2Z0aGVTYWludHMiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e275f87366/FemursoftheSaints.png",
+            "baseType": "Primordial Staff",
             "variant": null,
-            "chaosValue": 0.89,
-            "listingCount": 1556
+            "chaosValue": 0.85,
+            "listingCount": 1359
         },
         {
-            "id": 42308,
-            "name": "Wings of Entropy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9FbnRyb3B5d2luZ3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/86e128789a/Entropywings.png",
-            "baseType": "Ezomyte Axe",
+            "id": 1705,
+            "name": "Touch of Anguish",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Ub3VjaE9mQW5ndWlzaCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/c3b67bc0c2/TouchOfAnguish.png",
+            "baseType": "Imperial Claw",
             "variant": null,
-            "chaosValue": 0.89,
-            "listingCount": 1469
-        },
-        {
-            "id": 1055,
-            "name": "Rigwald's Charge",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1R3b0hhbmRTd29yZDVVbmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/ce7492e94d/TwoHandSword5Unique.png",
-            "baseType": "Highland Blade",
-            "variant": null,
-            "chaosValue": 0.78,
-            "listingCount": 1251
-        },
-        {
-            "id": 1746,
-            "name": "Ungil's Gauche",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0RhZ2dlcjN1bmlxdWUiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/ec0e6a82fb/Dagger3unique.png",
-            "baseType": "Boot Knife",
-            "variant": null,
-            "chaosValue": 0.76,
-            "listingCount": 1331
-        },
-        {
-            "id": 2198,
-            "name": "Debeon's Dirge",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9TdHJpbmdBeGUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/c3289a678a/StringAxe.png",
-            "baseType": "Despot Axe",
-            "variant": null,
-            "chaosValue": 0.69,
-            "listingCount": 1061
-        },
-        {
-            "id": 873,
-            "name": "Nuro's Harp",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051cm9zUHVyaWZ5aW5nSGFycCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/36ac89806c/NurosPurifyingHarp.png",
-            "baseType": "Harbinger Bow",
-            "variant": null,
-            "chaosValue": 0.61,
-            "listingCount": 1289
-        },
-        {
-            "id": 898,
-            "name": "Ornament of the East",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Pcm5hbWVudE9mVGhlRWFzdCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/5bea7643a2/OrnamentOfTheEast.png",
-            "baseType": "Gut Ripper",
-            "variant": null,
-            "chaosValue": 0.61,
-            "listingCount": 1187
-        },
-        {
-            "id": 630,
-            "name": "Hiltless",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0hpbHRsZXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/04689b7d41/Hiltless.png",
-            "baseType": "Reaver Sword",
-            "variant": null,
-            "chaosValue": 0.58,
-            "listingCount": 23
-        },
-        {
-            "id": 1519,
-            "name": "The Harvest",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9UaGVFeHRyYWN0b3IiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8452349a24/TheExtractor.png",
-            "baseType": "Jasper Chopper",
-            "variant": null,
-            "chaosValue": 0.55,
-            "listingCount": 861
-        },
-        {
-            "id": 640,
-            "name": "Hrimnor's Hymn",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2U2VW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/31ad6258ac/TwoHandMace6Unique.png",
-            "baseType": "Sledgehammer",
-            "variant": null,
-            "chaosValue": 0.54,
-            "listingCount": 925
-        },
-        {
-            "id": 690,
-            "name": "Jorrhast's Blacksteel",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSm9ycmhhc3RzQmxhY2tzdGVlbCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/a1ee3a6a3c/JorrhastsBlacksteel.png",
-            "baseType": "Steelhead",
-            "variant": null,
-            "chaosValue": 0.54,
-            "listingCount": 959
-        },
-        {
-            "id": 1879,
-            "name": "Widowmaker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1dpZG93bWFrZXIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/c581a2aec4/Widowmaker.png",
-            "baseType": "Boot Blade",
-            "variant": null,
-            "chaosValue": 0.52,
-            "listingCount": 1048
-        },
-        {
-            "id": 1434,
-            "name": "The Blood Reaper",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9Ud29IYW5kQXhlVW5pcXVlMiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/3f8b59ec70/TwoHandAxeUnique2.png",
-            "baseType": "Headsman Axe",
-            "variant": null,
-            "chaosValue": 0.48,
-            "listingCount": 1008
-        },
-        {
-            "id": 1713,
-            "name": "Tremor Rod",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvTWluZVN0YWZmIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/51a69e0959/MineStaff.png",
-            "baseType": "Military Staff",
-            "variant": null,
-            "chaosValue": 0.47,
-            "listingCount": 281
-        },
-        {
-            "id": 41,
-            "name": "Al Dhih",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9BbGRoaWgiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/5af625fdd1/Aldhih.png",
-            "baseType": "Timeworn Claw",
-            "variant": null,
-            "chaosValue": 0.46,
-            "listingCount": 1035
-        },
-        {
-            "id": 267,
-            "name": "Chin Sol",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzV1bmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/199f28ea8d/Bow5unique.png",
-            "baseType": "Assassin Bow",
-            "variant": null,
-            "chaosValue": 0.43,
-            "listingCount": 2330
-        },
-        {
-            "id": 672,
-            "name": "Infractem",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0luZnJhY3RlbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ea06e13fb8/Infractem.png",
-            "baseType": "Decimation Bow",
-            "variant": null,
-            "chaosValue": 0.39,
-            "listingCount": 1283
-        },
-        {
-            "id": 740,
-            "name": "Lavianga's Wisdom",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvT25lSGFuZE1hY2UzYSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/3c0044c7be/OneHandMace3a.png",
-            "baseType": "War Hammer",
-            "variant": null,
-            "chaosValue": 0.39,
-            "listingCount": 1289
-        },
-        {
-            "id": 524,
-            "name": "Fencoil",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmYxdW5pcXVlIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/cff9022931/Staff1unique.png",
-            "baseType": "Gnarled Branch",
-            "variant": null,
-            "chaosValue": 0.37,
-            "listingCount": 1401
-        },
-        {
-            "id": 557,
-            "name": "Geofri's Baptism",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2U3VW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/378419527e/TwoHandMace7Unique.png",
-            "baseType": "Brass Maul",
-            "variant": null,
-            "chaosValue": 0.36,
-            "listingCount": 942
+            "chaosValue": 0.85,
+            "listingCount": 339
         },
         {
             "id": 1314,
@@ -4713,8 +4515,206 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUmFkaWVuY2UiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/229388b736/Radience.png",
             "baseType": "Serpentine Staff",
             "variant": null,
+            "chaosValue": 0.82,
+            "listingCount": 1995
+        },
+        {
+            "id": 557,
+            "name": "Geofri's Baptism",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2U3VW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/378419527e/TwoHandMace7Unique.png",
+            "baseType": "Brass Maul",
+            "variant": null,
+            "chaosValue": 0.7,
+            "listingCount": 938
+        },
+        {
+            "id": 679,
+            "name": "Iron Commander",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0lyb25Db21tZW5kYW50IiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/001ca245e3/IronCommendant.png",
+            "baseType": "Death Bow",
+            "variant": null,
+            "chaosValue": 0.59,
+            "listingCount": 1287
+        },
+        {
+            "id": 690,
+            "name": "Jorrhast's Blacksteel",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSm9ycmhhc3RzQmxhY2tzdGVlbCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/a1ee3a6a3c/JorrhastsBlacksteel.png",
+            "baseType": "Steelhead",
+            "variant": null,
+            "chaosValue": 0.58,
+            "listingCount": 959
+        },
+        {
+            "id": 178,
+            "name": "Bloodplay",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0Jsb29kUGxheSIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/3c8258f393/BloodPlay.png",
+            "baseType": "Stiletto",
+            "variant": null,
+            "chaosValue": 0.53,
+            "listingCount": 1349
+        },
+        {
+            "id": 630,
+            "name": "Hiltless",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0hpbHRsZXNzIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/04689b7d41/Hiltless.png",
+            "baseType": "Reaver Sword",
+            "variant": null,
+            "chaosValue": 0.51,
+            "listingCount": 23
+        },
+        {
+            "id": 2198,
+            "name": "Debeon's Dirge",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9TdHJpbmdBeGUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/c3289a678a/StringAxe.png",
+            "baseType": "Despot Axe",
+            "variant": null,
+            "chaosValue": 0.5,
+            "listingCount": 1060
+        },
+        {
+            "id": 1519,
+            "name": "The Harvest",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9UaGVFeHRyYWN0b3IiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/8452349a24/TheExtractor.png",
+            "baseType": "Jasper Chopper",
+            "variant": null,
+            "chaosValue": 0.43,
+            "listingCount": 860
+        },
+        {
+            "id": 41,
+            "name": "Al Dhih",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9BbGRoaWgiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/5af625fdd1/Aldhih.png",
+            "baseType": "Timeworn Claw",
+            "variant": null,
+            "chaosValue": 0.42,
+            "listingCount": 1035
+        },
+        {
+            "id": 723,
+            "name": "Kondo's Pride",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL0tvbmRvc1ByaWRlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/59f41a868c/KondosPride.png",
+            "baseType": "Ezomyte Blade",
+            "variant": null,
+            "chaosValue": 0.39,
+            "listingCount": 1011
+        },
+        {
+            "id": 873,
+            "name": "Nuro's Harp",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051cm9zUHVyaWZ5aW5nSGFycCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/36ac89806c/NurosPurifyingHarp.png",
+            "baseType": "Harbinger Bow",
+            "variant": null,
+            "chaosValue": 0.39,
+            "listingCount": 1287
+        },
+        {
+            "id": 898,
+            "name": "Ornament of the East",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Pcm5hbWVudE9mVGhlRWFzdCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/5bea7643a2/OrnamentOfTheEast.png",
+            "baseType": "Gut Ripper",
+            "variant": null,
+            "chaosValue": 0.39,
+            "listingCount": 1187
+        },
+        {
+            "id": 6884,
+            "name": "Earendel's Embrace",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9FYXJlbmRlbHNFbWJyYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/7fbecdb2b3/EarendelsEmbrace.png",
+            "baseType": "Grinning Fetish",
+            "variant": null,
+            "chaosValue": 0.39,
+            "listingCount": 1554
+        },
+        {
+            "id": 42308,
+            "name": "Wings of Entropy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9FbnRyb3B5d2luZ3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/86e128789a/Entropywings.png",
+            "baseType": "Ezomyte Axe",
+            "variant": null,
+            "chaosValue": 0.38,
+            "listingCount": 1469
+        },
+        {
+            "id": 267,
+            "name": "Chin Sol",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzV1bmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/199f28ea8d/Bow5unique.png",
+            "baseType": "Assassin Bow",
+            "variant": null,
+            "chaosValue": 0.37,
+            "listingCount": 2331
+        },
+        {
+            "id": 1055,
+            "name": "Rigwald's Charge",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kU3dvcmRzL1R3b0hhbmRTd29yZDVVbmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/ce7492e94d/TwoHandSword5Unique.png",
+            "baseType": "Highland Blade",
+            "variant": null,
             "chaosValue": 0.36,
-            "listingCount": 1999
+            "listingCount": 1249
+        },
+        {
+            "id": 640,
+            "name": "Hrimnor's Hymn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2U2VW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/31ad6258ac/TwoHandMace6Unique.png",
+            "baseType": "Sledgehammer",
+            "variant": null,
+            "chaosValue": 0.35,
+            "listingCount": 925
+        },
+        {
+            "id": 1434,
+            "name": "The Blood Reaper",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9Ud29IYW5kQXhlVW5pcXVlMiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/3f8b59ec70/TwoHandAxeUnique2.png",
+            "baseType": "Headsman Axe",
+            "variant": null,
+            "chaosValue": 0.35,
+            "listingCount": 1010
+        },
+        {
+            "id": 1713,
+            "name": "Tremor Rod",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvTWluZVN0YWZmIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/51a69e0959/MineStaff.png",
+            "baseType": "Military Staff",
+            "variant": null,
+            "chaosValue": 0.33,
+            "listingCount": 280
+        },
+        {
+            "id": 524,
+            "name": "Fencoil",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmYxdW5pcXVlIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/cff9022931/Staff1unique.png",
+            "baseType": "Gnarled Branch",
+            "variant": null,
+            "chaosValue": 0.31,
+            "listingCount": 1401
+        },
+        {
+            "id": 740,
+            "name": "Lavianga's Wisdom",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvT25lSGFuZE1hY2UzYSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/3c0044c7be/OneHandMace3a.png",
+            "baseType": "War Hammer",
+            "variant": null,
+            "chaosValue": 0.31,
+            "listingCount": 1287
+        },
+        {
+            "id": 1746,
+            "name": "Ungil's Gauche",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL0RhZ2dlcjN1bmlxdWUiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/ec0e6a82fb/Dagger3unique.png",
+            "baseType": "Boot Knife",
+            "variant": null,
+            "chaosValue": 0.31,
+            "listingCount": 1332
+        },
+        {
+            "id": 1879,
+            "name": "Widowmaker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1dpZG93bWFrZXIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/c581a2aec4/Widowmaker.png",
+            "baseType": "Boot Blade",
+            "variant": null,
+            "chaosValue": 0.31,
+            "listingCount": 1050
         },
         {
             "id": 990,
@@ -4722,8 +4722,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2U1VW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/9361b8eb61/TwoHandMace5Unique.png",
             "baseType": "Jagged Maul",
             "variant": null,
-            "chaosValue": 0.33,
-            "listingCount": 987
+            "chaosValue": 0.3,
+            "listingCount": 984
+        },
+        {
+            "id": 672,
+            "name": "Infractem",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0luZnJhY3RlbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ea06e13fb8/Infractem.png",
+            "baseType": "Decimation Bow",
+            "variant": null,
+            "chaosValue": 0.28,
+            "listingCount": 1282
         },
         {
             "id": 1799,
@@ -4731,17 +4740,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVm9pZGhvbWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/0122c9dcf4/Voidhome.png",
             "baseType": "Dread Maul",
             "variant": null,
-            "chaosValue": 0.29,
+            "chaosValue": 0.25,
             "listingCount": 789
-        },
-        {
-            "id": 133,
-            "name": "Aurumvorax",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9SYXBpZXJzL0F1cnVtdm9yYXgiLCJ3IjoxLCJoIjo0LCJzY2FsZSI6MX1d/64b63c7413/Aurumvorax.png",
-            "baseType": "Basket Rapier",
-            "variant": null,
-            "chaosValue": 0.23,
-            "listingCount": 1068
         },
         {
             "id": 1024,
@@ -4749,8 +4749,17 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU3RhZmY1dW5pcXVlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/33929e1979/Staff5unique.png",
             "baseType": "Iron Staff",
             "variant": null,
-            "chaosValue": 0.23,
-            "listingCount": 1240
+            "chaosValue": 0.21,
+            "listingCount": 1239
+        },
+        {
+            "id": 133,
+            "name": "Aurumvorax",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9SYXBpZXJzL0F1cnVtdm9yYXgiLCJ3IjoxLCJoIjo0LCJzY2FsZSI6MX1d/64b63c7413/Aurumvorax.png",
+            "baseType": "Basket Rapier",
+            "variant": null,
+            "chaosValue": 0.2,
+            "listingCount": 1062
         },
         {
             "id": 1437,
@@ -4758,8 +4767,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvVGhlQmxvb2RUaG9ybiIsInciOjEsImgiOjQsInNjYWxlIjoxfV0/3dac5ee34b/TheBloodThorn.png",
             "baseType": "Gnarled Branch",
             "variant": null,
-            "chaosValue": 0.23,
-            "listingCount": 1118
+            "chaosValue": 0.2,
+            "listingCount": 1117
         },
         {
             "id": 535,
@@ -4767,8 +4776,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kTWFjZXMvT25lSGFuZE1hY2U2VW5pcXVlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/2db8b10771/OneHandMace6Unique.png",
             "baseType": "Dream Mace",
             "variant": null,
-            "chaosValue": 0.18,
-            "listingCount": 1082
+            "chaosValue": 0.15,
+            "listingCount": 1079
         },
         {
             "id": 1070,
@@ -4776,8 +4785,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL1NhcmtoYW1zUmVhY2giLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/89bf0cff0b/SarkhamsReach.png",
             "baseType": "Recurve Bow",
             "variant": null,
-            "chaosValue": 0.18,
-            "listingCount": 1438
+            "chaosValue": 0.13,
+            "listingCount": 1439
         },
         {
             "id": 1955,
@@ -4785,8 +4794,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9SYXBpZXJzL0V3YXJzTWlyYWdlIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/c7b916c7f4/EwarsMirage.png",
             "baseType": "Antique Rapier",
             "variant": null,
-            "chaosValue": 0.12,
-            "listingCount": 1282
+            "chaosValue": 0.1,
+            "listingCount": 1271
         },
         {
             "id": 21514,
@@ -4794,8 +4803,8 @@
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUGlsbGFyb2Z0aGVDYWdlZEdvZCIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/0451281624/PillaroftheCagedGod.png",
             "baseType": "Iron Staff",
             "variant": null,
-            "chaosValue": 0.05,
-            "listingCount": 1063
+            "chaosValue": 0.06,
+            "listingCount": 1060
         }
     ]
 }
