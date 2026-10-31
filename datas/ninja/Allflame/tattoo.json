@@ -1,158 +1,291 @@
 {
     "lines": [
         {
+            "id": "journey-tattoo-of-the-soul",
+            "name": "Journey Tattoo of the Soul",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png",
+            "chaosValue": 200,
+            "volume": 33.33
+        },
+        {
             "id": "tattoo-of-the-arohongui-warmonger",
             "name": "Tattoo of the Arohongui Warmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
             "chaosValue": 3,
-            "volume": 4.0
+            "volume": 10.5
         },
         {
             "id": "tattoo-of-the-arohongui-warrior",
             "name": "Tattoo of the Arohongui Warrior",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 9.81,
-            "volume": 34.33
+            "chaosValue": 6,
+            "volume": 27.0
         },
         {
             "id": "tattoo-of-the-hinekora-deathwarden",
             "name": "Tattoo of the Hinekora Deathwarden",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 1.31,
-            "volume": 11.17
+            "chaosValue": 1.37,
+            "volume": 19.0
         },
         {
             "id": "tattoo-of-the-hinekora-storyteller",
             "name": "Tattoo of the Hinekora Storyteller",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 7.48,
-            "volume": 41.17
+            "chaosValue": 8.32,
+            "volume": 130.3
         },
         {
             "id": "tattoo-of-the-hinekora-warmonger",
             "name": "Tattoo of the Hinekora Warmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 19,
-            "volume": 19
+            "chaosValue": 17.41,
+            "volume": 92.83
         },
         {
-            "id": "tattoo-of-the-kitava-heart-eater",
-            "name": "Tattoo of the Kitava Heart Eater",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 59.33,
-            "volume": 118.7
+            "id": "tattoo-of-the-kitava-rebel",
+            "name": "Tattoo of the Kitava Rebel",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
+            "chaosValue": 3.2,
+            "volume": 5.33
         },
         {
             "id": "tattoo-of-the-kitava-warrior",
             "name": "Tattoo of the Kitava Warrior",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 17.43,
-            "volume": 133.7
+            "chaosValue": 18.91,
+            "volume": 201.7
         },
         {
             "id": "tattoo-of-the-ngamahu-shaman",
             "name": "Tattoo of the Ngamahu Shaman",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
             "chaosValue": 1,
-            "volume": 0.8333
+            "volume": 1.17
         },
         {
             "id": "tattoo-of-the-ngamahu-warmonger",
             "name": "Tattoo of the Ngamahu Warmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 45,
-            "volume": 22.5
+            "chaosValue": 66.81,
+            "volume": 233.8
         },
         {
             "id": "tattoo-of-the-ngamahu-warrior",
             "name": "Tattoo of the Ngamahu Warrior",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 5.56,
-            "volume": 8.33
+            "chaosValue": 6.82,
+            "volume": 50.0
         },
         {
             "id": "tattoo-of-the-ramako-archer",
             "name": "Tattoo of the Ramako Archer",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 17.11,
-            "volume": 105.5
+            "chaosValue": 12,
+            "volume": 100.0
         },
         {
             "id": "tattoo-of-the-ramako-fleetfoot",
             "name": "Tattoo of the Ramako Fleetfoot",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 54.86,
-            "volume": 64.0
+            "chaosValue": 68.25,
+            "volume": 227.5
         },
         {
             "id": "tattoo-of-the-ramako-scout",
             "name": "Tattoo of the Ramako Scout",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 2.9,
-            "volume": 10.17
+            "chaosValue": 3.25,
+            "volume": 15.17
         },
         {
             "id": "tattoo-of-the-ramako-sniper",
             "name": "Tattoo of the Ramako Sniper",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 7,
-            "volume": 42
+            "chaosValue": 8.81,
+            "volume": 85.17
+        },
+        {
+            "id": "tattoo-of-the-rongokurai-goliath",
+            "name": "Tattoo of the Rongokurai Goliath",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
+            "chaosValue": 2.45,
+            "volume": 4.5
         },
         {
             "id": "tattoo-of-the-rongokurai-turtle",
             "name": "Tattoo of the Rongokurai Turtle",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 32.83,
-            "volume": 131.3
+            "chaosValue": 28.69,
+            "volume": 263.0
         },
         {
             "id": "tattoo-of-the-rongokurai-warrior",
             "name": "Tattoo of the Rongokurai Warrior",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 2,
-            "volume": 1.33
-        },
-        {
-            "id": "tattoo-of-the-tasalio-scout",
-            "name": "Tattoo of the Tasalio Scout",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 356.0,
-            "volume": 474.7
+            "chaosValue": 1.82,
+            "volume": 17.0
         },
         {
             "id": "tattoo-of-the-tasalio-tideshifter",
             "name": "Tattoo of the Tasalio Tideshifter",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 13.31,
-            "volume": 35.5
+            "chaosValue": 14.2,
+            "volume": 59.17
+        },
+        {
+            "id": "tattoo-of-the-tasalio-warrior",
+            "name": "Tattoo of the Tasalio Warrior",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
+            "chaosValue": 7,
+            "volume": 3.5
         },
         {
             "id": "tattoo-of-the-tawhoa-herbalist",
             "name": "Tattoo of the Tawhoa Herbalist",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 10.75,
-            "volume": 7.17
-        },
-        {
-            "id": "tattoo-of-the-tawhoa-scout",
-            "name": "Tattoo of the Tawhoa Scout",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
             "chaosValue": 1,
-            "volume": 0.8333
+            "volume": 0.6667
         },
         {
             "id": "tattoo-of-the-tawhoa-shaman",
             "name": "Tattoo of the Tawhoa Shaman",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 10,
-            "volume": 30
+            "chaosValue": 15.3,
+            "volume": 109.7
         },
         {
             "id": "tattoo-of-the-tukohama-shaman",
             "name": "Tattoo of the Tukohama Shaman",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 12.87,
-            "volume": 49.33
+            "chaosValue": 6,
+            "volume": 81.0
+        },
+        {
+            "id": "tattoo-of-the-valako-scout",
+            "name": "Tattoo of the Valako Scout",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 7.95,
+            "volume": 51.67
+        },
+        {
+            "id": "tattoo-of-the-valako-shaman",
+            "name": "Tattoo of the Valako Shaman",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 14.28,
+            "volume": 42.83
+        },
+        {
+            "id": "tattoo-of-the-valako-shieldbearer",
+            "name": "Tattoo of the Valako Shieldbearer",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
+            "chaosValue": 718.8,
+            "volume": 6949
+        },
+        {
+            "id": "tattoo-of-the-valako-stormrider",
+            "name": "Tattoo of the Valako Stormrider",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 9.6,
+            "volume": 182.3
+        },
+        {
+            "id": "tattoo-of-the-valako-warrior",
+            "name": "Tattoo of the Valako Warrior",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 9.71,
+            "volume": 137.5
+        },
+        {
+            "id": "tattoo-of-the-arohongui-moonwarden",
+            "name": "Tattoo of the Arohongui Moonwarden",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
+            "chaosValue": 11.31,
+            "volume": 101.8
+        },
+        {
+            "id": "tattoo-of-the-arohongui-scout",
+            "name": "Tattoo of the Arohongui Scout",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
+            "chaosValue": 6,
+            "volume": 22.0
+        },
+        {
+            "id": "tattoo-of-the-arohongui-shaman",
+            "name": "Tattoo of the Arohongui Shaman",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 584.3,
+            "volume": 3506
+        },
+        {
+            "id": "tattoo-of-the-hinekora-shaman",
+            "name": "Tattoo of the Hinekora Shaman",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 1.01,
+            "volume": 12.67
+        },
+        {
+            "id": "tattoo-of-the-hinekora-warrior",
+            "name": "Tattoo of the Hinekora Warrior",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 33.23,
+            "volume": 769.8
+        },
+        {
+            "id": "tattoo-of-the-kitava-blood-drinker",
+            "name": "Tattoo of the Kitava Blood Drinker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
+            "chaosValue": 1.38,
+            "volume": 7.33
+        },
+        {
+            "id": "tattoo-of-the-kitava-shaman",
+            "name": "Tattoo of the Kitava Shaman",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
+            "chaosValue": 50,
+            "volume": 25.0
+        },
+        {
+            "id": "tattoo-of-the-ngamahu-firewalker",
+            "name": "Tattoo of the Ngamahu Firewalker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
+            "chaosValue": 25.94,
+            "volume": 544.8
+        },
+        {
+            "id": "tattoo-of-the-ramako-shaman",
+            "name": "Tattoo of the Ramako Shaman",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
+            "chaosValue": 266.7,
+            "volume": 666.8
+        },
+        {
+            "id": "tattoo-of-the-tasalio-shaman",
+            "name": "Tattoo of the Tasalio Shaman",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 1,
+            "volume": 1.33
+        },
+        {
+            "id": "tattoo-of-the-tawhoa-naturalist",
+            "name": "Tattoo of the Tawhoa Naturalist",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
+            "chaosValue": 0.5,
+            "volume": 3.0
+        },
+        {
+            "id": "tattoo-of-the-tawhoa-warrior",
+            "name": "Tattoo of the Tawhoa Warrior",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
+            "chaosValue": 1.57,
+            "volume": 9.67
+        },
+        {
+            "id": "tattoo-of-the-tukohama-warcaller",
+            "name": "Tattoo of the Tukohama Warcaller",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
+            "chaosValue": 2,
+            "volume": 0.6667
         },
         {
             "id": "tattoo-of-the-tukohama-warrior",
@@ -162,158 +295,11 @@
             "volume": 2.67
         },
         {
-            "id": "tattoo-of-the-valako-scout",
-            "name": "Tattoo of the Valako Scout",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 7.6,
-            "volume": 110.2
-        },
-        {
-            "id": "tattoo-of-the-valako-shaman",
-            "name": "Tattoo of the Valako Shaman",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 14.12,
-            "volume": 18.83
-        },
-        {
-            "id": "tattoo-of-the-valako-shieldbearer",
-            "name": "Tattoo of the Valako Shieldbearer",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 646.1,
-            "volume": 2907
-        },
-        {
-            "id": "tattoo-of-the-valako-stormrider",
-            "name": "Tattoo of the Valako Stormrider",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 9.66,
-            "volume": 149.7
-        },
-        {
-            "id": "tattoo-of-the-valako-warrior",
-            "name": "Tattoo of the Valako Warrior",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 9.92,
-            "volume": 165.3
-        },
-        {
-            "id": "journey-tattoo-of-the-body",
-            "name": "Journey Tattoo of the Body",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL1VuaXF1ZTNUYXR0dG9vRXF1aXBtZW50Iiwic2NhbGUiOjF9XQ/f83d9c508a/Unique3TatttooEquipment.png",
-            "chaosValue": 356.0,
-            "volume": 59.33
-        },
-        {
-            "id": "tattoo-of-the-arohongui-moonwarden",
-            "name": "Tattoo of the Arohongui Moonwarden",
+            "id": "tattoo-of-the-tasalio-scout",
+            "name": "Tattoo of the Tasalio Scout",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 10.33,
-            "volume": 46.5
-        },
-        {
-            "id": "tattoo-of-the-arohongui-scout",
-            "name": "Tattoo of the Arohongui Scout",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 8.79,
-            "volume": 76.17
-        },
-        {
-            "id": "tattoo-of-the-arohongui-shaman",
-            "name": "Tattoo of the Arohongui Shaman",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 329.4,
-            "volume": 1537
-        },
-        {
-            "id": "tattoo-of-the-hinekora-shaman",
-            "name": "Tattoo of the Hinekora Shaman",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 1.02,
-            "volume": 14.33
-        },
-        {
-            "id": "tattoo-of-the-hinekora-warrior",
-            "name": "Tattoo of the Hinekora Warrior",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 35.96,
-            "volume": 1133
-        },
-        {
-            "id": "tattoo-of-the-kitava-blood-drinker",
-            "name": "Tattoo of the Kitava Blood Drinker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 4,
-            "volume": 0.6667
-        },
-        {
-            "id": "tattoo-of-the-kitava-shaman",
-            "name": "Tattoo of the Kitava Shaman",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 25,
-            "volume": 29.17
-        },
-        {
-            "id": "tattoo-of-the-ngamahu-firewalker",
-            "name": "Tattoo of the Ngamahu Firewalker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 32.89,
-            "volume": 383.7
-        },
-        {
-            "id": "tattoo-of-the-ramako-shaman",
-            "name": "Tattoo of the Ramako Shaman",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 221.7,
-            "volume": 258.7
-        },
-        {
-            "id": "tattoo-of-the-tasalio-shaman",
-            "name": "Tattoo of the Tasalio Shaman",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 0.1,
-            "volume": 0.1667
-        },
-        {
-            "id": "tattoo-of-the-tawhoa-naturalist",
-            "name": "Tattoo of the Tawhoa Naturalist",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkRleFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/de9fca75ad/CommonDexTatttooEquipment.png",
-            "chaosValue": 0.5,
-            "volume": 0.8333
-        },
-        {
-            "id": "tattoo-of-the-tawhoa-warrior",
-            "name": "Tattoo of the Tawhoa Warrior",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vbkludFRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/ccfb032651/CommonIntTatttooEquipment.png",
-            "chaosValue": 1.67,
-            "volume": 1.67
-        },
-        {
-            "id": "tattoo-of-the-tukohama-brawler",
-            "name": "Tattoo of the Tukohama Brawler",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 1,
-            "volume": 0.3333
-        },
-        {
-            "id": "tattoo-of-the-tukohama-warcaller",
-            "name": "Tattoo of the Tukohama Warcaller",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 118.7,
-            "volume": 118.7
-        },
-        {
-            "id": "tattoo-of-the-tukohama-warmonger",
-            "name": "Tattoo of the Tukohama Warmonger",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 8.33,
-            "volume": 8.33
-        },
-        {
-            "id": "tattoo-of-the-kitava-rebel",
-            "name": "Tattoo of the Kitava Rebel",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jZXN0b3JzL0NvbW1vblN0clRhdHR0b29FcXVpcG1lbnQiLCJzY2FsZSI6MX1d/5cf69ce758/CommonStrTatttooEquipment.png",
-            "chaosValue": 2.73,
-            "volume": 5.0
+            "chaosValue": 375.6,
+            "volume": 500.8
         }
     ]
 }
