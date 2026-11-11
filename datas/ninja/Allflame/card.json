@@ -22,32 +22,25 @@
             "volume": 2.0
         },
         {
-            "id": "buried-treasure",
-            "name": "Buried Treasure",
-            "icon": null,
-            "chaosValue": 1,
-            "volume": 0.1667
-        },
-        {
             "id": "avian-pursuit",
             "name": "Avian Pursuit",
             "icon": null,
-            "chaosValue": 60.5,
-            "volume": 20.17
+            "chaosValue": 70,
+            "volume": 11.67
         },
         {
             "id": "azyrans-reward",
             "name": "Azyran's Reward",
             "icon": null,
-            "chaosValue": 29.51,
-            "volume": 300.0
+            "chaosValue": 29.73,
+            "volume": 332.0
         },
         {
             "id": "darker-half",
             "name": "Darker Half",
             "icon": null,
-            "chaosValue": 23,
-            "volume": 11.5
+            "chaosValue": 22.8,
+            "volume": 19.0
         },
         {
             "id": "dementophobia",
@@ -67,8 +60,8 @@
             "id": "doryanis-epiphany",
             "name": "Doryani's Epiphany",
             "icon": null,
-            "chaosValue": 75.78,
-            "volume": 113.7
+            "chaosValue": 79.14,
+            "volume": 92.33
         },
         {
             "id": "eldritch-perfection",
@@ -85,18 +78,11 @@
             "volume": 233.3
         },
         {
-            "id": "lethean-temptation",
-            "name": "Lethean Temptation",
-            "icon": null,
-            "chaosValue": 1,
-            "volume": 0.1667
-        },
-        {
             "id": "lingering-remnants",
             "name": "Lingering Remnants",
             "icon": null,
             "chaosValue": 1,
-            "volume": 1.33
+            "volume": 0.1667
         },
         {
             "id": "luminous-trove",
@@ -110,7 +96,7 @@
             "name": "More is Never Enough",
             "icon": null,
             "chaosValue": 1,
-            "volume": 0.6667
+            "volume": 0.1667
         },
         {
             "id": "one-last-score",
@@ -120,46 +106,46 @@
             "volume": 166.7
         },
         {
-            "id": "the-chosen",
-            "name": "The Chosen",
-            "icon": null,
-            "chaosValue": 301.3,
-            "volume": 150.7
-        },
-        {
             "id": "the-doctor",
             "name": "The Doctor",
             "icon": null,
-            "chaosValue": 740.2,
-            "volume": 1850
+            "chaosValue": 733.8,
+            "volume": 2568
+        },
+        {
+            "id": "the-drunken-aristocrat",
+            "name": "The Drunken Aristocrat",
+            "icon": null,
+            "chaosValue": 0.25,
+            "volume": 0.3333
         },
         {
             "id": "the-eye-of-terror",
             "name": "The Eye of Terror",
             "icon": null,
-            "chaosValue": 9337,
-            "volume": 6224
+            "chaosValue": 9113,
+            "volume": 4556
         },
         {
             "id": "the-fiend",
             "name": "The Fiend",
             "icon": null,
-            "chaosValue": 946.3,
-            "volume": 1262
+            "chaosValue": 932.0,
+            "volume": 1243
         },
         {
             "id": "the-forbidden-fruit",
             "name": "The Forbidden Fruit",
             "icon": null,
-            "chaosValue": 90,
-            "volume": 60.0
+            "chaosValue": 120,
+            "volume": 40.0
         },
         {
             "id": "the-fortunate",
             "name": "The Fortunate",
             "icon": null,
-            "chaosValue": 58.56,
-            "volume": 702.7
+            "chaosValue": 58.21,
+            "volume": 640.3
         },
         {
             "id": "the-gambler",
@@ -173,7 +159,7 @@
             "name": "The Journalist",
             "icon": null,
             "chaosValue": 0.5,
-            "volume": 6.17
+            "volume": 6.33
         },
         {
             "id": "the-kings-blade",
@@ -214,22 +200,15 @@
             "id": "the-price-of-loyalty",
             "name": "The Price of Loyalty",
             "icon": null,
-            "chaosValue": 143,
-            "volume": 119.2
-        },
-        {
-            "id": "the-price-of-prescience",
-            "name": "The Price of Prescience",
-            "icon": null,
-            "chaosValue": 1,
-            "volume": 0.1667
+            "chaosValue": 43,
+            "volume": 7.17
         },
         {
             "id": "the-primordial",
             "name": "The Primordial",
             "icon": null,
-            "chaosValue": 11.25,
-            "volume": 7.5
+            "chaosValue": 4,
+            "volume": 0.6667
         },
         {
             "id": "the-realm",
@@ -239,18 +218,18 @@
             "volume": 4.17
         },
         {
+            "id": "the-risk",
+            "name": "The Risk",
+            "icon": null,
+            "chaosValue": 2,
+            "volume": 320
+        },
+        {
             "id": "the-scholar",
             "name": "The Scholar",
             "icon": null,
             "chaosValue": 0.3333,
             "volume": 2.83
-        },
-        {
-            "id": "the-shepherds-sandals",
-            "name": "The Shepherd's Sandals",
-            "icon": null,
-            "chaosValue": 10,
-            "volume": 3.33
         },
         {
             "id": "the-side-quest",
@@ -274,18 +253,11 @@
             "volume": 1
         },
         {
-            "id": "the-wolf",
-            "name": "The Wolf",
+            "id": "the-void",
+            "name": "The Void",
             "icon": null,
-            "chaosValue": 1,
-            "volume": 0.3333
-        },
-        {
-            "id": "vinias-token",
-            "name": "Vinia's Token",
-            "icon": null,
-            "chaosValue": 8.75,
-            "volume": 268.3
+            "chaosValue": 5,
+            "volume": 3.33
         },
         {
             "id": "wealth-and-power",
@@ -305,92 +277,71 @@
             "id": "divine-beauty",
             "name": "Divine Beauty",
             "icon": null,
-            "chaosValue": 204.4,
-            "volume": 306.7
+            "chaosValue": 248.5,
+            "volume": 248.5
         },
         {
             "id": "brothers-gift",
             "name": "Brother's Gift",
             "icon": null,
-            "chaosValue": 3028,
-            "volume": 1009
+            "chaosValue": 2982,
+            "volume": 994.1
         },
         {
             "id": "damnation",
             "name": "Damnation",
             "icon": null,
-            "chaosValue": 32734,
-            "volume": 158216
+            "chaosValue": 31384,
+            "volume": 151689
         },
         {
             "id": "gemcutters-mercy",
             "name": "Gemcutter's Mercy",
             "icon": null,
-            "chaosValue": 504.7,
-            "volume": 336.5
+            "chaosValue": 497.1,
+            "volume": 331.4
         },
         {
             "id": "house-of-mirrors",
             "name": "House of Mirrors",
             "icon": null,
-            "chaosValue": 109363,
-            "volume": 1512854
+            "chaosValue": 111017,
+            "volume": 647599
         },
         {
             "id": "love-through-ice",
             "name": "Love Through Ice",
             "icon": null,
-            "chaosValue": 757.0,
-            "volume": 504.7
+            "chaosValue": 497.1,
+            "volume": 165.7
         },
         {
             "id": "lucky-bastion",
             "name": "Lucky Bastion",
             "icon": null,
-            "chaosValue": 2523,
-            "volume": 420.6
-        },
-        {
-            "id": "divine-shard",
-            "name": "Divine Shard",
-            "icon": null,
-            "chaosValue": 175,
-            "volume": 58.33
+            "chaosValue": 2485,
+            "volume": 414.2
         },
         {
             "id": "the-fletcher",
             "name": "The Fletcher",
             "icon": null,
-            "chaosValue": 504.7,
-            "volume": 252.3
-        },
-        {
-            "id": "the-insane-cat",
-            "name": "The Insane Cat",
-            "icon": null,
-            "chaosValue": 3533,
-            "volume": 588.8
+            "chaosValue": 497.1,
+            "volume": 248.5
         },
         {
             "id": "the-progeny-of-lunaris",
             "name": "The Progeny of Lunaris",
             "icon": null,
-            "chaosValue": 4542,
-            "volume": 757.0
+            "chaosValue": 4722,
+            "volume": 1574
         },
         {
             "id": "the-soul",
             "name": "The Soul",
             "icon": null,
-            "chaosValue": 504.7,
-            "volume": 252.3
-        },
-        {
-            "id": "time-lost-relic",
-            "name": "Time-Lost Relic",
-            "icon": null,
-            "chaosValue": 45.88,
-            "volume": 1850
+            "chaosValue": 497.1,
+            "volume": 165.7
         },
         {
             "id": "doedres-madness",
@@ -407,13 +358,6 @@
             "volume": 0.1667
         },
         {
-            "id": "energy-sword",
-            "name": "Energy Sword",
-            "icon": null,
-            "chaosValue": 148,
-            "volume": 74.0
-        },
-        {
             "id": "forbidden-power",
             "name": "Forbidden Power",
             "icon": null,
@@ -428,25 +372,39 @@
             "volume": 52.5
         },
         {
+            "id": "history",
+            "name": "History",
+            "icon": null,
+            "chaosValue": 95934,
+            "volume": 47967
+        },
+        {
             "id": "matryoshka",
             "name": "Matryoshka",
             "icon": null,
-            "chaosValue": 171.4,
-            "volume": 5972
+            "chaosValue": 72,
+            "volume": 288
         },
         {
             "id": "monochrome",
             "name": "Monochrome",
             "icon": null,
-            "chaosValue": 91.5,
-            "volume": 244.0
+            "chaosValue": 75.11,
+            "volume": 112.7
         },
         {
             "id": "rebirth-and-renewal",
             "name": "Rebirth and Renewal",
             "icon": null,
-            "chaosValue": 2,
-            "volume": 0.3333
+            "chaosValue": 123.3,
+            "volume": 61.67
+        },
+        {
+            "id": "reflection-of-the-heart",
+            "name": "Reflection of the Heart",
+            "icon": null,
+            "chaosValue": 2237,
+            "volume": 745.6
         },
         {
             "id": "sambodhis-vow",
@@ -459,29 +417,22 @@
             "id": "seven-years-bad-luck",
             "name": "Seven Years Bad Luck",
             "icon": null,
-            "chaosValue": 3617,
-            "volume": 39785
+            "chaosValue": 3555,
+            "volume": 39103
+        },
+        {
+            "id": "succor-of-the-sinless",
+            "name": "Succor of the Sinless",
+            "icon": null,
+            "chaosValue": 994.1,
+            "volume": 165.7
         },
         {
             "id": "the-apothecary",
             "name": "The Apothecary",
             "icon": null,
-            "chaosValue": 28888,
-            "volume": 139627
-        },
-        {
-            "id": "the-blessing-of-moosh",
-            "name": "The Blessing of Moosh",
-            "icon": null,
-            "chaosValue": 504.7,
-            "volume": 252.3
-        },
-        {
-            "id": "the-damned",
-            "name": "The Damned",
-            "icon": null,
-            "chaosValue": 40,
-            "volume": 33.33
+            "chaosValue": 22845,
+            "volume": 91378
         },
         {
             "id": "the-dragons-heart",
@@ -491,18 +442,11 @@
             "volume": 459.8
         },
         {
-            "id": "the-dreamer",
-            "name": "The Dreamer",
-            "icon": null,
-            "chaosValue": 70,
-            "volume": 11.67
-        },
-        {
             "id": "the-escape",
             "name": "The Escape",
             "icon": null,
             "chaosValue": 1,
-            "volume": 0.8333
+            "volume": 1
         },
         {
             "id": "the-finishing-touch",
@@ -510,6 +454,13 @@
             "icon": null,
             "chaosValue": 10,
             "volume": 6.67
+        },
+        {
+            "id": "the-fishmonger",
+            "name": "The Fishmonger",
+            "icon": null,
+            "chaosValue": 11,
+            "volume": 1.83
         },
         {
             "id": "the-gulf",
@@ -536,8 +487,8 @@
             "id": "the-immortal",
             "name": "The Immortal",
             "icon": null,
-            "chaosValue": 17580,
-            "volume": 52739
+            "chaosValue": 16486,
+            "volume": 32972
         },
         {
             "id": "the-lake",
@@ -547,11 +498,88 @@
             "volume": 33.67
         },
         {
+            "id": "the-nurse",
+            "name": "The Nurse",
+            "icon": null,
+            "chaosValue": 12,
+            "volume": 8.0
+        },
+        {
+            "id": "the-patient",
+            "name": "The Patient",
+            "icon": null,
+            "chaosValue": 58.17,
+            "volume": 58.17
+        },
+        {
+            "id": "the-price-of-devotion",
+            "name": "The Price of Devotion",
+            "icon": null,
+            "chaosValue": 27339,
+            "volume": 9113
+        },
+        {
+            "id": "the-sephirot",
+            "name": "The Sephirot",
+            "icon": null,
+            "chaosValue": 308,
+            "volume": 564.7
+        },
+        {
+            "id": "the-shieldbearer",
+            "name": "The Shieldbearer",
+            "icon": null,
+            "chaosValue": 60,
+            "volume": 20.0
+        },
+        {
+            "id": "unrequited-love",
+            "name": "Unrequited Love",
+            "icon": null,
+            "chaosValue": 50900,
+            "volume": 42417
+        },
+        {
+            "id": "the-chosen",
+            "name": "The Chosen",
+            "icon": null,
+            "chaosValue": 301.3,
+            "volume": 150.7
+        },
+        {
+            "id": "vinias-token",
+            "name": "Vinia's Token",
+            "icon": null,
+            "chaosValue": 8.75,
+            "volume": 29.17
+        },
+        {
+            "id": "divine-shard",
+            "name": "Divine Shard",
+            "icon": null,
+            "chaosValue": 175,
+            "volume": 58.33
+        },
+        {
+            "id": "time-lost-relic",
+            "name": "Time-Lost Relic",
+            "icon": null,
+            "chaosValue": 45.19,
+            "volume": 1823
+        },
+        {
+            "id": "energy-sword",
+            "name": "Energy Sword",
+            "icon": null,
+            "chaosValue": 148,
+            "volume": 74.0
+        },
+        {
             "id": "the-last-one-standing",
             "name": "The Last One Standing",
             "icon": null,
-            "chaosValue": 48.33,
-            "volume": 24.17
+            "chaosValue": 55,
+            "volume": 18.33
         },
         {
             "id": "the-lord-in-black",
@@ -568,172 +596,11 @@
             "volume": 16.67
         },
         {
-            "id": "the-nurse",
-            "name": "The Nurse",
-            "icon": null,
-            "chaosValue": 12,
-            "volume": 6.0
-        },
-        {
-            "id": "the-patient",
-            "name": "The Patient",
-            "icon": null,
-            "chaosValue": 58.17,
-            "volume": 58.17
-        },
-        {
             "id": "the-polymath",
             "name": "The Polymath",
             "icon": null,
             "chaosValue": 4,
             "volume": 4
-        },
-        {
-            "id": "the-price-of-devotion",
-            "name": "The Price of Devotion",
-            "icon": null,
-            "chaosValue": 27757,
-            "volume": 9252
-        },
-        {
-            "id": "the-sephirot",
-            "name": "The Sephirot",
-            "icon": null,
-            "chaosValue": 468.6,
-            "volume": 1093
-        },
-        {
-            "id": "the-shieldbearer",
-            "name": "The Shieldbearer",
-            "icon": null,
-            "chaosValue": 60,
-            "volume": 20.0
-        },
-        {
-            "id": "unrequited-love",
-            "name": "Unrequited Love",
-            "icon": null,
-            "chaosValue": 58711,
-            "volume": 29355
-        },
-        {
-            "id": "arrogance-of-the-vaal",
-            "name": "Arrogance of the Vaal",
-            "icon": null,
-            "chaosValue": 2,
-            "volume": 1.33
-        },
-        {
-            "id": "a-fate-worse-than-death",
-            "name": "A Fate Worse Than Death",
-            "icon": null,
-            "chaosValue": 95,
-            "volume": 31.67
-        },
-        {
-            "id": "altered-perception",
-            "name": "Altered Perception",
-            "icon": null,
-            "chaosValue": 11,
-            "volume": 3.67
-        },
-        {
-            "id": "the-formless-sea",
-            "name": "The Formless Sea",
-            "icon": null,
-            "chaosValue": 40,
-            "volume": 26.67
-        },
-        {
-            "id": "costly-curio",
-            "name": "Costly Curio",
-            "icon": null,
-            "chaosValue": 28,
-            "volume": 9.33
-        },
-        {
-            "id": "apocalypse",
-            "name": "Apocalypse",
-            "icon": null,
-            "chaosValue": 2486,
-            "volume": 16991
-        },
-        {
-            "id": "friendship",
-            "name": "Friendship",
-            "icon": null,
-            "chaosValue": 167.5,
-            "volume": 55.83
-        },
-        {
-            "id": "history",
-            "name": "History",
-            "icon": null,
-            "chaosValue": 98664,
-            "volume": 32888
-        },
-        {
-            "id": "i-see-brothers",
-            "name": "I See Brothers",
-            "icon": null,
-            "chaosValue": 675,
-            "volume": 112.5
-        },
-        {
-            "id": "lachrymal-necrosis",
-            "name": "Lachrymal Necrosis",
-            "icon": null,
-            "chaosValue": 68,
-            "volume": 22.67
-        },
-        {
-            "id": "misery-in-darkness",
-            "name": "Misery in Darkness",
-            "icon": null,
-            "chaosValue": 121.5,
-            "volume": 40.5
-        },
-        {
-            "id": "reflection-of-the-heart",
-            "name": "Reflection of the Heart",
-            "icon": null,
-            "chaosValue": 504.7,
-            "volume": 84.11
-        },
-        {
-            "id": "the-breach",
-            "name": "The Breach",
-            "icon": null,
-            "chaosValue": 29,
-            "volume": 9.67
-        },
-        {
-            "id": "the-deep-ones",
-            "name": "The Deep Ones",
-            "icon": null,
-            "chaosValue": 6,
-            "volume": 4.0
-        },
-        {
-            "id": "the-eternal-war",
-            "name": "The Eternal War",
-            "icon": null,
-            "chaosValue": 130,
-            "volume": 108.3
-        },
-        {
-            "id": "the-shortcut",
-            "name": "The Shortcut",
-            "icon": null,
-            "chaosValue": 100.9,
-            "volume": 84.11
-        },
-        {
-            "id": "the-slumbering-beast",
-            "name": "The Slumbering Beast",
-            "icon": null,
-            "chaosValue": 55514,
-            "volume": 9252
         }
     ]
 }
